@@ -8,7 +8,7 @@ thumb: cexio.png
 lang: en
 seotitle: "CEX.IO Bitcoin Exchange Review"
 website: CEX.IO
-website_url: http://buybitcoinww.co/cex_io_bitcoin
+website_url: http://buybitcoinww.co/CEX__IO
 contribute: cexio
 location: London, UK
 cat: exchange, global
