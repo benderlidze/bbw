@@ -337,7 +337,7 @@
    countries: id, my, ng, za, sg
    po: mpesa, bt, eft, sell
    name_es: BitX
-   tags: [quickinfo, rec, lowprivacy, fastspeed, lowfees, trusted, eoueasy, highlimits]
+   tags: [quickinfo, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits]
    desc_es: Intercambio de efectivo y corredores. Manera fácil de comprar Bitcoin en cinco países soportados.
    desc_fr: Bourse d'échange de bitcoins et courtier. Un moyen facile d'acheter des bitcoins dans 5 pays supportés.
    desc_zh: 比特币交易和代理人。在五个接受比特币的国家简单的购买比特币。
