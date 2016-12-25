@@ -22,7 +22,7 @@ contribute: trezor
 summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. TREZOR is compatible with a number of software wallets, including Mycelium, Electrum, and Multibit HD. 
 weight: 9.1
 released: Oct 2013
-price: $109
+price: $99
 pro1: Screen offers extra protection and verification
 pro2: Affordable hardware wallet with screen
 con1: $99 price tag may be out of reach for those on a budget
@@ -37,7 +37,7 @@ pic: trezor.png
 {:toc}
 
 ## Price
-Costs $99 for one, or $189 for two. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"} with credit card or bank account from [Amazon](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
+Costs $99 for one, or $276 for three. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"} with credit card or bank account from [Amazon](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
 
 ## Security
 
