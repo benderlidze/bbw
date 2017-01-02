@@ -42,7 +42,7 @@ The Ledger Nano S is the cheapest wallet of the three by far.
 <tr> 
 <td><a href="/wallets/trezor/"><img src="/img/hwpics/trezor.png" alt=""></a></td> 
 <td><a href="/wallets/trezor/">Trezor</a></td> 
-<td>$109</td>  
+<td>$99</td>  
 <td class="wallet-buy"><a target="_blank" class="btn btn-primary" rel="nofollow" href="http://buybitcoinww.co/TREZOR_Wallet" type="button"><i class="fa fa-shopping-cart "></i></a></td>
 </tr>  
 
