@@ -125,6 +125,7 @@
    url: http://buybitcoinww.co/CoinMama_Bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
    po: ccww, ccwwtop, cc
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
    tags: [rec, reccc, quickinfo, review, lowprivacy, fast, highfees, avgrep, eoueasy, highlimits]
    internal_url: /exchanges/coinmama/
    pros: <li>Works in almost all countries</li> <li>Highest limits for buying bitcoins with a credit card</li> <li>Reliable and trusted broker</li>
@@ -1605,15 +1606,6 @@
    desc_fr: BitPesa est une société de transfert de Bitcoins qui vend également des Bitcoins au Kenya.
    
 ####################################################   
-
- - name: CoinMama
-   url: http://buybitcoinww.co/CoinMama_Bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
-   po: cc
-   desc: CoinMama is a Bitcoin broker. Its main offering is the ability for customers in nearly any country to purchase bitcoins with a credit card or debit card. It has high fees, but as one of the first exchanges to sell bitcoins for credit/debit card it has created a strong reputation and trust. Once initial identity verification is completed, bitcoins are delivered in seconds.  
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
-   tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eouavg, highlimits]
-   internal_url: /exchanges/coinmama/
 
  - name: Bitstamp
    desc: BitStamp is one of the world's largest and most well known Bitcoin exchanges. Deposits can be made through bank transfer, SEPA transfer, or even credit card. 
