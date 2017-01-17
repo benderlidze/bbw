@@ -333,21 +333,20 @@
    desc_uk: Купити біткоін онлайн у інших користувачів за допомогою банківського SEPA-платежу.
    desc_sell: Sell bitcoins to your bank account in Europe via SEPA bank transfer. 
 
- - name: BitX
-   desc: BitX is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. It offers 0% fees for market makers, meaning you can buy bitcoins with no fees if you have some patience.   
-   url: http://buybitcoinww.co/bitx_co
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitx.png
+ - name: Luno
+   desc: Luno is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. It offers 0% fees for market makers, meaning you can buy bitcoins with no fees if you have some patience.   
+   url: https://www.luno.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/luno.png
    countries: id, my, ng, za, sg
    po: mpesa, bt, eft, sell
-   name_es: BitX
    tags: [quickinfo, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits]
    desc_es: Intercambio de efectivo y corredores. Manera fácil de comprar Bitcoin en cinco países soportados.
    desc_fr: Bourse d'échange de bitcoins et courtier. Un moyen facile d'acheter des bitcoins dans 5 pays supportés.
    desc_zh: 比特币交易和代理人。在五个接受比特币的国家简单的购买比特币。
    desc_ru: Биткоин-биржа и брокер. Легкий способ купить Bitcoin в пяти поддерживаемых странах.
    desc_uk: Біткоін-біржа і брокер. Легкий спосіб купити біткоін в п'яти підтримуваних країнах.
-   sg: BitX is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. BitX is currently offering Zero fee trading in Singapore for a limited time period until January 2017. 
-   id: BitX is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. BitX offers a unique fee structure for traders in Indonesia. Makers are rewarded a +0.2% bonus on a trade, while takers are charged -0.2%. Hence, traders are incentivised to bring their orders to BitX. 
+   sg: Luno is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. Luno is currently offering Zero fee trading in Singapore for a limited time period until January 2017. 
+   id: Luno is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. Luno offers a unique fee structure for traders in Indonesia. Makers are rewarded a +0.2% bonus on a trade, while takers are charged -0.2%. Hence, traders are incentivised to bring their orders to Luno. 
    
 ##### USA ####################################################    
 
