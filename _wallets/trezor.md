@@ -26,7 +26,6 @@ price: $99
 pro1: Screen offers extra protection and verification
 pro2: Affordable hardware wallet with screen
 con1: $99 price tag may be out of reach for those on a budget
-con2: Requires USB cable to use 
 screen: yes
 sidebardesc: TREZOR was released in October 2013 and was the first Bitcoin hardware wallet with a screen. TREZOR is a small, USB sized device that is actually a small computer.
 pic: trezor.png

@@ -8,6 +8,7 @@ title: "Ledger Nano S"
 desc: The Ledger Nano S is Ledger's first USB hardware wallet with a screen.
 wallet: nanos
 tags: [cold, hardware]
+cat: hardware
 thumb: nanos.png
 website: ledgerwallet.com
 website_url: http://ledgerwallet.com/
@@ -44,7 +45,11 @@ The Ledger Nano S is priced in euros at €58, which is about $65 USD.
 
 The S’s $65 USD price tag makes it the cheapest among the three hardware wallets with screens. While the S is $65, a [TREZOR](/wallets/trezor/) will set you back $109, and a [KeepKey](/wallets/keepkey/) $99.  
 
-The real question is: does the S’s lower price tag come with any security tradeoffs?
+If you're on a budget, checkout [Ledger's Nano hardware wallet](http://buybitcoinww.co/Ledger_Nano)--but it does not have a screen.
+
+The real question is: 
+
+Does the Ledger Nano S’s lower price tag come with any security tradeoffs?
 
 ## Security
 
