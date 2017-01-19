@@ -3,7 +3,7 @@ layout: wallet
 lang: en
 author: jordantuwiner
 permalink: "/wallets/ledger-nano-s/"
-seotitle: "Ledger Nano S Review: Should You Buy One?"
+seotitle: "Ledger Nano S Review: Should You Buy One? (2017)"
 title: "Ledger Nano S"
 desc: The Ledger Nano S is Ledger's first USB hardware wallet with a screen.
 wallet: nanos

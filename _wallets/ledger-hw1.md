@@ -3,7 +3,7 @@ layout: wallet
 lang: en
 author: jordantuwiner
 permalink: "/wallets/ledger-hw1/"
-seotitle: "Ledger HW.1 Review: Should You Get One?"
+seotitle: "Ledger HW.1 Review: Should You Get One? (2017)"
 title: "Ledger HW.1"
 desc: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment. 
 wallet: ledger_hw1
