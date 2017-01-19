@@ -60,15 +60,11 @@ The wallet's screen helps confirm you’re sending to the intended recipient, bu
 
 <iframe src="https://player.vimeo.com/video/140880803?title=0&byline=0&portrait=0" width="700" height="438" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Watch the video above or read our in-depth guide to learn how to initialize a KeepKey. The process is very simple and only takes a few minutes.
+Watch the video above or read our in-depth guide to learn how to initialize a KeepKey. The [process](https://www.keepkey.com/support/get-started/) is very simple and only takes a few minutes.
 
 ## Privacy
 
 As with any hardware wallet, using your device is only as private as the software wallet it's used with. [Electrum](/wallets/electrum/), KeepKey Chrome, and MultiBit HD support KeepKey. Electrum is the most private of the three.
-
-## KeepKey vs. Ledger Wallet Nano
-
-The main difference between the [Ledger Nano](/wallets/ledger-nano/) and KK is that KeepKey has a screen, while the Ledger Nano does not.
 
 ## KeepKey vs. TREZOR
 

@@ -72,7 +72,7 @@ myTREZOR.com is TREZOR's web wallet, while the Chrome extension is an app instal
 
 TREZOR itself offers very good privacy. Satoshi Labs has no way of tracking your actions after you receive the device because it has no serial number. All of the software is open source. No usernames or passwords are needed when using [TREZOR](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}.
 
-Privacy is determined by the wallet used with TREZOR: Electrum, MultiBit HD, and GreenAddress on desktop, GreenBits and Mycelium on Android, and myTREZOR.com on the web.
+Privacy is determined by the wallet used with TREZOR: Electrum, [MultiBit HD](https://multibit.org/), and GreenAddress on desktop, GreenBits and Mycelium on Android, and myTREZOR.com on the web.
 
 Data can be leaked upon setup if using TREZOR's myWallet. For a more private initialization, use the Chrome extension or the python tools to setup your device on an offline computer. 
 
@@ -90,7 +90,7 @@ KeepKey is actually a port of the TREZOR's code and firmware. The main differenc
 
 ## TREZOR vs. Paper Wallet
 
-TREZOR may be better than a paper wallet for less technical users. Paper wallets can be hard to setup and it's easy to make mistakes. TREZOR makes creating secure offline storage easy. Although paper wallets are just as secure if created correctly. 
+TREZOR may be better than a [paper wallet](http://bitzuma.com/posts/how-to-spend-a-bitcoin-paper-wallet-in-three-easy-steps/) for less technical users. Paper wallets can be hard to setup and it's easy to make mistakes. TREZOR makes creating secure offline storage easy. Although paper wallets are just as secure if created correctly. 
 
 ## Promo Code
 

@@ -96,7 +96,7 @@ I have been able to set up all three in just a couple of minutes. All three wall
 
 ![trezor vs. ledger nano s vs. keepkey ](/img/wallets/tlk.jpg){: .img-responsive .kb-helper}
 
-As seen in the image above, the TREZOR is by far the mallest of the three devices. Each wallet does have some unique differences that are hard to see in the picture. Also note that the Nano S can be folded into about the same size as the TREZOR, but to use it you must unfold it. 
+As seen in the image above, the TREZOR is by far the smallest of the three devices. Each wallet does have some unique differences that are hard to see in the picture. Also note that the Nano S can be folded into about the same size as the TREZOR, but to use it you must unfold it. 
 
 The TREZOR and Ledger Nano S both have two physical buttons, while the KeepKey has one. 
 
