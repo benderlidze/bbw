@@ -50,7 +50,7 @@ Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Co
 </div>
 
 ## Supported Countries
-At this time, only citizens of [France](/en/fr/) can buy bitcoin with a credit card at Coinhouse. Coinhouse plans to allow all European users to buy bitcoin with a credit card in early 2016. 
+All European credit cards are accepted by Coinhouse.
 
 * Table of Contents
 {:toc}
