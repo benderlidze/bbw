@@ -1191,6 +1191,12 @@ po: sepa, cash, skrill, pp, sofort, westernunion, moneygram
    
 ##### Cambodia ####################################################   
 
+ - name: BitcoinCambodia.co
+   desc: BitcoinCambodia.co makes buying Bitcoin in Cambodia fast, easy and secure.
+   url: http://bitcoincambodia.co/
+   icon: https://www.buybitcoinworldwide.com/img/buy/bcamodia.png
+   countries: kh
+
  - name: Bitcoin Cambodia
    desc: Bitcoin broker in Cambodia. Buy with Wing or cash in person. 
    url: https://bitcoincambodia.com/
