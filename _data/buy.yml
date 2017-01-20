@@ -538,6 +538,13 @@
    desc_fr: Bourse d'échange de bitcoins. Alimentez votre compte avec Interac® et bien d'autres moyens.
    desc_ru: Биткоин-биржа. Пополните счет с помощью INTERAC Online и другими способами оплаты.
    desc_uk: Біткоін-біржа. Поповніть рахунок за допомогою INTERAC Online та іншими способами оплати.
+
+ - name: MyBTC.ca
+   desc: Canadians can buy between $20-$500 worth of Bitcoin in seconds with a prepaid credit card or Flexepin Vouchers. There is instant approval, instant delivery of bitcoin and no ID required.
+   url: https://mybtc.ca/
+   icon: https://www.buybitcoinworldwide.com/img/buy/mybtcca.png
+   po: cc
+   countries: ca
    
  - name: Safello
    desc: Safello is a Bitcoin exchange registered as a financial institution in Sweden. It offers a wide range of payment methods--Swish, SEPA, and iDEAL--to residents of Europe. 
