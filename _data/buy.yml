@@ -444,7 +444,7 @@
    url: https://www.cointed.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/cointed.png
    countries: at, be, hr, dk, fi, fr, de, gr, hu, ie, it, lv, li, lu, mc, nl, nor, pl, pt, sk, si, es, se, ch, tr, ua, gb, va
-po: sepa, cash, skrill, pp, sofort, westernunion, moneygram
+   po: sepa, cash, skrill, pp, sofort, westernunion, moneygram
 
 ##### France ####################################################
    
