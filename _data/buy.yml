@@ -437,6 +437,14 @@
    po: sofort, sepa, babt
    desc_de: Österreichischer Bitcoin-Broker. Bitcoins mit SOFORT Überweisung oder Banküberweisung kaufen.
    desc_babt: Residents in Austria can buy bitcoins with a bank account online using SOFORT transfer. 
+   
+ - name: Cointed
+   desc: Cointed allows customers to buy and sell bitcoins in Europe using SEPA, Skrill, cash, and many other options.
+   desc_de: Cointed ist schnell, sicher und seriös. Cointed bietet eine Vielzahl an Lösungen und Services an, darunter das Kaufen und Verkaufen von Bitcoins und Ethereum, Point-of-Sale Lösungen für lokale Shops sowie Zahlungsschnittstellen für Webshops.
+   url: https://www.cointed.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/cointed.png
+   countries: at, be, hr, dk, fi, fr, de, gr, hu, ie, it, lv, li, lu, mc, nl, nor, pl, pt, sk, si, es, se, ch, tr, ua, gb, va
+po: sepa, cash, skrill, pp, sofort, westernunion, moneygram
 
 ##### France ####################################################
    
