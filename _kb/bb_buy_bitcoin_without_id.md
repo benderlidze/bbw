@@ -18,7 +18,7 @@ There are three main ways to buy bitcoins without verification or ID: [LocalBitc
 
 ## CoinMama
 
-At [CoinMama](http://buybitcoinww.co/CoinMama_Bitcoin){:rel="nofollow"}, you do not need to provide ID verification for your first $150 worth of bitcoin purchases. It is one of the only credit card brokers that allows purchases for any amount of bitcoin without ID verification. 
+At [CoinMama](http://buybitcoinww.co/CoinMama_Bitcoin){:rel="nofollow"}, you can buy bitcoins with a credit card and no verification for your first $150 worth of bitcoin purchases. It is one of the only credit card brokers that allows purchases for any amount of bitcoin without ID verification. 
 
 ## BitQuick
 

@@ -22,7 +22,7 @@ pro3: Instant buy available with credit card as backup
 con1: Limited payment methods
 con2: May track how its users spend bitcoin
 con3:
-summary: Coinbase, available to users in over 30 countries as of 2016, is the world's largest Bitcoin broker. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, and many more payment methods. 
+summary: Coinbase, available to users in over 30 countries as of 2017, is the world's largest Bitcoin broker. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, and many more payment methods. 
 summarylong: Coinbase is the world's largest Bitcoin broker, available in the United States, Canada, Singapore, and most of Europe. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, iDEAL, and many more payment methods depending on location. 
 privacy_score: 1
 privacy_width: 10
@@ -168,6 +168,10 @@ Because Coinbase has buy/sell features, it must follow all KYC laws. There have 
 Each payment request uses a new address, which helps prevent other users from connecting Bitcoin addresses together.
 
 Coinbase received a score of 11 out of 100 from the Open Bitcoin Privacy Project’s [Spring 2015 report](http://openbitcoinprivacyproject.org/2015/05/spring-2015-wallet-privacy-rating-report/).
+
+### Is Coinbase Safe to Link Bank Account?
+
+Yes, Coinbase will not steal your money and is completely safe to link your bank account to. 
 
 <hr>
 

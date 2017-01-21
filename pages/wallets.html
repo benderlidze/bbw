@@ -76,7 +76,7 @@ desc: Quickly find the best bitcoin wallet -- hardware or software -- based on y
 	{% endfor %}		
 	
 <h2>Desktop Wallets</h2>			
-<p>Desktop wallets are downloaded & installed on your computer.</p>
+<p>Desktop wallets are downloaded & installed on your computer. If privacy is your main concern, the Bitcoin core wallet is a good option since it does not rely on third parties for data. </p>
     {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'desktop' %}
 	{% include wallet-list.html %}

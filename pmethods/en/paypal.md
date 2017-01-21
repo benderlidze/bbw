@@ -5,7 +5,7 @@ seotitle: "3 Easy Steps to Buy Bitcoin with PayPal Instantly 2017"
 permalink: "/en/buy-bitcoin-paypal/"
 sitemap:
     priority: 0.7
-desc: The easiest and fastest way to buy bitcoins with PayPal instantly. This step-by-step guide explains everything you need to know.  
+desc: Learn the best and easiest way to buy bitcoins with PayPal instantly. See our 3 simple step guide all in one place.   
 lang: en
 pmethod: paypal
 author: jordantuwiner
