@@ -11,7 +11,7 @@ desc: Read this! You'll learn what's best between Trezor, Ledger Nano S, and Kee
 * Table of Contents
 {:toc}
 
-For a while, the TREZOR was the only hardware wallet on the market. Now, KeepKey and the Ledger Nano S have been released and have created great competition in the hardware wallet market. Not only has the competition lowered prices, but it makes choosing the right hardware wallet a tough decision. 
+For a while, the [TREZOR](/wallets/trezor/) was the only hardware wallet on the market. Now, [KeepKey](/wallets/keepkey/) and the [Ledger Nano S](/wallets/ledger-nano-s/) have been released and have created great competition in the hardware wallet market. Not only has the competition lowered prices, but it makes choosing the right hardware wallet a tough decision. 
 
 This comparison will show you which wallet is better in different categories for TREZOR vs. KeepKey vs. Ledger Nano S. 
 
