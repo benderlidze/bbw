@@ -69,7 +69,7 @@ desc: Quickly find the best bitcoin wallet -- hardware or software -- based on y
 	
 <h2>iOS and iPhone Bitcoin Wallets</h2>			
 <p>Apple <a href="http://www.telegraph.co.uk/technology/apple/10621175/Apple-bans-final-bitcoin-wallet-from-App-Store.html">banned Bitcoin wallets</a> from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users. </p>
-    {% for wallet in pages reversed %}
+    {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'ios' %}
 	{% include wallet-list.html %}
 	{% endif %}
