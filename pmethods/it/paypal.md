@@ -5,7 +5,7 @@ seotitle: "Come acquistare Bitcoin con PayPal"
 permalink: "/it/come-acquistare-bitcoin-con-paypal/"
 sitemap:
     priority: 0.7
-desc: "Poznaj najprostszy I najszybszy sposób na natychmiastowy zakup bitcoinów z PayPal. Ten przewodnik krok po kroku wyjaśni Ci wszystko, co musisz o tym wiedzieć."  
+desc: "Molte persone desiderano acquistare Bitcoin con PayPal perché è un metodo comune per pagare online. "  
 lang: it
 pmethod: paypal
 author: jordantuwiner

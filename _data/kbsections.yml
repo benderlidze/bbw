@@ -5,40 +5,40 @@
 
  - kb: FAQ
    icon: faq.png
-   url: /kb/category/faq/     
+   url: "/kb/#faq"
    short: faq
    
  - kb: General
    icon: general.png
-   url: /kb/category/general/ 
+   url: "/kb/#general"
    short: general    
    
  - kb: Buying Bitcoin
    icon: buyingbtc.png
-   url: /kb/category/buying-bitcoin/  
+   url: "/kb/#buying-bitcoin" 
    short: buying    
    
  - kb: Wallets & Storage
    icon: walletsstorage.png
-   url: /kb/category/wallets-storage/    
+   url: "/kb/#wallets"    
    short: walletsstorage
 
  - kb: Bitcoin in Financial Crisis
    icon: financialcrisis.png
-   url: /kb/category/bitcoin-in-financial-crisis/  
+   url: "/kb/#fcrisis"
    short: fcrisis
    
  - kb: Mining
    icon: mining.png
-   url: /kb/category/mining/    
+   url: "/kb/#mining"   
    short: mining  
    
  - kb: Restoring Wallet Backups
    icon: restorebackups.png
-   url: /kb/category/restoring-wallet-backups/  
+   url: "/kb/#restore" 
    short: restore
 
  - kb: Using Hardware Wallets
    icon: hardwarewallets.png
-   url: /kb/category/using-hardware-wallets/  
+   url: "/kb/#hws"  
    short: usinghws   

@@ -68,7 +68,7 @@ desc: Quickly find the best bitcoin wallet -- hardware or software -- based on y
 	{% endfor %}	
 	
 <h2>iOS and iPhone Bitcoin Wallets</h2>			
-<p>Apple banned Bitcoin wallets from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users.</p>
+<p>Apple <a href="http://www.telegraph.co.uk/technology/apple/10621175/Apple-bans-final-bitcoin-wallet-from-App-Store.html">banned Bitcoin wallets</a> from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users. </p>
     {% for wallet in pages reversed %}
 	{% if wallet.tags contains 'ios' %}
 	{% include wallet-list.html %}
@@ -84,32 +84,54 @@ desc: Quickly find the best bitcoin wallet -- hardware or software -- based on y
 	{% endfor %}	
 	
 <h2 id="what">What is a Bitcoin Wallet?</h2>
-<p>For someone to store and transact bitcoin, they must own a Bitcoin wallet. Although the analogy of a wallet may seem like a good fit for a digital currency, the reality is that a normal, physical cash wallet is quite different from a Bitcoin wallet. These two objects protect different types of property. In fact, some would argue that a Bitcoin wallet holds no money in it whatsoever.</p>
+<p>A Bitcoin wallet is the first step to using Bitcoin. Without a wallet, you can’t receive, store, or spend bitcoins. <a href="/kb/what-is-a-bitcoin-private-key/">Bitcoin wallets contain private keys</a>; secret codes that allow you to spend bitcoins. In reality, it’s not bitcoins that need to be stored and secured, but the private keys that give you access to them.</p>
 
-<h2>Storing Private Keys</h2>
+<h2>Which Wallet is Best For You?</h2>
 
-<p>The object that a Bitcoin user needs to secure is not their bitcoin, but <a href="/kb/what-is-a-bitcoin-private-key/">the private keys that unlock their bitcoin</a> on the blockchain. With a Bitcoin wallet, no bitcoin is stored on the local computer or in a bank somewhere. All bitcoin exists on the decentralized ledger, <a href="https://en.bitcoin.it/wiki/Block_chain">known as the Bitcoin blockchain</a>.</p>
+<p>Bitcoins can be <a href="https://bitcoin.org/en/choose-your-wallet">stored in a number of different kinds of wallets</a>. Each wallet has pros and cons, and different wallets are built to solve different problems. Some wallets may be geared towards security, while some wallets may be more focused on privacy. Your specific needs should determine the wallet you use, as there is no “best bitcoin wallet”.</p>
 
-<p>It may be more correct to refer to a Bitcoin wallet as a bitcoin keychain. It stores all of the private keys associated with your Bitcoin addresses. Instead of worrying about securely storing their bitcoin, users should be concerned with safely storing their private keys. Copies of these keys can also be made, which means the keys can be backed up and stored in multiple locations, much like real, physical keys.</p>
+<p>Before reading on, understand <a href="http://www.coindesk.com/information/why-use-bitcoin/">why you’re using Bitcoin</a> and what you need it for. After reading this article, you should have a much better idea of what kind of wallet will be right for you.</p>
 
 <h2>Types of Bitcoin Wallets</h2>
 
-<p>There are a few <a href="https://bitcoin.org/en/choose-your-wallet">different types of Bitcoin wallets</a> used today, and each of them come with their own tradeoffs between security and convenience:</p>
+<h3>Hot Wallets</h3>
+
+<p>Hot wallets are Bitcoin wallets that run on internet connected devices like a computer, mobile phone, or tablet. As we mentioned earlier, private keys are _secret_ codes. Because hot wallets generate private keys on an internet connected device, these private keys can’t be considered 100% secure. Hot wallets should be treated like your pocket, or purse, wallet today: used to carry cash that’s needed for day-to-day spending, but not to store your savings account. You can always replenish your hot wallet with funds from your more secure Bitcoin wallets (more on this below). </p>
 
 <p><strong>Software Wallet -</strong> A software wallet is an application that you may download on your desktop, laptop, or smartphone to store your private keys locally. Examples of this type of wallet include Bitcoin Core, Bitcoin XT, <a href="https://electrum.org/">Electrum</a>, Armory, and breadwallet.</p>
 
-<p><strong>Hardware Wallet -</strong> A hardware wallet is a physical hardware device that is built with the sole purpose of securing Bitcoin private keys. The device keeps private keys away from an Internet-connected device and allows users to sign transactions in an offline environment. Examples of bitcoin hardware wallets include <a href="/wallets/trezor/">TREZOR</a> and <a href="/wallets/ledger-nano/">Ledger</a>.</p>
-
-<p><strong>Paper Wallet -</strong> A paper wallet has always been a popular option for <a href="/kb/how-to-store-and-protect-bitcoins/">secure storage of Bitcoin private keys</a>. With this method of storage, private keys are written down or printed on a piece of paper rather than stored on a computer. This type of wallet has become less popular since the development of hardware wallets.</p>
-
 <p><strong>Web Wallet -</strong> A web wallet is a wallet where the private keys are stored in the cloud rather than a local computer. This allows a user to easily have access to their bitcoin on multiple devices. Private keys are generated locally and then encrypted, which means the wallet application provider does not have access to user funds. An example of this type of wallet is <a href="https://blockchain.info/wallet/#/">Blockchain.info</a>.</p>
+
+<h2>Cold Storage</h2>
+
+<p>Private keys that are generated offline in a secure environment are called cold storage. Cold storage is similar to your bank savings account. It is generally recommended that most of your Bitcoin wealth be stored in cold storage wallets. </p>
+
+<p>Because bitcoins are digital, cyber-criminals could, potentially, target your computer and steal your bitcoins. Generating private keys offline ensures that hackers have no way to reach your bitcoins. </p>
+
+<p><strong>Hardware Wallet -</strong> Hardware wallets are the most common form of cold storage. A hardware wallet is a physical hardware device that is built with the sole purpose of securing Bitcoin private keys. The device keeps private keys away from an Internet-connected device and allows users to sign transactions in an offline environment. Examples of bitcoin hardware wallets include <a href="/wallets/trezor/">TREZOR</a> and <a href="/wallets/ledger-nano/">Ledger</a>.</p>
+
+<p><strong>Paper Wallet -</strong> A paper wallet is the most basic form of cold storage. A paper wallet is created by generating a private key on an offline computer. The private key is then printed and kept in a secure, private location. Paper wallets were the most common form of cold storage until hardware wallets became popular. Some printers store data or content, and, therefore, may be a security risk. A dedicated printer should be used for increased security.</p>
 
 <h2>Bitcoin Banks vs. Wallets</h2>
 
-<p>One last thing to keep in mind when it comes to bitcoin wallets is that there is a difference between a wallet and a bank. Some Bitcoin users view <a href="/wallets/coinbase/">Coinbase</a> and <a href="/wallets/circle/">Circle</a> as Bitcoin wallets, but these Bitcoin companies operate much more like banks. Remember, the private keys are what users need to protect when it comes to using the Bitcoin network. When you hand someone else control over your private keys, you are essentially making a deposit at that financial institution &ndash; much like a deposit at a bank.</p>
+<p>One last thing to keep in mind when it comes to bitcoin wallets is that there is a difference between a wallet and a bank. Some Bitcoin users view <a href="/wallets/coinbase/">Coinbase</a> as a Bitcoin wallet, but companies like this operate much more like banks. Remember, the private keys are what users need to protect when it comes to using the Bitcoin network. When you hand someone else control over your private keys, you are essentially making a deposit at that financial institution &ndash; much like a deposit at a bank.</p>
 
 <p>This is not to say that bitcoin banks are inherently bad. Coinbase and Circle have done wonders for bringing more users into the ecosystem. It is simply important to remember that whoever controls the private keys controls the bitcoin attached to those keys. A misunderstanding of this point has led to hundreds of millions of US dollars being lost in the past, so it’s important to understand this key difference in how Bitcoin private keys can be stored.</p>
 
 <p>Understanding <a href="/kb/how-does-bitcoin-work/">how bitcoin wallets work</a> is an important aspect of safely using this new technology in its early years of development. Wallets will become much more user friendly over time, and some devices may eventually come with preinstalled wallets that interact with the blockchain without the user’s knowledge in the near future. For now, it’s vital to keep in mind that the private keys are what you need to protect if you want to keep your bitcoin safe from hackers, user error, and other possible issues.</p>
+
+<h2>Securing your Bitcoins</h2>
+
+<p>No matter what wallet you choose, remember that your bitcoins are only safe if the private key was generated securely and remains a secret. Choose a storage method based on your needs and your wealth. There’s no reason to ever store a large amount of funds in a hot wallet.</p>
+
+<p>Following these three basic principles should help you avoid theft, scams, and any other loss of funds:</p>
+
+<ol>
+<li>Generate your private keys in a secure, offline environment (besides small amounts stored in a hot wallet).</li>
+<li>Create backups of your private keys or wallet seed ensure that no small accident causes a loss of funds.</li>
+<li>Encrypt wallets to provide additional security and prevent physical theft of your funds.</li>
+</ol>
+
+<p>Securing your bitcoins properly is the most important step for any Bitcoin user. With Bitcoin you have the financial freedom to store your own money. There have been countless scams related to Bitcoin that could have been prevented had people not trusted others with their bitcoins. Never trust anyone else with your money.</p>
                         
 </div>

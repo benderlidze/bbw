@@ -49,7 +49,7 @@ LocalBitcoins is available anywhere where there is a willing seller.
 
 ## Bitit.gift
 
-[Bitit](/exchanges/bitit/) allows users to buy bitcoin online with a 3D Secure credit or debit card in 10 minutes and with cash in more than 150K+ Local Stores using Neosurf, Flexepin or Cashlib vouchers. First 25 euros worth can be purchased without ID. 
+Bitit allows users to buy bitcoin online with a 3D Secure credit or debit card in 10 minutes and with cash in more than 150K+ Local Stores using Neosurf, Flexepin or Cashlib vouchers. First 25 euros worth can be purchased without ID. Read out [Bitit review](/exchanges/bitit/).
 
 ## Bitcoin ATMs
 

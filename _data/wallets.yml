@@ -4,6 +4,18 @@
    thumb: mycelium.png
    website_url: https://mycelium.com/mycelium-wallet.html
    
+ - title: breadwallet
+   summary: We consider breadwallet, along with Copay (below), as the best bitcoin wallet for iPhone. It is open source and gives the user full control over the private keys. It has a clean interface, making sending and receiving bitcoins a super simple process. 
+   tags: [mobile, nonhw, ios]
+   thumb: breadwallet.png
+   website_url: https://breadwallet.com/
+
+ - title: Copay
+   summary: Copay Bitcoin wallet is BitPay's open source wallet. It has tons of great features, including the ability to buy bitcoin from within the wallet. Its easy interface makes it a great choice for new users. Its also compatible with some of the hardware wallets mentioned above if you use the desktop version. 
+   tags: [android, mobile, nonhw, ios]
+   thumb: copay.png
+   website_url: https://copay.io/   
+   
  - title: GreenBits
    summary: GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that supports hardware wallets like TREZOR and Ledger.
    tags: [android, mobile, nonhw]
