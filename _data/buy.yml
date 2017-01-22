@@ -449,11 +449,11 @@
 ##### France ####################################################
    
  - name: Paymium
-   desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
+   desc: Paymium was the first European exchange, founded in 2011. It provides a EUR/BTC exchange service, and complies with European Regulations. Customers can purchase bitcoins SEPA Wire Transfer or credit card.
    url: https://paymium.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/paymium.png
-   countries: fr
-   po: bt, babt, sell    
+   countries: fr, ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   po: bt, babt, sell, cc  
    desc_ar:  صرافة بيتكوين. شراء بيتكوين بالتحويلات المصرفية في فرنسا. 
    desc_fr: Bourse d'échange de bitcoins. Acheter des bitcoins par virements bancaires en France.
    desc_el: Ανταλλακτήριο bitcoin. Αγοράστε bitcoin με τραπεζική μεταφορά στη Γαλλία.
