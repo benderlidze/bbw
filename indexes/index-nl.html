@@ -43,15 +43,3 @@ layout: default
 </div>
 </div>
 <hr>
-
-<h2 class="home-header"><a href="#na" id="sa">Koop Bitcoin in {{ lang.namerica }}</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.na == true and country.nl == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
