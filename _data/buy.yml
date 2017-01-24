@@ -745,15 +745,6 @@
    
 ##### Tunisia ####################################################  
 
- - name: Nouqood
-   desc: Buy bitcoin via bank deposit, Paypal, PerfectMoney, and cash in person.  
-   url: https://www.nouqood.biz/
-   icon: https://www.buybitcoinworldwide.com/img/buy/nouqood.png
-   countries: tn  
-   po: cash, bd, perfectmoney, sell
-   desc_ar:  شراء بيتكوين عن طريق الإيداع المصرفي، باي بال Paypal، بيرفكت موني PerfectMoney، ونقدًا بشخصك.
-   desc_fr: Achetez des bitcoins par dépôt bancaire, Paypal, PerfectMoney et en personne en espèces.
-   desc_sell: Sell bitcoins in Tunisia via bank transfer, PayPal, cash in person, or PerfectMoney,
    
 ##### United Arab Emirates ####################################################  
 
@@ -833,13 +824,6 @@
    desc_zh: 比特币代理人。通过银行转账购买比特币。费率为0.9%。
    desc_sell: Sell bitcoins online in Singapore via bank transfer. 0.9% fee per sell. 
 
- - name: Coin Supermart
-   desc: Bitcoin exchange. Fund account via inter-bank transfers. Convenient and fast.
-   url: https://www.coinsupermart.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinsupermart.png
-   countries: sg
-   po: bt
-   desc_zh: 比特币交易。通过银行间转账于账户增资。方便又快捷。
    
  - name: Coin Republic
    desc: Bitcoin broker. Buy bitcoin quickly via bank transfer. 1.9% fee.  
@@ -1237,14 +1221,6 @@
    desc_zh: 比特币代理人平台。通过银行转账于账户增资。
    po: bt
    
- - name: Bitdoku
-   desc: Indonesian Bitcoin exchange. Fund your account via bank transfer.  
-   url: https://bitdoku.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitdoku.png
-   countries: id 
-   desc_zh: 印尼比特币交易。通过银行转账于账户增资。
-   po: bt
-   
 ##### Japan ####################################################      
 
  - name: bitFlyer
@@ -1402,14 +1378,6 @@
    po: cc, cash
 
 ##### Taiwan ####################################################   
-
- - name: BitQuick.tw
-   desc: Buy bitcoin fast via cash deposit at a number of banks nationwide.
-   url: https://www.bitquick.tw/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
-   countries: tw 
-   desc_zh: 可在全国各大银行以现金存款，快速购买比特币。
-   po: cash
    
  - name: MaiCoin
    desc: Largest Bitcoin exchange in Taiwan. Deposit via ATM or bank transfer.

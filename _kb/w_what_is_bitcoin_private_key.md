@@ -42,7 +42,7 @@ It’s even possible to sign a message using a Bitcoin wallet’s private key or
 
 ## Technical Details
 
-Bitcoin uses a 256 bit private key to generate a public key via ECDSA (Elliptic Curve Digital Signature Algorithm). This public key is then hashed to produce the Bitcoin address. [This website](https://royalforkblog.github.io/2014/08/11/graphical-address-generator/#BuyBitcoinWorldwide.com) provides a neat interactive overview of the entire process. While Bitcoin can be used without understanding the complex mathematics backing it, the more you learn the more confidence you’ll gain in the system. For example, the odds of two people generating the same private key are roughly [1 in 115 quattuorvigintillion](http://learncryptography.com/why-is-2256-secure/).
+Bitcoin uses a 256 bit private key to generate a public key via ECDSA (Elliptic Curve Digital Signature Algorithm). This public key is then hashed to produce the Bitcoin address. [This website](https://royalforkblog.github.io/2014/08/11/graphical-address-generator/#BuyBitcoinWorldwide.com) provides a neat interactive overview of the entire process. While Bitcoin can be used without understanding the complex mathematics backing it, the more you learn the more confidence you’ll gain in the system. For example, the odds of two people generating the same private key are roughly 1 in 115 quattuorvigintillion.
 
 ## Creating a Secure Private Key
 
