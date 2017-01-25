@@ -12,7 +12,7 @@
 
  - title: Copay
    summary: Copay Bitcoin wallet is BitPay's open source wallet. It has tons of great features, including the ability to buy bitcoin from within the wallet. Its easy interface makes it a great choice for new users. Its also compatible with some of the hardware wallets mentioned above if you use the desktop version. 
-   tags: [android, mobile, nonhw, ios]
+   tags: [android, mobile, nonhw, desktop, ios]
    thumb: copay.png
    website_url: https://copay.io/   
    

@@ -41,6 +41,8 @@ layout: compress
   
   {% if page.lang == 'ar' or page.lang == 'he' %}
   <body class="arabic">
+  {% elsif page.color %}
+  <body class="colorguide-body">
   {% else %}
   <body>
   {% endif %}

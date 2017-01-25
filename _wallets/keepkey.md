@@ -19,7 +19,7 @@ control_priv_keys: yes
 buy: yes
 buy_url: http://buybitcoinww.co/KeepKey
 contribute: trezor
-summary: KeepKey was released in September 2015 and is the second hardware Bitcoin wallet to offer a screen.
+summary: KeepKey was released in September 2015 and was the second hardware Bitcoin wallet to offer a screen. The KeepKey's larger screen gives it some extra security features that the Nano S and Trezor lack. 
 weight: 9
 pro1: Most secure & feature packed Bitcoin hardware wallet available
 pro2: Digital screen & metal body

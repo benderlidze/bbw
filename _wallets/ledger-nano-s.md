@@ -18,7 +18,7 @@ open_source_url: https://github.com/trezor/
 control_priv_keys: yes
 buy: yes
 buy_url: http://buybitcoinww.co/Ledger_Nano_S
-summary: The Ledger Nano S is Ledger's first USB hardware wallet with a screen.
+summary: The Ledger Nano S is the cheapest of the three hardware wallets with a screen at about $65. Ledger, one of the most well-known Bitcoin security companies, released the device in August 2016. 
 weight: 10.1
 released: August 2016
 price: 58€

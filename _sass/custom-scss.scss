@@ -506,6 +506,14 @@ html, body {
 } 
 }
 
+.wallet-list {
+	border: 0px solid #ccc !important;
+}
+
+.wallet-list p {
+	margin-top: 15px;
+}
+
 .navbar-brand {
     background-image: url("/img/logosmall.png");
     background-position: 5% 43%;
@@ -1022,6 +1030,281 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
 
 input.gsc-input {
     height: 45px !important;
+}
+
+.colorguide-body {
+	background: #ebebeb;
+	-moz-osx-font-smoothing: grayscale !important;
+	text-rendering: optimizelegibility !important;
+}
+
+.no-margin {
+	margin-bottom: 0 !important;
+}
+
+.white-background {
+	background: #fff;
+}
+
+@media (min-width: 768px) { 
+
+.color-guide-index .white-background:nth-child(5) {  
+  border-radius: 0 0 0 10px;
+}
+
+.color-guide-index .white-background:nth-child(7) {  
+  border-radius: 0 0 10px;
+}
+}
+
+@media (max-width: 767px) { 
+.color-guide-index .white-background:nth-child(7) {  
+  border-radius: 0 0 10px 10px;
+  margin-bottom: 50px;
+}
+
+.color-guide-index .white-background {
+    background: #fff none repeat scroll 0 0;
+    margin-bottom: -40px;
+    padding: 20px 0;
+}
+
+.wallet-top-part {
+	margin: 0 auto;
+	float: none;
+}
+
+.caption-img-box {
+	float: none;
+	margin: 0 auto;
+	max-width: 100% !important;
+	padding: 20px 0;
+	
+	span {
+		text-align: center !important;
+	}
+	
+	img {
+		max-width: 100% !important;
+	}
+	
+}
+
+}
+
+.color-wrap {
+    margin: -50px auto 0;
+    max-width: 900px;
+    
+    .post-title-main {
+    	margin-top: 25px;
+	}
+	
+	.subtitle {
+	    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+	    font-weight: 300 !important;
+	    letter-spacing: 0.5px;
+	    padding-bottom: 20px;
+	    text-align: center;
+	}
+    
+    .subtitle h2 {
+	    color: #fff;
+	    margin-top: 10px;
+	    letter-spacing: 0.5px;
+    }
+    
+    .post-header {
+	    
+	    a {	
+		    color: #fff;
+	    }
+    }
+   
+    .row {
+    	padding: 0 40px 30px;
+	}
+}
+
+
+@media (max-width: 600px) { 
+	.color-wrap .row {
+    	padding: 0 10px 30px;
+	}
+}
+
+.color-guide-section-title {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2.5em;
+	margin-bottom: 30px;
+}
+
+.nice-divider {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    margin-bottom: 30px;
+}
+
+.chapter-number-small {
+	a {
+		color: #000;
+	}
+}
+
+.color-guide-index {
+	
+	.chapter-title {
+    font-size: 1.15em;
+    font-weight: 700;
+    margin: 5px 0 40px;
+    text-align: center;
+    
+    a {
+	    color: #000;
+    }
+}
+	
+	img {
+		margin: 0 auto;
+		height: 160px;
+		width: auto;
+	}
+}
+
+.chapter-number-small {
+    font-size: 0.9em;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    margin-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.color-guide-text {
+    font-size: 1.2em;
+}
+
+.chapter-link {
+    font-size: 1.1em;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin: 40px 0 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.chapter-name {
+    font-size: 1.7em;
+    font-weight: 300;
+    margin: 12px 0 30px;
+    text-align: center;
+}
+
+.sub-section-chapter {
+    font-weight: bold;
+    margin: 45px 0 20px;
+}
+
+.color-guide-img {
+	float: right;
+	max-width: 290px !important;
+	height: auto !important;
+	margin-left: 7px;
+	margin-bottom: 10px;
+}
+
+.caption-img-box {
+    display: inline-block;
+    float: right;
+    max-width: 400px;
+    text-align: center;
+    
+    span {
+	    clear: both;
+	    color: #7f7f7f;
+	    display: block;
+	    font-size: 0.9em;
+	    text-align: right;
+    }
+}
+
+.sub-sub-section {
+	font-size: 1.5em;
+}
+
+.wallet-bounce {
+
+	.col-md-3 {
+		text-align: center;
+		margin-bottom: 40px;
+		margin-top: 25px;
+	}
+	
+	img {
+	    margin: 0 auto;
+	    max-height: 130px;
+	    padding-bottom: 15px;
+	    width: auto;
+	}
+}
+
+.quote-box {
+	
+	background: rgba(0, 0, 0, 0) url("/img/goodicons/quote.png") no-repeat scroll 0 0 / 40px auto;
+	margin: 40px 0;
+    padding: 0 0 0 60px;
+	
+	
+	p {
+		font-style: italic;
+	}
+	
+	.position {
+		font-style: italic;
+	}
+	
+	.quote-ref {
+		
+		a {
+			font-weight: bold;
+		}
+		
+		img {
+			height: 40px;
+			white-space: 40px;
+			border-radius: 50%;
+			display: inline;
+			margin-right: 15px;
+		}
+	}
+}
+
+.warning-row {
+	background: #feefb3;
+	color: #9f6000;
+}
+
+
+
+.grey-row {
+	background: #f8f8f8;
+}
+
+.blue-row {
+	background: #2579c6;
+}
+
+.special-letters {
+	color: #fff;
+    font-size: 1.3em;
+    letter-spacing: 0.5px;
+}
+
+.subtitle {
+	text-align: center;
+	letter-spacing: 1px;
+	font-weight: 300 !important;
+	font-size: 30px;
 }
 
 .gsib_b {
