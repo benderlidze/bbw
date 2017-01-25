@@ -9,6 +9,12 @@
    tags: [mobile, nonhw, ios]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
+   
+ - title: breadwallet
+   summary: breadwallet, the great iPhone Bitcoin wallet, recently released an Android wallet. It offers the user control of private keys, an easy to use interface, and passcode support.  
+   tags: [mobile, android]
+   thumb: breadwallet.png
+   website_url: https://breadwallet.com/
 
  - title: Copay
    summary: Copay Bitcoin wallet is BitPay's open source wallet. It has tons of great features, including the ability to buy bitcoin from within the wallet. Its easy interface makes it a great choice for new users. Its also compatible with some of the hardware wallets mentioned above if you use the desktop version. 
