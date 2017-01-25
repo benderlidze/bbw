@@ -234,7 +234,7 @@ color: yes
 <div class="nice-divider"></div>
 
 <h2>Online Bitcoin Wallets (Web Wallets)</h2>			
-<p>Web wallets store your private keys online, where they are encrypted with a user chosen password. Online bitcoin wallets are accessible from any internet connected device.</p>
+<p>Web wallets store your private keys online, where they are encrypted with a user chosen password. Online bitcoin wallets are accessible from any internet connected device.</p><br>
     {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'web' %}
 	{% include wallet-list.html %}
@@ -242,7 +242,7 @@ color: yes
 	{% endfor %}
 	
 <h2>Android Bitcoin Wallets</h2>			
-<p>Android offers developers more freedom than iOS. For example, it's only possible to use hardware wallets with Android Bitcoin wallets, because Apple doesn't allow the use of OTG cables. The best Android Bitcoin wallets let users control their private keys.</p>
+<p>Android offers developers more freedom than iOS. For example, it's only possible to use hardware wallets with Android Bitcoin wallets, because Apple doesn't allow the use of OTG cables. The best Android Bitcoin wallets let users control their private keys.</p><br>
     {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'android' %}
 	{% include wallet-list.html %}
@@ -250,7 +250,7 @@ color: yes
 	{% endfor %}	
 	
 <h2>iOS and iPhone Bitcoin Wallets</h2>			
-<p>Apple <a href="http://www.telegraph.co.uk/technology/apple/10621175/Apple-bans-final-bitcoin-wallet-from-App-Store.html">banned Bitcoin wallets</a> from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users. </p>
+<p>Apple <a href="http://www.telegraph.co.uk/technology/apple/10621175/Apple-bans-final-bitcoin-wallet-from-App-Store.html">banned Bitcoin wallets</a> from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users. </p><br>
     {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'ios' %}
 	{% include wallet-list.html %}
