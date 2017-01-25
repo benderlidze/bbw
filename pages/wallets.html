@@ -103,7 +103,7 @@ color: yes
 
 <div class="quote-box">
 <p>Think of a hot wallet like your wallet today: you use it to store some cash, but not all of your savings. Hot wallets are great if you make frequent payments, but not a good choice for secure storage of bitcoins.</p>
-<div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://twitter.com/jordantuwiner/">Jordan Tuwiner</a> - <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
+<div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://twitter.com/jordantuwiner/">Jordan Tuwiner</a> <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
 </div>
 
 <h2>Why are hot wallets <b>good</b>?</h1>
@@ -135,7 +135,7 @@ color: yes
 
 <div class="quote-box">
 <p>Think of a hardware wallet like your bank savings account. Use one to store any significant amount of bitcoins that you own.</p>
-<div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://twitter.com/jordantuwiner/">Jordan Tuwiner</a> - <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
+<div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://twitter.com/jordantuwiner/">Jordan Tuwiner</a> <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
 </div>
 
 <h2>Why are hardware wallets <b>good</b>?</h1>
@@ -233,7 +233,17 @@ color: yes
 <h2 class="chapter-name">Hot Wallets</h2>
 <div class="nice-divider"></div>
 
-<h2>Online Bitcoin Wallets (Web Wallets)</h2>			
+<p>Just a quick refresher: </p>
+
+<p>Hot wallets are Bitcoin wallets that run on internet connected devices like a computer, mobile phone, or tablet. Because hot wallets generate private keys on an internet connected device, these private keys can’t be considered 100% secure.</p> 
+
+<div class="quote-box">
+<p>Think of a hot wallet like your wallet today: you use it to store some cash, but not all of your savings. Hot wallets are great if you make frequent payments, but not a good choice for secure storage of bitcoins.</p>
+<div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://twitter.com/jordantuwiner/">Jordan Tuwiner</a> <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
+</div>
+
+<h2 class="wallet-type-hot">Online Bitcoin Wallets (Web Wallets)</h2>
+<div class="nice-divider-sub"></div>			
 <p>Web wallets store your private keys online, where they are encrypted with a user chosen password. Online bitcoin wallets are accessible from any internet connected device.</p><br>
     {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'web' %}
@@ -241,7 +251,8 @@ color: yes
 	{% endif %}
 	{% endfor %}
 	
-<h2>Android Bitcoin Wallets</h2>			
+<h2 class="wallet-type-hot">Android Bitcoin Wallets</h2>
+<div class="nice-divider-sub"></div>			
 <p>Android offers developers more freedom than iOS. For example, it's only possible to use hardware wallets with Android Bitcoin wallets, because Apple doesn't allow the use of OTG cables. The best Android Bitcoin wallets let users control their private keys.</p><br>
     {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'android' %}
@@ -249,7 +260,8 @@ color: yes
 	{% endif %}
 	{% endfor %}	
 	
-<h2>iOS and iPhone Bitcoin Wallets</h2>			
+<h2 class="wallet-type-hot">iOS and iPhone Bitcoin Wallets</h2>
+<div class="nice-divider-sub"></div>		
 <p>Apple <a href="http://www.telegraph.co.uk/technology/apple/10621175/Apple-bans-final-bitcoin-wallet-from-App-Store.html">banned Bitcoin wallets</a> from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users. </p><br>
     {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'ios' %}
@@ -257,7 +269,8 @@ color: yes
 	{% endif %}
 	{% endfor %}		
 	
-<h2>Desktop Wallets</h2>			
+<h2 class="wallet-type-hot">Desktop Wallets</h2>
+<div class="nice-divider-sub"></div>			
 <p>Desktop wallets are downloaded & installed on your computer. If privacy is your main concern, the Bitcoin core wallet is a good option since it does not rely on third parties for data. </p><br>
     {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'desktop' %}
@@ -282,7 +295,7 @@ color: yes
 
 <div class="quote-box">
 <p>Don't store coins on exchanges! Bitcoin users have lost over $1 billion worth of bitcoins in exchange hacks and scams. Control your own private keys. If you need help, then ask your questions in our <a href="http://ask.buybitcoinworldwide.com/">Ask section</a>. </p>
-<div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://twitter.com/jordantuwiner/">Jordan Tuwiner</a> - <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
+<div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://twitter.com/jordantuwiner/">Jordan Tuwiner</a> <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
 </div>
 
 <p>This is not to say that bitcoin banks are inherently bad. Companies like Coinbase have done wonders for bringing more users into the ecosystem. It is simply important to remember that whoever controls the private keys controls the bitcoin attached to those keys.</p>

@@ -1,3 +1,9 @@
+ - title: Electrum
+   summary: Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. It was created in November 2011. The main features of Electrum are support for hardware wallets TREZOR, Ledger Nano and HW1, secure cold storage using an offline computer, and decentralized verification using SPV. Electrum is a good option for both beginners and advanced users. 
+   tags: [desktop, mac, nonhw]
+   thumb: electrum.png
+   website_url: http://electrum.org/ 
+
  - title: Mycelium
    summary: Mycelium, founded in 2008, is a Bitcoin company with 35 employees located in Europe, Asia, and America. Mycelium offers mobile wallets for iPhone and Android. Mycelium is a good option for beginners, with features like watch-only addresses, cold storage spending, and HD accounts. Advanced features include TREZOR & Ledger support, xpub/xpriv key exports, and decrypting BIP38 keys. Mycelium can also restore hardware wallet seeds from TREZOR or Ledger. Mycelium is the most popular Bitcoin wallet on Android.
    tags: [android, mobile, nonhw]
@@ -17,10 +23,22 @@
    website_url: https://breadwallet.com/
 
  - title: Copay
-   summary: Copay Bitcoin wallet is BitPay's open source wallet. It has tons of great features, including the ability to buy bitcoin from within the wallet. Its easy interface makes it a great choice for new users. Its also compatible with some of the hardware wallets mentioned above if you use the desktop version. 
-   tags: [android, mobile, nonhw, desktop, ios]
+   summary: Copay Bitcoin wallet is BitPay's open source wallet. It can be used across multiple devices, since Copay is available for Android, Windows Phone, iOS, and all desktop platforms. Among many other great features, it's easy to create multiple accounts so you can have seperate wallets for your business and personal funds. 
+   tags: [nonhw, ios]
    thumb: copay.png
    website_url: https://copay.io/   
+   
+ - title: Copay
+   summary: The Copay Bitcoin wallet is also available for Android. It's easy to use and offers many advanced features that offer great flexibility. 
+   tags: [android, nonhw]
+   thumb: copay.png
+   website_url: https://copay.io/   
+   
+ - title: Copay
+   summary: Last, but not least, Copay is also available on desktop. Its desktop app gives you the ability to manage your hardware wallets, along with all of the other features mentioned above. 
+   tags: [nonhw, desktop]
+   thumb: copay.png
+   website_url: https://copay.io/         
    
  - title: GreenBits
    summary: GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that supports hardware wallets like TREZOR and Ledger.
@@ -32,13 +50,7 @@
    summary: GreenAddress is a multisignature Bitcoin wallet available on the web, desktop, Android, and iOS. GreenAddress is compatible with hardware wallets like TREZOR, Ledger Nano, and the HW.1.
    tags: [web, online, nonhw]
    thumb: greenaddress.png
-   website_url: https://greenaddress.it/    
-   
- - title: Electrum
-   summary: Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. It was created in November 2011. The main features of Electrum are support for hardware wallets TREZOR, Ledger Nano and HW1, secure cold storage using an offline computer, and decentralized verification using SPV. Electrum is a good option for both beginners and advanced users. 
-   tags: [desktop, mac, nonhw]
-   thumb: electrum.png
-   website_url: http://electrum.org/    
+   website_url: https://greenaddress.it/       
    
  - title: Bitcoin Wallet
    summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet. Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network with SPV. Bitcoin Wallet has a simple interface and just the right amount of features, making it the easiest Bitcoin wallet for beginners to learn with.
