@@ -2,7 +2,7 @@
    desc: Coinbase is the world's largest Bitcoin broker. It offers an easy and fast way for new users to purchase bitcoins. Coinbase supports customers in over 30 countries, including the United States, Europe (not Germany), UK, Singapore, Canada, and Australia. <br><br> Customers in the above mentioned countries can purchase bitcoins with <a href="/en/buy-bitcoin-credit-debit-card/">credit card</a>, debit card, bank transfer, SEPA transfer, and more.<br><br> Get $10 or €10 worth of free bitcoin when you buy more than $100 or €100 worth through <a rel="nofollow" target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a>. 
    url: http://buybitcoinww.co/Buy_Coinbase
    internal_url: /exchanges/coinbase/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
+   icon: /img/buy/coinbase.png
    tags: [quickinfo, reccc, rec, review, lowprivacy, avgspeed, avgfees, trusted, eoueasy, highlimits, home]
    fees_cc: 3.75%
    fees_bt: 1.49%
@@ -49,7 +49,7 @@
  - name: VirWoX
    desc: Technically, VirWoX isn't even a Bitcoin exchange. It mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 10% in fees. <br><br> This workaround/hack has made <b>VirWoX the easiest and most popular way to buy bitcoins with PayPal</b>. 
    url: http://buybitcoinww.co/bitcoin_virwox
-   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
+   icon: /img/buy/virwox.png
    po: paypal, paypal1, paysafecard
    desc_paypal: VirWoX stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 7% in fees. 
    desc_fr: Bureau de change numérique. Le moyen le plus facile d’acheter des bitcoins avec PayPal.  
@@ -69,7 +69,7 @@
  - name: Bity
    desc: Fast and easy way to buy bitcoin. Buy up to 250 €/CHF a day with phone verification.
    url: http://bity.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
+   icon: /img/buy/bity.png
    countries: ch
    po: bt, sepa
    hide: yes
@@ -85,7 +85,7 @@
 ## - name: Celery
 ##   desc: Bitcoin broker. Buy with your bank account via ACH bank transfer. 
 ##   url: http://buybitcoinww.co/go_celery
-##   icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
+##   icon: /img/buy/celery.png
 ##   countries: us
 ##   po: usbt, lowfees, bt, ach
 ##   desc_ach: Celery is another Bitcoin broker and serves the U.S. and Canada. You can buy bitcoin with a connected bank account via ACH transfer. Celery charges a flat 1% fee on all transactions. Your coins will be delivered within 5 days. 
@@ -107,7 +107,7 @@
 ## - name: Celery
 ##   desc: Buy bitcoin with Canadian bank transfer or with Interac Online. 
 ##   url: http://buybitcoinww.co/go_celery
-##   icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
+##   icon: /img/buy/celery.png
 ##   countries: ca
 ##   hide: yes
 ##   po: io, bt 
@@ -126,7 +126,7 @@
 
  - name: CoinMama
    url: http://buybitcoinww.co/CoinMama_Bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
+   icon: /img/buy/coinmama.png
    po: ccww, ccwwtop, cc
    countries: ag, bs, bb, ca, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, iq, il, jo, kw, om, qa, sa, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, ss, sz, tz, tg, tn, ug, zm, cf, cg, cd, st, pr, ps, ye 
    tags: [rec, reccc, quickinfo, review, lowprivacy, fast, highfees, avgrep, eoueasy, highlimits, home]
@@ -153,7 +153,7 @@
  - name: BitPanda
    desc: BitPanda is a Bitcoin broker based in Austria. It has low fees across the board for its wide range of payment methods, and high limits. It offers customers the option to buy bitcoins with credit card, debit card, SOFORT, Skrill, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
    url: http://buybitcoinww.co/bitpanda
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitpanda.png
+   icon: /img/buy/bitpanda.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    tags: [quickinfo, review, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits, home]
    fees_cc: ~5%
@@ -191,7 +191,7 @@
    desc: Coinhouse lets you buy bitcoins with a 3D secure credit or debit card in Europe. While its fees are somewhat high, it offers high limits. 
    url: http://buybitcoinww.co/coinhouse
    internal_url: /exchanges/coinhouse/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
+   icon: /img/buy/coinhouse.png
    tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eoueasy, highlimits, home]
    fees_cc: 6-10%
    avail: Europe
@@ -238,7 +238,7 @@
    desc: LocalBitcoins is a peer-to-peer escrow service that helps match bitcoin buyers and sellers. The most common method of payment for purchase is cash deposit. Users, however, can create ads to buy or sell using the payment method of their choice. Buying bitcoins via an in-person meeting facilitated by LocalBitcoins can be one of the fastest and most private ways to buy bitcoins. 
    url: http://buybitcoinww.co/local_bitcoins
    internal_url: /exchanges/localbitcoins/
-   icon: https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png
+   icon: /img/buy/localbitcoins.png
    tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eouhard, avglimits]
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
    pros: <li>Can be private, fast and easy</li> <li>In person trades require no personal information</li> <li>Purchases of bitcoin can be made quickly via cash deposit</li>
@@ -272,7 +272,7 @@
    tags: [quickinfo, review, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
    url: http://buybitcoinww.co/Buy_Coinbase
    internal_url: /exchanges/coinbase/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png
+   icon: /img/buy/coinbaseexchange.png
    countries: us, gb   
    po: sepa, usbt, lowfees, bt, ach, babt, sell
    desc_achshort: Fund your Coinbase exchange account via ACH bank transfer.  
@@ -298,7 +298,7 @@
  - name: BitQuick
    desc: BitQuick is one of the fastest ways to buy bitcoins in the United States using cash deposit. Users can browse a wide range of offers at different prices. Once a desired offer is found users make a cash deposit into the seller's account and will usually receive bitcoins within an hour.  
    url: http://buybitcoinww.co/buybitquick
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
+   icon: /img/buy/bitquick.png
    countries: us 
    po: fast, cdus, nobank, cash
    internal_url: /exchanges/bitquick/
@@ -325,7 +325,7 @@
  - name: Bitcoin.de
    desc: Bitcoin.de is a major European peer-to-peer Bitcoin exchange. Users can buy bitcoin online from other users with <a href="/en/buy-bitcoin-sepa-transfer/">SEPA bank transfers</a>.
    url: http://buybitcoinww.co/Bitcoin_de
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png
+   icon: /img/buy/bitcoinde.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, cash, lowfees, sell
    tags: [quickinfo, rec, avgprivacy, avgspeed, highfees, trusted, eouhard, avglimits]
@@ -345,7 +345,7 @@
  - name: Luno
    desc: Luno is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. It offers 0% fees for market makers, meaning you can buy bitcoins with no fees if you have some patience.   
    url: https://www.luno.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/luno.png
+   icon: /img/buy/luno.png
    countries: id, my, ng, za, sg
    po: mpesa, bt, eft, sell
    tags: [quickinfo, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits]
@@ -362,7 +362,7 @@
  - name: Gemini
    desc: Gemini is a New York based Bitcoin exchange open to residents of the United States, UK, and Canada. Deposits can be made via wire transfer, SEPA or ACH transfer. <br><br>While Gemini is available in most US states, US residents should <a href="https://gemini.com/areas-of-operation/">check Gemini's areas of operations page</a>. 
    url: https://gemini.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/gemini.png
+   icon: /img/buy/gemini.png
    countries: us
    po: usbt, bt, babt, sell
    desc_ach: Gemini is a Bitcoin exchange that serves both individual and institutional clients. You can fund your exchange account via ACH transfer or wire transfer. Currently available in <a rel="nofollow" href="https://blog.gemini.com/geminis-area-of-operation/">26 U.S. states</a>.  
@@ -375,7 +375,7 @@
  - name: Bittylicious
    desc: Buy bitcoin instantly via Barclays Pingit, instant UK bank transfer, or credit/debit card.
    url: http://buybitcoinww.co/bittylicious
-   icon: https://www.buybitcoinworldwide.com/img/buy/bittylicious.png
+   icon: /img/buy/bittylicious.png
    countries: gb
    po: bt, cc, babt, sell
    desc_ar:  شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.
@@ -385,7 +385,7 @@
  - name: Coinfloor
    desc: Coinfloor is a Bitcoin exchange and broker based in the United Kingdom. Deposit via bank transfer, SEPA, and more. 
    url: https://coinfloor.co.uk/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinfloor.png
+   icon: /img/buy/coinfloor.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sepa, swift, babt, sell
    desc_ar:  صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.
@@ -405,7 +405,7 @@
  - name: BitBargain
    desc: P2P marketplace for buying and selling bitcoin. Multiple payment methods available.
    url: https://bitbargain.co.uk/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitbargain.png
+   icon: /img/buy/bitbargain.png
    countries: gb 
    po: cash, sell
    desc_ar:  أسواق P2P لبيع بيتكوين وشرائه. طرق الدفع المتعددة المتاحة.
@@ -414,7 +414,7 @@
  - name: QuickBitcoin
    desc: Bitcoin broker. Buy bitcoin in under an hour via online bank transfer. 
    url: https://quickbitcoin.co.uk/
-   icon: https://www.buybitcoinworldwide.com/img/buy/quickuk.png
+   icon: /img/buy/quickuk.png
    countries: gb 
    po: bt
    desc_ar:  وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.   
@@ -422,7 +422,7 @@
  - name: CryptoMate
    desc: Bitcoin broker. Buy bitcoin quickly with UK online bank transfers. 
    url: https://cryptomate.co.uk
-   icon: https://www.buybitcoinworldwide.com/img/buy/cryptomate.png
+   icon: /img/buy/cryptomate.png
    countries: gb  
    po: bt         
    desc_ar:  وسيط بيتكوين. شراء بيتكوين بالتحويلات المصرفية عبر الإنترنت في المملكة المتحدة.
@@ -433,7 +433,7 @@
  - name: bitcoinbon
    desc: bitcoinbon is a Bitcoin network that allows users to buy bitcoin with cash at over 600 physical locations across Austria. Users can buy in amounts of €25, €50, or €100. 
    url: http://buybitcoinww.co/bitcoinbon
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinbon.png
+   icon: /img/buy/bitcoinbon.png
    countries: at
    po: cdeu, cdat, cash
    desc_de: Bitcoins mit Bargeld in über 600 Verkaufsstellen kaufen. Erhältlich in €25, €50 und €100.  
@@ -441,7 +441,7 @@
  - name: Coinfinity
    desc: Coinfinity is an Austrian Bitcoin broker. Customers can buy bitcoin via SEPA transfer or SOFORT.  
    url: http://buybitcoinww.co/coinfinity
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinfinity.png
+   icon: /img/buy/coinfinity.png
    countries: at
    po: sofort, sepa, babt
    desc_de: Österreichischer Bitcoin-Broker. Bitcoins mit SOFORT Überweisung oder Banküberweisung kaufen.
@@ -451,7 +451,7 @@
    desc: Cointed allows customers to buy and sell bitcoins in Europe using SEPA, Skrill, cash, and many other options.
    desc_de: Cointed ist schnell, sicher und seriös. Cointed bietet eine Vielzahl an Lösungen und Services an, darunter das Kaufen und Verkaufen von Bitcoins und Ethereum, Point-of-Sale Lösungen für lokale Shops sowie Zahlungsschnittstellen für Webshops.
    url: https://www.cointed.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/cointed.png
+   icon: /img/buy/cointed.png
    countries: at, be, hr, dk, fi, fr, de, gr, hu, ie, it, lv, li, lu, mc, nl, nor, pl, pt, sk, si, es, se, ch, tr, ua, gb, va
    po: sepa, cash, skrill, pp, sofort, westernunion, moneygram
 
@@ -460,7 +460,7 @@
  - name: Paymium
    desc: Paymium was the first European exchange, founded in 2011. It provides a EUR/BTC exchange service, and complies with European Regulations. Customers can purchase bitcoins SEPA Wire Transfer or credit card.
    url: https://paymium.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/paymium.png
+   icon: /img/buy/paymium.png
    countries: fr, ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: bt, babt, sell, cc  
    desc_ar:  صرافة بيتكوين. شراء بيتكوين بالتحويلات المصرفية في فرنسا. 
@@ -477,7 +477,7 @@
  - name: Bitboat
    desc: Buy bitcoin fast with cash in the UK, Spain, Italy, France, Belgium, Cyprus, and Romania. 
    url: http://buybitcoinww.co/BitBoat
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitboat.png
+   icon: /img/buy/bitboat.png
    countries: fr, it, es, be, pt, cy, ro, gb
    po: cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf
    desc_neosurf: At Bitboat you can buy bitcoins with Neosurf in Europe. Bitboat sells bitcoins for cash in the <a href="/en/gb/">UK</a>, <a href="/en/it/">Italy</a>, <a href="/en/fr/">France</a>, <a href="/en/be/">Belgium</a>, <a href="/en/cy/">Cyprus</a>, and <a href="/en/ro/">Romania</a>. 
@@ -487,7 +487,7 @@
  - name: Bity
    desc: Bity is a Bitcoin exchange based in Switzerland. It allows for a quick first purchase and only requires phone verification for initial buy limits.  
    url: https://bity.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
+   icon: /img/buy/bity.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
    po: sepa, sofort, bt, babt
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
@@ -507,7 +507,7 @@
  - name: Cavirtex
    desc: Easiest way to buy Bitcoin in Canada with a number of deposit options.  
    url: https://www.cavirtex.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/cavirtex.png
+   icon: /img/buy/cavirtex.png
    countries: ca
    po: io, bt
    name_es: Cavirtex
@@ -520,7 +520,7 @@
  - name: Satoshi Counter
    desc: Buy in person in Montreal or online in the rest of Canada. Fast, private, and convenient. 
    url: http://satoshicounter.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/satoshicounter.png
+   icon: /img/buy/satoshicounter.png
    countries: ca
    po: cash
    name_es: Satoshi Counter
@@ -533,7 +533,7 @@
  - name: QuickBT
    desc: Buy small amounts of bitcoin in minutes (up to 0.2 BTC) with <a href="/en/buy-bitcoin-interac-online/">Interac Online</a>. 
    url: https://quickbt.com
-   icon: https://www.buybitcoinworldwide.com/img/buy/quickbt.png
+   icon: /img/buy/quickbt.png
    countries: ca
    po: io
    name_es: QuickBT
@@ -546,7 +546,7 @@
  - name: QuadrigaCX
    desc: Bitcoin exchange. Fund account with Interac Online and many other payment options.
    url: https://www.quadrigacx.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/quadrigacx.png
+   icon: /img/buy/quadrigacx.png
    countries: ca
    po: io
    name_es: QuadrigaCX
@@ -559,14 +559,14 @@
  - name: MyBTC.ca
    desc: Canadians can buy between $20-$500 worth of Bitcoin in seconds with a prepaid credit card or Flexepin Vouchers. There is instant approval, instant delivery of bitcoin and no ID required.
    url: https://mybtc.ca/
-   icon: https://www.buybitcoinworldwide.com/img/buy/mybtcca.png
+   icon: /img/buy/mybtcca.png
    po: cc
    countries: ca
    
  - name: Safello
    desc: Safello is a Bitcoin exchange registered as a financial institution in Sweden. It offers a wide range of payment methods--Swish, SEPA, and iDEAL--to residents of Europe. 
    url: https://safello.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/safello.png
+   icon: /img/buy/safello.png
    countries: se, es, pl, hu, be, nl, gb, it, ch, de, fr, at, bg, cy, hr, cz, dk, ee, fi, gr, ie, li, lt, lu, mc, mt, pt, ro, sm, sk
    po: sepa, swish, swift, bankgiro, babt
    name_es: Safello
@@ -586,7 +586,7 @@
  - name: Canadian Bitcoins
    desc: Buy bitcoin with cash in office, cash through express mail, online banking, & Interac Online.
    url: https://www.canadianbitcoins.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/canadianbitcoins.png
+   icon: /img/buy/canadianbitcoins.png
    countries: ca
    po: io, cash, bt
    name_es: Canadian Bitcoins
@@ -599,7 +599,7 @@
  - name: InstaBT
    desc: Buy bitcoin online in Canada with Interac Online. Convenient and quick. 
    url: https://instabt.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/instabt.png
+   icon: /img/buy/instabt.png
    countries: ca
    po: io
    name_es: InstaBT
@@ -614,7 +614,7 @@
  - name: Bitcoin Venezuela
    desc: Find a trade partner in the Bitcoin Venezuela Facebook group. 
    url: https://www.facebook.com/groups/btcven
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinve.png
+   icon: /img/buy/bitcoinve.png
    po: cash, sell
    countries: ve
    name_es: Bitcoin Venezuela
@@ -625,7 +625,7 @@
  - name: SurBitcoin
    desc: First Bitcoin exchange in Venezuela. Buy bitcoin via bank transfer. 
    url: https://surbitcoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/surbitcoin.png
+   icon: /img/buy/surbitcoin.png
    countries: ve
    po: bt, sell
    name_es: SurBitcoin
@@ -636,7 +636,7 @@
  - name: CryptoBuyer
    desc: Cryptobuyer lets you buy and sell bitcoins in Venezuela using National Bank Transfer 
    url: https://cryptobuyer.io/
-   icon: https://www.buybitcoinworldwide.com/img/buy/cryptobuyer.png
+   icon: /img/buy/cryptobuyer.png
    countries: ve
    po: bt
    desc_es: Cryptobuyer le permite comprar y vender bitcoins en Venezuela usando transferencias bancarias.
@@ -646,7 +646,7 @@
  - name: Yaykuy
    desc: Bitcoin broker. Buy via local bank transfer. Get bitcoin within 24 hours.  
    url: http://www.yaykuy.cl/
-   icon: https://www.buybitcoinworldwide.com/img/buy/yaykuy.png
+   icon: /img/buy/yaykuy.png
    countries: cl
    po: bt, sell
    name_es: Yaykuy
@@ -660,7 +660,7 @@
  - name: GuaraniBitcoin
    desc: First Bitcoin exchange in Paraguay. Buy bitcoin via bank transfer. 
    url: https://www.guaranibitcoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/guaranibitcoin.png
+   icon: /img/buy/guaranibitcoin.png
    countries: py 
    po: bt, sell
    name_es: GuaraniBitcoin
@@ -672,7 +672,7 @@
  - name: Bitcoin Peru
    desc: Bitcoin broker. Buy via local bank transfer. Get bitcoin within 24 hours.  
    url: http://www.bitcoinperu.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinperu.png
+   icon: /img/buy/bitcoinperu.png
    countries: pe
    po: bt, sell
    name_es: Bitcoin Peru
@@ -682,7 +682,7 @@
  - name: CambistaBitcoin
    desc: Bitcoin broker in Peru. Buy bitcoin online via bank transfer.   
    url: http://www.cambistabitcoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/cambistabtc.png
+   icon: /img/buy/cambistabtc.png
    countries: pe 
    po: bt, sell
    name_es: CambistaBitcoin
@@ -694,7 +694,7 @@
  - name: Panama Bitcoins
    desc: Panama Bitcoins connects you with bitcoin brokers across the country.  
    url: https://www.ptycoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/panamabtc.png
+   icon: /img/buy/panamabtc.png
    countries: pa
    po: cash, sell
    name_es: Panama Bitcoins
@@ -706,7 +706,7 @@
  - name: bit2c
    desc: Largest Bitcoin exchange in Israel. Buy with bank wire or credit card. 
    url: http://buybitcoinww.co/bit2c
-   icon: https://www.buybitcoinworldwide.com/img/buy/bit2c.png
+   icon: /img/buy/bit2c.png
    countries: il
    langs: en, he
    po: bt, cc, sell
@@ -720,7 +720,7 @@
  - name: Bits of Gold
    desc: Buy Bitcoin directly from Bits of Gold, the largest Bitcoin broker in Israel. 
    url: https://www.bitsofgold.co.il
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitsofgold.png
+   icon: /img/buy/bitsofgold.png
    countries: il 
    po: bt, cash, cc, sell
    langs: en, he
@@ -736,7 +736,7 @@
  - name: YellowPay
    desc: Buy bitcoin vouchers at a number of locations across the country. 
    url: http://yellowpay.co/en/
-   icon: https://www.buybitcoinworldwide.com/img/buy/yellow.png
+   icon: /img/buy/yellow.png
    countries: eg  
    po: cash
    desc_ar:  شراء قسائم بيتكوين في عدد من المواقع في جميع أنحاء الدولة.
@@ -746,7 +746,7 @@
  - name: Bitcoin ATM Jubail
    desc: Buy bitcoin at the Lamassu Bitcoin ATM in Jubail, Saudi Arabia. 
    url: http://coinatmradar.com/bitcoin_atm/303/bitcoin-atm-lamassu-jubail-ticket-computer-center/
-   icon: https://www.buybitcoinworldwide.com/img/buy/lamassu.png
+   icon: /img/buy/lamassu.png
    countries: sa  
    po: cash, sell
    desc_ar:  شراء بيتكوين في Lamassu Bitcoin ATM في "جبيل"، المملكة العربية السعودية.
@@ -760,7 +760,7 @@
  - name: BitOasis
    desc: Buy bitcoin via bank transfer in the United Arab Emirates, Qatar, Kuwait, and Bahrain.  
    url: https://bitoasis.net/en/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitoasis.png
+   icon: /img/buy/bitoasis.png
    countries: ae, qa, kw, bh
    po: bt, sell
    desc_ar:  شراء بيتكوين بسرعة بالدرهم الإماراتي عن طريق التحويلات المصرفية.
@@ -771,7 +771,7 @@
  - name: BitFils
    desc: Bitcoin broker. Buy bitcoin quickly online in Kuwait with a debit card.    
    url: https://bitfils.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitfils.png
+   icon: /img/buy/bitfils.png
    countries: kw    
    po: cc, sell
    desc_ar:  شراء بيتكوين بسرعة عبر الانترنت في الكويت ببطاقة السحب الآلي.  
@@ -782,7 +782,7 @@
  - name: Bitex.la
    desc: Bitcoin exchange with service in many South American countries. Deposit with cash or AstroPay.  
    url: https://bitex.la/exchange
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitexla.png
+   icon: /img/buy/bitexla.png
    countries: ar, cl, br, mx, es, pe, uy
    po: cash, astro, sell
    desc_astropay: Bitex.la is a Bitcoin exchange based in Buenos Aires, Argentina. Users in Brazil, Mexico, Argentina, Chile, Peru and Uruguay can fund their exchange account with AstroPay. The fee for funding with AstroPay is 2.5%, plus an additional 0.5% per trade made on the exchange. Deposits made via AstroPay will take 2-10 days to be credited to your account. After verifying your identity you can deposit up to $3,000 per month. Verifying further by providing a picture of a utility bill will let you buy up to $10,000 worth of bitcoin per month. 
@@ -799,7 +799,7 @@
  - name: Ripio
    desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure.
    url: https://ripio.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/ripio.png
+   icon: /img/buy/ripio.png
    countries: ar, br
    po: cash
    name_es: Ripio
@@ -813,7 +813,7 @@
  - name: surBTC
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies.  
    url: https://www.surbtc.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/surbtc.png
+   icon: /img/buy/surbtc.png
    countries: cl 
    po: bt, sell
    name_es: surBTC
@@ -827,7 +827,7 @@
  - name: CoinHako
    desc: Bitcoin broker in Singapore. Buy bitcoin via bank transfer. 0.9% fee.  
    url: https://www.coinhako.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinhako.png
+   icon: /img/buy/coinhako.png
    countries: sg	
    po: bt, sell
    desc_zh: 比特币代理人。通过银行转账购买比特币。费率为0.9%。
@@ -837,7 +837,7 @@
  - name: Coin Republic
    desc: Bitcoin broker. Buy bitcoin quickly via bank transfer. 1.9% fee.  
    url: https://coinrepublic.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinrepublic.png
+   icon: /img/buy/coinrepublic.png
    countries: sg
    po: bt
    desc_zh: 比特币代理人。通过银行转账快速购买比特币。费率为1.9%。
@@ -846,7 +846,7 @@
  - name: CRXzone
    desc: Buy bitcoin via OKPAY, Perfect Money, bank transfer, or Egopay.  
    url: https://www.crxzone.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/crxzone.png
+   icon: /img/buy/crxzone.png
    countries: sg
    po: bt, perfectmoney, egopay, okpay
    desc_zh: 可通过银行转账、OKPAY、Perfect Money、Egopay购买比特币。
@@ -854,7 +854,7 @@
  - name: FYB-SG
    desc: Bitcoin exchange. Fund account via inter-bank transfers. 0.6% fee.
    url: https://www.fybsg.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/fybsg.png
+   icon: /img/buy/fybsg.png
    countries: sg  
    po: bt
    desc_zh: 比特币交易。通过银行间转账于账户增资。费率为0.6%。
@@ -864,7 +864,7 @@
  - name: Bitso
    desc: Mexican Bitcoin exchange. Deposit locally or with bank wire or SPEI.
    url: https://bitso.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitso.png
+   icon: /img/buy/bitso.png
    countries: mx
    po: spei
    name_es: Bitso
@@ -874,7 +874,7 @@
  - name: Volabit
    desc: Buy bitcoin in Mexico with cash at 7-Eleven, Banamex, OXXO, or with a bank transfer. 
    url: https://volabit.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/volabit.png
+   icon: /img/buy/volabit.png
    countries: mx
    po: cash, banamex, oxxo, bt
    name_es: Volabit
@@ -884,7 +884,7 @@
  - name: meXBT
    desc: Mexican Bitcoin exchange. Deposit with bank transfer or locally at over 130,000 stores.
    url: https://mexbt.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/mexbt.png
+   icon: /img/buy/mexbt.png
    countries: mx
    po: bt, cash
    name_es: meXBT
@@ -896,7 +896,7 @@
  - name: SatoshiTango
    desc: Bitcoin platform. Supports a growing number of countries in South America and Europe. 
    url: http://buybitcoinww.co/Satoshi_Tango
-   icon: https://www.buybitcoinworldwide.com/img/buy/satoshitango.png
+   icon: /img/buy/satoshitango.png
    countries: br, tr, cl, co, pe, uy, ar, co, cr, ec, sv, gt, hn, ni, pa
    po: cash, bt
    desc_es: Plataforma de Bitcoin. Soporta un número creciente de países en Sudamérica y Europa.
@@ -912,7 +912,7 @@
  - name: Mercado Bitcoin
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
    url: https://www.mercadobitcoin.com.br/
-   icon: https://www.buybitcoinworldwide.com/img/buy/mercado.png
+   icon: /img/buy/mercado.png
    countries: br
    po: bt
    name_es: Mercado Bitcoin
@@ -927,7 +927,7 @@
  - name: FOXBIT
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers and 0 fee deposit.
    url: http://www.foxbit.com.br
-   icon: https://www.buybitcoinworldwide.com/img/buy/foxbit.png
+   icon: /img/buy/foxbit.png
    countries: br
    po: bt
    name_es: FOXBIT
@@ -942,7 +942,7 @@
  - name: bitinvest
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
    url: https://www.bitinvest.com.br/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitinvest.png
+   icon: /img/buy/bitinvest.png
    countries: br  
    po: bt
    name_es: bitinvest
@@ -957,7 +957,7 @@
  - name: FlowBTC
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
    url: https://trader.flowbtc.com
-   icon: https://www.buybitcoinworldwide.com/img/buy/flowbitcoin.png
+   icon: /img/buy/flowbitcoin.png
    countries: br
    po: bt
    name_es: FlowBTC
@@ -972,7 +972,7 @@
  - name: Bitcoin To You
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
    url: https://www.bitcointoyou.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcointoyou.png
+   icon: /img/buy/bitcointoyou.png
    countries: br
    po: bt
    name_es: Bitcoin To You
@@ -987,7 +987,7 @@
  - name: BitCambio
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
    url: https://bitcambio.com.br/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcambio.png
+   icon: /img/buy/bitcambio.png
    countries: br
    po: bt
    name_es: BitCambio
@@ -1002,7 +1002,7 @@
  - name: Basebit
    desc: Bitcoin exchange. Deposit online via bank transfer or cash deposit. 
    url: http://basebit.com.br/
-   icon: https://www.buybitcoinworldwide.com/img/buy/basebit.png
+   icon: /img/buy/basebit.png
    countries: br
    po: bt, cash
    name_es: Basebit
@@ -1019,7 +1019,7 @@
  - name: OKCoin
    desc: OKCoin is the largest Bitcoin exchange in China. In terms of trading volume, it is the largest Bitcoin exchange in the world, but this is largely due to the fact that there are no trading fees. Customers can make deposits via bank transfer.  
    url: https://www.okcoin.cn/
-   icon: https://www.buybitcoinworldwide.com/img/buy/okcoin.png
+   icon: /img/buy/okcoin.png
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国最大的比特币交易平台。零交易费。通过银行转账交存。
@@ -1027,7 +1027,7 @@
  - name: Huobi
    desc: Second largest Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
    url: https://www.huobi.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/huobi.png
+   icon: /img/buy/huobi.png
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国第二大、零交易费的比特币交易平台。通过银行转账交存。
@@ -1035,7 +1035,7 @@
  - name: BTCC
    desc: Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
    url: https://www.btcchina.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btcchina.png
+   icon: /img/buy/btcchina.png
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国零交易费的比特币交易平台。通过银行转账交存。
@@ -1043,7 +1043,7 @@
  - name: LakeBTC
    desc: LakeBTC is a Bitcoin exchange based in China. Customers can deposit via bank transfer or SEPA. LakeBTC is one of the top 15 global exchanges based average daily trading volume.
    url: http://buybitcoinww.co/Lake_BTC
-   icon: https://www.buybitcoinworldwide.com/img/buy/lakebtc.png
+   icon: /img/buy/lakebtc.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mo
    po: sepa, egopay
    desc_de: Bitcoin Börse in China. Einzahlen über Banküberweisungen oder SEPA.
@@ -1054,14 +1054,14 @@
  - name: BtcTrade
    desc: Bitcoin exchange in China. Fee varies. Trade in USD and CNY. 
    url: https://www.btctrade.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btctrade.png
+   icon: /img/buy/btctrade.png
    countries: cn, hk, mo
    desc_zh: 中国比特币交易平台。交易费略不同。以美元和人民币交易。
    
  - name: Gatecoin
    desc: Gatecoin is a regulated cryptocurrency and blockchain assets exchange based in Hong Kong. Users can buy bitcoin using HKD, EUR, USD and CNY. 
    url: https://gatecoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/gatecoin.png
+   icon: /img/buy/gatecoin.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, swift
    desc_de: Bitcoin Börse in Hong Kong. Einzahlen mit SEPA Überweisung,SWIFT und OKPAY.
@@ -1074,7 +1074,7 @@
  - name: Yunbi
    desc: Small Bitcoin exchange in China. Fee varies. Trade in CNY. 
    url: https://yunbi.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/yunbi.png
+   icon: /img/buy/yunbi.png
    countries: cn, hk, mo 
    desc_zh: 中国小型比特币交易平台。交易费略不同。以人民币交易。    
    
@@ -1083,7 +1083,7 @@
  - name: Bitcoin Vietnam
    desc: Largest Bitcoin exchange in Vietnam. Easy and convenient way to buy bitcoin. 
    url: https://www.bitcoinvietnam.com.vn/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinvietnam.png
+   icon: /img/buy/bitcoinvietnam.png
    countries: vn    
    
 ##### Moldova #################################################### 
@@ -1091,7 +1091,7 @@
  - name: Buyer.md
    desc: Bitcoin broker. Buyer.md buys bitcoin on BTC-e and then sells to you. 7% fee.   
    url: http://buyer.md/
-   icon: https://www.buybitcoinworldwide.com/img/buy/buyermd.png
+   icon: /img/buy/buyermd.png
    countries: md
    desc_bg: Биткойн брокер. Buyer.md купува биткойн на биткойн борса и продава на клиенти. Таксата е 7%.
    desc_ru: Биткоин-брокер. Buyer.md покупает биткоины на BTC-e, а затем продает Вам. Сбор в размере 7%.
@@ -1102,28 +1102,28 @@
  - name: CoinJar
    desc: Australian Bitcoin platform and broker. Buy bitcoin via BPAY. 1% fee.  
    url: https://www.coinjar.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinjar.png
+   icon: /img/buy/coinjar.png
    countries: au 
    po: bpay
    
  - name: BuyaBitcoin
    desc: Australian Bitcoin broker. Buy bitcoin via cash deposit. Coins delivered within 1 hour.    
    url: https://buyabitcoin.com.au/
-   icon: https://www.buybitcoinworldwide.com/img/buy/buyabitcoin.png
+   icon: /img/buy/buyabitcoin.png
    countries: au 
    po: cash
    
  - name: Independent Reserve
    desc: Australian Bitcoin exchange. Fund your account with EFT or SWIFT.    
    url: https://www.independentreserve.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/ir.png
+   icon: /img/buy/ir.png
    countries: au   
    po: bt, swift  
    
  - name: Coin Loft
    desc: Australian Bitcoin broker. Buy bitcoin via cash deposit. Coins delivered within 1 hour.    
    url: https://www.coinloft.com.au/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinloft.png
+   icon: /img/buy/coinloft.png
    countries: au   
    po: cash       
    
@@ -1132,7 +1132,7 @@
  - name: Bitcoin Exchange Malaysia
    desc: Bitcoin exchange. Easy and convenient way to buy Bitcoin in Malaysia.  
    url: http://btc.my/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btcmy.png
+   icon: /img/buy/btcmy.png
    countries: my   
    desc_zh: 比特币交易。在马来西亚购买比特币简单又方便的方式。
    
@@ -1141,7 +1141,7 @@
  - name: Urdubit
    desc: First bitcoin exchange in Pakistan. Buy bitcoin via bank transfer. 
    url: https://urdubit.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/urdubit.png
+   icon: /img/buy/urdubit.png
    countries: pk
    po: bt
    
@@ -1150,35 +1150,35 @@
  - name: coins.ph
    desc: Buy bitcoin via bank deposit, online transfer, padala centers and other stores. 
    url: https://coins.ph/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinph.png
+   icon: /img/buy/coinph.png
    countries: ph
    po: bt, cash
    
  - name: BuyBitcoin.ph
    desc: Bitcoin broker. Fund your account via bank transfer or cash deposit. 
    url: https://buybitcoin.ph/
-   icon: https://www.buybitcoinworldwide.com/img/buy/buybitcoinph.png
+   icon: /img/buy/buybitcoinph.png
    countries: ph   
    po: bt, cash 
 
  - name: BTCExchange
    desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
    url: https://www.btcexchange.ph/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btcexchange.png
+   icon: /img/buy/btcexchange.png
    countries: ph 
    po: bt, cash
    
  - name: Coinage
    desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
    url: https://coinage.ph/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinage.png
+   icon: /img/buy/coinage.png
    countries: ph 
    po: bt, cash
 
  - name: prepaidbitcoin.ph
    desc: Buy prepaid bitcoin cards at three locations across the Phillipines. 
    url: http://prepaidbitcoin.ph/
-   icon: https://www.buybitcoinworldwide.com/img/buy/prepaidbitcoin.png
+   icon: /img/buy/prepaidbitcoin.png
    countries: ph 
    po: cash
    
@@ -1187,13 +1187,13 @@
  - name: BitcoinCambodia.co
    desc: BitcoinCambodia.co makes buying Bitcoin in Cambodia fast, easy and secure.
    url: http://bitcoincambodia.co/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bcamodia.png
+   icon: /img/buy/bcamodia.png
    countries: kh
 
  - name: Bitcoin Cambodia
    desc: Bitcoin broker in Cambodia. Buy with Wing or cash in person. 
    url: https://bitcoincambodia.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/cambodia.png
+   icon: /img/buy/cambodia.png
    countries: kh
 
 ##### Caribbean ####################################################   
@@ -1201,7 +1201,7 @@
  - name: bitt
    desc: Caribbean Bitcoin exchange. Trade BBD, TTD, JMD, USD, EUR, and GBP. 
    url: https://www.bitt.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitt.png
+   icon: /img/buy/bitt.png
    countries: jm, bb, tt   
 
 ##### Indonesia ####################################################     
@@ -1209,7 +1209,7 @@
  - name: bitcoin.co.id
    desc: Trusted Indonesian Bitcoin exchange. Fund your account via bank transfer.  
    url: https://www.bitcoin.co.id/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoincoid.png
+   icon: /img/buy/bitcoincoid.png
    countries: id  
    desc_zh: 信誉高的印尼比特币交易。通过银行转账于账户增资。
    po: bt
@@ -1217,7 +1217,7 @@
  - name: BestBit
    desc: Bitcoin exchange and platform. Fund your account via bank transfer.  
    url: https://bestbit.co.id/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bestbit.png
+   icon: /img/buy/bestbit.png
    countries: id
    desc_zh: 比特币交易平台。通过银行转账于账户增资。
    po: bt
@@ -1225,7 +1225,7 @@
  - name: ArtaBit
    desc: Bitcoin broker and platform. Fund your account via bank transfer.  
    url: https://artabit.com/en/
-   icon: https://www.buybitcoinworldwide.com/img/buy/artabit.png
+   icon: /img/buy/artabit.png
    countries: id
    desc_zh: 比特币代理人平台。通过银行转账于账户增资。
    po: bt
@@ -1235,7 +1235,7 @@
  - name: bitFlyer
    desc: Bitcoin exchange and platform. Fund your account via bank transfer.  
    url: https://bitflyer.jp/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitflyer.png
+   icon: /img/buy/bitflyer.png
    countries: jp
    desc_zh: 比特币交易平台。通过银行转账于账户增资。
    po: bt
@@ -1243,7 +1243,7 @@
  - name: Coincheck
    desc: Bitcoin exchange based in Japan. Buy and sell bitcoin with bank transfer or credit card. 
    url: https://coincheck.jp/en/exchange
-   icon: https://www.buybitcoinworldwide.com/img/buy/coincheck.png
+   icon: /img/buy/coincheck.png
    countries: jp
    po: bt
    
@@ -1251,7 +1251,7 @@
  - name: QuoinExchange
    desc: Bitcoin exchange. Buy bitcoin via bank transfer in a number of countries.  
    url: https://www.quoine.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/quoine.png
+   icon: /img/buy/quoine.png
    countries: jp, sg, hk, id
    desc_zh: 比特币交易。可通过一些国家的银行转账购买比特币。
    po: bt
@@ -1261,7 +1261,7 @@
  - name: BTCmb
    desc: Bitcoin broker. Buy bitcoin via bank transfer or cash deposit.  
    url: http://btcmb.pt/
-   icon: https://www.buybitcoinworldwide.com/img/buy/mb.png
+   icon: /img/buy/mb.png
    countries: pt 
    name_es: BTCmb
    desc_es: Comprar bitcoin a través de depósito en efectivo o con transferencias bancarias.
@@ -1271,7 +1271,7 @@
  - name: Bitcoin ATM Lisbon
    desc: Buy bitcoin at the Bitcoin Ja ATM in Lisbon, Portugal. 3% fee.  
    url: http://coinatmradar.com/bitcoin_atm/273/bitcoin-atm-bitcoin-ja-lisbon-cinema-in-saldanha-residence/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinja.png
+   icon: /img/buy/bitcoinja.png
    countries: pt  
    desc_pt_br: Compre Bitcoins em ATMs de Bitcoins em Lisboa, Portugal. Taxa de 3%.
    po: cash
@@ -1281,7 +1281,7 @@
  - name: Matbea
    desc: Russian Bitcoin exchange. Deposit funds via bank transfer or cash deposit. 
    url: https://matbea.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/matbea.png
+   icon: /img/buy/matbea.png
    countries: ru
    desc_el: Ρωσικό ανταλλακτήριο Bitcoin. Καταθέστε χρήματα μέσω τραπεζικής μεταφοράς ή κατάθεσης μετρητών.
    desc_de: Russische Bitcoin Börse. Einzahlungen per Überweisungen oder Bareinzahlungen ausführen.
@@ -1292,7 +1292,7 @@
  - name: ALFAcashier
    desc: Bitcoin exchange. Deposit funds via bank transfer, OKPay, and Perfect Money. 
    url: https://www.alfacashier.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/alfa.png
+   icon: /img/buy/alfa.png
    countries: ru
    po: okpay, perfectmoney, bt
    desc_el: Ανταλλακτήριο bitcoin. Καταθέστε χρήματα μέσω τραπεζικής μεταφοράς, OKPay και Perfect Money.
@@ -1303,7 +1303,7 @@
  - name: Indacoin
    desc: Bitcoin broker. Buy with credit or debit card, QIWI Wallet, Yandex.Money.  
    url: https://indacoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/indacoin.png
+   icon: /img/buy/indacoin.png
    countries: ru
    po: cc, yandex
    desc_el: Μεσίτης bitcoin. Αγοράστε με πιστωτική ή χρεωστική κάρτα, QIWI Wallet, Yandex.Money.
@@ -1316,7 +1316,7 @@
  - name: btcu.biz
    desc: Bitcoin broker. Buy with credit card or cash deposit at thousands of ATMs across Ukraine.  
    url: https://btcu.biz/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btcubiz.png
+   icon: /img/buy/btcubiz.png
    countries: ua
    po: cc, cash
    desc_bg: Купете чрез кредитна карта или депозит в брой от хиляди автомати на територията на Украйна.
@@ -1326,7 +1326,7 @@
  - name: Kuna
    desc: Bitcoin broker. Buy bitcoin directly from the Kuna Bitcoin agency.
    url: http://kuna.com.ua/
-   icon: https://www.buybitcoinworldwide.com/img/buy/kuna.png
+   icon: /img/buy/kuna.png
    countries: ua
    po: cash
    desc_bg: Биткойн брокер. Купете биткойн директно от агенция Kuna Bitcoin.
@@ -1338,7 +1338,7 @@
  - name: Bitcoin ATM
    desc: Buy bitcoin from the Lamassu Bitcoin ATM in Bishkek, Kyrgyzstan. 
    url: http://coinatmradar.com/bitcoin_atm/132/bitcoin-atm-lamassu-bishkek-dolce-vita-pizzeria/
-   icon: https://www.buybitcoinworldwide.com/img/buy/lamassu.png
+   icon: /img/buy/lamassu.png
    countries: kg   
    po: cash
    desc_ru: Купить биткоин через банкомат Lamassu Bitcoin в Бишкеке, Кыргызстан.
@@ -1349,7 +1349,7 @@
  - name: coins.co.th
    desc: Buy bitcoin via bank or cash deposit, bank transfer, or ATMs across the country.
    url: https://coins.co.th
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinsth.png
+   icon: /img/buy/coinsth.png
    countries: th 
    desc_zh: 在国内以银行/现金交存、银行转账或自动提款机购买比特币。
    po: cash, bt
@@ -1357,7 +1357,7 @@
  - name: bx.in.th
    desc: Buy bitcoin online in Thailand via online bank transfer. Available at many banks.
    url: https://bx.in.th/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bxth.png
+   icon: /img/buy/bxth.png
    countries: th 
    desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
    po: bt
@@ -1365,7 +1365,7 @@
  - name: bitcoin.co.th
    desc: Buy bitcoin via cash deposit, bank transfer, or ATM.  Sell bitcoins and receive THB to any Thai bank account.
    url: https://bitcoin.co.th
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoincoth.png
+   icon: /img/buy/bitcoincoth.png
    countries: th 
    desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
    po:  cash, bt
@@ -1375,14 +1375,14 @@
  - name: Korbit
    desc: Largest Bitcoin exchange in South Korea. Deposit via bank transfer.
    url: https://korbit.co.kr/
-   icon: https://www.buybitcoinworldwide.com/img/buy/korbit.png
+   icon: /img/buy/korbit.png
    countries: kr 
    po: bt
    
  - name: Coinplug
    desc: Buy bitcoin with a credit card or cash deposit at many ATMs nationwide.
    url: https://www.coinplug.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinplug.png
+   icon: /img/buy/coinplug.png
    countries: kr 
    po: cc, cash
 
@@ -1391,7 +1391,7 @@
  - name: MaiCoin
    desc: Largest Bitcoin exchange in Taiwan. Deposit via ATM or bank transfer.
    url: https://www.maicoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/maicoin.png
+   icon: /img/buy/maicoin.png
    countries: tw
    desc_zh: 台湾最大的比特币交易平台。通过自动提款机或银行转账交存。    
    po: cash, bt
@@ -1399,7 +1399,7 @@
  - name: BitoEX
    desc: Buy bitcoin at over 5,000 convenience stores across Taiwan. Simple and fast.
    url: https://www.bitoex.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitoex.png
+   icon: /img/buy/bitoex.png
    countries: tw    
    desc_zh: 可在台湾内超过五千家的便利商店购买比特币。简单又快捷。
    po: cash
@@ -1409,7 +1409,7 @@
  - name: Zebpay
    desc: Zebpay is a Bitcoin platform and broker based in India. It has Android and iPhone apps that make it easy to buy bitcoins with a connected Indian bank account. 
    url: https://www.zebpay.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/zebpay.png
+   icon: /img/buy/zebpay.png
    countries: in    
    po: bt
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits]
@@ -1417,7 +1417,7 @@
  - name: Unocoin
    desc: Leading Indian Bitcoin platform. Buy bitcoin with any Indian bank account. 
    url: https://www.unocoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/unocoin.png
+   icon: /img/buy/unocoin.png
    countries: in    
    po: bt
    desc_pt_br: Plataforma Indiana de Bitcoins. Compre Bitcoins usando qualquer tipo de conta bancária indiana.
@@ -1425,7 +1425,7 @@
  - name: coinsecure
    desc: Indian Bitcoin exchange and trading platform. 0.3% fee and a number of deposit options. 
    url: https://coinsecure.in/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinsecure.png
+   icon: /img/buy/coinsecure.png
    countries: in  
    po: bt
    desc_pt_br: Plataforma indiana de conversão de Bitcoins. Taxa de 0,3% e várias opções de depósito. 
@@ -1435,7 +1435,7 @@
  - name: Bitcoin ATM Belgrade
    desc: Buy bitcoin from the Skyhook Bitcoin ATM in Belgrade, Serbia.    
    url: http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/
-   icon: https://www.buybitcoinworldwide.com/img/buy/skyhook.png
+   icon: /img/buy/skyhook.png
    countries: rs   
    po: cash
    desc_bg: Купете биткойн от биткойн автомат Skyhook Bitcoin в Белград, Сърбия.
@@ -1447,7 +1447,7 @@
  - name: Bitcoin ATM Budapest
    desc: Buy bitcoin from the Lamassu Bitcoin ATM in Budapest, Hungary.    
    url: http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/
-   icon: https://www.buybitcoinworldwide.com/img/buy/lamassu.png
+   icon: /img/buy/lamassu.png
    countries: hu
    po: cash
    desc_de: Bitcoin von Lamassu Bitcoin ATM in Budapest, Ungarn kaufen.
@@ -1458,7 +1458,7 @@
  - name: Bitcoin ATM Budapest
    desc: Buy bitcoin from the BitAccess Bitcoin ATM in Budapest, Hungary.    
    url: http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitaccess.png
+   icon: /img/buy/bitaccess.png
    countries: hu  
    po: cash
    desc_de: Bitcoin von BitAccess Bitcoin ATM in Budapest, Ungarn kaufen.
@@ -1471,7 +1471,7 @@
  - name: Bitcoin ATM Acharnes
    desc: Buy bitcoin from the Genesis Coin Bitcoin ATM in Acharnes, Greece.     
    url: http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/
-   icon: https://www.buybitcoinworldwide.com/img/buy/genesiscoin.png
+   icon: /img/buy/genesiscoin.png
    countries: gr
    po: cash
    name_el: ATM στην Αχαρνές
@@ -1482,7 +1482,7 @@
  - name: Bitcoin ATM Athens
    desc: Buy bitcoin from the BTCPoint Bitcoin ATM in Athens, Greece.    
    url: http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btcpoint.png
+   icon: /img/buy/btcpoint.png
    countries: gr 
    po: cash 
    name_el: ATM στην Αθήνα
@@ -1496,7 +1496,7 @@
  - name: BitKonan
    desc: Bitcoin exchange in Croatia. Deposit via Croatian bank transfer or SEPA.      
    url: https://bitkonan.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitkonan.png
+   icon: /img/buy/bitkonan.png
    countries: hr
    po: bt, sepa
    desc_it: Cambio di Bitcoin in Croazia. Deposita tramite bonifico bancario o SEPA in Croazia.
@@ -1508,14 +1508,14 @@
  - name: Bitonic
    desc: Fast and easy way to buy bitcoins in the Netherlands with iDEAL or MasterCash.    
    url: http://buybitcoinww.co/bitonic_nl
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitonic.png
+   icon: /img/buy/bitonic.png
    countries: nl
    po: ideal, mastercash
    
  - name: Bitrush
    desc: Buy bitcoins and other popular cryptocurrencies in Europe with SOFORT and iDEAL.
    url: https://www.bitrush.nl
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitrush.png
+   icon: /img/buy/bitrush.png
    countries: nl
    po: ideal, sofort
    
@@ -1524,7 +1524,7 @@
  - name: BitBay
    desc: Buy bitcoins with euros via wire transfer in Poland or with cash at Poczta Polska.      
    url: http://buybitcoinww.co/BitBay_net
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitbaynet.png
+   icon: /img/buy/bitbaynet.png
    countries: pl
    po: bt, cash
    desc_ccww_pl: BitBay jest wiodącą giełdą kryptowalut w Polsce. Udostępnia wiele zaawansowanych narzędzi do handlu Bitcoin i innymi altcoinami. To, co wyróżnia giełdę BitBay to możliwość szybkich wpłat i wypłat różnymi metodami. Poczta Polska, bankomaty czy karta do konta to najpopularniejsze z nich. Karty kredytowe i debetowe Visa i Mastercard umożliwiają szybkie wpłaty walut EUR i USD na konto BitBay. Prowizja wynosi 5%, ale nie mniej niż 10 EUR lub USD. Usługa jest dostępna tylko dla zweryfikowanych użytkowników giełdy. Wpłacone środki można wykorzystać na dalsze transakcje giełdowe.
@@ -1532,7 +1532,7 @@
  - name: Bitcurex
    desc: Largest Bitcoin exchange in Poland. Deposit via bank transfer or SEPA.     
    url: https://bitcurex.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcurex.png
+   icon: /img/buy/bitcurex.png
    countries: pl
    po: sepa, bt
    desc_de: Größte Bitcoin Börse in Polen. Geld über Banküberweisungen oder SEPA einzahlen.
@@ -1542,7 +1542,7 @@
  - name: BitMarket
    desc: Bitcoin exchange in Poland. Deposit PLN via local bank transfer.
    url: https://www.bitmarket.pl/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitmarket.png
+   icon: /img/buy/bitmarket.png
    countries: pl
    po: bt 
    desc_de: Bitcoin Börse. Zahle PLN über lokale Banküberweisungen ein.
@@ -1554,7 +1554,7 @@
  - name: Bitcoin Romania
    desc: Buy bitcoin at more than 800 ZebraPay terminals across Romania.   
    url: http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btcromania.png
+   icon: /img/buy/btcromania.png
    countries: ro
    po: cash
    desc_de: Bitcoin auf mehr als 800 ZebraPay Terminale in ganz Rumänien kaufen.
@@ -1565,7 +1565,7 @@
  - name: BitcoinXRomania
    desc: Bitcoin exchange. Deposit via bank transfer. 0.5% fee on all trades.    
    url: https://bitcoinxromania.com/en/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btcxromania.png
+   icon: /img/buy/btcxromania.png
    countries: ro   
    po: bt
    desc_de: Bitcoin Börse. Geld über Banküberweisungen einzahlen. 0.5% Gebühr auf alle Handeln.
@@ -1578,7 +1578,7 @@
  - name: BitcoinRD
    desc: BitcoinRD is the easiest way to purchase bitcoins in the Dominican Republic. Users can purchase with bank transfer. 
    url: http://bitcoinrd.online/comprar-bitcoin.html
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinrd.png
+   icon: /img/buy/bitcoinrd.png
    countries: do
    po: bt
    desc_es: Compra Bitcoins en República Dominicana vía transferencia bancaria. 
@@ -1588,7 +1588,7 @@
  - name: NairaEx
    desc: Buy BTC in Nigeria with Perfect Money, Web Money, bank transfer & cash in person.  
    url: https://nairaex.com/home
-   icon: https://www.buybitcoinworldwide.com/img/buy/nairaex.png
+   icon: /img/buy/nairaex.png
    countries: ng 
    po: cash, bt
    
@@ -1597,7 +1597,7 @@
  - name: BitPesa
    desc: BitPesa is a Bitcoin remittance company but also sells Bitcoin in Kenya.  
    url: https://www.bitpesa.co/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitpesa.png
+   icon: /img/buy/bitpesa.png
    countries: ke 
    po: mpesa
    name_es: BitPesa
@@ -1609,7 +1609,7 @@
  - name: Bitstamp
    desc: BitStamp is one of the world's largest and most well known Bitcoin exchanges. Deposits can be made through bank transfer, SEPA transfer, or even credit card. 
    url: http://buybitcoinww.co/buy_bitstamp
-   icon: https://www.buybitcoinworldwide.com/img/buy/stamp.png
+   icon: /img/buy/stamp.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: sepa, lowfees, babt, sell
    tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eouhard, highlimits]
@@ -1632,7 +1632,7 @@
  - name: Kraken
    desc: Kraken is the world's largest euro-denominated Bitcoin exchange based on daily average trading volume. It supports deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via international bank transfer, SEPA transfer, and Interac.
    url: http://buybitcoinww.co/kraken_bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/kraken.png
+   icon: /img/buy/kraken.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
    po: sepa, io, lowfees, babt, sell
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
@@ -1659,7 +1659,7 @@
    tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eoueasy, avglimits]
    url: http://buybitcoinww.co/Wall_of_Coins
    internal_url: /exchanges/wall-of-coins/
-   icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
+   icon: /img/buy/wallofcoins.png
    countries: us, ca, de, ph, ar, pl, lv
    po: fast, cash, cdus, nobank, lowfees
    pros: <li>Easy and private way to purchase bitcoins</li>
@@ -1691,7 +1691,7 @@
    desc: CEX.io lets you <a href="/en/buy-bitcoin-credit-debit-card/">buy bitcoin with a credit card</a>, ACH bank transfer, SEPA transfer, cash, and AstroPay. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America.
    url: http://buybitcoinww.co/CEX__IO
    internal_url: /exchanges/cex-io/
-   icon: https://www.buybitcoinworldwide.com/img/buy/cex.png
+   icon: /img/buy/cex.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
    po: sepa, ccus, swift, fast, lowfees, ccww, ccwwtop, cc, astro, babt
    desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card from nearly any country. 
@@ -1729,7 +1729,7 @@
  - name: LibertyX
    desc: LibertyX makes buying bitcoins with cash a simple process. You first use LibertyX's app to locate a store near you that sells LibertyX codes. Once you locate a store you enter your LibertyX code to the app along with a Bitcoin address and your coins will be delivered. <br><br> If you connect a Facebook account to your LibertyX app, your first $500 of purchases are fee-free. Otherwise all purchases cost 1% in fees.   
    url: http://buybitcoinww.co/libertyx_bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/libertyx.png
+   icon: /img/buy/libertyx.png
    countries: us
    po: fast, cdus, nobank, lowfees, cash
    tags: [quickinfo, avgprivacy, avgspeed, avgfees, trusted, eouavg, avglimits]
@@ -1755,7 +1755,7 @@
    desc_ccww_short: Buy bitcoin in the UK and Europe with debit card or credit card.
    desc_babt: CoinCorner is a Bitcoin exchange based in the Isle of Man. Users in the UK and Europe can purchase bitcoins with SEPA, credit/debit card, or GBP bank transfer.  
    url: http://buybitcoinww.co/coincorner
-   icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
+   icon: /img/buy/ccoiner.png
    countries: gb, be, dk, fi, lu, nl, pl, sk, es, au, bg, cy, ee, fr, gr, hu, it, mt, nz, pt, si, se, at, ca, cz, de, ie, mc, nor, sm, ch, za
    po: bt, sepa, cc, babt, ccww, neteller
    desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
@@ -1765,7 +1765,7 @@
  - name: Coin ATM Radar
    desc: Coin ATM Radar is a Bitcoin ATM database that helps you locate Bitcoin ATMs in your area to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>. Bitcoin ATMs can be quick and easy ways to buy bitcoins and are also private. That convenience and privacy, however, comes with a price as most ATMs have fees of 5-10%.  
    url: /en/buy-bitcoins-with-cash/#coinatmradar
-   icon: https://www.buybitcoinworldwide.com/img/buy/car.png
+   icon: /img/buy/car.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye 
    po: fast, cdus, nobank, cash
    desc_nobank: Coin ATM Radar helps you find Bitcoin ATMs in your area, where you can by bitcoins with cash and no bank account. 
@@ -1778,7 +1778,7 @@
  - name: Snapcard
    desc: Snapcard is a California based Bitcoin broker. It serves US customers who can buy bitcoins with a wire transfer or ACH transfer.    
    url: https://www.snapcard.io/buy-bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/snapcard.png
+   icon: /img/buy/snapcard.png
    countries: us
    po: usbt, lowfees, bt, babt, ach
    desc_usbankshort: Buy bitcoin with a connected U.S. bank account. 0.5% fee. 
@@ -1796,7 +1796,7 @@
  - name: Purse.io
    desc: "With Purse.io you purchase bitcoin with a credit or debit card but not directly. Purse.io connects you with a buyer who wants to make a purchase on Amazon. You use your credit card or debit card to order items from the buyer's Amazon wish list. When the items have been delivered to the buyer, you are given bitcoin equivalent to the value of the items you ordered for the buyer. Purse.io is available in the United States, Canada, Japan, Brazil, France, Italy, Spain, China, and India."
    url: http://buybitcoinww.co/purse_io
-   icon: https://www.buybitcoinworldwide.com/img/buy/purse.png
+   icon: /img/buy/purse.png
    countries: us, ca, jp, br, uk, fr, it, es, cn, in
 #   po: ccus, ccww, cc
 ##   desc_ccww: "With Purse.io you purchase bitcoin with a CC but not directly. Purse.io connects you with a buyer who wants to make a purchase on Amazon. You use your credit card or debit card to order items from the buyer's Amazon wish list. When the items have been delivered to the buyer, you are given bitcoin equivalent to the value of the items you ordered for the buyer. Purse.io is available in the United States, Canada, Japan, Brazil, France, Italy, Spain, China, and India."
@@ -1822,7 +1822,7 @@
    desc: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    url: http://buybitcoinww.co/coinhouse
    po: neosurf
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
+   icon: /img/buy/coinhouse.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    tags: [quickinfo, lowprivacy, fast, highfees, trusted, eouavg, highlimits]
@@ -1830,7 +1830,7 @@
  - name: Cubits
    desc: Cubits is a Bitcoin exchange based in the United Kingdom. It allows users in almost any country besides the United States to purchase bitcoins using a wide range of currencies and payment methods. The payment options include SEPA, OKPAY, SOFORT, Skrill, Dotpay, and Online Bank Transfer. 
    url: http://buybitcoinww.co/Cubits_
-   icon: https://www.buybitcoinworldwide.com/img/buy/cubits.png
+   icon: /img/buy/cubits.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
    po: sepa, okpay, swift, sofort, onlinebt, babt
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eoueasy, lowlimits]
@@ -1854,7 +1854,7 @@
    desc_skrill: VirWoX isn't a Bitcoin exchange, but rather used to acquire Second Life Lindens (SLL), a currency used in the virtual world Second Life. It is, however, possible to buy SLL with Skrill, and then trade the SLL for bitcoin. We don't have a step-by-step tutorial for how to go through the process with Skrill, but it's <a href="/en/buy-bitcoin-paypal/">very similar to how it's done with PayPal</a>. Simply deposit with Skrill, buy SLL, and trade the SLL for BTC. You can follow the steps shown in the PayPal article for an approximate how-to.  
    url: http://buybitcoinww.co/bitcoin_virwox
    internal_url: /exchanges/virwox/
-   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
+   icon: /img/buy/virwox.png
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
    po: pp, cc, skrill, okpay, sell
    desc_sell: One of the few ways to sell bitcoins to PayPal, but will cost around 9% in fees. 
@@ -1872,7 +1872,7 @@
  - name: Bitit
    desc: Bitit lets you purchase bitcoins online with a credit card or cash in 100K+ local stores across Europe.
    url: http://buybitcoinww.co/bitit_gift
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitit.png
+   icon: /img/buy/bitit.png
    countries: fr, ca, gb, pl, de, it, es, nl, ch, be, lu, mt, il, dk, au, gr, is, ie, no, fi, za, mx, hr, at, pt, se, cy, cz, br, ar
    po: cc, neosurf
    desc_fr: Acheter des Bitcoins en ligne par carte bancaire ou en espèces dans 100k+ magasins
@@ -1881,7 +1881,7 @@
 ## - name: Trucoin
 ##   desc: Buy bitcoin instantly with a credit or debit card in over 30 US states.
 ##   url: https://trucoin.com/
-##   icon: https://www.buybitcoinworldwide.com/img/buy/trucoin.png
+##   icon: /img/buy/trucoin.png
 ##   countries: us
 ##   po: ccus, fast, ccww, cc
 ##   desc_fast: Trucoin lets you buy bitcoin with a Visa or Mastercard CC in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
@@ -1900,14 +1900,14 @@
  - name: CoinBTM
    desc: CoinBTM is a New York based Bitcoin ATM provider with over 30 machines in NY and New Jersey. Check its website for the latest details on locations, fees, and hours. 
    url: http://coinbtm.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinbtm.png
+   icon: /img/buy/coinbtm.png
    countries: us
 
  - name: itBit
    desc: itBit is a global Bitcoin exchange licensed with the New York State Department of Financial Services. It also operates a global OTC trading desk, making it easy for customers to buy large amounts of bitcoins. It supports all US states besides Texas. 
    url: https://www.itbit.com/
    internal_url: /exchanges/itbit/
-   icon: https://www.buybitcoinworldwide.com/img/buy/itbit.png
+   icon: /img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
    po: sepa
    tags: [quickinfo, review, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
@@ -1928,7 +1928,7 @@
 ## - name: expresscoin
 ##   desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
 ##   url: http://buybitcoinww.co/expresscoin_bitcoin
-##   icon: https://www.buybitcoinworldwide.com/img/buy/expresscoin.png
+##   icon: /img/buy/expresscoin.png
 ##   countries: us
 ##   po: nobank, mo, pc
    desc_nobank: Expresscoin is a bitcoin broker geared towards those without a bank account. The company's only payment options at the moment are money order and personal check. 
@@ -1946,14 +1946,14 @@
 ## - name: Unichange.me
 ##   desc: Buy bitcoin with OKPay, Perfect Money, Litecoin, and more.  
 ##   url: http://buybitcoinww.co/unichangeme
-##   icon: https://www.buybitcoinworldwide.com/img/buy/unichange.png
+##   icon: /img/buy/unichange.png
 ##   countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye 
 ##   po: okpay, perfectmoney
       
  - name: CryptoPay
    desc: Bitcoin broker based in the United Kingdom. Purchase bitcoins with SEPA transfer.  
    url: https://cryptopay.me/
-   icon: https://www.buybitcoinworldwide.com/img/buy/cryptopay.png
+   icon: /img/buy/cryptopay.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch
    po: sepa
    desc_ar:  وسيط بيتكوين. شراء بيتكوين بحوالة SEPA أو بحوالة بنكية في المملكة المتحدة.
@@ -1971,7 +1971,7 @@
  - name: CryptoPay
    desc: CryptoPay is a Bitcoin broker based in the UK. Residents of the UK can purchase bitcoins in minutes using local bank transfer.  
    url: https://cryptopay.me/
-   icon: https://www.buybitcoinworldwide.com/img/buy/cryptopay.png
+   icon: /img/buy/cryptopay.png
    countries: gb 
    hide: yes
    po: bt
@@ -1990,7 +1990,7 @@
  - name: Anycoin Direct
    desc: Anycoin Direct is a Bitcoin broker based in the Netherlands. Customers can purchase bitcoin with SEPA, Interac Online, iDEAL and many more payment methods. 
    url: https://anycoindirect.eu/
-   icon: https://www.buybitcoinworldwide.com/img/buy/anycoin.png
+   icon: /img/buy/anycoin.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
    po: sepa, io, sofort, trustpay, giro, ideal
    desc_ar:  وسيط بيتكوين . شراء بيتكوين بـSEPA وInterac Online والعديد من وسائل الدفع الأخرى.
@@ -2008,14 +2008,14 @@
 ## - name: SpectroCoin
 ##   desc: Bitcoin exchange, wallet and debit card. USD, EUR, GBP and other currencies supported. 
 ##   url: http://buybitcoinww.co/spectro_coin
-##   icon: https://www.buybitcoinworldwide.com/img/buy/spectrocoin.png
+##   icon: /img/buy/spectrocoin.png
 ##   countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
 ##   po: cc, cash, bt, sepa, ideal, sofort, swift, astro, okpay, giro, perfectmoney
 
 ## - name: BitQuick
 ##   desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 
 ##   url: http://buybitcoinww.co/buybitquick
-##   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
+##   icon: /img/buy/bitquick.png
 ##   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
 ##   po: sepa
 ##   desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
@@ -2034,7 +2034,7 @@
  - name: Bitfinex
    desc: Bitfinex has long been one of the largest USD Bitcoin exchanges. In August 2016, however, it was hacked and lost around 30% of its users funds. While Bitfinex can be helpful if buying large amounts of bitcoins, it is probably best to not use the exchange until it is able to compensate its users and figure out how it was hacked. 
    url: http://buybitcoinww.co/bitfinex_exchange
-   icon: https://www.buybitcoinworldwide.com/img/buy/finex.png
+   icon: /img/buy/finex.png
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn 
    po: lowfees, swift, babt
    name_es: Bitfinex
@@ -2058,7 +2058,7 @@
  - name: Xapo
    desc: Xapo is a global Bitcoin platform. It allows users in nearly any country to purchase bitcoins via SWIFT transfer. 
    url: https://xapo.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/xapo.png
+   icon: /img/buy/xapo.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, au, br, cl, co, mx, uy, cn, hk, tr, ar
    po: swift, babt
    name_es: Xapo
@@ -2080,14 +2080,14 @@
  - name: Belgacoin
    desc: Belgacoin is a Bitcoin exchange based in Belgium. It accepts payments via SEPA or international bank transfer. 
    url: https://www.belgacoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/belgacoin.png
+   icon: /img/buy/belgacoin.png
    po: bt
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    
  - name: BTCe
    desc: BTC-e is a Bitcoin exchange based on Bulgaria. While its owners are anonymous, it has been one of the most widely used Bitcoin exchanges throughout Bitcoin's history. It has never lost user funds like many other regulated exchanges, which makes it trustworthy in the eyes of some. But since it's not regulated, its owners could run away with customer funds at anytime. BTC-e appears to be trustworthy, but use with caution and don't leave funds on the exchange! <br><br> Users can deposit with bank transfer, SEPA, webmoney.ru, credit card, and many more options.  
    url: https://btc-e.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/btce.png
+   icon: /img/buy/btce.png
    countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, lowfees, cc, wmru
    name_es: BTCe
@@ -2111,7 +2111,7 @@
 ## - name: Paxful
 ##   desc: Buy bitcoin with PayPal, cash deposit, SEPA, credit card, Western Union, and more.
 ##   url: https://paxful.com/
-##   icon: https://www.buybitcoinworldwide.com/img/buy/paxful.png
+##   icon: /img/buy/paxful.png
 ##   countries: us
 ##   po: sepa, paypal, amzngc, okpay, wu, pp
 ##   desc_paypal: Paxful helps match you with a seller who accepts PayPal for Bitcoin. It's best to make the exchange in person in order to reduce the risk of fraud. Only buy from sellers with excellent feedback and previous sales.  
@@ -2119,7 +2119,7 @@
  - name: HappyCoins
    desc: HappyCoins is a Bitcoin exchange based in the Netherlands, but services customers in all of Europe. It offers a wide range of payment methods including many instant payment methods such as iDEAL, GiroPay, myBank, Sofort, and more. It also offers SEPA deposits for all EU residents. 
    url: https://www.happycoins.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/happy.png
+   icon: /img/buy/happy.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb     
    po: sepa, ideal, sofort, io, babt
    desc_ar:  وسيط بيتكوين. الشراء بتحويل بنكي SEPA، و iDEAL، وغيرها من طرق الدفع الأخرى.
@@ -2138,7 +2138,7 @@
  - name: Mycelium Local Trader
    desc: Mycelium Local Trader helps you find local Bitcoin sellers. Once you locate a seller, you meet up in person and go through with the purchase. Mycelium charges absolutely no fees. While Mycelium Local Trader works great in highly populated areas, users in low population areas will have trouble finding sellers.
    url: /en/buy-bitcoins-with-cash/#local-trader
-   icon: https://www.buybitcoinworldwide.com/img/buy/mycelium.png
+   icon: /img/buy/mycelium.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
    po: cdus, cash, nobank, lowfees 
    name_es: Mycelium
@@ -2167,7 +2167,7 @@
  - name: ShapeShift
    desc: ShapeShift lets you buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens. ShapeShift works in nearly every country but you will need another cryptocurrency in order to purchase bitcoins. Exchanges happen almost instantly because ShapeShift never actually controls your tokens but just exchanges them. 
    url: /kb/buy-bitcoin-without-verification-id/#shapeshift
-   icon: https://www.buybitcoinworldwide.com/img/buy/shapeshift.png
+   icon: /img/buy/shapeshift.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
    name_es: ShapeShift
    desc_es: Comprar Bitcoin con Litecoin, Dogecoin, Altcoins y otras monedas digitales.
@@ -2191,7 +2191,7 @@
  - name: bitcoin-otc
    desc: Bitcoin-OTC is an over-the-counter marketplace for the P2P exchanging of bitcoin. It is almost like a Craigslist for Bitcoin. Users must create ads or locate other ads to find sellers of bitcoin. Bitcoin-OTC is somewhat complicated and hard to use, but may be the only option for users in some countries without an exchange.
    url: /kb/buy-bitcoin-without-verification-id/#bitcoin-otc
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinotc.png
+   icon: /img/buy/bitcoinotc.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo  
    desc_paypal: It may be possible to buy bitcoin with PayPal using bitcoin-otc. However, this depends on the  order book and if someone is currently willing to sell their Bitcoin for PayPal. It may not be possible to use bitcoin-otc in some countries, and the amount of sellers who accept PayPal is very small. 
    name_es: bitcoin-otc
@@ -2216,7 +2216,7 @@
  - name: Local Bitcoins
    desc_neteller_short: Buy bitcoins with NETELLER online from other users; LocalBitcoins is used as escrow.
    url: http://buybitcoinww.co/lb_neteller
-   icon: https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png
+   icon: /img/buy/localbitcoins.png
    desc_neteller: LocalBitcoins is an escrow service and will help connect you with users online who accept NETELLER for bitcoin. Use caution when trading on LocalBitcoins. Check each seller's profile to verify a history of succesful trades. 
    po: neteller
    hide: yes
@@ -2224,7 +2224,7 @@
  - name: Local Bitcoins
    desc_skrill_short: Buy bitcoins with Skrill online from other users. LocalBitcoins is used as escrow.
    url: http://buybitcoinww.co/localbtc_skrill
-   icon: https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png
+   icon: /img/buy/localbitcoins.png
    desc_skrill: LocalBitcoins is an escrow service and will help connect you with users online who accept Skrill for bitcoin. Use caution when trading on LocalBitcoins. Check each seller's profile to verify a history of succesful trades. Trader's with negative feedback and problematic trading history should be avoided. 
    po: skrill
    hide: yes   
@@ -2232,7 +2232,7 @@
  - name: ANXPRO
    desc: ANXPRO is based in Hong Kong. It lets you buy bitcoins with cash, bank transfer, and credit card. 
    url: http://anxpro.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/anxbtc.png
+   icon: /img/buy/anxbtc.png
    countries: hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa
    desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
@@ -2242,7 +2242,7 @@
  - name: BitSquare
    desc: BitSquare is a decentralized Bitcoin exchange. It offers high privacy and security, and never controls its users funds. 
    url: https://bitsquare.io/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitsquare.png
+   icon: /img/buy/bitsquare.png
    po: bt
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    
