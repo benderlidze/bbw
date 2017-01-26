@@ -130,8 +130,6 @@
  - country: Albania
    short: al
    eu: yes
-   es: yes
-   country_es: Albania
    it: yes
    country_it: Albania
    url_it: yes
@@ -218,8 +216,6 @@
  - country: Estonia
    short: ee
    eu: yes  
-   es: yes
-   country_es: Estonia
    ru: yes
    country_ru: Эстония
 
@@ -335,8 +331,6 @@
  - country: Macedonia
    short: mk
    eu: yes 
-   es: yes
-   country_es: Macedonia
    
  - country: Malta
    short: mt
@@ -365,8 +359,6 @@
  - country: Montenegro
    short: me
    eu: yes   
-   es: yes
-   country_es: Montenegro 
    
  - country: Netherlands
    short: nl
@@ -426,16 +418,12 @@
  - country: Serbia
    short: rs
    eu: yes   
-   es: yes
-   country_es: Serbia
    ru: yes
    country_ru: Сербия
    
  - country: Slovakia
    short: sk
-   eu: yes 
-   es: yes
-   country_es: Eslovaquia   
+   eu: yes    
    ru: yes
    country_ru: Словакия
    
