@@ -1131,6 +1131,10 @@ input.gsc-input {
 	.color-wrap .row {
     	padding: 0 10px 30px;
 	}
+	
+	.how-to-buy-wrap .row {
+		padding: 0 22px 30px !important;
+	}
 }
 
 .color-guide-section-title {
@@ -1148,6 +1152,23 @@ input.gsc-input {
 .chapter-number-small {
 	a {
 		color: #000;
+	}
+}
+
+.wide-img {
+	width: 100%;
+	margin: 20px 0;
+	
+	img {
+		width: 100%;
+	}
+	
+	.wide-img-caption {
+		color: #7f7f7f;
+    font-size: 0.9em;
+    margin: 10px 0 0;
+    text-align: center;
+    width: 100%;
 	}
 }
 
@@ -1171,9 +1192,16 @@ input.gsc-input {
 	}
 }
 
+.ex-comparison {
+	margin-top: 25px !important;
+}
+
+
+
 .wallet-type-hot {
 	text-align: center;
 	font-weight: bold;
+	font-size: 1.55em !important;
 }
 
 .nice-divider-sub {
@@ -1259,6 +1287,22 @@ input.gsc-input {
 	}
 }
 
+@media (max-width: 670px) { 
+	.quote-box .position {
+		    clear: both;
+		    display: block;
+		    font-size: 0.92em;
+		    font-style: italic;
+		    margin-left: 54px;
+		    margin-top: -8px;
+		}
+		
+	.quote-box {
+		    background: transparent url("/img/goodicons/quote.png") no-repeat scroll 0 0 / 30px auto !important;
+		    padding: 0 0 0 45px !important;
+		}	
+}
+
 .quote-box {
 	
 	background: rgba(0, 0, 0, 0) url("/img/goodicons/quote.png") no-repeat scroll 0 0 / 40px auto;
@@ -1303,6 +1347,10 @@ input.gsc-input {
 
 .blue-row {
 	background: #2579c6;
+	
+	.call-to-buy:hover {
+		color: #2579c6;
+	}
 }
 
 .special-letters {
