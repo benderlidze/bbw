@@ -97,8 +97,6 @@
    country_uk: Сполучені Штати Америки
    url_uk: yes
    url_uk_c: Сполучені_Штати_Америки
-   fr: yes
-   country_fr: États-Unis
    de: yes
    country_de: Vereinigte Staaten
    url_de: yes
@@ -287,8 +285,6 @@
  - country: Italy
    short: it
    eu: yes  
-   fr: yes
-   country_fr: Italie
    de: yes
    country_de: Italien
    it: yes
@@ -347,8 +343,6 @@
  - country: Monaco
    short: mc
    eu: yes     
-   fr: yes
-   country_fr: Monaco
    it: yes
    country_it: Principato di Monaco
    url_it: yes
@@ -985,8 +979,6 @@
  - country: Burkina Faso
    short: bf
    af: yes 
-   fr: yes
-   country_fr: Burkina Faso
 
  - country: Burundi
    short: bi
@@ -1010,9 +1002,7 @@
 
  - country: Chad
    short: td
-   af: yes  
-   fr: yes
-   country_fr: Tchad   
+   af: yes   
 
  - country: Comoros
    short: km
@@ -1021,8 +1011,6 @@
  - country: Congo
    short: cg
    af: yes 
-   fr: yes
-   country_fr: Congo  
 
  - country: DR Congo
    short: cd
@@ -1033,16 +1021,12 @@
    af: yes   
    ar: yes
    country_ar: جيبوتي
-   fr: yes
-   country_fr: Djibouti
 
  - country: Equatorial Guinea
    short: gq
    af: yes  
    es: yes
    country_es: Guinea Ecuatorial
-   fr: yes
-   country_fr: Guinée Équatoriale 
 
  - country: Eritrea
    short: er
@@ -1057,8 +1041,6 @@
  - country: Gabon
    short: ga
    af: yes  
-   fr: yes
-   country_fr: Gabon
 
  - country: Gambia
    short: gm
@@ -1071,8 +1053,6 @@
  - country: Guinea
    short: gn
    af: yes 
-   fr: yes
-   country_fr: Guinée
 
  - country: Guinea-Bissau
    short: gw
@@ -1091,8 +1071,6 @@
  - country: Kenya
    short: ke
    af: yes  
-   fr: yes
-   country_fr: Kenya
 
  - country: Lesotho
    short: ls
@@ -1165,8 +1143,6 @@
  - country: Rwanda
    short: rw
    af: yes
-   fr: yes
-   country_fr: Rwanda
 
  - country: Senegal
    short: sn
