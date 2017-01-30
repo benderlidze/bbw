@@ -32,7 +32,13 @@
    summary: The Copay Bitcoin wallet is also available for Android. It's easy to use and offers many advanced features that offer great flexibility. 
    tags: [android, nonhw]
    thumb: copay.png
-   website_url: https://copay.io/   
+   website_url: https://copay.io/
+   
+ - title: Airbitz
+   summary: "Airbitz is an easy to use Bitcoin wallet for iPhone and Android. Its familiar login feature makes using the app a breeze for people who are new to bitcoin. The wallet also creates automatic backups, so you don't have to create manual backups."
+   tags: [android, ios, nonhw]
+   thumb: airbitz.png
+   website_url: https://copay.io/      
    
  - title: Copay
    summary: Last, but not least, Copay is also available on desktop. Its desktop app gives you the ability to manage your hardware wallets, along with all of the other features mentioned above. 
