@@ -105,10 +105,6 @@
    country_el: Ηνωμένες Πολιτείες
    url_el: yes
    url_el_c: Ηνωμένες_Πολιτείες
-   it: yes
-   country_it: Stati Uniti d'America
-   url_it: yes
-   url_it_c: stati-uniti-damerica
    pt_br: yes
    country_pt_br: Estados Unidos
    url_pt_br: yes
@@ -128,10 +124,6 @@
  - country: Albania
    short: al
    eu: yes
-   it: yes
-   country_it: Albania
-   url_it: yes
-   url_it_c: albania
    el: yes
    country_el: Αλβανία
 
@@ -170,10 +162,6 @@
    country_fr: Belgique
    de: yes
    country_de: Belgien
-   it: yes
-   country_it: Belgio
-   url_it: yes
-   url_it_c: belgio
 
 # - country: Bosnia and Herzegovina
 #   short: ba
@@ -232,10 +220,6 @@
    country_fr: France
    de: yes
    country_de: Frankreich
-   it: yes
-   country_it: Francia
-   url_it: yes
-   url_it_c: francia
 
  - country: Georgia
    short: ge
@@ -253,18 +237,10 @@
    country_ru: Германия
    de: yes
    country_de: Deutschland
-   it: yes
-   country_it: Germania
-   url_it: yes
-   url_it_c: germania
 
  - country: Greece
    short: gr
    eu: yes  
-   it: yes
-   country_it: Grecia
-   url_it: yes
-   url_it_c: grecia
    el: yes
    country_el: Ελλάδα
 
@@ -329,10 +305,6 @@
  - country: Malta
    short: mt
    eu: yes   
-   it: yes
-   country_it: Malta
-   url_it: yes
-   url_it_c: malta
    
  - country: Moldova
    short: md
@@ -343,10 +315,6 @@
  - country: Monaco
    short: mc
    eu: yes     
-   it: yes
-   country_it: Principato di Monaco
-   url_it: yes
-   url_it_c: principato-di-monaco
    
  - country: Montenegro
    short: me
@@ -402,10 +370,6 @@
  - country: San Marino
    short: sm
    eu: yes   
-   it: yes
-   country_it: San Marino
-   url_it: yes
-   url_it_c: san-marino
    
  - country: Serbia
    short: rs
@@ -422,10 +386,6 @@
  - country: Slovenia
    short: si
    eu: yes    
-   it: yes
-   country_it: Slovenia
-   url_it: yes
-   url_it_c: slovenia
    
  - country: Spain
    short: es
@@ -482,10 +442,6 @@
    eu: yes 
    de: yes     
    country_de: Vatikanstadt
-   it: yes
-   country_it: Città del Vaticano
-   url_it: yes
-   url_it_c: città-del-vaticano
    
 # South America   
 

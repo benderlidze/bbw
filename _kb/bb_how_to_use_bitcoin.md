@@ -52,7 +52,7 @@ The QR code on the right side can be scanned with your wallet application. Bitco
 
 Sending bitcoins is really as easy as 1) getting the recipient address 2) scan or type address into sending wallet and 3) send! 
 
-If you think the process of having to ask recipients for an address is annoying, you're definitely right. Developers are currently working on solutions like reusable payments codes that make sensing bitcoins more private and less repetitive. 
+If you think the process of having to ask recipients for an address is annoying, you're definitely right. Developers are currently working on solutions like reusable payments codes that make sending bitcoins more private and less repetitive. 
 
 ## How to Receive Bitcoins 
 If you read the section above, you probably already have a good idea on how to use Bitcoin to receive payments. You'll need to get your Bitcoin address to the sender so the sender knows where to send payment. 
