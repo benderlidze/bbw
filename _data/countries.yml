@@ -93,7 +93,6 @@
    country_uk: Сполучені Штати Америки
    url_uk: yes
    url_uk_c: Сполучені_Штати_Америки
-   de: yes
    country_de: Vereinigte Staaten
    url_de: yes
    url_de_c: Vereinigte-Staaten
@@ -132,7 +131,6 @@
  - country: Austria
    short: at
    eu: yes  
-   de: yes
    country_de: Österreich
 
  - country: Azerbaijan
@@ -153,7 +151,6 @@
    country_nl: België
    fr: yes
    country_fr: Belgique
-   de: yes
    country_de: Belgien
 
 # - country: Bosnia and Herzegovina
@@ -182,7 +179,6 @@
    eu: yes  
    ru: yes
    country_ru: Чехия
-   de: yes
    country_de: Tschechien
 
  - country: Denmark
@@ -208,7 +204,6 @@
    ru: yes
    country_ru: Франция
    country_fr: France
-   de: yes
    country_de: Frankreich
 
  - country: Georgia
@@ -224,7 +219,6 @@
    country_ar: ألمانيا
    ru: yes
    country_ru: Германия
-   de: yes
    country_de: Deutschland
 
  - country: Greece
@@ -235,7 +229,6 @@
  - country: Hungary
    short: hu
    eu: yes  
-   de: yes
    country_de: Ungarn
 
  - country: Iceland
@@ -249,7 +242,6 @@
  - country: Italy
    short: it
    eu: yes  
-   de: yes
    country_de: Italien
    it: yes
    country_it: Italia
@@ -269,7 +261,6 @@
  - country: Liechtenstein
    short: li
    eu: yes  
-   de: yes
    country_de: Liechtenstein
 
  - country: Lithuania
@@ -282,7 +273,6 @@
    short: lu
    eu: yes  
    country_fr: Luxembourg
-   de: yes
    country_de: Luxemburg
 
  - country: Macedonia
@@ -312,7 +302,6 @@
    eu: yes    
    country_ar: هولندا
    country_nl: Nederland
-   de: yes
    country_de: Niederlande
    
  - country: Norway
@@ -326,7 +315,6 @@
    eu: yes   
    ru: yes
    country_ru: Польша
-   de: yes
    country_de: Polen
    
  - country: Portugal
@@ -349,7 +337,6 @@
    eu: yes     
    ru: yes
    country_ru: Россия
-   de: yes
    country_de: Russland
    
  - country: San Marino
@@ -387,7 +374,6 @@
    short: ch
    eu: yes  
    country_fr: Suisse
-   de: yes
    country_de: Schweiz
    it: yes
    country_it: Svizzera
@@ -419,7 +405,6 @@
  - country: Vatican City
    short: va
    eu: yes 
-   de: yes     
    country_de: Vatikanstadt
    
 # South America   
@@ -430,7 +415,6 @@
    sa: yes
    es: yes
    country_es: Argentina
-   de: yes
    country_de: Argentinien
   
  - country: Bolivia
@@ -451,7 +435,6 @@
    country_pt_br: Brasil
    url_pt_br: yes
    url_pt_br_c: brasil
-   de: yes
    country_de: Brasilien
   
  - country: Chile
@@ -1033,7 +1016,6 @@
  - country: Namibia
    short: na
    af: yes  
-   de: yes
    country_de: Namibia
 
  - country: Niger
