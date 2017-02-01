@@ -24,19 +24,16 @@
  - country: Cuba
    short: cu
    na: yes
-   es: yes
    country_es: Cuba
 
  - country: Dominica
    short: dm
    na: yes
-   es: yes
    country_es: Dominica
 
  - country: Dominican Republic
    short: do
    na: yes
-   es: yes
    country_es: República Dominicana
 
  - country: Grenada
@@ -61,7 +58,6 @@
  - country: Puerto Rico
    short: pr
    na: yes
-   es: yes
    country_es: Puerto Rico  
 
  - country: St. Kitts and Nevis
@@ -361,7 +357,6 @@
  - country: Spain
    short: es
    eu: yes     
-   es: yes
    country_es: España
    
  - country: Sweden
@@ -412,20 +407,17 @@
  - country: Argentina
    short: ar
    sa: yes
-   es: yes
    country_es: Argentina
    country_de: Argentinien
   
  - country: Bolivia
    short: bo
    sa: yes
-   es: yes 
    country_es: Bolivia 
   
  - country: Brazil
    short: br
    sa: yes  
-   es: yes
    country_es: Brasil
    country_ar: البرازيل
    ru: yes
@@ -438,7 +430,6 @@
  - country: Chile
    short: cl
    sa: yes 
-   es: yes 
    country_es: Chile
   
  - country: Colombia
@@ -457,38 +448,32 @@
  - country: Guyana
    short: gy
    sa: yes  
-   es: yes
    country_es: Guyana
   
  - country: Paraguay
    short: py
    sa: yes  
-   es: yes
    country_es: Paraguay
   
  - country: Peru
    short: pe
    sa: yes  
-   es: yes
    country_es: Perú
   
  - country: Suriname
    short: sr
    sa: yes  
-   es: yes
    country_es: Surinam
    country_nl: Suriname
   
  - country: Uruguay
    short: uy
    sa: yes  
-   es: yes
    country_es: Uruguay
   
  - country: Venezuela
    short: ve
    sa: yes 
-   es: yes
    country_es: Venezuela
    country_ar: فنزويلا
    
@@ -497,44 +482,37 @@
  - country: Belize
    short: bz
    ca: yes
-   es: yes
    country_es: Belice
     
  - country: Costa Rica
    short: cr
    ca: yes
-   es: yes
    country_es: Costa Rica
 
  - country: El Salvador
    short: sv
    ca: yes
-   es: yes
    country_es: El Salvador
    
  - country: Guatemala
    short: gt
    ca: yes
-   es: yes
    country_es: Guatemala
    
  - country: Honduras
    short: hn
    ca: yes
-   es: yes
    country_es: Honduras
    country_ar: هندوراس
    
  - country: Nicaragua
    short: ni
    ca: yes
-   es: yes
    country_es: Nicaragua
    
  - country: Panama
    short: pa
    ca: yes
-   es: yes
    country_es: Panamá
    
 #Oceania 
@@ -911,7 +889,6 @@
  - country: Equatorial Guinea
    short: gq
    af: yes  
-   es: yes
    country_es: Guinea Ecuatorial
 
  - country: Eritrea
