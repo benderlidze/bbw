@@ -1,43 +1,18 @@
 ---
 hide_sidebar: true
 lang: el
-title: Αγοράστε Bitcoin από οπουδήποτε στην κόσμο - Buy Bitcoin Worldwide
-seotitle: Αγοράστε Bitcoin από οπουδήποτε στην κόσμο - Buy Bitcoin Worldwide
-desc: Το Buy Bitcoin Worldwide σας βοηθά να αγοράσετε bitcoin σε κάθε χώρα και με τη μέθοδο πληρωμής της επιλογής σας. 
+title: Αγοράστε Bitcoin στην Ελλάδα
+seotitle: Αγοράστε Bitcoin στην Ελλάδα
+desc: Μάθετε πού και πώς να αγοράσετε bitcoin στην Ελλάδα. Πλήρης κατάλογος ανταλλακτηρίων, μεσιτών και ΑΤΜ που δέχονται μια σειρά μεθόδων πληρωμής.   
 permalink: /el/
 layout: default
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
-<div class="well well-home">
-<div class="well-message">{{ lang.sitedesc }}</div>
-
-<ul class="index-continent-menu">
-<li><a class="btn btn-sm btn-primary" href="#eu">{{ lang.europe }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#na">{{ lang.namerica }}</a></li> 
-</ul>
-</div>
-
-<h2 class="home-header"><a href="#eu" id="eu">Αγοράστε Bitcoin στην Ευρώπη</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.eu == true and country.el == true %}
-{% include index-list.html %}
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'gr' %}
+{% include buy-list-en.html %}
 {% endif %}
 {% endfor %}
-</div>
-</div>
-<hr>
-
-<h2 class="home-header"><a href="#na" id="na">Αγοράστε Bitcoin στη Βόρεια Αμερική</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.na == true and country.el == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>

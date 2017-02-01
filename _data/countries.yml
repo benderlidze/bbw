@@ -101,7 +101,6 @@
    country_de: Vereinigte Staaten
    url_de: yes
    url_de_c: Vereinigte-Staaten
-   el: yes
    country_el: Ηνωμένες Πολιτείες
    url_el: yes
    url_el_c: Ηνωμένες_Πολιτείες
@@ -124,7 +123,6 @@
  - country: Albania
    short: al
    eu: yes
-   el: yes
    country_el: Αλβανία
 
  - country: Andorra
@@ -182,7 +180,6 @@
  - country: Cyprus
    short: cy
    eu: yes  
-   el: yes
    country_el: Κύπρος
 
  - country: Czech Republic
@@ -241,7 +238,6 @@
  - country: Greece
    short: gr
    eu: yes  
-   el: yes
    country_el: Ελλάδα
 
  - country: Hungary
@@ -414,7 +410,6 @@
  - country: Turkey
    short: tr
    eu: yes 
-   el: yes
    country_el: Τουρκία
    
  - country: Ukraine
