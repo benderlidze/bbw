@@ -16,7 +16,6 @@
    short: ca
    na: yes
    pop: yes
-   ar: yes
    country_ar: كندا
    ru: yes
    country_ru: Канада
@@ -85,7 +84,6 @@
    pop: yes
    es: yes
    country_es: Estados Unidos
-   ar: yes
    country_ar: الولايات المتحدة
    url_ar: yes
    url_ar_c: الولايات_المتحدة 
@@ -209,7 +207,6 @@
  - country: France
    short: fr
    eu: yes  
-   ar: yes
    country_ar: فرنسا
    ru: yes
    country_ru: Франция
@@ -228,7 +225,6 @@
    short: de
    pop: yes
    eu: yes  
-   ar: yes
    country_ar: ألمانيا
    ru: yes
    country_ru: Германия
@@ -319,7 +315,6 @@
  - country: Netherlands
    short: nl
    eu: yes    
-   ar: yes
    country_ar: هولندا
    nl: yes
    country_nl: Nederland
@@ -392,7 +387,6 @@
  - country: Sweden
    short: se
    eu: yes    
-   ar: yes
    country_ar: السويد
    
  - country: Switzerland
@@ -423,14 +417,11 @@
  - country: United Kingdom
    short: gb
    eu: yes 
-   pop: yes
    pop: yes  
    es: no 
-   ar: yes
    country_ar: المملكة المتحدة
    url_ar: yes
    url_ar_c: المملكة_المتحدة
-
    
  - country: Vatican City
    short: va
@@ -460,7 +451,6 @@
    sa: yes  
    es: yes
    country_es: Brasil
-   ar: yes
    country_ar: البرازيل
    ru: yes
    country_ru: Бразилия
@@ -482,7 +472,6 @@
    sa: yes  
    es: yes
    country_es: Colombia
-   ar: yes
    country_ar: كولومبيا
   
  - country: Ecuador
@@ -528,7 +517,6 @@
    sa: yes 
    es: yes
    country_es: Venezuela
-   ar: yes
    country_ar: فنزويلا
    
 # Central America
@@ -562,7 +550,6 @@
    ca: yes
    es: yes
    country_es: Honduras
-   ar: yes
    country_ar: هندوراس
    
  - country: Nicaragua
@@ -642,7 +629,6 @@
  - country: Bahrain
    short: bh
    me: yes
-   ar: yes
    country_ar: البحرين
 
  - country: Egypt
@@ -654,20 +640,17 @@
  - country: Iran
    short: ir
    me: yes
-   ar: yes
    country_ar: إيران
 
  - country: Iraq
    short: iq
    me: yes
-   ar: yes
    country_ar: العراق
 
  - country: Israel
    short: il
    me: yes
    languages: en, he
-   ar: yes
    country_ar: إسرائيل
    ru: yes
    country_ru: Израиль
@@ -675,19 +658,16 @@
  - country: Jordan
    short: jo
    me: yes
-   ar: yes
    country_ar: الأردن
 
  - country: Kuwait
    short: kw
    me: yes
-   ar: yes
    country_ar: الكويت
 
  - country: Lebanon
    short: lb
    me: yes
-   ar: yes
    country_ar: لبنان
    fr: yes
    country_fr: Liban
@@ -695,19 +675,16 @@
  - country: Oman
    short: om
    me: yes
-   ar: yes
    country_ar: عمان
    
  - country: Palestine
    short: ps
    me: yes
-   ar: yes
    country_ar: فلسطين
 
  - country: Qatar
    short: qa
    me: yes
-   ar: yes
    country_ar: قطر
 
  - country: Saudi Arabia
@@ -719,13 +696,11 @@
  - country: Syria
    short: sy
    me: yes
-   ar: yes
    country_ar: سوريا
 
  - country: United Arab Emirates
    short: ae
    me: yes
-   ar: yes
    country_ar: الإمارات العربية المتحدة
    url_ar: yes
    url_ar_c: الإمارات_العربية_المتحدة
@@ -733,7 +708,6 @@
  - country: Yemen
    short: ye
    me: yes
-   ar: yes
    country_ar: اليمن
    
 ################################## Asia 
@@ -970,7 +944,6 @@
  - country: Djibouti
    short: dj
    af: yes   
-   ar: yes
    country_ar: جيبوتي
 
  - country: Equatorial Guinea
@@ -982,7 +955,6 @@
  - country: Eritrea
    short: er
    af: yes  
-   ar: yes
    country_ar: إريتريا
 
  - country: Ethiopia
@@ -1034,7 +1006,6 @@
  - country: Libya
    short: ly
    af: yes  
-   ar: yes
    country_ar: ليبيا
 
  - country: Madagascar
@@ -1054,7 +1025,6 @@
  - country: Mauritania
    short: mr
    af: yes
-   ar: yes
    country_ar: موريتانيا 
    fr: yes
    country_fr: Mauritanie
@@ -1112,7 +1082,6 @@
  - country: Somalia
    short: so
    af: yes  
-   ar: yes
    country_ar: الصومال
 
  - country: South Africa
@@ -1126,7 +1095,6 @@
  - country: Sudan
    short: sd
    af: yes
-   ar: yes
    country_ar: السودان
 
  - country: Swaziland
