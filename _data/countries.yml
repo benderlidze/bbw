@@ -19,7 +19,6 @@
    country_ar: كندا
    ru: yes
    country_ru: Канада
-   fr: yes
    country_fr: Canada
    
  - country: Cuba
@@ -47,7 +46,6 @@
  - country: Haiti
    short: ht
    na: yes
-   fr: yes
    country_fr: Haïti
 
  - country: Jamaica
@@ -209,7 +207,6 @@
    country_ar: فرنسا
    ru: yes
    country_ru: Франция
-   fr: yes
    country_fr: France
    de: yes
    country_de: Frankreich
@@ -284,7 +281,6 @@
  - country: Luxembourg
    short: lu
    eu: yes  
-   fr: yes
    country_fr: Luxembourg
    de: yes
    country_de: Luxemburg
@@ -390,7 +386,6 @@
  - country: Switzerland
    short: ch
    eu: yes  
-   fr: yes
    country_fr: Suisse
    de: yes
    country_de: Schweiz
@@ -666,7 +661,6 @@
    short: lb
    me: yes
    country_ar: لبنان
-   fr: yes
    country_fr: Liban
 
  - country: Oman
@@ -891,7 +885,6 @@
  - country: Benin
    short: bj
    af: yes  
-   fr: yes
    country_fr: Bénin
 
  - country: Botswana
@@ -905,7 +898,6 @@
  - country: Burundi
    short: bi
    af: yes 
-   fr: yes
    country_fr: Burundi
 
  - country: Cape Verde
@@ -919,7 +911,6 @@
  - country: Cameroon
    short: cm
    af: yes   
-   fr: yes
    country_fr: Cameroun
 
  - country: Chad
@@ -985,7 +976,6 @@
  - country: Ivory Coast
    short: ci
    af: yes 
-   fr: yes
    country_fr: Côte d’Ivoire 
 
  - country: Kenya
@@ -1008,7 +998,6 @@
  - country: Madagascar
    short: mg
    af: yes
-   fr: yes
    country_fr: Madagascar
 
  - country: Malawi
@@ -1023,7 +1012,6 @@
    short: mr
    af: yes
    country_ar: موريتانيا 
-   fr: yes
    country_fr: Mauritanie
 
  - country: Morocco
@@ -1051,7 +1039,6 @@
  - country: Niger
    short: ne
    af: yes  
-   fr: yes
    country_fr: Niger
 
  - country: Nigeria
@@ -1065,7 +1052,6 @@
  - country: Senegal
    short: sn
    af: yes  
-   fr: yes
    country_fr: Sénégal
 
  - country: Seychelles
@@ -1105,7 +1091,6 @@
  - country: Togo
    short: tg
    af: yes 
-   fr: yes
    country_fr: Togo
 
  - country: Tunisia
@@ -1131,7 +1116,6 @@
  - country: Central African Republic
    short: cf
    af: yes
-   fr: yes
    country_fr: République Centrafricaine       
    
  - country: Sao Tome and Principe

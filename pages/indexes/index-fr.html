@@ -9,30 +9,7 @@ layout: default
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
-<div class="well well-home">
-<div class="well-message">{{ lang.sitedesc }}</div>
 
-<ul class="index-continent-menu">
-<li><a class="btn btn-sm btn-primary" href="#na">{{ lang.namerica }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#eu">{{ lang.europe }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="#sa">{{ lang.samerica }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="#oc">{{ lang.oceania }}</a></li>  
-<li><a class="btn btn-sm btn-primary" href="#me">{{ lang.meast }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#af">{{ lang.africa }}</a></li>
-</ul>
-</div>
-
-<h2 class="home-header"><a href="#na" id="na">Acheter des Bitcoins en Amérique du Nord</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.na == true and country.fr == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
 
 <h2 class="home-header"><a href="#eu" id="eu">Acheter des Bitcoins en Europe</a></h2>
 <div class="container">
@@ -46,17 +23,6 @@ layout: default
 </div>
 <hr>
 
-<h2 class="home-header"><a href="#me" id="me">Acheter des Bitcoins au Moyen-Orient</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.me == true and country.fr == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
 
 <h2 class="home-header"><a href="#af" id="af">Acheter des Bitcoins en Afrique</a></h2>
 <div class="container">
