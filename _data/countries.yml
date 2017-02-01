@@ -99,7 +99,6 @@
    country_el: Ηνωμένες Πολιτείες
    url_el: yes
    url_el_c: Ηνωμένες_Πολιτείες
-   pt_br: yes
    country_pt_br: Estados Unidos
    url_pt_br: yes
    url_pt_br_c: estados-unidos
@@ -431,7 +430,6 @@
    country_ar: البرازيل
    ru: yes
    country_ru: Бразилия
-   pt_br: yes
    country_pt_br: Brasil
    url_pt_br: yes
    url_pt_br_c: brasil
@@ -721,10 +719,7 @@
  - country: India
    short: in
    as: yes
-   pt_br: yes
    country_pt_br: Índia
-   url_pt_br: yes
-   url_pt_br_c: india
 
  - country: Indonesia
    short: id
@@ -860,7 +855,6 @@
  - country: Angola
    short: ao
    af: yes  
-   pt_br: yes
    country_pt_br: Angola
    url_pt_br: yes
    url_pt_br_c: angola
@@ -886,10 +880,7 @@
  - country: Cape Verde
    short: cv
    af: yes  
-   pt_br: yes
    country_pt_br: Cabo Verde
-   url_pt_br: yes
-   url_pt_br_c: cabo-verde
 
  - country: Cameroon
    short: cm
@@ -951,10 +942,7 @@
  - country: Guinea-Bissau
    short: gw
    af: yes  
-   pt_br: yes
    country_pt_br: Guiné-Bissau
-   url_pt_br: yes
-   url_pt_br_c: guiné-bissau
    
  - country: Ivory Coast
    short: ci
@@ -1008,10 +996,7 @@
  - country: Mozambique
    short: mz
    af: yes  
-   pt_br: yes
    country_pt_br: Moçambique
-   url_pt_br: yes
-   url_pt_br_c: moçambique
 
  - country: Namibia
    short: na
