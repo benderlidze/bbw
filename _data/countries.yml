@@ -152,7 +152,6 @@
  - country: Belgium
    short: be
    eu: yes  
-   nl: yes
    country_nl: België
    fr: yes
    country_fr: Belgique
@@ -316,7 +315,6 @@
    short: nl
    eu: yes    
    country_ar: هولندا
-   nl: yes
    country_nl: Nederland
    de: yes
    country_de: Niederlande
@@ -503,7 +501,6 @@
    sa: yes  
    es: yes
    country_es: Surinam
-   nl: yes
    country_nl: Suriname
   
  - country: Uruguay
