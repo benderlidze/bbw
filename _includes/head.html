@@ -12,9 +12,7 @@
     <![endif]-->
 	<meta name="description" content="{{ page.desc }}" />
 	{% include analytics.html %}
-	{% if page.country != null  %}
-	{% include hreflang.html %}
-	{% endif %}
+
 	
 	{% if page.pagetype == 'kbsection' or page.pagetype == 'pmethodsindex' %}
 	<meta name="robots" content="noindex">

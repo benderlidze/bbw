@@ -1,5 +1,8 @@
  - pmethod: Credit Card
    short: cc
+   
+ - pmethod: Debit Card
+   short: cc   
     
  - pmethod: Cash
    short: cash
