@@ -22,13 +22,13 @@ filterAndRenderSellers = (countryCode, paymentCode, selector) ->
   $notification.hide()
 
   if !countryCode && !paymentCode
-    $notification.text('Please, select country and payment method.')
+    $notification.text('Please select a country and payment method.')
     $notification.addClass('bg-warning')
   else if !countryCode
-    $notification.text('Please, select country.')
+    $notification.text('Please select a country.')
     $notification.addClass('bg-warning')
   else if !paymentCode
-    $notification.text('Please, select payment method.')
+    $notification.text('Please select a payment method.')
     $notification.addClass('bg-warning')
   else if _.isEmpty(scope)
     $notification.text('Sorry, no matches found.')
