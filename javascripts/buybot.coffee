@@ -23,18 +23,19 @@ filterAndRenderSellers = (countryCode, paymentCode, selector) ->
 
   if !countryCode && !paymentCode
     $notification.text('Please select a country and payment method.')
-    $notification.addClass('bg-warning')
+    $notification.addClass('country-pmethod')
   else if !countryCode
     $notification.text('Please select a country.')
-    $notification.addClass('bg-warning')
+    $notification.addClass('warning-row')
   else if !paymentCode
     $notification.text('Please select a payment method.')
-    $notification.addClass('bg-warning')
+    $notification.addClass('warning-row')
   else if _.isEmpty(scope)
     $notification.text('Sorry, no matches found.')
-    $notification.addClass('bg-danger')
+    $notification.addClass('warning-row')
   else
     $notification.html("We found <b>#{ scope.length }</b> Bitcoin exchange#{ ( if scope.length > 1 then 's' else '') }:")
+    $notification.addClass('bg-success')
     for seller in scope
       $selector.append(seller.html)
 

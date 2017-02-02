@@ -2,18 +2,51 @@
 layout: home
 permalink: "/"
 title: Buy Bitcoin Worldwide
-seotitle: "Buy Bitcoin Worldwide: Learn Where & How to Buy Bitcoins"
+seotitle: "Buy Bitcoin Worldwide: Where & How to Buy Bitcoins"
 lang: en
 desc: "We help you buy bitcoin. Whether it be finding an exchange, getting the best price, or learning the basics of Bitcoin: we're here to help!"
 home: yes
+include_javascript:
+  - 'sellers/en'
+  - 'buybot'
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
-<div class="container-fluid home-mapimg">
-<h2 class="map-title">We help you buy bitcoins</h2>
-<div class="map-desc"></div>
-<a href="/find-exchange/" class="call-to-buy">Find an exchange &#155;</a>
+<div class="container-fluid buy-bot home-mapimg">
+
+<h2 class="map-title">Buy Bitcoin in:</h2>
+
+<form class="form-inline" style="text-align: center;">
+    <div class="form-group">
+
+      <select id="country" class="type-select-container form-control">
+        <option value=""><i class="fa fa-fw fa-globe"></i> Country</option>
+        {% assign countries = (site.data.countries | sort: 'country') %}
+        {% for country in countries %}
+          <option value="{{country.short}}">{{country.country}}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <h2 class="map-title map-title-2">with:</h2>
+    <div class="form-group">
+      <label for="payment_method"></label>
+      <select id="payment_method" class="type-select-container form-control">
+        <option value=""><i class="fa fa-fw fa-money"></i> Payment Method</option>
+        {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
+        {% for method in paymentmethods %}
+          <option value="{{method.short}}">{{method.pmethod}}</option>
+        {% endfor %}
+      </select>
+    </div>
+  </form>
+
 </div>
+  
+<div class="container-fluid" id="notification"></div>
+
+<div class="container" id="sellers"></div>
+
+<!--
 
 <div class="container home-featured"> 
 	<div class="row">
@@ -34,6 +67,9 @@ home: yes
 		</div>
 	</div>
 </div>
+
+-->
+
 <hr>
 
 <h2 class="home-featured-header">Buy Bitcoin with these Popular Payment Methods</h2>
