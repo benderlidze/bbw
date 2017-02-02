@@ -2,36 +2,44 @@
 sitemap:
   exclude: 'yes'
 ---
-filterAndRenderSellers = (countryCode, methodCode, selector) ->
+filterAndRenderSellers = (countryCode, paymentCode, selector) ->
   $selector = $(selector)
+  $notification = $selector.siblings('#notification')
 
   scope = (
-    if !!countryCode && !!methodCode
-      _.filter sellers, (seller) ->
-        сountryRegExp = new RegExp(countryCode, "i")
-        methodRegExp  = new RegExp(methodCode, "i")
-        сountryRegExp.test(seller.countries) && methodRegExp.test(seller.methods)
-    else if !!countryCode
-      _.filter sellers, (seller) ->
-        сountryRegExp = new RegExp(countryCode, "i")
-        сountryRegExp.test(seller.countries)
-    else if !!methodCode
-      _.filter sellers, (seller) ->
-        methodRegExp  = new RegExp(methodCode, "i")
-        methodRegExp.test(seller.methods)
+    if !countryCode || !paymentCode
+      []
     else
       _.filter sellers, (seller) ->
-        seller.hide isnt "true"
+        сountryRegExp = new RegExp(countryCode, "i")
+        methodRegExp  = new RegExp(paymentCode, "i")
+        сountryRegExp.test(seller.countries) && methodRegExp.test(seller.methods)
   )
 
   $selector.html('')
+  $notification.removeClass()
+  $notification.text('')
+  $notification.hide()
 
-  if _.isEmpty(scope)
-    $selector.next('.no-matches').show()
+  if !countryCode && !paymentCode
+    $notification.text('Please, select country and payment method.')
+    $notification.addClass('bg-warning')
+  else if !countryCode
+    $notification.text('Please, select country.')
+    $notification.addClass('bg-warning')
+  else if !paymentCode
+    $notification.text('Please, select payment method.')
+    $notification.addClass('bg-warning')
+  else if _.isEmpty(scope)
+    $notification.text('Sorry, no matches found.')
+    $notification.addClass('bg-danger')
   else
-    $selector.next('.no-matches').hide()
+    $notification.html("We found <b>#{ scope.length }</b> Bitcoin exchange#{ ( if scope.length > 1 then 's' else '') }:")
     for seller in scope
       $selector.append(seller.html)
+
+  unless $notification.is(':empty')
+    $notification.show()
 
   scope = undefined
 

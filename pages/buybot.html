@@ -16,7 +16,7 @@ include_javascript:
       <label for="country"><i class="fa fa-fw fa-globe"></i> Country:</label>
 
       <select id="country" class="type-select-container form-control">
-        <option value="">All</option>
+        <option value="">&nbsp;</option>
         {% assign countries = (site.data.countries | sort: 'country') %}
         {% for country in countries %}
           <option value="{{country.short}}">{{country.country}}</option>
@@ -26,7 +26,7 @@ include_javascript:
     <div class="form-group">
       <label for="payment_method"><i class="fa fa-fw fa-money"></i> Payment Method:</label>
       <select id="payment_method" class="form-control">
-        <option value="">All</option>
+        <option value="">&nbsp;</option>
         {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
         {% for method in paymentmethods %}
           <option value="{{method.short}}">{{method.pmethod}}</option>
@@ -36,7 +36,7 @@ include_javascript:
   </form>
   
 	{% include country-disclosure.html %}
-	
+
+  <p id="notification"></p>
   <div id="sellers"></div>
-  <p class="no-matches bg-danger">No matches found</p>
 </div>
