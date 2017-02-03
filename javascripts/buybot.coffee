@@ -53,7 +53,7 @@ filterAndRenderSellers = () ->
     $notification.show()
 
   unless $selector.is(':empty')
-    $('body').animate
+    $('html, body').animate
       scrollTop: $notification.position().top
 
   scope = undefined
