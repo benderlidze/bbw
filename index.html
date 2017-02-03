@@ -20,7 +20,7 @@ include_javascript:
     <div class="form-group">
 
       <select id="country" class="type-select-container form-control">
-        <option value=""><i class="fa fa-fw fa-globe"></i> Country</option>
+        <option value=""> Country</option>
         {% assign countries = (site.data.countries | sort: 'country') %}
         {% for country in countries %}
           <option value="{{country.short}}">{{country.country}}</option>
@@ -31,7 +31,7 @@ include_javascript:
     <div class="form-group">
       <label for="payment_method"></label>
       <select id="payment_method" class="type-select-container form-control">
-        <option value=""><i class="fa fa-fw fa-money"></i> Payment Method</option>
+        <option value=""> Payment Method</option>
         {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
         {% for method in paymentmethods %}
           <option value="{{method.short}}">{{method.pmethod}}</option>
