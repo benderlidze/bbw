@@ -43,7 +43,7 @@ filterAndRenderSellers = () ->
   else
     $notification.html(
       "We found <strong>#{ scope.length }</strong> Bitcoin exchange#{ ( if scope.length > 1 then 's' else '') }
-      in <strong>#{countryName}</strong> that accept <strong>#{paymentName}</strong>:"
+      in <strong>#{countryName}</strong> that accept <span class=\"payment-method-fe\">#{paymentName}</span>:"
     )
     $notification.addClass('bg-success')
     for seller in scope
