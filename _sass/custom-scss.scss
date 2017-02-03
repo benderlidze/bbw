@@ -116,6 +116,10 @@ body {
     margin-top: 6px;
 }
 
+.pmethod-name {
+	text-transform: lowercase;
+}
+
 .exchange-compare-line:nth-child(2n+1) {
     background: #f8f8f8 none repeat scroll 0 0;
 }

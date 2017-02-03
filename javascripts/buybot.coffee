@@ -2,9 +2,16 @@
 sitemap:
   exclude: 'yes'
 ---
-filterAndRenderSellers = (countryCode, paymentCode, selector) ->
-  $selector = $(selector)
-  $notification = $selector.siblings('#notification')
+filterAndRenderSellers = () ->
+  $country      = $('select#country')
+  $payment      = $('select#payment_method')
+  $selector     = $('#sellers')
+  $notification = $('#notification')
+
+  countryCode   = $country.val()
+  paymentCode   = $payment.val()
+  countryName   = $country.find('option:selected').text()
+  paymentName   = $payment.find('option:selected').text()
 
   scope = (
     if !countryCode || !paymentCode
@@ -12,8 +19,8 @@ filterAndRenderSellers = (countryCode, paymentCode, selector) ->
     else
       _.filter sellers, (seller) ->
         сountryRegExp = new RegExp(countryCode, "i")
-        methodRegExp  = new RegExp(paymentCode, "i")
-        сountryRegExp.test(seller.countries) && methodRegExp.test(seller.methods)
+        paymentRegExp = new RegExp(paymentCode, "i")
+        сountryRegExp.test(seller.countries) && paymentRegExp.test(seller.methods)
   )
 
   $selector.html('')
@@ -34,7 +41,10 @@ filterAndRenderSellers = (countryCode, paymentCode, selector) ->
     $notification.text('Sorry, no matches found.')
     $notification.addClass('warning-row')
   else
-    $notification.html("We found <b>#{ scope.length }</b> Bitcoin exchange#{ ( if scope.length > 1 then 's' else '') }:")
+    $notification.html(
+      "We found <strong>#{ scope.length }</strong> Bitcoin exchange#{ ( if scope.length > 1 then 's' else '') }
+      in <strong>#{countryName}</strong> that accept <span class="pmethod-name">#{paymentName}</span>:"
+    )
     $notification.addClass('bg-success')
     for seller in scope
       $selector.append(seller.html)
@@ -42,15 +52,13 @@ filterAndRenderSellers = (countryCode, paymentCode, selector) ->
   unless $notification.is(':empty')
     $notification.show()
 
+  unless $selector.is(':empty')
+    $('body').animate
+      scrollTop: $notification.position().top
+
   scope = undefined
 
-$country = $("select#country")
-$method  = $("select#payment_method")
-
-$country.change -> 
-  filterAndRenderSellers($country.val(), $method.val(), "#sellers")
-$method.change ->
-  filterAndRenderSellers($country.val(), $method.val(), "#sellers")
 $(document).ready ->
-  $(".type-select-container").select2();
-filterAndRenderSellers($country.val(), $method.val(), "#sellers")
+  $('.type-select-container').select2();
+  $('select#country, select#payment_method').on 'change', filterAndRenderSellers
+filterAndRenderSellers()
