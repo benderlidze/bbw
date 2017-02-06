@@ -24,7 +24,8 @@ include_javascript:
         <option value=""><i class="fa fa-fw fa-globe"></i> Country</option>
         {% assign countries = (site.data.countries | sort: 'country_ru') %}
         {% for country_ru in countries %}
-            <option value="{{country_ru.short}}">{{country_ru.country_ru}}</option>            
+          {% if country_ru.country_ru %}
+            <option value="{{country_ru.short}}">{{country_ru.country_ru}}</option>             		  {% endif %}
         {% endfor %}
       </select>
     </div>
