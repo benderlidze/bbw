@@ -1189,12 +1189,14 @@
    url: http://bitcoincambodia.co/
    icon: /img/buy/bcamodia.png
    countries: kh
+   po: cash
 
  - name: Bitcoin Cambodia
    desc: Bitcoin broker in Cambodia. Buy with Wing or cash in person. 
    url: https://bitcoincambodia.com/
    icon: /img/buy/cambodia.png
    countries: kh
+   po: cash
 
 ##### Caribbean ####################################################   
 

@@ -33,6 +33,10 @@ en:
   change_lang: Language
   by: by
   popular: Popular
+  select_country: Please select a country.
+  select_payment_method: Please select a payment method.
+  no_sellers_found: Sorry, no matches found.
+  sellers_found: 'We found <strong><%= exchangeCount %></strong> Bitcoin exchange<%= ( exchangeCount > 1 ? \"s\" : \"\") %> in <strong><%= countryName %></strong> that accept <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
   
 ##################### Spanish #####################
 es:   
@@ -194,7 +198,12 @@ ru:
   paymentmethods_url: /ru/Способы-оплаты/
   about: О нас
   about_url: /en/about/
-  change_lang: язык 
+  change_lang: язык
+  select_country: Пожалуйста, выберите страну.
+  select_payment_method: Пожалуйста, выберите метод оплаты.
+  no_sellers_found: Извините, совпадений не найдено.
+  sellers_found: 'Найдено <strong><%= exchangeCount %></strong> обменников Bitcoin в <strong><%= countryName %></strong> которые принимают <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
+ 
   
 ##################### Ukrainian #####################
 uk:

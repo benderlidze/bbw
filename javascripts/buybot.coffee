@@ -2,6 +2,8 @@
 sitemap:
   exclude: 'yes'
 ---
+{% assign lang = site.data.translations[page.lang] %}
+
 filterAndRenderSellers = () ->
   $country      = $('select#country')
   $payment      = $('select#payment_method')
@@ -32,18 +34,20 @@ filterAndRenderSellers = () ->
     $notification.text('Please select a country and payment method.')
     $notification.addClass('country-pmethod')
   else if !countryCode
-    $notification.text('Please select a country.')
+    $notification.text(i18n.select_country)
     $notification.addClass('warning-row')
   else if !paymentCode
-    $notification.text('Please select a payment method.')
+    $notification.text(i18n.select_payment_method)
     $notification.addClass('warning-row')
   else if _.isEmpty(scope)
-    $notification.text('Sorry, no matches found.')
+    $notification.text(i18n.no_sellers_found)
     $notification.addClass('warning-row')
   else
-    $notification.html(
-      "We found <strong>#{ scope.length }</strong> Bitcoin exchange#{ ( if scope.length > 1 then 's' else '') }
-      in <strong>#{countryName}</strong> that accept <span class=\"payment-method-fe\">#{paymentName}</span>:"
+    $notification.html(_.template(i18n.sellers_found)(
+        exchangeCount: scope.length
+        countryName:   countryName
+        paymentMethodName: paymentName
+      )
     )
     $notification.addClass('bg-success')
     for seller in scope
@@ -54,11 +58,10 @@ filterAndRenderSellers = () ->
 
   unless $selector.is(':empty')
     $('html, body').animate
-      scrollTop: $notification.position().top
+      scrollTop: $notification.offset().top
 
   scope = undefined
 
-$(document).ready ->
-  $('.type-select-container').select2();
-  $('select#country, select#payment_method').on 'change', filterAndRenderSellers
+$('.type-select-container').select2()
+$('select#country, select#payment_method').on 'change', filterAndRenderSellers
 filterAndRenderSellers()
