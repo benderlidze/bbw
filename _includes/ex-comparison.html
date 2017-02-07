@@ -1,23 +1,23 @@
 <tr>
 
   	<td>
-  		<a href="{{ exchange.permalink }}">
-  			<img src="{{ exchange.icon }}">
+  		<a href="{{ name.internal_url }}">
+  			<img src="{{ name.icon }}">
   		</a> 
   	</td>
     
     <td>
-    	<a href="{{ name.internal_url }}">{{ exchange.name }}</a>
+    	<a href="{{ name.internal_url }}">{{ name.name }}</a>
     </td>
         
-    <td>
-    	{{ exchange.fees_cc }}
+    <td class="released">
+    	{{ name.fees_cc }}
     </td>
     
     <td>
-    	{{ exchange.avail }}
+    	{{ name.avail }}
     </td>
     
-    <td class="wallet-buy"><a target="_blank" class="btn btn-primary" rel="nofollow" href="{{ exchange.url }}" type="button"><i class="fa fa-bitcoin "></i> Buy</a></td>
+    <td class="wallet-buy"><a target="_blank" class="btn btn-primary" rel="nofollow" href="{{ name.url }}" type="button"><i class="fa fa-bitcoin "></i> Buy</a></td>
     
 </tr>

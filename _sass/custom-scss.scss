@@ -322,6 +322,11 @@ html, body {
     text-align: center;
 }
 
+#coinbase-guide {
+	clear: both !important;
+	margin-top: 25px;
+}
+
 .continent {
 	margin: 16px 0px;
 }
@@ -1216,7 +1221,7 @@ input.gsc-input {
 .wallet-type-hot {
 	text-align: center;
 	font-weight: bold;
-	font-size: 1.55em !important;
+	font-size: 1.36em !important;
 }
 
 .nice-divider-sub {
@@ -1352,6 +1357,11 @@ input.gsc-input {
 .warning-row {
 	background: #feefb3;
 	color: #9f6000;
+	
+	a {
+		color: #9f6000;
+	}
+	
 }
 
 
@@ -2628,6 +2638,20 @@ blockquote {
     margin: 30px 0;
 }
 
+.colorguide-body .quick-info .quick-info-title {
+    float: left;
+    font-size: 0.73em;
+    letter-spacing: 0.7px;
+}
+
+.colorguide-body .quick-info .quick-info-section i {
+    margin-top: 3px;
+}
+
+.colorguide-body .col-xs-12 .buy-info-full {
+	border-bottom: 0px !important;
+}
+
 .quick-info {
 	clear: both;
     display: inline-block;
@@ -2681,6 +2705,7 @@ blockquote {
     letter-spacing: 0.7px !important;
 }
 
+
 .buy-info-full .quick-info .quick-info-section:nth-child(3n+3) {
 	border: 0;
 }
@@ -2691,7 +2716,7 @@ blockquote {
 
 }
 
-@media (max-width: 500px) { 
+@media (max-width: 515px) { 
 
 	.quick-info .quick-info-section {
 		width: 50% !important;
@@ -2699,6 +2724,10 @@ blockquote {
 	
 	.buy-info-full .quick-info .quick-info-section {
 	border: 0 !important;
+}
+
+.colorguide-body .quick-info .quick-info-title {
+    font-size: 0.8em !important;
 }
 
 }
