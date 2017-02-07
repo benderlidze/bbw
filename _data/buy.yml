@@ -2162,7 +2162,7 @@
    desc_bg: Купете от местни търговци чрез Mycelium биткойн портфейл. 
    desc_ru: Купить у местных трейдеров через биткоин-кошелек Mycelium. 
    desc_uk: Купити у місцевих трейдерів через біткоін-гаманець Mycelium. 
-   tags: [quickinfo, highprivacy, fast, lowfees, trusted, eouavg, highlimits]
+   tags: [quickinfo, highprivacy, fast, lowfees, trusted, eouavg, highlimits, int]
    pros: <li>Easy and cheap way to buy bitcoins with cash</li><li>Private way to buy bitcoins, no personal information required</li>
    cons: <li>Users in sparsely populated areas will have trouble finding sellers</li>
    
