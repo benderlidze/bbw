@@ -31,6 +31,10 @@ en:
   about: About
   about_url: /en/about/
   change_lang: Language
+  country: Country
+  bbi: "Buy Bitcoin in:"
+  with: "with:"
+  pmethod: Payment Method
   by: by
   popular: Popular
   select_country: Please select a country.
@@ -203,6 +207,10 @@ ru:
   select_payment_method: Пожалуйста, выберите метод оплаты.
   no_sellers_found: Извините, совпадений не найдено.
   sellers_found: 'Найдено <strong><%= exchangeCount %></strong> обменников Bitcoin в <strong><%= countryName %></strong> которые принимают <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
+  country: Страна
+  bbi: "Купить в Bitcoin:"
+  with: "c:"
+  pmethod: Способ оплаты
  
   
 ##################### Ukrainian #####################

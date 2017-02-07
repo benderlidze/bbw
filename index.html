@@ -15,24 +15,24 @@ include_javascript:
 
 <div class="container-fluid buy-bot home-mapimg">
 
-<h2 class="map-title">Buy Bitcoin in:</h2>
+<h2 class="map-title">{{ lang.bbi }}</h2>
 
 <form class="form-inline" style="text-align: center;">
     <div class="form-group">
 
       <select id="country" class="type-select-container form-control">
-        <option value=""> Country</option>
+        <option value=""> {{ lang.country }}</option>
         {% assign countries = (site.data.countries | sort: 'country') %}
         {% for country in countries %}
           <option value="{{country.short}}">{{country.country}}</option>
         {% endfor %}
       </select>
     </div>
-    <h2 class="map-title map-title-2">with:</h2>
+    <h2 class="map-title map-title-2">{{ lang.with }}</h2>
     <div class="form-group">
       <label for="payment_method"></label>
       <select id="payment_method" class="type-select-container form-control">
-        <option value=""> Payment Method</option>
+        <option value=""> {{ lang.pmethod }}</option>
         {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
         {% for method in paymentmethods %}
           <option value="{{method.short}}">{{method.pmethod}}</option>

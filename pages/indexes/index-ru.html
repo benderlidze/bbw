@@ -6,6 +6,7 @@ seotitle: Купить Bitcoin в любой точке мира
 desc: Buy Bitcoin Worldwide поможет Вам купить биткоин в любой стране удобным для Вас способом оплаты. Это очень легко найти биткоин-биржи, брокеров и дилеров.  
 permalink: /ru/
 layout: home
+home: yes
 include_javascript:
   - 'sellers/ru'
   - 'i18n/ru'
@@ -15,13 +16,13 @@ include_javascript:
 
 <div class="container-fluid buy-bot home-mapimg">
 
-<h2 class="map-title">Buy Bitcoin in:</h2>
+<h2 class="map-title">{{ lang.bbi }}</h2>
 
 <form class="form-inline" style="text-align: center;">
     <div class="form-group">
 
       <select id="country" class="type-select-container form-control">
-        <option value=""><i class="fa fa-fw fa-globe"></i> Country</option>
+        <option value=""><i class="fa fa-fw fa-globe"></i> {{ lang.country }}</option>
         {% assign countries = (site.data.countries | sort: 'country_ru') %}
         {% for country_ru in countries %}
           {% if country_ru.country_ru %}
@@ -29,14 +30,18 @@ include_javascript:
         {% endfor %}
       </select>
     </div>
-    <h2 class="map-title map-title-2">with:</h2>
+    <h2 class="map-title map-title-2">{{ lang.with }}</h2>
     <div class="form-group">
       <label for="payment_method"></label>
       <select id="payment_method" class="type-select-container form-control">
-        <option value=""><i class="fa fa-fw fa-money"></i> Payment Method</option>
+        <option value=""><i class="fa fa-fw fa-money"></i> {{ lang.pmethod }}</option>
         {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
         {% for method in paymentmethods %}
-          <option value="{{method.short}}">{{method.pmethod}}</option>
+          {% if method.ru %}
+          	<option value="{{method.short}}">{{method.ru}}</option>
+          {% else %}
+          	<option value="{{method.short}}">{{method.pmethod}}</option>
+          {% endif %}
         {% endfor %}
       </select>
     </div>

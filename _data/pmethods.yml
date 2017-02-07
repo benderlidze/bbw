@@ -1,14 +1,17 @@
  - pmethod: Credit Card
    short: cc
+   ru: кредитная карта
    
  - pmethod: Debit Card
    short: cc   
     
  - pmethod: Cash
    short: cash
+   ru: Денежные средства
    
  - pmethod: Bank Transfer
    short: bt
+   ru: банковский счет
    
  - pmethod: SEPA
    short: sepa
