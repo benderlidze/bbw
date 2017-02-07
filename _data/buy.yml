@@ -239,7 +239,7 @@
    url: http://buybitcoinww.co/local_bitcoins
    internal_url: /exchanges/localbitcoins/
    icon: /img/buy/localbitcoins.png
-   tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eouhard, avglimits]
+   tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eouhard, avglimits, int]
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
    pros: <li>Can be private, fast and easy</li> <li>In person trades require no personal information</li> <li>Purchases of bitcoin can be made quickly via cash deposit</li>
    cons: <li>Need to keep eye out for scams</li> <li>Hard to buy large amounts of bitcoins compared to larger exchanges</li>
@@ -1658,7 +1658,7 @@
 
  - name: Wall of Coins
    desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, UK, Canada, Australia, Germany, Poland, Argentina, Brazil, Latvia, Mexico, Phillipines, and Romania. It offers low fees and is a more private way to purchase coins.  
-   tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eoueasy, avglimits]
+   tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eoueasy, avglimits, int]
    url: http://buybitcoinww.co/Wall_of_Coins
    internal_url: /exchanges/wall-of-coins/
    icon: /img/buy/wallofcoins.png
