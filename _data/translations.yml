@@ -76,6 +76,14 @@ es:
   about_url: /en/about/
   change_lang: Idioma
   by: por
+  country: País
+  bbi: "Compra Bitcoin en:"
+  with: "con:"
+  pmethod: Métodos de pago
+  select_country: Por favor seleccione un país.
+  select_payment_method: Por favor seleccione un método de pago.
+  no_sellers_found: Lo sentimos, no se han encontrado coincidencias.
+  sellers_found: 'Encontramos <strong><%= exchangeCount %></strong> intercambio<%= ( exchangeCount > 1 ? \"s\" : \"\") %> Bitcoin en <strong><%= countryName %></strong> que aceptan <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
   
 ##################### Portuguese #####################
 pt:   
@@ -436,6 +444,14 @@ zh:
   about: 介绍
   about_url: /en/about/
   change_lang: 语言  
+  country: 国家
+  bbi: "购买比特币:"
+  with: "具有:"
+  pmethod: 付款方法
+  select_country: 请选择国家/地区。
+  select_payment_method: 请选择付款方式。
+  no_sellers_found: 很抱歉，找不到匹配项。
+  sellers_found: '找到 <strong><%= exchangeCount %></strong> 个匹配项 :'
   
 bg:
   buy: Купете биткойн

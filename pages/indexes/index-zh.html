@@ -6,38 +6,50 @@ seotitle: 购买比特币 - Buy Bitcoin Worldwide
 desc: Buy Bitcoin Worldwide 可协助您以首选的付款方式在各国家购买比特币。比特币交易平台、代理人和经销商到处皆有。 
 permalink: /zh/
 layout: default
+layout: home
+home: yes
+include_javascript:
+  - 'sellers/zh'
+  - 'i18n/zh'
+  - 'buybot'
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
-<div class="well well-home">
-<div class="well-message">{{ lang.sitedesc }}</div>
+<div class="container-fluid buy-bot home-mapimg">
 
-<ul class="index-continent-menu">
-<li><a class="btn btn-sm btn-primary" href="#as">{{ lang.asia }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#na">{{ lang.namerica }}</a></li>
-</ul>
-</div>
+<h2 class="map-title">{{ lang.bbi }}</h2>
 
-<h2 class="home-header"><a href="#as" id="as">在亚洲购买比特币</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.as == true and country.zh == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
+<form class="form-inline" style="text-align: center;">
+    <div class="form-group">
 
-<h2 class="home-header"><a href="#na" id="na">在北美洲购买比特币</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.na == true and country.zh == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
+      <select id="country" class="type-select-container form-control">
+        <option value=""><i class="fa fa-fw fa-globe"></i> {{ lang.country }}</option>
+        {% assign countries = (site.data.countries | sort: 'country_zh') %}
+        {% for country in countries %}
+          {% if country.country_zh %}
+            <option value="{{country.short}}">{{country.country_zh}}</option>             		  {% endif %}
+        {% endfor %}
+      </select>
+    </div>
+    <h2 class="map-title map-title-2">{{ lang.with }}</h2>
+    <div class="form-group">
+      <label for="payment_method"></label>
+      <select id="payment_method" class="type-select-container form-control">
+        <option value=""><i class="fa fa-fw fa-money"></i> {{ lang.pmethod }}</option>
+        {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
+        {% for method in paymentmethods %}
+          {% if method.zh %}
+          	<option value="{{method.short}}">{{method.zh}}</option>
+          {% else %}
+          	<option value="{{method.short}}">{{method.pmethod}}</option>
+          {% endif %}
+        {% endfor %}
+      </select>
+    </div>
+  </form>
+
 </div>
-</div>
-<hr>
+  
+<div class="container-fluid" id="notification"></div>
+<br><br>
+<div class="container" id="sellers"></div>

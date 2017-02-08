@@ -1,6 +1,8 @@
  - pmethod: Credit Card
    short: cc
    ru: кредитная карта
+   es: Tarjeta de crédito
+   zh: 信用卡
    
  - pmethod: Debit Card
    short: cc   
@@ -8,10 +10,14 @@
  - pmethod: Cash
    short: cash
    ru: Денежные средства
+   es: Efectivo
+   zh: 现金
    
  - pmethod: Bank Transfer
    short: bt
    ru: банковский счет
+   es: Cuenta Bancaria
+   zh: 银行转帐
    
  - pmethod: SEPA
    short: sepa

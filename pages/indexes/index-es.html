@@ -1,44 +1,54 @@
 ---
 hide_sidebar: true
 lang: es
-title: Comprar Bitcoin en cualquier lugar - Buy Bitcoin Worldwide
-seotitle: Comprar Bitcoin en cualquier lugar - Buy Bitcoin Worldwide
+title: Comprar Bitcoin en cualquier lugar
+seotitle: Comprar Bitcoin en cualquier lugar
 desc: Comprar Bitcoin en cualquier lugar del mundo. Simplemente seleccione un país. 
 permalink: /es/
-layout: default
+layout: home
+home: yes
+include_javascript:
+  - 'sellers/es'
+  - 'i18n/es'
+  - 'buybot'
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
-<div class="well well-home">
-<div class="well-message">{{ lang.sitedesc }}</div>
+<div class="container-fluid buy-bot home-mapimg">
 
-<ul class="index-continent-menu">
-<li><a class="btn btn-sm btn-primary" href="#na">{{ lang.namerica }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#sa">{{ lang.samerica }}</a></li> 
-</ul>
-</div>
+<h2 class="map-title">{{ lang.bbi }}</h2>
 
-<h2 class="home-header"><a href="#na" id="na">{{ lang.buy }} {{ lang.in }} {{ lang.namerica }}</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.na == true and country.es == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
+<form class="form-inline" style="text-align: center;">
+    <div class="form-group">
 
+      <select id="country" class="type-select-container form-control">
+        <option value=""><i class="fa fa-fw fa-globe"></i> {{ lang.country }}</option>
+        {% assign countries = (site.data.countries | sort: 'country_es') %}
+        {% for country_es in countries %}
+          {% if country_es.country_es %}
+            <option value="{{country_es.short}}">{{country_es.country_es}}</option>             		  {% endif %}
+        {% endfor %}
+      </select>
+    </div>
+    <h2 class="map-title map-title-2">{{ lang.with }}</h2>
+    <div class="form-group">
+      <label for="payment_method"></label>
+      <select id="payment_method" class="type-select-container form-control">
+        <option value=""><i class="fa fa-fw fa-money"></i> {{ lang.pmethod }}</option>
+        {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
+        {% for method in paymentmethods %}
+          {% if method.es %}
+          	<option value="{{method.short}}">{{method.es}}</option>
+          {% else %}
+          	<option value="{{method.short}}">{{method.pmethod}}</option>
+          {% endif %}
+        {% endfor %}
+      </select>
+    </div>
+  </form>
 
-<h2 class="home-header"><a href="#sa" id="sa">{{ lang.buy }} {{ lang.in }} {{ lang.samerica }}</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.sa == true and country.es == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
 </div>
-</div>
-<hr>
+  
+<div class="container-fluid" id="notification"></div>
+<br><br>
+<div class="container" id="sellers"></div>
