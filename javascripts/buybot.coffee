@@ -22,7 +22,7 @@ filterAndRenderSellers = () ->
       _.filter sellers, (seller) ->
         сountryRegExp = new RegExp(countryCode, "i")
         paymentRegExp = new RegExp(paymentCode, "i")
-        сountryRegExp.test(seller.countries) && paymentRegExp.test(seller.methods)
+        сountryRegExp.test(seller.countries) && paymentRegExp.test(seller.methods) && seller.html.trim() !=  ''
   )
 
   $selector.html('')
