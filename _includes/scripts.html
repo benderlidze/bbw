@@ -1,7 +1,10 @@
 <!-- Place your <script> tags here. -->
-<script src="{{ "/javascripts/libs/combined.js" | prepend:site.baseurl }}" async defer></script>
+<script src="{{ "/javascripts/libs/jquery.min.js" | prepend:site.baseurl }}"></script>
+<script src="{{ "/javascripts/libs/bootstrap.min.js" | prepend:site.baseurl }}"></script>
+<script src="{{ "/javascripts/libs/select2.full.min.js" | prepend:site.baseurl }}"></script>
+<script src="{{ "/javascripts/libs/underscore.min.js" | prepend:site.baseurl }}"></script>
 {% if page.include_javascript %}
   {% for filename in page.include_javascript %}
-    <script src="/javascripts/{{filename}}.js" async defer></script>
+    <script src="/javascripts/{{filename}}.js"></script>
   {% endfor %}
 {% endif %}
