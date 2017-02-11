@@ -12,6 +12,7 @@
     <![endif]-->
 	<meta name="description" content="{{ page.desc }}" />
 	{% include analytics.html %}
+    {% include loadcssjs.html %}
 	{% if page.country != null  %}
 	{% include hreflang.html %}
 	{% endif %}
@@ -25,10 +26,16 @@
 	    {% endcapture %}
 	    {{ include_to_scssify | scssify }}
     </style>
+    <script>
+    loadCSS("{{ "/stylesheets/shiori.css" | prepend:site.baseurl }}");
+    </script>
+
+
     {% if page.di == true %}
     <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
     <script src="/javascripts/libs/chart.min.js"></script>
     {% endif %}
     
     <script src="//load.sumome.com/" data-sumo-site-id="5f6282cd35b85780955451636fcec2f721525538cacc99bea2be031abb50e07e" async="async"></script>
+    
 </head>
