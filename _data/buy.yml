@@ -1342,16 +1342,16 @@
    desc_ru: Биткоин-биржа. Вкладывайте средства через банковский перевод, OKPay и Perfect Money.
    desc_uk: Біткоін-біржа. Вкладайте кошти через банківський переказ, OKPay і Perfect Money.
    
- - name: Indacoin
-   desc: Bitcoin broker. Buy with credit or debit card, QIWI Wallet, Yandex.Money.  
-   url: https://indacoin.com/
-   icon: /img/buy/indacoin.png
-   countries: ru
-   po: cc, yandex
-   desc_el: Μεσίτης bitcoin. Αγοράστε με πιστωτική ή χρεωστική κάρτα, QIWI Wallet, Yandex.Money.
-   desc_de: Bitcoin Broker. Kaufen mit Kredit oder Debitkarte, QIWI Wallet, Yandex Money.
-   desc_ru: Купить биткоин кредитной или дебетовой картой, с помощью кошелька QIWI, через Яндекс.Деньги.
-   desc_uk: Купити біткоіни кредитної або дебетової картою, за допомогою гаманця QIWI, через Яндекс.Деньги.
+## - name: Indacoin
+##   desc: Bitcoin broker. Buy with credit or debit card, QIWI Wallet, Yandex.Money.  
+##   url: https://indacoin.com/
+##   icon: /img/buy/indacoin.png
+##   countries: ru
+##   po: cc, yandex
+##   desc_el: Μεσίτης bitcoin. Αγοράστε με πιστωτική ή χρεωστική κάρτα, QIWI Wallet, Yandex.Money.
+##   desc_de: Bitcoin Broker. Kaufen mit Kredit oder Debitkarte, QIWI Wallet, Yandex Money.
+##   desc_ru: Купить биткоин кредитной или дебетовой картой, с помощью кошелька QIWI, через Яндекс.Деньги.
+##   desc_uk: Купити біткоіни кредитної або дебетової картою, за допомогою гаманця QIWI, через Яндекс.Деньги.
    
 ##### Ukraine ####################################################      
    
