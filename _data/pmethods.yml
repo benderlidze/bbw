@@ -13,7 +13,7 @@
    es: Efectivo
    zh: 现金
    
- - pmethod: Bank Transfer
+ - pmethod: Bank Account
    short: bt
    ru: банковский счет
    es: Cuenta Bancaria

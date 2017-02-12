@@ -192,7 +192,7 @@
    url: http://buybitcoinww.co/Buy_Coinbase
    internal_url: /exchanges/coinbase/
    icon: /img/buy/coinbaseexchange.png
-   countries: us, ca, au, sg, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
+   countries: us, ca, au, sg, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
    po: sepa, usbt, lowfees, bt, ach, babt, sell
    desc_achshort: Fund your Coinbase exchange account via ACH bank transfer.  
    desc_ach: Coinbase Exchange is only available in <a href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
