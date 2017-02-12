@@ -12,16 +12,9 @@ hide_sidebar: true
 <div class="post-content">
 
 {% for name in site.data.buy %}
-{% if name.po contains 'sell' %}
 
-&nbsp;-&nbsp;name:&nbsp;{{ name.name }}
-<br>&nbsp;&nbsp;&nbsp;desc_sell: {{ name.desc_sell }}
-<br>&nbsp;&nbsp;&nbsp;url: {{ name.url }}
-<br>&nbsp;&nbsp;&nbsp;icon: {{ name.icon }}
-<br>&nbsp;&nbsp;&nbsp;countries: {{ name.countries }}
-<br>&nbsp;&nbsp;&nbsp;po: {{ name.po }}
- <br> <br>
-{% endif %}
+{% include buy-list-en.html %}
+
 {% endfor %}
 	
 </div>
