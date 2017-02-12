@@ -214,6 +214,45 @@
    pros: <li>Some of the lowest fees available for US and EU customers</li>
    cons: <li>User interface is confusing for first time buyers</li>
 
+ - name: CEX.io
+   desc: CEX.io lets you <a href="/en/buy-bitcoin-credit-debit-card/">buy bitcoin with a credit card</a>, ACH bank transfer, SEPA transfer, cash, and AstroPay. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America.
+   url: http://buybitcoinww.co/CEX__IO
+   internal_url: /exchanges/cex-io/
+   icon: /img/buy/cex.png
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
+   po: sepa, ccus, swift, fast, lowfees, ccww, ccwwtop, cc, astro, babt
+   desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card from nearly any country. 
+   desc_fast: CEX.io lets you buy bitcoin with a credit card, ACH bank transfer, or SEPA transfer. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America. 
+   desc_ccus: CEX.io lets you buy bitcoin with a credit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
+   desc_ccww: CEX.io lets you buy bitcoin with a credit or debit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
+   desc_ccww_fr: CEX.io vous permet d'acheter des bitcoins avec une carte de crédit ou de débit et de les avoir immédiatement à disposition. CEX.io fonctionne aux États-Unis, en Europe et dans certains pays d'Amérique du Sud.
+   desc_ccww_it: CEX.io consente di acquistare Bitcoin con una carta di credito o di debito, e i Bitcoin saranno disponibili immediatamente. CEX.io funziona negli Stati Uniti, in Europa e in alcuni paesi dell’America del Sud.
+   desc_ccww_ptbr: CEX.io permite você comprar bitcoin com cartão de crédito ou débito e seu bitcoin está disponível imediatamente. CEX.io atende nos Estados Unidos, Europa e alguns países da América do Sul.
+   desc_ccww_ru: CEX.io позволяет покупать биткоины при помощи кредитной или дебетовой карты, и предоставляет биткоины мгновенно. CEX.io работает в США, Европе, и некоторых странах Южной Америки.
+   desc_ccww_es: CEX.io permite comprar bitcoin con tarjeta de crédito o débito y sus bitcoin estarán disponibles de manera inmediata. CEX.io trabaja en los Estados Unidos, Europa y algunos países de América del Sur.
+   desc_ccww_de: CEX.io ermöglicht Ihnen Bitcoin mit einer Kredit- oder Debitkarte zu kaufen und Ihre Bitcoin werden sofort verfügbar sein. CEX.io arbeitet in den Vereinigten Staaten, Europa und in einigen Ländern der Südamerika.
+   desc_ccww_pl: CEX.io pozwoli Ci kupić bitcoiny za pomocą karty kredytowej lub debetowej i będą one dostępne natychmiastowo. CEX.io działa w Stanach Zjednoczonych. Europie i niektórych krajach Południowej Ameryki. 
+   desc_astropay: CEX.IO is a bitcoin exchange and broker based in London. Users in Brazil, Mexico, Argentina, Chile, Peru, Uruguay, China and Turkey can buy bitcoin with AstroPay at CEX.IO. A flat 2.5% fee is charged on all purchases, and users can buy up to $2,000 worth of bitcoins per day and up to $4,000 worth of bitcoins per month. 
+   name_es: CEX.io
+   desc_es: Comprar Bitcoin a través de tarjeta de crédito, transferencia bancaria SEPA/ACH, o efectivo.
+   desc_ar:  شراء بيتكوين عبر بطاقة الائتمان SEPA أو التحويل المصرفي ACH أو نقدًا، أو AstroPay.
+   desc_fr: Achetez des bitcoins par carte de crédit, virement bancaire SEPA/ACH, espèces ou AstroPay.
+   desc_el: Αγοράστε bitcoin με πιστωτική κάρτα, τραπεζική μεταφορά SEPA/ACH, μετρητά ή μέσω AstroPay.
+   desc_nl: Koop bitcoin met creditcard, SEPA/ACH overschrijving, contant geld of AstroPay.
+   desc_it: Acquista Bitcoin tramite carta di credito, bonifico bancario SEPA/ACH, contanti o AstroPay.
+   desc_pt_br: Compre Bitcoins com o cartão de crédito, transferência bancária via SEPA/ACH, ou AstroPay.
+   desc_de: Bitcoin mit der Kreditkarte, SEPA/ACH Banküberweisungen, Bargeld oder AstroPay kaufen. 
+   desc_zh: 以信用卡、国家环保总局／ACH银行转账、现金或AstroPay购买比特币。
+   desc_bg: Купете биткойн чрез кредитна карта, SEPA/ACH банков превод, в брой, или чрез AstroPay.
+   desc_ru: Купить биткоин кредитной картой, ACH/SEPA-платежом, наличными или AstroPay.
+   desc_uk: Купити біткоіни кредитною карткою, ACH/SEPA, готівкою або AstroPay.
+   tags: [quickinfo, review, lowprivacy, avgspeed, avgfees, trusted, eouavg, avglimits, home]
+   fees_cc: 3.5%
+   avail: Global
+   pros: <li>Support for many countries and has decent fees</li>
+   cons: <li>Verification process is extensive; requires tons of information and takes a long time</li>
+   desc_babt: CEX.io allows for purchases of bitcoins using ACH in the USA and with SEPA transfer in EU countries. 
+
  - name: Coinhouse
    desc: Coinhouse lets you buy bitcoins with a 3D secure credit or debit card in Europe. While its fees are somewhat high, it offers high limits. 
    url: http://buybitcoinww.co/coinhouse
@@ -1689,45 +1728,6 @@
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, avgrep, eouavg, avglimits]
    pros: <li>Offers wide range of payment methods in many countries</li>
    cons: <li>Somewhat high fees for credit and debit card purchases</li>
-     
- - name: CEX.io
-   desc: CEX.io lets you <a href="/en/buy-bitcoin-credit-debit-card/">buy bitcoin with a credit card</a>, ACH bank transfer, SEPA transfer, cash, and AstroPay. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America.
-   url: http://buybitcoinww.co/CEX__IO
-   internal_url: /exchanges/cex-io/
-   icon: /img/buy/cex.png
-   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
-   po: sepa, ccus, swift, fast, lowfees, ccww, ccwwtop, cc, astro, babt
-   desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card from nearly any country. 
-   desc_fast: CEX.io lets you buy bitcoin with a credit card, ACH bank transfer, or SEPA transfer. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America. 
-   desc_ccus: CEX.io lets you buy bitcoin with a credit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
-   desc_ccww: CEX.io lets you buy bitcoin with a credit or debit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
-   desc_ccww_fr: CEX.io vous permet d'acheter des bitcoins avec une carte de crédit ou de débit et de les avoir immédiatement à disposition. CEX.io fonctionne aux États-Unis, en Europe et dans certains pays d'Amérique du Sud.
-   desc_ccww_it: CEX.io consente di acquistare Bitcoin con una carta di credito o di debito, e i Bitcoin saranno disponibili immediatamente. CEX.io funziona negli Stati Uniti, in Europa e in alcuni paesi dell’America del Sud.
-   desc_ccww_ptbr: CEX.io permite você comprar bitcoin com cartão de crédito ou débito e seu bitcoin está disponível imediatamente. CEX.io atende nos Estados Unidos, Europa e alguns países da América do Sul.
-   desc_ccww_ru: CEX.io позволяет покупать биткоины при помощи кредитной или дебетовой карты, и предоставляет биткоины мгновенно. CEX.io работает в США, Европе, и некоторых странах Южной Америки.
-   desc_ccww_es: CEX.io permite comprar bitcoin con tarjeta de crédito o débito y sus bitcoin estarán disponibles de manera inmediata. CEX.io trabaja en los Estados Unidos, Europa y algunos países de América del Sur.
-   desc_ccww_de: CEX.io ermöglicht Ihnen Bitcoin mit einer Kredit- oder Debitkarte zu kaufen und Ihre Bitcoin werden sofort verfügbar sein. CEX.io arbeitet in den Vereinigten Staaten, Europa und in einigen Ländern der Südamerika.
-   desc_ccww_pl: CEX.io pozwoli Ci kupić bitcoiny za pomocą karty kredytowej lub debetowej i będą one dostępne natychmiastowo. CEX.io działa w Stanach Zjednoczonych. Europie i niektórych krajach Południowej Ameryki. 
-   desc_astropay: CEX.IO is a bitcoin exchange and broker based in London. Users in Brazil, Mexico, Argentina, Chile, Peru, Uruguay, China and Turkey can buy bitcoin with AstroPay at CEX.IO. A flat 2.5% fee is charged on all purchases, and users can buy up to $2,000 worth of bitcoins per day and up to $4,000 worth of bitcoins per month. 
-   name_es: CEX.io
-   desc_es: Comprar Bitcoin a través de tarjeta de crédito, transferencia bancaria SEPA/ACH, o efectivo.
-   desc_ar:  شراء بيتكوين عبر بطاقة الائتمان SEPA أو التحويل المصرفي ACH أو نقدًا، أو AstroPay.
-   desc_fr: Achetez des bitcoins par carte de crédit, virement bancaire SEPA/ACH, espèces ou AstroPay.
-   desc_el: Αγοράστε bitcoin με πιστωτική κάρτα, τραπεζική μεταφορά SEPA/ACH, μετρητά ή μέσω AstroPay.
-   desc_nl: Koop bitcoin met creditcard, SEPA/ACH overschrijving, contant geld of AstroPay.
-   desc_it: Acquista Bitcoin tramite carta di credito, bonifico bancario SEPA/ACH, contanti o AstroPay.
-   desc_pt_br: Compre Bitcoins com o cartão de crédito, transferência bancária via SEPA/ACH, ou AstroPay.
-   desc_de: Bitcoin mit der Kreditkarte, SEPA/ACH Banküberweisungen, Bargeld oder AstroPay kaufen. 
-   desc_zh: 以信用卡、国家环保总局／ACH银行转账、现金或AstroPay购买比特币。
-   desc_bg: Купете биткойн чрез кредитна карта, SEPA/ACH банков превод, в брой, или чрез AstroPay.
-   desc_ru: Купить биткоин кредитной картой, ACH/SEPA-платежом, наличными или AstroPay.
-   desc_uk: Купити біткоіни кредитною карткою, ACH/SEPA, готівкою або AstroPay.
-   tags: [quickinfo, review, lowprivacy, avgspeed, avgfees, trusted, eouavg, avglimits, home]
-   fees_cc: 3.5%
-   avail: Global
-   pros: <li>Support for many countries and has decent fees</li>
-   cons: <li>Verification process is extensive; requires tons of information and takes a long time</li>
-   desc_babt: CEX.io allows for purchases of bitcoins using ACH in the USA and with SEPA transfer in EU countries. 
    
  - name: LibertyX
    desc: LibertyX makes buying bitcoins with cash a simple process. You first use LibertyX's app to locate a store near you that sells LibertyX codes. Once you locate a store you enter your LibertyX code to the app along with a Bitcoin address and your coins will be delivered. <br><br> If you connect a Facebook account to your LibertyX app, your first $500 of purchases are fee-free. Otherwise all purchases cost 1% in fees.   
