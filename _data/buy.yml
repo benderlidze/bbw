@@ -441,7 +441,7 @@
    
  - name: Coinfinity
    desc: Coinfinity is an Austrian Bitcoin broker. Customers can buy bitcoin via SEPA transfer or SOFORT.  
-   url: http://buybitcoinww.co/coinfinity
+   url: https://coinfinity.co/
    icon: /img/buy/coinfinity.png
    countries: at
    po: sofort, sepa, babt
