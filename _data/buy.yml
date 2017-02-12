@@ -186,6 +186,33 @@
    desc_uk: Купити біткоіни через SOFORT, NETELLER, giropay, eps, SEPA або банківським переказом онлайн.
    desc_sell: Sell bitcoins for Skrill, NETELLER, PayPal (EU only), Amazon.de credit, or SEPA transfer.
 
+ - name: GDAX
+   desc: GDAX is one of the largest Bitcoin exchanges in the United States. Users can fund accounts with bank transfer, SEPA, and bank wire. GDAX offers good prices and low fees, but its confusing user interface makes it difficult for first time buyers. 
+   tags: [quickinfo, review, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
+   url: http://buybitcoinww.co/Buy_Coinbase
+   internal_url: /exchanges/coinbase/
+   icon: /img/buy/coinbaseexchange.png
+   countries: us, ca, au, sg, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
+   po: sepa, usbt, lowfees, bt, ach, babt, sell
+   desc_achshort: Fund your Coinbase exchange account via ACH bank transfer.  
+   desc_ach: Coinbase Exchange is only available in <a href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
+   desc_babt: US customers can fund their Coinbase Exchange trading accounts via ACH or bank wire. Residents of Europe and the UK can fund with SEPA transfer. 
+   name_es: Coinbase Exchange
+   desc_es: Fondos con transferencia SEPA o transferencia bancaria ACH.
+   desc_ar:  صرافة بيتكوين بالولايات المتحدة . التمويل عن طريق تحويل SEPA أو تحويل مصرفي بنظام المقاصة بين البنوك الأمريكية ACH
+   desc_fr: Bourse d'échange de bitcoins basée aux États-Unis. Alimentez par virement SEPA ou ACH.
+   desc_el: Ανταλλακτήριο bitcoin με έδρα στις ΗΠΑ. Χρηματοδότηση με έμβασμα SEPA ή τραπεζική μεταφορά ACH.
+   desc_nl: Bitcoin uitwisseling in Amerika. Betaal met SEPA overschrijving of ACH overschrijving.
+   desc_it: Società di cambio di Bitcoin con sede negli Stati Uniti d’America. Deposita con bancario ACH.
+   desc_pt_br: Conversão de Bitcoins. Depositar fundos por transferência bancária SEPA ou ACH.
+   desc_de: US basiertes Bitcoin Börse. Finanzieren mit SEPA  oder ACH Überweisungen.
+   desc_zh: 美国比特币交易所。以国家环保总局或ACH银行转账增资。
+   desc_bg: Базирана в САЩ биткойн борса. Захранете чрез SEPA превод или ACH банков превод.
+   desc_ru: Биткоин-биржа. Покупка SEPA-платежом или банковским (Automated Clearing House) переводом.
+   desc_uk: Біткоін-біржа. Купівля SEPA-платежем або банківським (Automated Clearing House) переказом.
+   desc_sell: Sell bitcoins on Coinbase Exchange, then transfer to a United States bank account via ACH. 
+   pros: <li>Some of the lowest fees available for US and EU customers</li>
+   cons: <li>User interface is confusing for first time buyers</li>
 
  - name: Coinhouse
    desc: Coinhouse lets you buy bitcoins with a 3D secure credit or debit card in Europe. While its fees are somewhat high, it offers high limits. 
@@ -266,34 +293,6 @@
    desc_uk: Купити біткоін у місцевих посередників, онлайн або особисто (в "оффлайн"). Сбор в размере 1%.
    desc_pl: Kup bitcoiny od lokalnych sprzedawców, online lub też osobiście. Poufnie i szybko.
    desc_sell: Sell bitcoins for cash deposit, or meet in person and make a cash trade. 1% fee. 
-
- - name: GDAX
-   desc: GDAX is one of the largest Bitcoin exchanges in the United States. Users can fund accounts with bank transfer, SEPA, and bank wire. GDAX offers good prices and low fees, but its confusing user interface makes it difficult for first time buyers. 
-   tags: [quickinfo, review, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   url: http://buybitcoinww.co/Buy_Coinbase
-   internal_url: /exchanges/coinbase/
-   icon: /img/buy/coinbaseexchange.png
-   countries: us, gb   
-   po: sepa, usbt, lowfees, bt, ach, babt, sell
-   desc_achshort: Fund your Coinbase exchange account via ACH bank transfer.  
-   desc_ach: Coinbase Exchange is only available in <a href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
-   desc_babt: US customers can fund their Coinbase Exchange trading accounts via ACH or bank wire. Residents of Europe and the UK can fund with SEPA transfer. 
-   name_es: Coinbase Exchange
-   desc_es: Fondos con transferencia SEPA o transferencia bancaria ACH.
-   desc_ar:  صرافة بيتكوين بالولايات المتحدة . التمويل عن طريق تحويل SEPA أو تحويل مصرفي بنظام المقاصة بين البنوك الأمريكية ACH
-   desc_fr: Bourse d'échange de bitcoins basée aux États-Unis. Alimentez par virement SEPA ou ACH.
-   desc_el: Ανταλλακτήριο bitcoin με έδρα στις ΗΠΑ. Χρηματοδότηση με έμβασμα SEPA ή τραπεζική μεταφορά ACH.
-   desc_nl: Bitcoin uitwisseling in Amerika. Betaal met SEPA overschrijving of ACH overschrijving.
-   desc_it: Società di cambio di Bitcoin con sede negli Stati Uniti d’America. Deposita con bancario ACH.
-   desc_pt_br: Conversão de Bitcoins. Depositar fundos por transferência bancária SEPA ou ACH.
-   desc_de: US basiertes Bitcoin Börse. Finanzieren mit SEPA  oder ACH Überweisungen.
-   desc_zh: 美国比特币交易所。以国家环保总局或ACH银行转账增资。
-   desc_bg: Базирана в САЩ биткойн борса. Захранете чрез SEPA превод или ACH банков превод.
-   desc_ru: Биткоин-биржа. Покупка SEPA-платежом или банковским (Automated Clearing House) переводом.
-   desc_uk: Біткоін-біржа. Купівля SEPA-платежем або банківським (Automated Clearing House) переказом.
-   desc_sell: Sell bitcoins on Coinbase Exchange, then transfer to a United States bank account via ACH. 
-   pros: <li>Some of the lowest fees available for US and EU customers</li>
-   cons: <li>User interface is confusing for first time buyers</li>
 
  - name: BitQuick
    desc: BitQuick is one of the fastest ways to buy bitcoins in the United States using cash deposit. Users can browse a wide range of offers at different prices. Once a desired offer is found users make a cash deposit into the seller's account and will usually receive bitcoins within an hour.  
