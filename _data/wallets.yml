@@ -1,17 +1,17 @@
  - title: Electrum
-   summary: Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. It was created in November 2011. The main features of Electrum are support for hardware wallets TREZOR, Ledger Nano and HW1, secure cold storage using an offline computer, and decentralized verification using SPV. Electrum is a good option for both beginners and advanced users. 
+   summary: "Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. Electrum was created in November 2011. The main features of Electrum are: support for hardware wallets (such as TREZOR, Ledger Nano and KeepKey), and secure Bitcoin storage using an offline computer. Electrum is a good option for both beginners and advanced users. "
    tags: [desktop, mac, nonhw]
    thumb: electrum.png
    website_url: http://electrum.org/ 
 
  - title: Mycelium
-   summary: Mycelium, founded in 2008, is a Bitcoin company with 35 employees located in Europe, Asia, and America. Mycelium offers mobile wallets for iPhone and Android. Mycelium is a good option for beginners, with features like watch-only addresses, cold storage spending, and HD accounts. Advanced features include TREZOR & Ledger support, xpub/xpriv key exports, and decrypting BIP38 keys. Mycelium can also restore hardware wallet seeds from TREZOR or Ledger. Mycelium is the most popular Bitcoin wallet on Android.
+   summary: Mycelium is the most popular Bitcoin wallet on Android. It's very easy to use for sending and receiving payments. Backing up your wallet is also simple, since Mycelium makes it very clear with setup and backup instructions.  
    tags: [android, mobile, nonhw]
    thumb: mycelium.png
    website_url: https://mycelium.com/mycelium-wallet.html
    
  - title: breadwallet
-   summary: We consider breadwallet, along with Copay (below), as the best bitcoin wallet for iPhone. It is open source and gives the user full control over the private keys. It has a clean interface, making sending and receiving bitcoins a super simple process. 
+   summary: We consider breadwallet, along with Copay (below), as the best bitcoin wallet for iPhone. It’s open source and gives the user full control over their private keys. It also has a clean interface which makes the sending and receiving of bitcoins a pleasurable and super-simple process. 
    tags: [mobile, nonhw, ios]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
@@ -23,7 +23,7 @@
    website_url: https://breadwallet.com/
 
  - title: Copay
-   summary: Copay Bitcoin wallet is BitPay's open source wallet. It can be used across multiple devices, since Copay is available for Android, Windows Phone, iOS, and all desktop platforms. Among many other great features, it's easy to create multiple accounts so you can have seperate wallets for your business and personal funds. 
+   summary: Copay Bitcoin wallet is BitPay's open source wallet. It can be used across multiple devices, since Copay is available for Android, Windows Phone, iOS, and all desktop platforms. Among many other great features, it's easy to create multiple accounts so you can have separate wallets for your business and personal funds. 
    tags: [nonhw, ios]
    thumb: copay.png
    website_url: https://copay.io/   
@@ -35,7 +35,7 @@
    website_url: https://copay.io/
    
  - title: Airbitz
-   summary: "Airbitz is an easy to use Bitcoin wallet for iPhone and Android. Its familiar login feature makes using the app a breeze for people who are new to bitcoin. The wallet also creates automatic backups, so you don't have to create manual backups."
+   summary: "Airbitz is an easy to use Bitcoin wallet for iPhone and Android. Its familiar login feature makes using the app a breeze for people new to bitcoin. The wallet also creates automatic backups, so you don't have to worry about the technicalities of performing manual wallet backups."
    tags: [android, ios, nonhw]
    thumb: airbitz.png
    website_url: https://copay.io/      
@@ -47,19 +47,19 @@
    website_url: https://copay.io/         
    
  - title: GreenBits
-   summary: GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that supports hardware wallets like TREZOR and Ledger.
+   summary: GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that also supports hardware wallets like TREZOR and Ledger.
    tags: [android, mobile, nonhw]
    thumb: greenbits.png
    website_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en 
    
  - title: GreenAddress
-   summary: GreenAddress is a multisignature Bitcoin wallet available on the web, desktop, Android, and iOS. GreenAddress is compatible with hardware wallets like TREZOR, Ledger Nano, and the HW.1.
+   summary: <p>GreenAddress is a multi-signature Bitcoin wallet available on the web, desktop, Android, and iOS. GreenAddress is compatible with hardware wallets like TREZOR, Ledger Nano, and the HW.1.</p> <p>“Multi-signature” in this context means that the site requires a manual confirmation from you for your coins to be moved; this greatly improves security.</p>
    tags: [web, online, nonhw]
    thumb: greenaddress.png
    website_url: https://greenaddress.it/       
    
  - title: Bitcoin Wallet
-   summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet. Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network with SPV. Bitcoin Wallet has a simple interface and just the right amount of features, making it the easiest Bitcoin wallet for beginners to learn with.
+   summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet. Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network. Bitcoin Wallet has a simple interface and just the right amount of features, making it a great wallet and a great educational tool for Bitcoin beginners.
    tags: [mobile, android, nonhw]
    thumb: bwallet.png
    website_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet  

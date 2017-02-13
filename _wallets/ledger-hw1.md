@@ -18,7 +18,7 @@ control_priv_keys: yes
 buy: yes
 buy_url: http://buybitcoinww.co/Ledger_HW1
 contribute: ledger-hw1
-summary: The Ledger HW.1 can be considered a budget hardware wallet. It does not have a screen, so it is not quite as secure as the three mentioned above. It will, however, give you more security than a hot wallet. 
+summary: The Ledger HW.1 can be considered a budget hardware wallet. It doesn't have a screen, so it isn't quite as secure as the three options mentioned above. It will, however, give you more security than a hot wallet. 
 weight: 2
 screen: no
 released: Jan 2013
