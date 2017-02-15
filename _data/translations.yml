@@ -41,6 +41,17 @@ en:
   select_payment_method: Please select a payment method.
   no_sellers_found: Sorry, no matches found.
   sellers_found: 'We found <strong><%= exchangeCount %></strong> Bitcoin exchange<%= ( exchangeCount > 1 ? \"s\" : \"\") %> in <strong><%= countryName %></strong> that accept <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
+  average: Average
+  low: Low
+  high: High
+  trusted: Trusted
+  newcompany: New Company
+  lowtrust: Low Trust
+  vary: Varies
+  slow: Slow
+  fast: Fast
+  hard: Hard
+  easy: Easy
   
 ##################### Spanish #####################
 es:   
