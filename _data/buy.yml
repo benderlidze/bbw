@@ -1553,8 +1553,9 @@
    icon: /img/buy/bitonic.png
    countries: nl
    po: ideal, mastercash
-   tags: [quickinfo, avgprivacy, fastspeed, avgfees, trusted, eoueasy, avglimits]
+   tags: [quickinfo, avgprivacy, fast, avgfees, trusted, eoueasy, avglimits]
    pros: <li>Oldest and trusted Bitcoin exchange in the Netherlands</li> <li>Super fast delivery of bitcoins</li> <li>No identity verification required</li>
+   cons: <li>Fees only displayed in price at checkout</li>
    
  - name: Bitrush
    desc: Bitrush is a Bitcoin exchange based in the Netherlands. Its customers can buy bitcoins with 
@@ -1562,7 +1563,7 @@
    icon: /img/buy/bitrush.png
    countries: nl, de, gb, be
    po: ideal, sofort
-   tags: [quickinfo, lowprivacy, fastspeed, avgfees, avgrep, eoueasy, avglimits]
+   tags: [quickinfo, lowprivacy, fast, avgfees, avgrep, eoueasy, avglimits]
    pros: <li>Simple interface makes buying an easy process</li> <li>Fast delivery of bitcoins after payment</li>
    cons: <li>New broker, needs to build trust</li>
    
