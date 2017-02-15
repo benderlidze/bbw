@@ -1582,7 +1582,7 @@
    desc_uk: Найбільша біткоін-біржа в Польщі. Купити біткоіни банківським переказом або SEPA-платежем.
    
  - name: BitMarket
-   desc: Bitcoin exchange in Poland. Deposit PLN via local bank transfer.
+   desc: BitMarket is a Bitcoin exchange based in Poland. Users can deposit PLN via local bank transfer.
    url: https://www.bitmarket.pl/
    icon: /img/buy/bitmarket.png
    countries: pl
@@ -1590,11 +1590,14 @@
    desc_de: Bitcoin Börse. Zahle PLN über lokale Banküberweisungen ein.
    desc_ru: Биткоин-биржа. Вклад PLN с помощью местного банковского перевода.
    desc_uk: Біткоін-біржа. Вклад PLN за допомогою місцевого банківського переказу.
+   tags: [quickinfo, lowprivacy, avgspeed, lowfees, avgtrust, eouhard, avglimits]
+   pros: <li>One of the few Poland based Bitcoin exchanges</li> <li>Some of the lowest fees for Poland</li>
+   cons: <li>Slightly confusing for first time buyers</li>
    
 ##### Romania ####################################################      
 
  - name: Bitcoin Romania
-   desc: Buy bitcoin at more than 800 ZebraPay terminals across Romania.   
+   desc: Bitcoin Romania is a cash to bitcoin service. Customers can buy bitcoin at more than 800 ZebraPay terminals across Romania.   
    url: http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/
    icon: /img/buy/btcromania.png
    countries: ro
@@ -1603,9 +1606,11 @@
    desc_bg: Купете биткойн от някой от над 800-те терминала на ZebraPay на територията на Румъния.
    desc_ru: Купить биткоин в более чем 800 терминалах ZebraPay в Румынии.
    desc_uk: Купити біткоіни в більш ніж 800 терміналах ZebraPay в Румунії.
+   pros: <li>One of the best ways to buy bitcoins in Romania</li> <li>Convenient way to purchase coins if you have a ZebraPay terminal near you</li>
+   cons: <li>Higher fees than other exchanges in Romania</li>
    
  - name: BitcoinXRomania
-   desc: Bitcoin exchange. Deposit via bank transfer. 0.5% fee on all trades.    
+   desc: Bitcoin exchange based in Romania. Customers can make deposits via bank transfer. The company charges just a 0.5% fee on all trades.    
    url: https://bitcoinxromania.com/en/
    icon: /img/buy/btcxromania.png
    countries: ro   
@@ -1614,16 +1619,22 @@
    desc_bg: Биткойн борса. Депозиране чрез банков превод. 0.5% такса на всички транзакции. 
    desc_ru: Биткоин-биржа. Депозит с помощью банковского перевода. Сборы в размере 0.5% на все сделки.
    desc_uk: Біткоін-біржа. Депозит за допомогою банківського переказу. Збори в розмірі 0.5% на всі операції.  
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
+   pros: <li>One of the best ways to buy bitcoins in Romania</li> <li>Charges just 0.5% per buy</li>
 
 ##### Dominican Republic ####################################################
 
  - name: BitcoinRD
    desc: BitcoinRD is the easiest way to purchase bitcoins in the Dominican Republic. Users can purchase with bank transfer. 
-   url: http://bitcoinrd.online/comprar-bitcoin.html
+   url: http://bitcoinrd.online/
    icon: /img/buy/bitcoinrd.png
    countries: do
    po: bt
    desc_es: Compra Bitcoins en República Dominicana vía transferencia bancaria. 
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, avgtrust, eouavg, avglimits]
+   pros: <li>One of the best ways to buy bitcoins in the Dominican Republic</li>
+   cons: <li>Identity verification offers less privacy than other methods in the DR like LocalBitcoins</li>
+   
 
 ##### Nigeria ####################################################
 
@@ -1650,6 +1661,7 @@
    desc_fr: BitPesa est une société de transfert de Bitcoins qui vend également des Bitcoins au Kenya.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    pros: <li>Best way to buy bitcoins in Nigeria and Uganda</li>
+   cons: <li>Identity verification offers less privacy than other methods in Nigera like LocalBitcoins</li>
    
 ####################################################   
 
