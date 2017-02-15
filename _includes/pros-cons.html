@@ -1,8 +1,10 @@
+{% assign lang = site.data.translations[page.lang] %}
+
 {% if name.pros %}
 
 <div class="exchange-pros exchange-pros-buylist col-md-6"> 
 
-	<div class="exchange-pros-title">Pros</div> 
+	<div class="exchange-pros-title">{{ lang.pros }}</div> 
 	<ul class="quick-info-pros">
 		{{ name.pros }}
 	</ul>
@@ -11,7 +13,7 @@
 
 <div class="exchange-pros exchange-pros-buylist col-md-6"> 
 
-	<div class="exchange-pros-title">Cons</div> 
+	<div class="exchange-pros-title">{{ lang.cons }}</div> 
 	<ul class="quick-info-cons">
 	    {{ name.cons }}
 	</ul>

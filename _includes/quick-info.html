@@ -3,7 +3,7 @@
 <div class="quick-info">
 	
 	<div class="quick-info-section col-sm-4 col-md-2 col-xs-4">
-		<div class="quick-info-title"><i class="fa fa-user"></i> Ease of use</div>
+		<div class="quick-info-title"><i class="fa fa-user"></i> {{ lang.eouse }}</div>
 		<div class="quick-info-data">
 		{% if name.tags contains 'eoueasy' %}
 			{{ lang.easy }}
@@ -16,7 +16,7 @@
 	</div>
 	
 	<div class="quick-info-section col-sm-4 col-md-2 col-xs-4">
-		<div class="quick-info-title"><i class="fa fa-eye"></i> Privacy</div>
+		<div class="quick-info-title"><i class="fa fa-eye"></i> {{ lang.privacy }}</div>
 		<div class="quick-info-data">
 		{% if name.tags contains 'highprivacy' %}
 			{{ lang.high }}
@@ -30,7 +30,7 @@
 	
 	
 	<div class="quick-info-section col-sm-4 col-md-2 col-xs-4">
-		<div class="quick-info-title"><i class="fa fa-bolt"></i> Speed</div>
+		<div class="quick-info-title"><i class="fa fa-bolt"></i> {{ lang.speed }}</div>
 		<div class="quick-info-data">
 		{% if name.tags contains 'fast' %}
 			{{ lang.fast }}
@@ -45,7 +45,7 @@
 	</div>
 	
 	<div class="quick-info-section col-sm-4 col-md-2 col-xs-4">
-		<div class="quick-info-title"><i class="fa fa-money"></i> Fees</div>
+		<div class="quick-info-title"><i class="fa fa-money"></i> {{ lang.fees }}</div>
 		<div class="quick-info-data">
 		{% if name.tags contains 'lowfees' %}
 			{{ lang.low }}
@@ -60,7 +60,7 @@
 	</div>
 	
 	<div class="quick-info-section col-sm-4 col-md-2 col-xs-4">
-		<div class="quick-info-title"><i class="fa fa-smile-o"></i> Reputation</div>
+		<div class="quick-info-title"><i class="fa fa-smile-o"></i> {{ lang.rep }}</div>
 		<div class="quick-info-data">
 		{% if name.tags contains 'trusted' %}
 			{{ lang.trusted }}
@@ -75,7 +75,7 @@
 	</div>
 	
 	<div class="quick-info-section col-sm-4 col-md-2 col-xs-4">
-		<div class="quick-info-title"><i class="fa fa-usd"></i> Limits</div>
+		<div class="quick-info-title"><i class="fa fa-usd"></i> {{ lang.limits }}</div>
 		<div class="quick-info-data">
 		{% if name.tags contains 'highlimits' %}
 			{{ lang.high }}
@@ -83,6 +83,8 @@
 			{{ lang.average }}
 		{% elsif name.tags contains 'lowlimits' %}
 			{{ lang.low }}
+		{% elsif name.tags contains 'varylimits' %}
+			{{ lang.vary }}	
 		{% endif %}
 		</div>
 	</div>

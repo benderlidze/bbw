@@ -489,7 +489,7 @@
    url: https://www.cointed.com/
    icon: /img/buy/cointed.png
    countries: at, be, hr, dk, fi, fr, de, gr, hu, ie, it, lv, li, lu, mc, nl, nor, pl, pt, sk, si, es, se, ch, tr, ua, gb, va
-   po: sepa, cash, skrill, pp, sofort, westernunion, moneygram
+   po: sepa, cash, pp, sofort, westernunion, moneygram
 
 ##### France ####################################################
    
@@ -781,16 +781,7 @@
    po: cash
    desc_ar:  شراء قسائم بيتكوين في عدد من المواقع في جميع أنحاء الدولة.
    
-##### Saudi Arabia ####################################################  
-
- - name: Bitcoin ATM Jubail
-   desc: Buy bitcoin at the Lamassu Bitcoin ATM in Jubail, Saudi Arabia. 
-   url: http://coinatmradar.com/bitcoin_atm/303/bitcoin-atm-lamassu-jubail-ticket-computer-center/
-   icon: /img/buy/lamassu.png
-   countries: sa  
-   po: cash, sell
-   desc_ar:  شراء بيتكوين في Lamassu Bitcoin ATM في "جبيل"، المملكة العربية السعودية.
-   desc_sell: Sell bitcoins at the Lamassu Bitcoin ATM in Jubail, Saudi Arabia. Fees range from 10-15%.  
+##### Saudi Arabia ####################################################    
    
 ##### Tunisia ####################################################  
 
@@ -1152,6 +1143,9 @@
    icon: /img/buy/buyabitcoin.png
    countries: au 
    po: cash
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: Independent Reserve
    desc: Australian Bitcoin exchange. Fund your account with EFT or SWIFT.    
@@ -1159,6 +1153,9 @@
    icon: /img/buy/ir.png
    countries: au   
    po: bt, swift  
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: Coin Loft
    desc: Australian Bitcoin broker. Buy bitcoin via cash deposit. Coins delivered within 1 hour.    
@@ -1166,6 +1163,9 @@
    icon: /img/buy/coinloft.png
    countries: au   
    po: cash       
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
 ##### Malaysia #################################################### 
 
@@ -1175,6 +1175,9 @@
    icon: /img/buy/btcmy.png
    countries: my   
    desc_zh: 比特币交易。在马来西亚购买比特币简单又方便的方式。
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
 ##### Pakistan #################################################### 
    
@@ -1184,6 +1187,9 @@
    icon: /img/buy/urdubit.png
    countries: pk
    po: bt
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
 ##### Philippines #################################################### 
 
@@ -1193,6 +1199,9 @@
    icon: /img/buy/coinph.png
    countries: ph
    po: bt, cash
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: BuyBitcoin.ph
    desc: Bitcoin broker. Fund your account via bank transfer or cash deposit. 
@@ -1200,6 +1209,9 @@
    icon: /img/buy/buybitcoinph.png
    countries: ph   
    po: bt, cash 
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
 
  - name: BTCExchange
    desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
@@ -1207,6 +1219,9 @@
    icon: /img/buy/btcexchange.png
    countries: ph 
    po: bt, cash
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: Coinage
    desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
@@ -1214,6 +1229,9 @@
    icon: /img/buy/coinage.png
    countries: ph 
    po: bt, cash
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
 
  - name: prepaidbitcoin.ph
    desc: Buy prepaid bitcoin cards at three locations across the Phillipines. 
@@ -1221,126 +1239,122 @@
    icon: /img/buy/prepaidbitcoin.png
    countries: ph 
    po: cash
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
 ##### Cambodia ####################################################   
 
  - name: BitcoinCambodia.co
-   desc: BitcoinCambodia.co makes buying Bitcoin in Cambodia fast, easy and secure.
+   desc: <p>BitcoinCambodia.co uses LocalBitcoins to make buying and selling bitcoins in Cambodia easy and secure. They setup their selling services on the platform and LocalBitcoins escrow ensures your trade goes through safely.</p> <p>You can buy with cash, MoneyGram, PayGo wallet, WING, or ABA Bank Transfer.</p>
    url: http://bitcoincambodia.co/
    icon: /img/buy/bcamodia.png
    countries: kh
    po: cash
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
 
  - name: Bitcoin Cambodia
-   desc: Bitcoin broker in Cambodia. Buy with Wing or cash in person. 
+   desc: Bitcoin Cambodia was the first Bitcoin exchange established in Cambodia. You can create an account and buy with Wing or cash in person. 
    url: https://bitcoincambodia.com/
    icon: /img/buy/cambodia.png
    countries: kh
    po: cash
+   tags: [quickinfo, rec, avgprivacy, avgspeed, highfees, trusted, eouavg, highlimits]
+   pros: <li>Easy way to buy bitcoins with cash in Cambodia</li><li>For low liquidity, selling rates are not bad</li>
+   cons: <li>Have to physically go buy bitcoins with cash</li>
 
 ##### Caribbean ####################################################   
 
  - name: bitt
-   desc: Caribbean Bitcoin exchange. Trade BBD, TTD, JMD, USD, EUR, and GBP. 
+   desc: Bitt is a Bitcoin exchange based in the Caribbean. It has received over $10 million worth of venture capital funding. You can trade many currencies on the Bitt platform, including BBD, TTD, JMD, USD, EUR, and GBP. 
    url: https://www.bitt.com/
    icon: /img/buy/bitt.png
    countries: jm, bb, tt   
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Trusted exchange backed by US investors</li><li>1% fees are low for the markets that Bitt serves</li>
+   cons: <li>Not a private way to purchase bitcoins</li><li>ID verification required</li>
 
 ##### Indonesia ####################################################     
 
  - name: bitcoin.co.id
-   desc: Trusted Indonesian Bitcoin exchange. Fund your account via bank transfer.  
+   desc: bitcoin.co.id is Indonesia's largest Bitcoin exchange. You can fund your trading account or buy bitcoins with local bank transfer, Alfa network, Doku, Veritrans, or EasyPay.
    url: https://www.bitcoin.co.id/
    icon: /img/buy/bitcoincoid.png
    countries: id  
    desc_zh: 信誉高的印尼比特币交易。通过银行转账于账户增资。
-   po: bt
-   
- - name: BestBit
-   desc: Bitcoin exchange and platform. Fund your account via bank transfer.  
-   url: https://bestbit.co.id/
-   icon: /img/buy/bestbit.png
-   countries: id
-   desc_zh: 比特币交易平台。通过银行转账于账户增资。
-   po: bt
-   
- - name: ArtaBit
-   desc: Bitcoin broker and platform. Fund your account via bank transfer.  
-   url: https://artabit.com/en/
-   icon: /img/buy/artabit.png
-   countries: id
-   desc_zh: 比特币代理人平台。通过银行转账于账户增资。
-   po: bt
+   po: bt, easypay
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Good liquidity</li><li>Many payment methods available for deposits</li>
+   cons: <li>ID verification required</li><li>Not good for private purchases of bitcoins</li>
    
 ##### Japan ####################################################      
 
  - name: bitFlyer
-   desc: Bitcoin exchange and platform. Fund your account via bank transfer.  
+   desc: bitFlyer is the largest Bitcoin exchange in Japan in terms of average daily volume. In fact, it is one of the largest Bitcoin exchanges in the world.
    url: https://bitflyer.jp/
    icon: /img/buy/bitflyer.png
    countries: jp
    desc_zh: 比特币交易平台。通过银行转账于账户增资。
    po: bt
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouavg, varylimits]
+   pros: <li>Great liquidity and offers price at near-market rates</li>
+   cons: <li>Many documents required to verify account</li>
    
  - name: Coincheck
-   desc: Bitcoin exchange based in Japan. Buy and sell bitcoin with bank transfer or credit card. 
+   desc: Coincheck is a Bitcoin exchange based in Japan. Registered users can buy and sell bitcoin with bank transfer or credit card. 
    url: https://coincheck.jp/en/exchange
    icon: /img/buy/coincheck.png
    countries: jp
-   po: bt
+   po: bt, cc
+   tags: [quickinfo, avgprivacy, slow, lowfees, trusted, eouhard, highlimits]
+   pros: <li>No need to upload scans of ID</li> <li>One of a few major Bitcoin exchanges in Japan</li>
+   cons: <li>Fees for buying with a credit card vary</li>
    
    
- - name: QuoinExchange
-   desc: Bitcoin exchange. Buy bitcoin via bank transfer in a number of countries.  
-   url: https://www.quoine.com/
-   icon: /img/buy/quoine.png
-   countries: jp, sg, hk, id
-   desc_zh: 比特币交易。可通过一些国家的银行转账购买比特币。
-   po: bt
+## - name: QuoinExchange
+##   desc: Bitcoin exchange. Buy bitcoin via bank transfer in a number of countries.  
+##   url: https://www.quoine.com/
+##   icon: /img/buy/quoine.png
+##   countries: jp, sg, hk, id
+##   desc_zh: 比特币交易。可通过一些国家的银行转账购买比特币。
+##   po: bt
+##   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+##   pros: <li></li>
+##   cons: <li></li>
    
 ##### Portugal ####################################################      
-
- - name: BTCmb
-   desc: Bitcoin broker. Buy bitcoin via bank transfer or cash deposit.  
-   url: http://btcmb.pt/
-   icon: /img/buy/mb.png
-   countries: pt 
-   name_es: BTCmb
-   desc_es: Comprar bitcoin a través de depósito en efectivo o con transferencias bancarias.
-   desc_pt_br: Casa de câmbio de moeda virtual Bitcoin. Compre por transferência bancária ou depósito em dinheiro. 
-   po: bt, cash
-
- - name: Bitcoin ATM Lisbon
-   desc: Buy bitcoin at the Bitcoin Ja ATM in Lisbon, Portugal. 3% fee.  
-   url: http://coinatmradar.com/bitcoin_atm/273/bitcoin-atm-bitcoin-ja-lisbon-cinema-in-saldanha-residence/
-   icon: /img/buy/bitcoinja.png
-   countries: pt  
-   desc_pt_br: Compre Bitcoins em ATMs de Bitcoins em Lisboa, Portugal. Taxa de 3%.
-   po: cash
    
 ##### Russia ####################################################      
 
  - name: Matbea
-   desc: Russian Bitcoin exchange. Deposit funds via bank transfer or cash deposit. 
+   desc: Matbea is Bitcoin exchange based in Russia. Customers can deposit funds to buy bitcoin via bank transfer or cash deposit. 
    url: https://matbea.com/
    icon: /img/buy/matbea.png
    countries: ru
    desc_el: Ρωσικό ανταλλακτήριο Bitcoin. Καταθέστε χρήματα μέσω τραπεζικής μεταφοράς ή κατάθεσης μετρητών.
    desc_de: Russische Bitcoin Börse. Einzahlungen per Überweisungen oder Bareinzahlungen ausführen.
-   po: bt, cash
+   po: bt, cash, yandex
    desc_ru: Биткоин-биржа. Вкладывайте средства через банковский перевод или денежный перевод.
    desc_uk: Біткоін-біржа. Вкладайте кошти через банківський переказ або грошовий переказ.
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>One of few Bitcoin exchanges based in Russia</li> <li>Wide range of deposit methods</li>
+   cons: <li>Does not offer rates close to market price</li>
    
- - name: ALFAcashier
-   desc: Bitcoin exchange. Deposit funds via bank transfer, OKPay, and Perfect Money. 
-   url: https://www.alfacashier.com/
-   icon: /img/buy/alfa.png
-   countries: ru
-   po: okpay, perfectmoney, bt
-   desc_el: Ανταλλακτήριο bitcoin. Καταθέστε χρήματα μέσω τραπεζικής μεταφοράς, OKPay και Perfect Money.
-   desc_de: Börse. Einzahlungen über Banküberweisungen, OKPay und Perfect Money ausführen.
-   desc_ru: Биткоин-биржа. Вкладывайте средства через банковский перевод, OKPay и Perfect Money.
-   desc_uk: Біткоін-біржа. Вкладайте кошти через банківський переказ, OKPay і Perfect Money.
+## - name: ALFAcashier
+##   desc: ALFAcashier is a Bitcoin exchange based in Russia. You can fund your exchange account via bank transfer, OKPay, Yandex.money and Perfect Money. 
+##   url: https://www.alfacashier.com/
+##   icon: /img/buy/alfa.png
+##   countries: ru
+##   po: okpay, perfectmoney, bt, yandex
+##   desc_el: Ανταλλακτήριο bitcoin. Καταθέστε χρήματα μέσω τραπεζικής μεταφοράς, OKPay και Perfect Money.
+##   desc_de: Börse. Einzahlungen über Banküberweisungen, OKPay und Perfect Money ausführen.
+##   desc_ru: Биткоин-биржа. Вкладывайте средства через банковский перевод, OKPay и Perfect Money.
+##   desc_uk: Біткоін-біржа. Вкладайте кошти через банківський переказ, OKPay і Perfect Money.
+##   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+##   pros: <li></li>
+##   cons: <li></li>
    
 ## - name: Indacoin
 ##   desc: Bitcoin broker. Buy with credit or debit card, QIWI Wallet, Yandex.Money.  
@@ -1356,7 +1370,7 @@
 ##### Ukraine ####################################################      
    
  - name: btcu.biz
-   desc: Bitcoin broker. Buy with credit card or cash deposit at thousands of ATMs across Ukraine.  
+   desc: btcu.biz may be the best way to buy bitcoins in Ukraine (besides LocalBitcoins). You can buy bitcoin with credit card or cash deposit at thousands of ATMs across Ukraine.  
    url: https://btcu.biz/
    icon: /img/buy/btcubiz.png
    countries: ua
@@ -1364,9 +1378,12 @@
    desc_bg: Купете чрез кредитна карта или депозит в брой от хиляди автомати на територията на Украйна.
    desc_ru: Купить биткоин с помощью кредитной карты или наличными деньгами в тысячах банкоматах Украины.
    desc_uk: Купити біткоіни за допомогою кредитної картки або готівкою в тисячах банкоматах України.
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Great and convenient way to buy bitcoins in Ukraine</li>
+   cons: <li>Somewhat high fees at around 7%</li>
    
  - name: Kuna
-   desc: Bitcoin broker. Buy bitcoin directly from the Kuna Bitcoin agency.
+   desc: Kuna is a physical Bitcoin broker. You can go to their offices and purchase bitcoins with cash.
    url: http://kuna.com.ua/
    icon: /img/buy/kuna.png
    countries: ua
@@ -1374,79 +1391,105 @@
    desc_bg: Биткойн брокер. Купете биткойн директно от агенция Kuna Bitcoin.
    desc_ru: Биткоин-брокер. Купить биткоин прямо через агенство Kuna Bitcoin.
    desc_uk: Біткоін-брокер. Купити біткоіни прямо через агенство Kuna Bitcoin.
+   tags: [quickinfo, highprivacy, fast, avgfees, trusted, eoueasy, highlimits]
+   pros: <li>Convenient way to buy bitcoins if you live near the agency</li>
+   cons: <li>Not an option for many people in Ukraine</li>
    
 ##### Kyrgyzstan ####################################################      
- 
- - name: Bitcoin ATM
-   desc: Buy bitcoin from the Lamassu Bitcoin ATM in Bishkek, Kyrgyzstan. 
-   url: http://coinatmradar.com/bitcoin_atm/132/bitcoin-atm-lamassu-bishkek-dolce-vita-pizzeria/
-   icon: /img/buy/lamassu.png
-   countries: kg   
-   po: cash
-   desc_ru: Купить биткоин через банкомат Lamassu Bitcoin в Бишкеке, Кыргызстан.
-   desc_uk: Купити біткоіни через банкомат Lamassu Bitcoin в Бішкеку, Киргизстан.
 
 ##### Thailand ####################################################      
 
  - name: coins.co.th
-   desc: Buy bitcoin via bank or cash deposit, bank transfer, or ATMs across the country.
-   url: https://coins.co.th
+   desc: coins.co.th is a Bitcoin platform operating in Thailand. Customers can buy bitcoin via bank or cash deposit, bank transfer, or ATMs across the country.
+   url: https://coins.co.th/buy-bitcoin
    icon: /img/buy/coinsth.png
    countries: th 
    desc_zh: 在国内以银行/现金交存、银行转账或自动提款机购买比特币。
    po: cash, bt
-   
- - name: bx.in.th
-   desc: Buy bitcoin online in Thailand via online bank transfer. Available at many banks.
-   url: https://bx.in.th/
-   icon: /img/buy/bxth.png
-   countries: th 
-   desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
-   po: bt
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Very easy to use for first-time buyers</li> <li>Great selection of payment methods, including mobile payments</li>
+   cons: <li>Don't store bitcoins in coins.co.th Bitcoin wallet</li>
 
  - name: bitcoin.co.th
-   desc: Buy bitcoin via cash deposit, bank transfer, or ATM.  Sell bitcoins and receive THB to any Thai bank account.
+   desc: Bitcoin.co.th is the easiest way to buy bitcoins in Thailand. You can fund your account with the exchange via cash deposit, bank transfer, or at any ATM. You can also sell bitcoins and receive THB to any Thai bank account.
    url: https://bitcoin.co.th
    icon: /img/buy/bitcoincoth.png
    countries: th 
    desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
    po:  cash, bt
+   tags: [quickinfo, rec, avgprivacy, fast, highfees, trusted, eoueasy, highlimits]
+   pros: <li>Super easy way to buy bitcoins in Thailand</li> <li>Many payment methods available</li>
+   cons: <li>Fees not displayed; fees included in buy price</li>
+   
+ - name: bx.in.th
+   desc: bx.in.th is owned by Bitcoin.co.th (listed above). You can buy bitcoin online in Thailand via online bank transfer for better rates than on bitcoin.co.th. 
+   url: https://bx.in.th/
+   icon: /img/buy/bxth.png
+   countries: th 
+   desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
+   po: bt
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Good rates for buying bitcoin in Thailand</li>
+   cons: <li>Not as easy to use as other exchanges in Thailand</li>   
    
 ##### South Korea ####################################################   
    
  - name: Korbit
-   desc: Largest Bitcoin exchange in South Korea. Deposit via bank transfer.
+   desc: Korbit is the largest Bitcoin exchange in South Korea based on trading volume. Deposit via bank transfer.
    url: https://korbit.co.kr/
    icon: /img/buy/korbit.png
    countries: kr 
    po: bt
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Extremely low fees for buying bitcoins</li> <li>Good liquidity; easy to get a good price on your purchase</li>
+   cons: <li>Can be hard to use for the first time</li><li>Offers a wallet that should not be used for Bitcoin storage</li>
    
  - name: Coinplug
-   desc: Buy bitcoin with a credit card or cash deposit at many ATMs nationwide.
+   desc: Coinplug is a Bitcoin exchange based in South Korea. Customers can buy bitcoin by making a deposit to one of Coinplug's virtual bank accounts. 
    url: https://www.coinplug.com/
    icon: /img/buy/coinplug.png
    countries: kr 
    po: cc, cash
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Low fees; possible to buy for just 0.1%</li>
+   cons: <li>Identity verification required</li><li>Interface may be confusing for first time buyers</li>
 
 ##### Taiwan ####################################################   
    
  - name: MaiCoin
-   desc: Largest Bitcoin exchange in Taiwan. Deposit via ATM or bank transfer.
+   desc: MaiCoin is the largest Bitcoin exchange in Taiwan. Customers can deposit via bank transfer online or buy bitcoins with cash at a number of locations.
    url: https://www.maicoin.com/
    icon: /img/buy/maicoin.png
    countries: tw
    desc_zh: 台湾最大的比特币交易平台。通过自动提款机或银行转账交存。    
    po: cash, bt
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouavg, avglimits]
+   pros: <li>Fast way to buy bitcoin in Taiwan</li><li>No fees; only bank transfer fees apply</li>
+   cons: <li>Process for buying with cash may be slightly confusing the first time</li><li>Verification required; not private</li>
    
  - name: BitoEX
-   desc: Buy bitcoin at over 5,000 convenience stores across Taiwan. Simple and fast.
-   url: https://www.bitoex.com/
+   desc: BitoEX is a Bitcoin company based in Taiwan. It allows users to purchase bitcoins at 5,000 convenience stores across Taiwan. 
+   url: https://www.bitoex.com/fami?locale=en
    icon: /img/buy/bitoex.png
    countries: tw    
    desc_zh: 可在台湾内超过五千家的便利商店购买比特币。简单又快捷。
    po: cash
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Fast way to buy bitcoin in Taiwan</li><li>1% fees for purchases</li>
+   cons: <li>Process may be slightly confusing the first time</li>
 
 ##### India ####################################################      
+
+ - name: Unocoin
+   desc: Unocoin is the leading Indian Bitcoin platform. Its customers can buy bitcoin with any Indian bank account using online banking or NEFT/RTGS. 
+   url: https://www.unocoin.com/
+   icon: /img/buy/unocoin.png
+   countries: in    
+   po: bt
+   desc_pt_br: Plataforma Indiana de Bitcoins. Compre Bitcoins usando qualquer tipo de conta bancária indiana.
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits]
+   pros: <li>Regulated company in India</li> <li>Backed by investors in the United States</li>
+   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification, so not private</li>
 
  - name: Zebpay
    desc: Zebpay is a Bitcoin platform and broker based in India. It has Android and iPhone apps that make it easy to buy bitcoins with a connected Indian bank account. 
@@ -1455,95 +1498,37 @@
    countries: in    
    po: bt
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits]
-   
- - name: Unocoin
-   desc: Leading Indian Bitcoin platform. Buy bitcoin with any Indian bank account. 
-   url: https://www.unocoin.com/
-   icon: /img/buy/unocoin.png
-   countries: in    
-   po: bt
-   desc_pt_br: Plataforma Indiana de Bitcoins. Compre Bitcoins usando qualquer tipo de conta bancária indiana.
+   pros: <li>Regulated company in India</li> 
+   cons: <li>Fees included in buy/sell prices, not displayed publically</li><li>Requires ID verification; not private</li>
    
  - name: coinsecure
-   desc: Indian Bitcoin exchange and trading platform. 0.3% fee and a number of deposit options. 
+   desc: Coinsecure is an Indian Bitcoin exchange and trading platform. It offers low fees at just 0.3% per buy and a number of deposit options. 
    url: https://coinsecure.in/
    icon: /img/buy/coinsecure.png
    countries: in  
    po: bt
    desc_pt_br: Plataforma indiana de conversão de Bitcoins. Taxa de 0,3% e várias opções de depósito. 
+   tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eoueasy, avglimits]
+   pros: <li>Regulated Bitcoin exchange based in India</li>
+   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
    
 ##### Serbia ####################################################      
-
- - name: Bitcoin ATM Belgrade
-   desc: Buy bitcoin from the Skyhook Bitcoin ATM in Belgrade, Serbia.    
-   url: http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/
-   icon: /img/buy/skyhook.png
-   countries: rs   
-   po: cash
-   desc_bg: Купете биткойн от биткойн автомат Skyhook Bitcoin в Белград, Сърбия.
-   desc_ru: Купить биткоин через банкомат Skyhook Bitcoin в Белграде, Сербия.
-   desc_uk: Купити біткоіни через банкомат Skyhook Bitcoin в Белграді, Сербія.
    
 ##### Hungary ####################################################      
-
- - name: Bitcoin ATM Budapest
-   desc: Buy bitcoin from the Lamassu Bitcoin ATM in Budapest, Hungary.    
-   url: http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/
-   icon: /img/buy/lamassu.png
-   countries: hu
-   po: cash
-   desc_de: Bitcoin von Lamassu Bitcoin ATM in Budapest, Ungarn kaufen.
-   desc_bg: Купете биткойн от биткойн автомат Lamassu Bitcoin в Будапеща, Унгария.
-   desc_ru: Купить биткоин через банкомат Lamassu Bitcoin в Будапеште, Венгрия.
-   desc_uk: Купити біткоіни через банкомат Lamassu Bitcoin в Будапешті, Угорщина.
-   
- - name: Bitcoin ATM Budapest
-   desc: Buy bitcoin from the BitAccess Bitcoin ATM in Budapest, Hungary.    
-   url: http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/
-   icon: /img/buy/bitaccess.png
-   countries: hu  
-   po: cash
-   desc_de: Bitcoin von BitAccess Bitcoin ATM in Budapest, Ungarn kaufen.
-   desc_bg: Купете биткойн от биткойн автомат BitAccess Bitcoin в Будапеща, Унгария.
-   desc_ru: Купить биткоин через банкомат BitAccess Bitcoin в Будапеште, Венгрия.
-   desc_uk: Купити біткоіни через банкомат BitAccess Bitcoin в Будапешті, Угорщина.
    
 ##### Greece ####################################################      
 
- - name: Bitcoin ATM Acharnes
-   desc: Buy bitcoin from the Genesis Coin Bitcoin ATM in Acharnes, Greece.     
-   url: http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/
-   icon: /img/buy/genesiscoin.png
-   countries: gr
-   po: cash
-   name_el: ATM στην Αχαρνές
-   desc_el: Αγοράστε bitcoin από το Genesis Coin Bitcoin ATM στις Αχαρνές, Ελλάδα.
-   desc_it: Acquista Bitcoin da Genesis Coin Bitcoin ATM ad Acharnes, Grecia.
-   desc_bg: Купете биткойн от биткойн автомат Genesis Coin Bitcoin в Ахарнес, Гърция.
-   
- - name: Bitcoin ATM Athens
-   desc: Buy bitcoin from the BTCPoint Bitcoin ATM in Athens, Greece.    
-   url: http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/
-   icon: /img/buy/btcpoint.png
-   countries: gr 
-   po: cash 
-   name_el: ATM στην Αθήνα
-   desc_el: Αγοράστε bitcoin από το BTCPoint Bitcoin ATM στην Αθήνα, Ελλάδα.  
-   name_it: Bitcoin ATM Atene
-   desc_it: Acquista Bitcoin dal BTCPoint Bitcoin ATM ad Atene, Grecia. 
-   desc_bg: Купете биткойн от биткойн автомат BTCPoint Bitcoin в Атина, Гърция.
-
 ##### Croatia ####################################################      
 
- - name: BitKonan
-   desc: Bitcoin exchange in Croatia. Deposit via Croatian bank transfer or SEPA.      
-   url: https://bitkonan.com/
-   icon: /img/buy/bitkonan.png
-   countries: hr
-   po: bt, sepa
-   desc_it: Cambio di Bitcoin in Croazia. Deposita tramite bonifico bancario o SEPA in Croazia.
-   desc_ru: Биткоин-биржа в Хорватии. Депозит PLN через Хорватский банк или SEPA-платежом.
-   desc_uk: Біткоін-біржа в Хорватії. Депозит PLN через Хорватський банк або SEPA-платежем.
+## - name: BitKonan
+##   desc: Bitcoin exchange in Croatia. Deposit via Croatian bank transfer or SEPA.      
+##   url: https://bitkonan.com/
+##   icon: /img/buy/bitkonan.png
+##   countries: hr
+##   po: bt, sepa
+##   desc_it: Cambio di Bitcoin in Croazia. Deposita tramite bonifico bancario o SEPA in Croazia.
+##   desc_ru: Биткоин-биржа в Хорватии. Депозит PLN через Хорватский банк или SEPA-платежом.
+##   desc_uk: Біткоін-біржа в Хорватії. Депозит PLN через Хорватський банк або SEPA-платежем.
    
 ##### Netherlands ####################################################      
 
@@ -1558,7 +1543,7 @@
    cons: <li>Fees only displayed in price at checkout</li>
    
  - name: Bitrush
-   desc: Bitrush is a Bitcoin exchange based in the Netherlands. Its customers can buy bitcoins with 
+   desc: Bitrush is a Bitcoin exchange based in the Netherlands. Its customers can buy bitcoins with iDEAL, MisterCash and MyBank.
    url: https://www.bitrush.nl
    icon: /img/buy/bitrush.png
    countries: nl, de, gb, be
