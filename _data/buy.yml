@@ -1548,38 +1548,36 @@
 ##### Netherlands ####################################################      
 
  - name: Bitonic
-   desc: Fast and easy way to buy bitcoins in the Netherlands with iDEAL or MasterCash.    
+   desc: Bitonic is the most popular Bitcoin exchange in the Netherlands. It's a fast and easy way to buy bitcoins with iDEAL or MasterCash.    
    url: http://buybitcoinww.co/bitonic_nl
    icon: /img/buy/bitonic.png
    countries: nl
    po: ideal, mastercash
+   tags: [quickinfo, avgprivacy, fastspeed, avgfees, trusted, eoueasy, avglimits]
+   pros: <li>Oldest and trusted Bitcoin exchange in the Netherlands</li> <li>Super fast delivery of bitcoins</li> <li>No identity verification required</li>
    
  - name: Bitrush
-   desc: Buy bitcoins and other popular cryptocurrencies in Europe with SOFORT and iDEAL.
+   desc: Bitrush is a Bitcoin exchange based in the Netherlands. Its customers can buy bitcoins with 
    url: https://www.bitrush.nl
    icon: /img/buy/bitrush.png
-   countries: nl
+   countries: nl, de, gb, be
    po: ideal, sofort
+   tags: [quickinfo, lowprivacy, fastspeed, avgfees, avgrep, eoueasy, avglimits]
+   pros: <li>Simple interface makes buying an easy process</li> <li>Fast delivery of bitcoins after payment</li>
+   cons: <li>New broker, needs to build trust</li>
    
 ##### Poland ####################################################      
    
  - name: BitBay
-   desc: Buy bitcoins with euros via wire transfer in Poland or with cash at Poczta Polska.      
+   desc: BitBay is a European Bitcoin exchange based in Poland. Residents of the EU can buy bitcoins with euros via wire transfer or credit card. Customers in Poland can buy with cash at Poczta Polska.      
    url: http://buybitcoinww.co/BitBay_net
    icon: /img/buy/bitbaynet.png
    countries: pl
    po: bt, cash
    desc_ccww_pl: BitBay jest wiodącą giełdą kryptowalut w Polsce. Udostępnia wiele zaawansowanych narzędzi do handlu Bitcoin i innymi altcoinami. To, co wyróżnia giełdę BitBay to możliwość szybkich wpłat i wypłat różnymi metodami. Poczta Polska, bankomaty czy karta do konta to najpopularniejsze z nich. Karty kredytowe i debetowe Visa i Mastercard umożliwiają szybkie wpłaty walut EUR i USD na konto BitBay. Prowizja wynosi 5%, ale nie mniej niż 10 EUR lub USD. Usługa jest dostępna tylko dla zweryfikowanych użytkowników giełdy. Wpłacone środki można wykorzystać na dalsze transakcje giełdowe.
-
- - name: Bitcurex
-   desc: Largest Bitcoin exchange in Poland. Deposit via bank transfer or SEPA.     
-   url: https://bitcurex.com/
-   icon: /img/buy/bitcurex.png
-   countries: pl
-   po: sepa, bt
-   desc_de: Größte Bitcoin Börse in Polen. Geld über Banküberweisungen oder SEPA einzahlen.
-   desc_ru: Крупнейшая биткоин-биржа в Польше. Купить биткоин банковским перевод или SEPA-платежом.
-   desc_uk: Найбільша біткоін-біржа в Польщі. Купити біткоіни банківським переказом або SEPA-платежем.
+   tags: [quickinfo, lowprivacy, fastspeed, avgfees, avgrep, eoueasy, avglimits]
+   pros: <li>One of the few Poland based Bitcoin exchanges</li> <li>Some of the lowest fees for Poland if bank transfer is used</li>
+   cons: <li>Slightly high fees for buying bitcoins with a credit card</li>
    
  - name: BitMarket
    desc: BitMarket is a Bitcoin exchange based in Poland. Users can deposit PLN via local bank transfer.
@@ -1590,7 +1588,7 @@
    desc_de: Bitcoin Börse. Zahle PLN über lokale Banküberweisungen ein.
    desc_ru: Биткоин-биржа. Вклад PLN с помощью местного банковского перевода.
    desc_uk: Біткоін-біржа. Вклад PLN за допомогою місцевого банківського переказу.
-   tags: [quickinfo, lowprivacy, avgspeed, lowfees, avgtrust, eouhard, avglimits]
+   tags: [quickinfo, lowprivacy, avgspeed, lowfees, avgrep, eouhard, avglimits]
    pros: <li>One of the few Poland based Bitcoin exchanges</li> <li>Some of the lowest fees for Poland</li>
    cons: <li>Slightly confusing for first time buyers</li>
    
@@ -1631,7 +1629,7 @@
    countries: do
    po: bt
    desc_es: Compra Bitcoins en República Dominicana vía transferencia bancaria. 
-   tags: [quickinfo, lowprivacy, avgspeed, avgfees, avgtrust, eouavg, avglimits]
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, avgrep, eouavg, avglimits]
    pros: <li>One of the best ways to buy bitcoins in the Dominican Republic</li>
    cons: <li>Identity verification offers less privacy than other methods in the DR like LocalBitcoins</li>
    
