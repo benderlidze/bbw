@@ -29,6 +29,18 @@
 
 }
 
+.bold-header {
+	font-weight: bold;
+}
+
+.wallet-type-hot-1 {
+
+	font-size: 1.2em !important;
+	text-align: left !important;
+	font-weight: bold !important;
+
+}
+
 @media (min-width: 992px) { 
 	.buy-info {
 	margin: 8px 0.7% !important;
@@ -1362,6 +1374,17 @@ input.gsc-input {
 		color: #9f6000;
 	}
 	
+}
+
+.tip-row {
+	background: #bedaf3;
+	color: #333333;
+	
+	h2 {
+		text-transform: uppercase;
+		margin-top: 10px;
+		font-weight: bold;
+	}
 }
 
 

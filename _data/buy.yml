@@ -119,12 +119,12 @@
    internal_url: /exchanges/coinmama/
    pros: <li>Works in almost all countries</li> <li>Highest limits for buying bitcoins with a credit card</li> <li>Reliable and trusted broker</li>
    cons: <li>Some of the highest fees among credit/debit card bitcoin brokers</li>
-   desc: CoinMama allows customers in almost any country to buy bitcoin with a credit card or debit card. It charges an ~8% fee on each purchase. <br><br> If you're buying less than $150 worth of bitcoins, you don't need to verify your identity. So you can buy bitcoins quickly. 
+   desc: CoinMama allows customers in almost any country to buy bitcoin with a credit card or debit card. It charges an ~8% fee on each purchase. <br><br> If you're buying less than $150 worth of bitcoins, you don't need to verify your identity. So you can buy bitcoins quickly. <br><br>Want to buy using CoinMama? <a href="/en/buy-bitcoin-credit-debit-card/#coinmama-guide">This guide will show you step-by-step</a> how to use CoinMama.
    desc_it: CoinMama è un broker di Bitcoin specializzato nel lasciar acquistare Bitcoin tramite carta di credito. 
    desc_pt_br: CoinMama é uma corretora de bitcoin especializada na compra de bitcoin com cartão de crédito ou débito.
    desc_es: Corredor de bitcoin que se especializa en la compra de bitcoin con tarjeta de crédito o débito.
    desc_de: Bitcoin-Broker, der spezialisiert im Ermöglichen des Kaufs von Bitcoins mit einer Kredit- oder Debitkarte ist.
-   desc_ccww: <p>CoinMama is a bitcoin broker that specializes in letting you purchase bitcoin with a debit or credit card.</p><p> You'll be charged an 8% fee due to the risks and processing fees that come with credit card payments.</p> <p> It's possible to buy up to $5,000 worth of bitcoin per day, and up to $20,000 per month. After your account is verified and a purchase is made you will receive your bitcoin within a few minutes.</p> Get 5% off your order when you use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">this link</a>.</p> <p>CoinMama is only available in some US states; <a href="/exchanges/coinmama/#supported-countries">please see this page for details</a>.</p>  
+   desc_ccww: <p>CoinMama is a bitcoin broker that specializes in letting you purchase bitcoin with a debit or credit card.</p><p> You'll be charged an 8% fee due to the risks and processing fees that come with credit card payments.</p> <p> It's possible to buy up to $5,000 worth of bitcoin per day, and up to $20,000 per month. After your account is verified and a purchase is made you will receive your bitcoin within a few minutes.</p> Get 5% off your order when you use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">this link</a>.</p> <p>CoinMama is only available in some US states; <a href="/exchanges/coinmama/#supported-countries">please see this page for details</a>.</p> <p>Want to buy using CoinMama? <a href="/en/buy-bitcoin-credit-debit-card/#coinmama-guide">This guide will show you step-by-step</a> how to use CoinMama.</p>  
    desc_ccww_short: Buy bitcoin with a CC anywhere in the world besides the <a href="/en/us/">United States</a>.
    desc_ccww_fr: CoinMama est un courtier Bitcoin dont la spécialité est de vous permettre d'acheter des bitcoins avec une carte de crédit ou de débit. Vous y serez facturé une commission de 8% à cause des risques et des frais de traitement découlant des paiements par carte de crédit. Il est possible d'y acheter jusqu'à $5,000 de bitcoins par jour. Une fois votre compte vérifié et l'achat effectué, vous recevrez vos bitcoins en l'espace de quelques heures. Utilisez <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">ce lien</a> pour bénéficier de 5% de remise sur votre commande. CoinMama n'est pas disponible pour les résidents des États-Unis.
    desc_ccww_pl: CoinMama jest brokerem bitcoinów, który specjalizuje się umożliwianiu Ci zakupu bitcoinów kartą kredytową lub debetową. Zostaniesz obciążony opłatą 8% z powodu ryzyka i opłat manipulacyjnych, które wynikają z płatności kartą kredytową. Jest możliwy zakup bitcoinów o wartości aż 5,000 dolarów dziennie. Gdy Twoje konto zostanie zweryfikowane i dokonasz zakupu, otrzymasz Twoje bitcoiny w ciągu kilku godzin. Użyj tego linku, aby uzyskać 5% zniżkę od Twojego zamówienia. CoinMa5ma nie jest dostępna dla mieszkańców Stanów Zjednoczonych.
@@ -150,7 +150,7 @@
    desc_skrill: BitPanda is a bitcoin exchange based in Austria. Among many payment methods accepted, customers can buy bitcoins with Skrill in under 10 seconds. Note that the exact fees for purchasing with Skrill are not displayed publically. You will be shown a buy price at check out and the fees for using Skrill are included in that price
    desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller. 
    desc_babt: BitPanda accepts bank account payments via SEPA, SOFORT, and Online Bank Transfer. 
-   desc_ccww: BitPanda is a Bitcoin broker located in Austria. You can purchase coins with a credit/debit card for 3-4% fees. Note that the fees are not displayed publically but displayed in your buy price when completing your purchase. 
+   desc_ccww: <p>BitPanda is a Bitcoin broker located in Austria. You can purchase coins with a credit/debit card for 3-4% fees.</p><p> Note that the fees are not displayed publically but displayed in your buy price when completing your purchase.</p> 
    desc_ccww_fr: BitPanda est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 4%. BitPanda est disponible pour les résidents de l'UE.
    desc_ccww_ptbr: BitPanda é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 4%. BitPanda está disponível para residentes da UE.
    desc_ccww_it: BitPanda è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 4%. BitPanda è disponibile per coloro che risiedono nell’UE.
@@ -238,7 +238,7 @@
    desc_babt: CEX.io allows for purchases of bitcoins using ACH in the USA and with SEPA transfer in EU countries. 
 
  - name: Coinhouse
-   desc: Coinhouse lets you buy bitcoins with a 3D secure credit or debit card in Europe. While its fees are somewhat high, it offers high limits. 
+   desc: Coinhouse lets you buy bitcoins with a 3D secure credit or debit card in Europe. While its fees are somewhat high, it offers high buying limits. 
    url: http://buybitcoinww.co/coinhouse
    internal_url: /exchanges/coinhouse/
    icon: /img/buy/coinhouse.png
@@ -263,7 +263,7 @@
    desc_ccww_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA). Биткоины доставляются мгновенно. Сервисом управляет Ledger, широко известная в биткоин-среде компания, специализирующаяся на защите инфорации. Комиссия составляет от 6 до 10%, в зависимости от объёма покупки.
    desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
    desc_ccww_de: Coinhouse kann 3D-Sichere Kreditkarten und Debitkarten  in der SEPA Zone verarbeiten.Die Lieferung von Bitcoins ist unmittelbar. Dieser Dienst wird von Ledger, einer bekannten Sicherheitsfirma im Bitcoinraum betrieben. Gebühren laufen von 6 bis 10%, je nach Kaufvolumen.
-   desc_ccww: European residents can buy bitcoin with a 3D secure credit or debit card at Coinhouse. The fees range from 6-10% depending on your total buy volume. Coinhouse is a popular option due to its high limits. 
+   desc_ccww: <p>European residents can buy bitcoin with a 3D secure credit or debit card at Coinhouse.</p> <p>The fees range from 6-10% depending on your total buy volume. Coinhouse is a popular option due to its high limits. </p>
    pros: <li>High limits make it easy to buy large amounts of bitcoins fast</li> <li>Reliable and trusted broker; run by the Bitcoin Embassy in Paris</li>
    cons: <li>Highest fees among trusted exchanges that accept credit/debit cards</li>
 
@@ -558,7 +558,7 @@
 ##### Canada ####################################################   
    
  - name: Canadian Bitcoins
-   desc: <p>Canadian Bitcoins is a Bitcoin exchanged based in Canada. The company offers many payment options:</p> <ul> <li>Interac Online</li><li>Bill Payment via online banking</li><li>Direct debit from bank account</li><li>Flexepin Voucher</li><li>Cash via mail</li><li>Cash in person (Ottowan)</li></ul> <p>The fees vary for each payment method.</p>
+   desc: <p>Canadian Bitcoins is a Bitcoin exchanged based in Canada. The company offers many payment options:</p> <ul> <li>Interac Online</li><li>Bill Payment via online banking</li><li>Direct debit from bank account</li><li>Flexepin Voucher</li><li>Cash via mail</li><li>Cash in person (Ottowa)</li></ul> <p>The fees vary for each payment method.</p>
    url: https://www.canadianbitcoins.com/
    icon: /img/buy/canadianbitcoins.png
    countries: ca
@@ -602,7 +602,7 @@
    desc_ru: Купить небольшие суммы биткоин в считанные секунды с помощью INTERAC Online.
    desc_uk: Купити невеликі суми біткоін в лічені секунди за допомогою INTERAC Online.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Easy way to buy small amounts of bitcoins fast</li><li>No verificaiton required</li>
+   pros: <li>Easy way to buy small amounts of bitcoins fast</li><li>No verification required</li>
    cons: <li>Low limits</li>
    
 ## - name: QuadrigaCX
@@ -718,7 +718,7 @@
    desc_sell: First Bitcoin exchange in Paraguay. Sell bitcoins and get paid via national bank transfer. 
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
    pros: <li>The only Bitcoin exchange in Paraguay</li>
-   cons: <li>Not a private way to buy since ID verificaiton is required</li>
+   cons: <li>Not a private way to buy since ID verification is required</li>
    
 ##### Peru ####################################################  
    
@@ -733,7 +733,7 @@
    desc_sell: Bitcoin broker in Peru. Sell bitcoins online via bank transfer.  
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
    pros: <li>Transparent exchange</li><li>Many payment methods offered</li>
-   cons: <li>Indentiy verification required for some payment methods, so not private</li>
+   cons: <li>Indentity verification required for some payment methods, so not private</li>
 
 ##### Israel ####################################################  
    
@@ -832,7 +832,7 @@
    desc_ar:  شراء بيتكوين في أكثر من 8000 متجر في جميع أنحاء الأرجنتين. محليًا، وسريعة وآمنة.
    desc_de: Bitcoin in über 8000 lokaler Läden in ganz Argentinien kaufen. Lokal, schnell, sicher.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouhard, avglimits]
-   pros: <li>Fasy way to buy bitcoins in Argentina</li><li>Many payment methods available</li>
+   pros: <li>Fast way to buy bitcoins in Argentina</li><li>Many payment methods available</li>
    cons: <li>Not private since identity verification is required</li>
 
 ##### Chile ####################################################     
@@ -929,7 +929,7 @@
 ##### Brazil ####################################################      
  
  - name: Panama Bitcoins
-   desc: Panama Bitcoins connects you with bitcoin brokers across the country. They charge a flat 1% fee. You can get in touch with them using the methods of contact on their websote. 
+   desc: Panama Bitcoins connects you with bitcoin brokers across the country. They charge a flat 1% fee. You can get in touch with them using the methods of contact on their website. 
    url: https://www.ptycoin.com/
    icon: /img/buy/panamabtc.png
    countries: pa
@@ -938,7 +938,7 @@
    desc_es: Panama Bitcoins le conecta con corredores de Bitcoin a lo largo del país.  
    desc_sell: Contact Panama Bitcoins to get connected with bitcoin brokers across the country.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>One of the besy ways to buy bitcoins in Panamda</li><li>Trusted broker that has been running for a long time</li>
+   pros: <li>One of the best ways to buy bitcoins in Panama</li><li>Trusted broker that has been running for a long time</li>
    cons: <li>Not simple to do online, need to make contact with broker</li>
 
    
@@ -1231,13 +1231,13 @@
    cons: <li>Rates are not as good as buying from coins.ph</li>
 
  - name: BTCExchange
-   desc: BTCExchange.ph is a Bitcoin exchange pased in the Philippines. You can fund your account via bank transfer or cash deposit. It is more geared towards traders rather than first-time buyers.
+   desc: BTCExchange.ph is a Bitcoin exchange based in the Philippines. You can fund your account via bank transfer or cash deposit. It is more geared towards traders rather than first-time buyers.
    url: https://www.btcexchange.ph/
    icon: /img/buy/btcexchange.png
    countries: ph 
    po: bt, cash
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Bitcoin exchange in the Phillipines with high</li> <li>Low fees overall</li>
+   pros: <li>Bitcoin exchange in the Philippines with high</li> <li>Low fees overall</li>
    cons: <li>Exchange can be hard to use; is geared towards traders</li>
    
  - name: Coinage
@@ -1663,7 +1663,7 @@
    po: cash, bt
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    pros: <li>Best way to buy bitcoins in Nigeria</li>
-   cons: <li>Identity verification offers less privacy than other methods in Nigera like LocalBitcoins</li>
+   cons: <li>Identity verification offers less privacy than other methods in Nigeria like LocalBitcoins</li>
    
 ##### Kenya ####################################################      
    
@@ -1678,7 +1678,7 @@
    desc_fr: BitPesa est une société de transfert de Bitcoins qui vend également des Bitcoins au Kenya.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    pros: <li>Best way to buy bitcoins in Nigeria and Uganda</li>
-   cons: <li>Identity verification offers less privacy than other methods in Nigera like LocalBitcoins</li>
+   cons: <li>Identity verification offers less privacy than other methods in Nigeria like LocalBitcoins</li>
    
 ####################################################   
 
@@ -1733,7 +1733,7 @@
    desc_babt: Kraken is the world's largest euro-denominated Bitcoin exchange based on daily average trading volume. It supports bank transfer deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via international bank transfer, SEPA transfer, and Interac.
 
  - name: Wall of Coins
-   desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, UK, Canada, Australia, Germany, Poland, Argentina, Brazil, Latvia, Mexico, Phillipines, and Romania. It offers low fees and is a more private way to purchase coins.  
+   desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, UK, Canada, Australia, Germany, Poland, Argentina, Brazil, Latvia, Mexico, Philippines, and Romania. It offers low fees and is a more private way to purchase coins.  
    tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eoueasy, avglimits, int]
    url: http://buybitcoinww.co/Wall_of_Coins
    internal_url: /exchanges/wall-of-coins/
