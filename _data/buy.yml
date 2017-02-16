@@ -936,7 +936,7 @@
    po: cash, sell
    name_es: Panama Bitcoins
    desc_es: Panama Bitcoins le conecta con corredores de Bitcoin a lo largo del país.  
-desc_sell: Contact Panama Bitcoins to get connected with bitcoin brokers across the country.
+   desc_sell: Contact Panama Bitcoins to get connected with bitcoin brokers across the country.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
    pros: <li>One of the besy ways to buy bitcoins in Panamda</li><li>Trusted broker that has been running for a long time</li>
    cons: <li>Not simple to do online, need to make contact with broker</li>
