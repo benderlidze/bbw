@@ -773,13 +773,13 @@
    
 ##### Egypt ####################################################  
 
- - name: YellowPay
-   desc: Buy bitcoin vouchers at a number of locations across the country. 
-   url: http://yellowpay.co/en/
-   icon: /img/buy/yellow.png
-   countries: eg  
-   po: cash
-   desc_ar:  شراء قسائم بيتكوين في عدد من المواقع في جميع أنحاء الدولة.
+## - name: YellowPay
+##   desc: Buy bitcoin vouchers at a number of locations across the country. 
+##   url: http://yellowpay.co/en/
+##   icon: /img/buy/yellow.png
+##   countries: eg  
+##   po: cash
+##   desc_ar:  شراء قسائم بيتكوين في عدد من المواقع في جميع أنحاء الدولة.
    
 ##### Saudi Arabia ####################################################    
    
@@ -1054,6 +1054,9 @@
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国最大的比特币交易平台。零交易费。通过银行转账交存。
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: Huobi
    desc: Second largest Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
@@ -1062,6 +1065,9 @@
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国第二大、零交易费的比特币交易平台。通过银行转账交存。
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: BTCC
    desc: Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
@@ -1070,6 +1076,9 @@
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国零交易费的比特币交易平台。通过银行转账交存。
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: LakeBTC
    desc: LakeBTC is a Bitcoin exchange based in China. Customers can deposit via bank transfer or SEPA. LakeBTC is one of the top 15 global exchanges based average daily trading volume.
@@ -1081,6 +1090,9 @@
    desc_zh: 中国比特币交易平台。通过银行转账或国家环保总局交存。
    desc_bg: Биткойн борса в Китай. Депозирайте чрез банков превод или SEPA.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, avglimits]
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: BtcTrade
    desc: Bitcoin exchange in China. Fee varies. Trade in USD and CNY. 
@@ -1088,6 +1100,9 @@
    icon: /img/buy/btctrade.png
    countries: cn, hk, mo
    desc_zh: 中国比特币交易平台。交易费略不同。以美元和人民币交易。
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: Gatecoin
    desc: Gatecoin is a regulated cryptocurrency and blockchain assets exchange based in Hong Kong. Users can buy bitcoin using HKD, EUR, USD and CNY. 
@@ -1101,6 +1116,8 @@
    desc_fr: Gatecoin est un échangeur régulé de crypto-monnaies et d'actifs liés à la Blockchain. Acheter et vendre des bitcoins et de l'éther aec USD, EUR, HKD et CNY.
    desc_bg: Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.
    tags: [quickinfo, lowprivacy, speedvaries, feesvary, lowtrust, eouavg, avglimits]
+   pros: <li></li>
+   cons: <li></li>
    
  - name: Yunbi
    desc: Small Bitcoin exchange in China. Fee varies. Trade in CNY. 
@@ -1108,6 +1125,9 @@
    icon: /img/buy/yunbi.png
    countries: cn, hk, mo 
    desc_zh: 中国小型比特币交易平台。交易费略不同。以人民币交易。    
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
    
 ##### Vietnam #################################################### 
    
@@ -1115,133 +1135,133 @@
    desc: Largest Bitcoin exchange in Vietnam. Easy and convenient way to buy bitcoin. 
    url: https://www.bitcoinvietnam.com.vn/
    icon: /img/buy/bitcoinvietnam.png
-   countries: vn    
+   countries: vn  
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>  
    
 ##### Moldova #################################################### 
 
  - name: Buyer.md
-   desc: Bitcoin broker. Buyer.md buys bitcoin on BTC-e and then sells to you. 7% fee.   
+   desc: Buyer.md is a Bitcoin broker in Moldova. Buyer.md buys bitcoin on BTC-e and then sells to you for 7% fee.   
    url: http://buyer.md/
    icon: /img/buy/buyermd.png
    countries: md
    desc_bg: Биткойн брокер. Buyer.md купува биткойн на биткойн борса и продава на клиенти. Таксата е 7%.
    desc_ru: Биткоин-брокер. Buyer.md покупает биткоины на BTC-e, а затем продает Вам. Сбор в размере 7%.
    desc_uk: Біткоін-брокер. Buyer.md купує біткоіни на BTC-e, а потім продає Вам. Збір у розмірі 7%.
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li></li>
+   cons: <li></li>
+   
 
 ##### Australia #################################################### 
  
  - name: CoinJar
-   desc: Australian Bitcoin platform and broker. Buy bitcoin via BPAY. 1% fee.  
+   desc: CoinJar is the most well-known Australian Bitcoin platform and broker. You can purchase bitcoin via BPAY for a 1% fee.  
    url: https://www.coinjar.com/
    icon: /img/buy/coinjar.png
    countries: au 
    po: bpay
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Low fees at just 1%</li><li>Clean interface makes it easy for first-time buyers</li>
+   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
    
  - name: BuyaBitcoin
-   desc: Australian Bitcoin broker. Buy bitcoin via cash deposit. Coins delivered within 1 hour.    
+   desc: BuyaBitcoin is Australian Bitcoin broker. You can use the service to buy bitcoin via cash deposit for 4.9% fees. The coins are usually delivered within 1 hour.    
    url: https://buyabitcoin.com.au/
    icon: /img/buy/buyabitcoin.png
    countries: au 
    po: cash
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Fast delivery of bitcoins</li><li>Only verification required is a mobile phone number</li>
+   cons: <li>High fees for buying bitcoins with cash</li>
    
  - name: Independent Reserve
-   desc: Australian Bitcoin exchange. Fund your account with EFT or SWIFT.    
+   desc: Independent Reserve is an Australian Bitcoin exchange geared towards traders. You can fund your account with EFT or SWIFT.    
    url: https://www.independentreserve.com/
    icon: /img/buy/ir.png
    countries: au   
    po: bt, swift  
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Great liquidity means good prices close to market rate</li>
+   cons: <li>Not a wide range of payment methods</li>
    
  - name: Coin Loft
-   desc: Australian Bitcoin broker. Buy bitcoin via cash deposit. Coins delivered within 1 hour.    
+   desc: Coin Loft is an Australian Bitcoin broker. You can buy bitcoin with cash deposit, credit card, Flexepin, and Poli. If you purchase with cash your coins are delivered within 1 hour.    
    url: https://www.coinloft.com.au/
    icon: /img/buy/coinloft.png
    countries: au   
-   po: cash       
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
+   po: cash, cc, poli, flexepin       
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Established broker in Australia</li> <li>Wide range of payment methods</li>
+   cons: <li>4% fees is high for cash buys</li><li>5% fee for credit card buys is high</li>
    
 ##### Malaysia #################################################### 
 
  - name: Bitcoin Exchange Malaysia
-   desc: Bitcoin exchange. Easy and convenient way to buy Bitcoin in Malaysia.  
+   desc: Bitcoin Exchange Malaysia is a Bitcoin exchange based in Malaysia. It offers a fast and easy service, although its buying and selling rates aren't great.  
    url: http://btc.my/
    icon: /img/buy/btcmy.png
    countries: my   
    desc_zh: 比特币交易。在马来西亚购买比特币简单又方便的方式。
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
+   tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
+   pros: <li>The only Bitcoin exchange based in Malaysia</li>
+   cons: <li>Very bad rates for buying and selling</li>
    
 ##### Pakistan #################################################### 
    
  - name: Urdubit
-   desc: First bitcoin exchange in Pakistan. Buy bitcoin via bank transfer. 
+   desc: Urdubit is the first and only Bitcoin exchange based in Pakistan. You can buy bitcoin online via bank transfer. 
    url: https://urdubit.com/
    icon: /img/buy/urdubit.png
    countries: pk
    po: bt
    tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
+   pros: <li>Easy way to buy bitcoins online in Pakistan</li> <li>Service works fast; deposits clear within a few hours</li>
+   cons: <li>Not a private way to buy bitcoins; identity verification required</li>
    
 ##### Philippines #################################################### 
-
- - name: coins.ph
-   desc: Buy bitcoin via bank deposit, online transfer, padala centers and other stores. 
-   url: https://coins.ph/
-   icon: /img/buy/coinph.png
-   countries: ph
-   po: bt, cash
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
    
  - name: BuyBitcoin.ph
-   desc: Bitcoin broker. Fund your account via bank transfer or cash deposit. 
+   desc: BuyBitcoin.ph is the easiest way to purchase bitcoins in the Philippines. The interface is very easy to use for first-time buyers. You can buy with many online payment methods or with cash. 
    url: https://buybitcoin.ph/
    icon: /img/buy/buybitcoinph.png
    countries: ph   
    po: bt, cash 
    tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
+   pros: <li>Easiest way to buy bitcoin in the Philippines</li> <li>Exchange is run by coins.ph</li>
+   cons: <li>Rates won't be as good as the trading exchanges in the Philippines</li>
+
+ - name: prepaidbitcoin.ph
+   desc: <p>Prepaidbitcoin.ph is a unique Bitcoin service in the Philippines. It sells vouchers at a number of physical locations across the country that can be redeemed online for bitcoins. </p> <p>Just make sure you have a <a href="/wallets/">Bitcoin wallet</a>, since you will need an address to receive the coins.</p> 
+   url: https://www.prepaidbitcoin.ph/
+   icon: /img/buy/prepaidbitcoin.png
+   countries: ph 
+   po: cash
+   tags: [quickinfo, rec, avgprivacy, fast, avgfees, trusted, eoueasy, lowlimits]
+   pros: <li>Easy way to buy bitcoins in the Philippines</li> <li>Run by the same company that runs coins.ph</li>
+   cons: <li>Rates are not as good as buying from coins.ph</li>
 
  - name: BTCExchange
-   desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
+   desc: BTCExchange.ph is a Bitcoin exchange pased in the Philippines. You can fund your account via bank transfer or cash deposit. It is more geared towards traders rather than first-time buyers.
    url: https://www.btcexchange.ph/
    icon: /img/buy/btcexchange.png
    countries: ph 
    po: bt, cash
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
+   tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
+   pros: <li>Bitcoin exchange in the Phillipines with high</li> <li>Low fees overall</li>
+   cons: <li>Exchange can be hard to use; is geared towards traders</li>
    
  - name: Coinage
-   desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
+   desc: Coinage was the first Bitcoin exchange geared towards traders in the Philippines. You can fund your account via bank transfer or cash deposit. 
    url: https://coinage.ph/
    icon: /img/buy/coinage.png
    countries: ph 
    po: bt, cash
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
-
- - name: prepaidbitcoin.ph
-   desc: Buy prepaid bitcoin cards at three locations across the Phillipines. 
-   url: http://prepaidbitcoin.ph/
-   icon: /img/buy/prepaidbitcoin.png
-   countries: ph 
-   po: cash
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li></li>
-   cons: <li></li>
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eouhard, highlimits]
+   pros: <li>High liquidity</li>
+   cons: <li>Highest fees among trading exchanges in the Philippines</li>
    
 ##### Cambodia ####################################################   
 
@@ -1261,7 +1281,7 @@
    icon: /img/buy/cambodia.png
    countries: kh
    po: cash
-   tags: [quickinfo, rec, avgprivacy, avgspeed, highfees, trusted, eouavg, highlimits]
+   tags: [quickinfo, avgprivacy, avgspeed, highfees, trusted, eouavg, highlimits]
    pros: <li>Easy way to buy bitcoins with cash in Cambodia</li><li>For low liquidity, selling rates are not bad</li>
    cons: <li>Have to physically go buy bitcoins with cash</li>
 
