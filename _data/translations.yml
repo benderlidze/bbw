@@ -36,7 +36,6 @@ en:
   with: "with:"
   pmethod: Payment Method
   by: by
-  popular: Popular
   select_country: Please select a country.
   select_payment_method: Please select a payment method.
   no_sellers_found: Sorry, no matches found.
@@ -60,6 +59,7 @@ en:
   limits: Limits
   pros: Pros
   cons: Cons
+  popular: Popular
   
 ##################### Spanish #####################
 es:   
