@@ -60,10 +60,13 @@ en:
   pros: Pros
   cons: Cons
   popular: Popular
+  learnmore: Learn More
+  buy_wallet: Buy
   
 ##################### Spanish #####################
 es:   
   buy: Comprar Bitcoin
+  buy_wallet: Comprar
   atms: ATMs
   exchanges: Exchanges
   namerica: América del Norte
@@ -103,6 +106,27 @@ es:
   select_payment_method: Por favor seleccione un método de pago.
   no_sellers_found: Lo sentimos, no se han encontrado coincidencias.
   sellers_found: 'Encontramos <strong><%= exchangeCount %></strong> intercambio<%= ( exchangeCount > 1 ? \"s\" : \"\") %> Bitcoin en <strong><%= countryName %></strong> que aceptan <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
+  average: Average
+  low: Low
+  high: High
+  trusted: Trusted
+  newcompany: New Company
+  lowtrust: Low Trust
+  vary: Varies
+  slow: Slow
+  fast: Fast
+  hard: Hard
+  easy: Easy
+  eouse: Ease of Use
+  privacy: Privacy
+  speed: Speed
+  fees: Fees
+  rep: Reputation
+  limits: Limits
+  pros: Pros
+  cons: Cons
+  popular: Popular
+  learnmore: Aprender más
   
 ##################### Portuguese #####################
 pt:   

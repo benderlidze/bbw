@@ -1,65 +1,87 @@
  - title: Electrum
    summary: "Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. Electrum was created in November 2011. The main features of Electrum are: support for hardware wallets (such as TREZOR, Ledger Nano and KeepKey), and secure Bitcoin storage using an offline computer. Electrum is a good option for both beginners and advanced users. "
+   en: "Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. Electrum was created in November 2011. The main features of Electrum are: support for hardware wallets (such as TREZOR, Ledger Nano and KeepKey), and secure Bitcoin storage using an offline computer. Electrum is a good option for both beginners and advanced users. "
+   es: "Electrum es un monedero Bitcoin liviano para Mac, Linux, y Windows. Electrum fue creado en noviembre de 2011. Las características principales de Electrum son: soporte de monederos hardware (tales como TREZOR, Ledger Nano y KeepKey), y almacenamiento seguro de Bitcoin usando una computadora fuera de línea. Electrum es una buena opción tanto para usuarios principiantes como avanzados."
    tags: [desktop, mac, nonhw]
    thumb: electrum.png
    website_url: http://electrum.org/ 
 
  - title: Mycelium
-   summary: Mycelium is the most popular Bitcoin wallet on Android. It's very easy to use for sending and receiving payments. Backing up your wallet is also simple, since Mycelium makes it very clear with setup and backup instructions.  
+   summary: "Mycelium is the most popular Bitcoin wallet on Android. It's very easy to use for sending and receiving payments. Backing up your wallet is also simple, since Mycelium makes it very clear with setup and backup instructions."
+   en: "Mycelium is the most popular Bitcoin wallet on Android. It's very easy to use for sending and receiving payments. Backing up your wallet is also simple, since Mycelium makes it very clear with setup and backup instructions." 
+   es: Mycelium es el monedero Bitcoin más popular en Android. Es muy fácil de usar para enviar y recibir pagos. Hacer un backup de tu monedero también es simple, ya que Mycelium simplifica todo con instrucciones de instalación y backup.
    tags: [android, mobile, nonhw]
    thumb: mycelium.png
    website_url: https://mycelium.com/mycelium-wallet.html
    
  - title: breadwallet
-   summary: We consider breadwallet, along with Copay (below), as the best bitcoin wallet for iPhone. It’s open source and gives the user full control over their private keys. It also has a clean interface which makes the sending and receiving of bitcoins a pleasurable and super-simple process. 
+   summary: We consider breadwallet, along with Copay (below), as the best bitcoin wallet for iPhone. It’s open source and gives the user full control over their private keys. It also has a clean interface which makes the sending and receiving of bitcoins a pleasurable and super-simple process.
+   en: We consider breadwallet, along with Copay (below), as the best bitcoin wallet for iPhone. It’s open source and gives the user full control over their private keys. It also has a clean interface which makes the sending and receiving of bitcoins a pleasurable and super-simple process. 
+   es: Consideramos a breadwallet, junto con Copay (abajo), como el mejor monedero bitcoin para iPhone. Es de código abierto y le da al usuario un control total sobre sus claves privadas. También tiene una interfaz limpia, que hace que el envío y recepción de bitcoins sea un proceso placentero y súper sencillo.
    tags: [mobile, nonhw, ios]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
    
  - title: breadwallet
    summary: breadwallet, the great iPhone Bitcoin wallet, recently released an Android wallet. It offers the user control of private keys, an easy to use interface, and passcode support.  
+   en: breadwallet, the great iPhone Bitcoin wallet, recently released an Android wallet. It offers the user control of private keys, an easy to use interface, and passcode support.
+   es: breadwallet, el gran monedero Bitcoin de iPhone, recientemente lanzó un monedero en Android. Ofrece el control del usuario sobre las claves privadas, una interfaz fácil de usar, y soporte de código de acceso.
    tags: [mobile, android]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
 
  - title: Copay
    summary: Copay Bitcoin wallet is BitPay's open source wallet. It can be used across multiple devices, since Copay is available for Android, Windows Phone, iOS, and all desktop platforms. Among many other great features, it's easy to create multiple accounts so you can have separate wallets for your business and personal funds. 
+   en: Copay Bitcoin wallet is BitPay's open source wallet. It can be used across multiple devices, since Copay is available for Android, Windows Phone, iOS, and all desktop platforms. Among many other great features, it's easy to create multiple accounts so you can have separate wallets for your business and personal funds.
+   es: El monedero Bitcoin Copay es el monedero de código abierto de BitPay. Puede usarse en múltiples dispositivos, ya que Copay está disponible para Android, Windows Phone, iOS, y todas las plataformas de escritorio. Junto a muchas otras grandes funcionalidades, es fácil crear diversas cuentas, así puedes tener monederos distintos para tus fondos personales y de negocios.
    tags: [nonhw, ios]
    thumb: copay.png
    website_url: https://copay.io/   
    
  - title: Copay
    summary: The Copay Bitcoin wallet is also available for Android. It's easy to use and offers many advanced features that offer great flexibility. 
+   en: The Copay Bitcoin wallet is also available for Android. It's easy to use and offers many advanced features that offer great flexibility.
+   es: El monedero Bitcoin Copay también está disponible para Android. Es fácil de usar y ofrece muchas características avanzadas que proveen gran flexibilidad.
    tags: [android, nonhw]
    thumb: copay.png
    website_url: https://copay.io/
    
  - title: Airbitz
    summary: "Airbitz is an easy to use Bitcoin wallet for iPhone and Android. Its familiar login feature makes using the app a breeze for people new to bitcoin. The wallet also creates automatic backups, so you don't have to worry about the technicalities of performing manual wallet backups."
+   en: "Airbitz is an easy to use Bitcoin wallet for iPhone and Android. Its familiar login feature makes using the app a breeze for people new to bitcoin. The wallet also creates automatic backups, so you don't have to worry about the technicalities of performing manual wallet backups."
+   es: Airbitz es un monedero Bitcoin fácil de usar para iPhone y Android. Su función de inicio de sesión común hace que el uso de la aplicación sea pan comido para los novatos del mundo bitcoin. El monedero también crea backups automáticos, así que no debes preocuparte por los tecnicismos de realizar backups manuales del monedero.
    tags: [android, ios, nonhw]
    thumb: airbitz.png
    website_url: https://copay.io/      
    
  - title: Copay
    summary: Last, but not least, Copay is also available on desktop. Its desktop app gives you the ability to manage your hardware wallets, along with all of the other features mentioned above. 
+   en: Last, but not least, Copay is also available on desktop. Its desktop app gives you the ability to manage your hardware wallets, along with all of the other features mentioned above.
+   es: Pero último, pero no menos importante, Copay también está disponible para escritorio. Su aplicación de escritorio te da la habilidad de administrar tus monederos hardware, junto a todas las otras funcionalidades mencionadas anteriormente.
    tags: [nonhw, desktop]
    thumb: copay.png
    website_url: https://copay.io/         
    
  - title: GreenBits
    summary: GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that also supports hardware wallets like TREZOR and Ledger.
+   en: GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that also supports hardware wallets like TREZOR and Ledger.
+   es: GreenBits es la versión nativa de Android de GreenAddress. Es un monedero multi-signature que también soporta monederos hardware como TREZOR y Ledger.
    tags: [android, mobile, nonhw]
    thumb: greenbits.png
    website_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en 
    
  - title: GreenAddress
    summary: <p>GreenAddress is a multi-signature Bitcoin wallet available on the web, desktop, Android, and iOS. GreenAddress is compatible with hardware wallets like TREZOR, Ledger Nano, and the HW.1.</p> <p>“Multi-signature” in this context means that the site requires a manual confirmation from you for your coins to be moved; this greatly improves security.</p>
+   en: <p>GreenAddress is a multi-signature Bitcoin wallet available on the web, desktop, Android, and iOS. GreenAddress is compatible with hardware wallets like TREZOR, Ledger Nano, and the HW.1.</p> <p>“Multi-signature” in this context means that the site requires a manual confirmation from you for your coins to be moved; this greatly improves security.</p>
+   es: <p>GreenAddress es un monedero Bitcoin multi-signature disponible en la web, para escritorio, Android, y iOS. GreenAddress es compatible con monederos hardware como TREZOR, Ledger Nano y el HW.1.</p><p> “Multi-signature” en este contexto significa que el sitio requiere una confirmación manual de tu parte para mover tus monedas; esto aumenta la seguridad en gran medida.</p>
    tags: [web, online, nonhw]
    thumb: greenaddress.png
    website_url: https://greenaddress.it/       
    
  - title: Bitcoin Wallet
    summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet. Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network. Bitcoin Wallet has a simple interface and just the right amount of features, making it a great wallet and a great educational tool for Bitcoin beginners.
+   en: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet. Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network. Bitcoin Wallet has a simple interface and just the right amount of features, making it a great wallet and a great educational tool for Bitcoin beginners.
+   es: Bitcoin Wallet, o “Schildbach Wallet”, fue el primer monedero Bitcoin móvil. Bitcoin Wallet es más seguro que la mayoría de los monederos Bitcoin móviles, porque se conecta directamente a la red Bitcoin. Bitcoin Wallet tiene una interfaz sencilla y la cantidad justa de funcionalidades, haciendo de él un gran monedero y una gran herramienta educativa para los principiantes de las Bitcoin.
    tags: [mobile, android, nonhw]
    thumb: bwallet.png
    website_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet  

@@ -19,7 +19,9 @@ control_priv_keys: yes
 buy: yes
 buy_url: http://buybitcoinww.co/TREZOR_Wallet
 contribute: trezor
-summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure bitcoin storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, thumb-sized device. 
+summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure bitcoin storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, thumb-sized device.
+en: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure bitcoin storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, thumb-sized device.
+es: TREZOR fue lanzado en agosto de 2014 como el primero monedero hardware Bitcoin, ofreciendo almacenamiento seguro de bitcoins, además de la habilidad de poder gastar con la conveniencia de un monedero dinámico. TREZOR es un dispositivo pequeño, del tamaño de un pulgar. 
 weight: 9.1
 released: Oct 2013
 price: $99
