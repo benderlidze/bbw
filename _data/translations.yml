@@ -102,29 +102,29 @@ es:
   bbi: "Compra Bitcoin en:"
   with: "con:"
   pmethod: Métodos de pago
-  select_country: Por favor seleccione un país.
-  select_payment_method: Por favor seleccione un método de pago.
+  select_country: Por favor selecciona un país.
+  select_payment_method: Por favor selecciona un método de pago.
   no_sellers_found: Lo sentimos, no se han encontrado coincidencias.
-  sellers_found: 'Encontramos <strong><%= exchangeCount %></strong> intercambio<%= ( exchangeCount > 1 ? \"s\" : \"\") %> Bitcoin en <strong><%= countryName %></strong> que aceptan <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
-  average: Average
-  low: Low
-  high: High
-  trusted: Trusted
-  newcompany: New Company
-  lowtrust: Low Trust
-  vary: Varies
-  slow: Slow
-  fast: Fast
-  hard: Hard
-  easy: Easy
-  eouse: Ease of Use
-  privacy: Privacy
-  speed: Speed
-  fees: Fees
-  rep: Reputation
-  limits: Limits
+  sellers_found: 'Encontramos <strong><%= exchangeCount %></strong> intercambio<%= ( exchangeCount > 1 ? \"s\" : \"\") %> de Bitcoin en <strong><%= countryName %></strong> que aceptan <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
+  average: Medio
+  low: Bajo
+  high: Alto
+  trusted: Confiable
+  newcompany: Compañía nueva
+  lowtrust: No confiable
+  vary: Varía
+  slow: Lento
+  fast: Rápido
+  hard: Difícil
+  easy: Fácil
+  eouse: Facilidad de uso
+  privacy: Privacidad
+  speed: Velocidad
+  fees: Tarifas
+  rep: Reputación
+  limits: Límites
   pros: Pros
-  cons: Cons
+  cons: Contras
   popular: Popular
   learnmore: Aprender más
   
@@ -159,6 +159,10 @@ pt:
   about: Sobre
   about_url: /en/about/
   change_lang: Languazhe
+  popular: Popular
+  learnmore: Saiba mais
+  buy_wallet: Comprar
+  
  
 ##################### Hebrew #####################
 he:

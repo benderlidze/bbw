@@ -22,6 +22,7 @@ contribute: trezor
 summary: KeepKey was released in September 2015 and was the second hardware Bitcoin wallet to offer a screen. The KeepKey's larger screen gives it some extra security features that the Nano S and Trezor lack. 
 en: KeepKey was released in September 2015 and was the second hardware Bitcoin wallet to offer a screen. The KeepKey's larger screen gives it some extra security features that the Nano S and Trezor lack. 
 es: KeepKey fue lanzado en septiembre de 2015 y fue el segundo monedero hardware Bitcoin en ofrecer una pantalla. La gran pantalla del KeepKey le otorga características de seguridad adicionales de las que el Nano S y el Trezor carecen.
+pt: A KeepKey foi lançada em setembro de 2015 e foi a segunda carteira de Bitcoin de hardware a oferecer uma tela. A tela maior do KeepKey oferece alguns recursos de segurança a mais que você não encontra na Nano S e na Trezor.
 weight: 9
 pro1: Most secure & feature packed Bitcoin hardware wallet available
 pro2: Digital screen & metal body
