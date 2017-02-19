@@ -9,6 +9,7 @@ desc: Aprende la forma más fácil y rápida de comprar bitcoins instantáneamen
 lang: es
 pmethod: paypal
 author: jordantuwiner
+pagename: paypal
 ---
 <div class="col-sm-12">
 

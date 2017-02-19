@@ -9,6 +9,7 @@ desc: Apprenez où et comment acheter des bitcoins avec PayPal instantanément d
 lang: fr
 pmethod: paypal
 author: jordantuwiner
+pagename: paypal
 ---
 <div class="col-sm-12">
 

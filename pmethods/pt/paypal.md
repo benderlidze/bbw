@@ -9,6 +9,7 @@ desc: "Aprenda a forma mais fácil e rápida de comprar bitcoins com o PayPal in
 lang: pt
 pmethod: paypal
 author: jordantuwiner
+pagename: paypal
 ---
 <div class="col-sm-12">
 

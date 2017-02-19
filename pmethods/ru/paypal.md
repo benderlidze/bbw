@@ -9,6 +9,7 @@ desc: Узнайте из этой пошаговой инструкции, гд
 lang: ru
 pmethod: paypal
 author: jordantuwiner
+pagename: paypal
 ---
 <div class="col-sm-12">
 

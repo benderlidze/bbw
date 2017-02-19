@@ -9,6 +9,7 @@ desc: Lernen Sie mit dieser Schritt-für-Schritt Anleitung, wie Sie mit PayPal s
 lang: de
 pmethod: paypal
 author: jordantuwiner
+pagename: paypal
 ---
 <div class="col-sm-12">
 

@@ -9,6 +9,7 @@ desc: Learn the best and easiest way to buy bitcoins with PayPal instantly. See 
 lang: en
 pmethod: paypal
 author: jordantuwiner
+pagename: paypal
 ---
 <div class="col-sm-12">
 

@@ -9,6 +9,7 @@ desc: "Poznaj najprostszy I najszybszy sposób na natychmiastowy zakup bitcoinó
 lang: pl
 pmethod: paypal
 author: jordantuwiner
+pagename: paypal
 ---
 <div class="col-sm-12">
 

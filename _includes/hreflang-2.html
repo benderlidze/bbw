@@ -1,0 +1,5 @@
+{% for post in site.pages %}
+	{% if post.pagename == page.pagename %}	
+    <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />
+    {% endif %}  			
+{% endfor %}

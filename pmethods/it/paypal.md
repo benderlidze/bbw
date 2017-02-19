@@ -9,6 +9,7 @@ desc: "Molte persone desiderano acquistare Bitcoin con PayPal perché è un meto
 lang: it
 pmethod: paypal
 author: jordantuwiner
+pagename: paypal
 ---
 <div class="col-sm-12">
 
