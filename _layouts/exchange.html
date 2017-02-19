@@ -3,12 +3,30 @@ layout: default
 hide_sidebar: true
 ---
 <div itemprop="review" itemscope itemtype="http://schema.org/Review" class="exchange-article {{ page.exchange }}-exchange">
-
-<div class="breadcrumbs">
-	<a href="/"><i class="fa fa-home"></i></a> &#155; 
-	<a href="/exchanges/">Bitcoin Exchanges</a> &#155; 
-	<strong>{{ page.title }}</strong>
-	</div>	
+	
+<div itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
+	
+	<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+		<a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+		<meta itemprop="position" content="1" />
+	</span>
+	
+	 &#155; 
+	 
+	 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+		<a itemprop="item" href="/exchanges/"><span itemprop="name">Bitcoin Exchanges</span></a>
+		<meta itemprop="position" content="2" />
+	</span>
+	
+	 &#155; 
+	 
+	 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+		<a itemprop="item" href="{{ page.url | prepend: site.baseurl }}"><span itemprop="name"><b>{{ page.title }}</b></span></a>
+		<meta itemprop="position" content="3" />
+	</span>
+	
+</div>	
+	
 
 <div class="row content-with-sidebar col-md-9">	
 <div class="exchange-header-back">
