@@ -5,11 +5,42 @@ hide_sidebar: false
 {% assign wallet = site.data.wallets[page.wallet] %}
 <div itemprop="review" itemscope itemtype="http://schema.org/Review" class="wallet-article {{ page.wallet }}">
 
-<div class="breadcrumbs">
-	<a href="/"><i class="fa fa-home"></i></a> &#155; 
-	<a href="/wallets/">Bitcoin Wallets</a> &#155; 
-	<strong>{{ page.title }}</strong>
-	</div>	
+<div itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
+	
+	<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+		<a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+		<meta itemprop="position" content="1" />
+	</div>
+	
+	 &#155; 
+	 
+	 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+		<a itemprop="item" href="/wallets/"><span itemprop="name">Bitcoin Wallets</span></a>
+		<meta itemprop="position" content="2" />
+	</div>
+	
+	 &#155; 
+	 
+	 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+		<a itemprop="item" href="{{ page.url | prepend: site.baseurl }}"><span itemprop="name">{{ page.title }}</span></a>
+		<meta itemprop="position" content="3" />
+	</div>
+	
+</div>	
+
+
+
+
+
+      <li itemprop="itemListElement" itemscope
+          itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="https://example.com/dresses/real">
+        <span itemprop="name">Real Dresses</span></a>
+        <meta itemprop="position" content="2" />
+      </li>
+
+
+
 
 <div class="row content-with-sidebar col-md-9">		
 <div class="wallet-header-back">
