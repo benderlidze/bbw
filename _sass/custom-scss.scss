@@ -2271,6 +2271,7 @@ blockquote {
     border-radius: 12px;
     height: 16px;
     width: 100%;
+    margin-bottom: 25px;
 }
 
 .rating-bar-inner {
@@ -2280,8 +2281,9 @@ blockquote {
 }
 
 .rating-title {
-    font-size: 15px;
-    margin-bottom: 3px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    clear: both;
 }
 
 .exchange-ratings {
@@ -2290,8 +2292,9 @@ blockquote {
 
 .score {
     float: right;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
+    margin-top: 4px;
     padding-right: 2px;
 }
 

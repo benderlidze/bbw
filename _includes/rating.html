@@ -1,0 +1,70 @@
+<div class="privacy-score single-rating">
+
+
+{% if include.cat == 'privacy' %}
+	
+	
+	<h2 class="rating-title">
+		{{ include.cat }} 
+		<div class="score">{{ page.privacy_score }}</div>
+	</h2>
+			
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.privacy_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.privacy_score | times: 10 }}%; {% if page.privacy_score >= 8.5 %} background: #2b8000; {% elsif page.privacy_score < 8.5 and page.privacy_score >= 7 %} background: #ace600; {% elsif page.privacy_score < 7 and page.privacy_score >= 5 %} background: #ffb41a; {% elsif page.privacy_score < 5 and page.privacy_score >= 2.5 %} background: #ff8080; {% elsif page.privacy_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>
+
+{% elsif include.cat == 'speed' %}
+	   
+	<h2 class="rating-title">
+		{{ include.cat }} 
+		<div class="score">{{ page.speed_score }}</div>
+	</h2>
+			
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.speed_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.speed_score | times: 10 }}%; {% if page.speed_score >= 8.5 %} background: #2b8000; {% elsif page.speed_score < 8.5 and page.speed_score >= 7 %} background: #ace600; {% elsif page.speed_score < 7 and page.speed_score >= 5 %} background: #ffb41a; {% elsif page.speed_score < 5 and page.speed_score >= 2.5 %} background: #ff8080; {% elsif page.speed_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>
+			
+
+{% elsif include.cat == 'limits and liquidity' %}
+	   
+	<h2 class="rating-title">
+		{{ include.cat }} 
+		<div class="score">{{ page.limits_score }}</div>
+	</h2>
+			
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.limits_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.limits_score | times: 10 }}%; {% if page.limits_score >= 8.5 %} background: #2b8000; {% elsif page.limits_score < 8.5 and page.limits_score >= 7 %} background: #ace600; {% elsif page.limits_score < 7 and page.limits_score >= 5 %} background: #ffb41a; {% elsif page.limits_score < 5 and page.limits_score >= 2.5 %} background: #ff8080; {% elsif page.limits_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>			
+
+{% elsif include.cat == 'fees' %}
+	   
+	<h2 class="rating-title">
+		{{ include.cat }} 
+		<div class="score">{{ page.fees_score }}</div>
+	</h2>
+			
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.fees_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.fees_score | times: 10 }}%; {% if page.fees_score >= 8.5 %} background: #2b8000; {% elsif page.fees_score < 8.5 and page.fees_score >= 7 %} background: #ace600; {% elsif page.fees_score < 7 and page.fees_score >= 5 %} background: #ffb41a; {% elsif page.fees_score < 5 and page.fees_score >= 2.5 %} background: #ff8080; {% elsif page.fees_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>
+			
+{% elsif include.cat == 'reputation and regulation' %}
+	   
+	<h2 class="rating-title">
+		{{ include.cat }} 
+		<div class="score">{{ page.reputation_score }}</div>
+	</h2>
+			
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.reputation_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.reputation_score | times: 10 }}%; {% if page.reputation_score >= 8.5 %} background: #2b8000; {% elsif page.reputation_score < 8.5 and page.reputation_score >= 7 %} background: #ace600; {% elsif page.reputation_score < 7 and page.reputation_score >= 5 %} background: #ffb41a; {% elsif page.reputation_score < 5 and page.reputation_score >= 2.5 %} background: #ff8080; {% elsif page.reputation_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>			
+
+
+{% endif %}
+
+
+</div>
