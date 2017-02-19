@@ -2,7 +2,7 @@
 layout: default
 hide_sidebar: true
 ---
-<div class="exchange-article {{ page.exchange }}-exchange">
+<div itemprop="review" itemscope itemtype="http://schema.org/Review" class="exchange-article {{ page.exchange }}-exchange">
 
 <div class="breadcrumbs">
 	<a href="/"><i class="fa fa-home"></i></a> &#155; 
@@ -14,7 +14,7 @@ hide_sidebar: true
 <div class="exchange-header-back">
 <div class="exchange-header {{ page.exchange }}-exchange">
 	  <img alt="{{ page.title }} review" class="exchange-logo" src="{{ "/img/exchanges/" | prepend: site.baseurl }}{{ page.thumb }}">
-	  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }} Review</a></h1>
+	  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}"><span itemprop="name">{{ page.title }} Review</span></a></h1>
 	  <!-- <div class="exchange-info"> 
 	 	<div class="exchange-info-link"><i class="fa fa-fw fa-link fa-lg"></i> <a rel="nofollow" href="{{ page.website_url }}">{{ page.website }}</a></div>
 	 </div> -->
@@ -113,8 +113,20 @@ hide_sidebar: true
 	{% endif %}
 	
 	<a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-top btn-success"><i class="fa fa-bitcoin"></i> Buy Bitcoin at {{ page.title }}</a>
+	
+	<span itemprop="reviewBody">
          
 	{{ content }} 
+	
+	</span>
+	
+	<p>Review by <span itemprop="author">Jordan Tuwiner</span> </p>
+   <div itemprop="ReviewRating" itemscope itemtype="http://schema.org/Rating">
+	  <meta itemprop="worstRating" content="1">
+	  <meta itemprop="bestRating" content = "5">
+	  <strong>Rating: </strong><span itemprop="ratingValue">{{ page.rating }}</span>
+  </div>
+	
 	<a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-bottom btn-success"><i class="fa fa-bitcoin"></i> Visit {{ page.website }}</a>
 
 </div>

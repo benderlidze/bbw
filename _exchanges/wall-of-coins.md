@@ -35,6 +35,7 @@ reputation_width: 90
 fees_score: 8
 fees_width: 80
 aff: yes
+rating: 4.3
 ---
 Wall of Coins is a peer-to-peer Bitcoin exchange that makes it easy to buy bitcoins. Buyers and sellers are free to choose and agree on any payment method. Wall of Coins then acts as escrow to ensure the transaction is processed. 
 

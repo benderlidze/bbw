@@ -31,6 +31,7 @@ reputation_score: 8
 reputation_width: 80
 fees_score: 8
 fees_width: 80
+rating: 4
 ---
  
 

@@ -35,6 +35,7 @@ reputation_width: 90
 fees_score: 8.5
 fees_width: 85
 aff: yes
+rating: 4.2
 ---
 Is Coinbase safe? is a common question. Yes, Coinbase is a Bitcoin company based in San Francisco, and backed by trusted investors. [Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review its brokerage, exchange, and [wallet](/exchanges/coinbase/#coinbase-wallet-review). 
 

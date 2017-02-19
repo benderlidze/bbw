@@ -31,6 +31,7 @@ reputation_width: 90
 fees_score: 9
 fees_width: 90
 aff: yes
+rating: 4.5
 ---
 
 * Table of Contents
