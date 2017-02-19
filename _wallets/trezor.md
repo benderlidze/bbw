@@ -32,6 +32,7 @@ con1: $99 price tag may be out of reach for those on a budget
 screen: yes
 sidebardesc: TREZOR was released in October 2013 and was the first Bitcoin hardware wallet with a screen. TREZOR is a small, USB sized device that is actually a small computer.
 pic: trezor.png
+rating: 4.7
 ---
 [TREZOR](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"} launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
 

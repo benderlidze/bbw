@@ -33,6 +33,7 @@ screen: yes
 released: Sep 2015
 price: $99
 pic: keepkey.png
+rating: 4.6
 ---
 ![keepkey review][kkh]{: .img-responsive .kb-helper}
 

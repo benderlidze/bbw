@@ -32,6 +32,7 @@ con1: No screen means the HW.1 must be setup on bootable USB or offline computer
 con2:  
 sidebardesc: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment.
 pic: ledgerhw1.png
+rating: 4.0
 ---
 ## Price
 The <a rel="nofollow" href="http://buybitcoinww.co/Ledger_HW1">Ledger HW.1</a> costs 15€ and comes with free shipping. 

@@ -3,7 +3,7 @@ layout: default
 hide_sidebar: false
 ---
 {% assign wallet = site.data.wallets[page.wallet] %}
-<div class="wallet-article {{ page.wallet }}">
+<div itemprop="review" itemscope itemtype="http://schema.org/Review" class="wallet-article {{ page.wallet }}">
 
 <div class="breadcrumbs">
 	<a href="/"><i class="fa fa-home"></i></a> &#155; 
@@ -17,7 +17,7 @@ hide_sidebar: false
 		<div class="row">
 		  <div class="col-xs-12">
 		  <img class="wallet-logo" src="/img/hwpics/{{ page.pic }}">
-		  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+		  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}"><span itemprop="name">{{ page.title }}</span></a></h1>
 		 </div>
 		</div>
 	</div>
@@ -65,9 +65,17 @@ hide_sidebar: false
 	{% endif %}
    
    <a type="button" href="{{ page.buy_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-top btn-success"><i class="fa fa-bitcoin"></i> Buy a {{ page.title }}</a>
-   
+   	<span itemprop="reviewBody">
     {{ content }} 
+   	</span>
     
+   <p>Review by <span itemprop="author">Jordan Tuwiner</span> </p>
+   <div itemprop="ReviewRating" itemscope itemtype="http://schema.org/Rating">
+	  <meta itemprop="worstRating" content="1">
+	  <meta itemprop="bestRating" content = "5">
+	  <strong>Rating: </strong><span itemprop="ratingValue">{{ page.rating }}</span>
+  </div>
+     
     <a type="button" href="{{ page.buy_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-bottom btn-success"><i class="fa fa-bitcoin"></i> Buy a {{ page.title }}</a>
     <br>
     

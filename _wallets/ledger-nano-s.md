@@ -30,6 +30,7 @@ pic: nanos.png
 pro1: Affordable hardware wallet with screen 58€ ($65)
 pro2: 
 con1: Lack of support for passphrases
+rating: 4.8
 ---
 The Ledger Nano S is Ledger’s newest Bitcoin hardware wallet.  
 
