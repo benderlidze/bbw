@@ -13,8 +13,11 @@
 	<meta name="description" content="{{ page.desc }}" />
 	{% include analytics.html %}
     {% include loadcssjs.html %}
-	{% if page.country != null  %}
+	{% if page.country  %}
 	{% include hreflang.html %}
+	{% endif %}
+	{% if page.pagename  %}
+	{% include hreflang-2.html %}
 	{% endif %}
 	
 	{% if page.pagetype == 'kbsection' or page.pagetype == 'pmethodsindex' %}
