@@ -3,6 +3,7 @@
    ru: кредитная карта
    es: Tarjeta de crédito
    zh: 信用卡
+   pt: Cartão de crédito
    
  - pmethod: Debit Card
    short: cc   
@@ -12,12 +13,14 @@
    ru: Денежные средства
    es: Efectivo
    zh: 现金
+   pt: Dinheiro 
    
  - pmethod: Bank Account
    short: bt
    ru: банковский счет
    es: Cuenta Bancaria
    zh: 银行转帐
+   pt: Conta bancária
    
  - pmethod: SEPA
    short: sepa

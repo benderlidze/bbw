@@ -1,24 +1,56 @@
 ---
 hide_sidebar: true
 lang: pt
-title: Compre Bitcoins ao redor do mundo - Buy Bitcoin Worldwide
-seotitle: Compre Bitcoins ao redor do mundo - Buy Bitcoin Worldwide
+title: Compre Bitcoins ao redor do mundo
+seotitle: Compre Bitcoins ao redor do mundo
 desc: Buy Bitcoin Worldwide ajuda você a comprar Bitcoins em todo o mundo através do método de pagamento desejado.  
 permalink: /pt-br/
-layout: default
+layout: home
+home: yes
+include_javascript:
+  - 'sellers/pt'
+  - 'i18n/pt'
+  - 'buybot'
 multilang: yes
 pagename: index
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
-<h2 class="home-header"><a href="#eu" id="eu">Compre Bitcoins na Europa</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.eu == true and country.pt_br == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
+<div class="container-fluid buy-bot home-mapimg">
+
+<h2 class="map-title">{{ lang.bbi }}</h2>
+
+<form class="form-inline" style="text-align: center;">
+    <div class="form-group">
+
+      <select id="country" class="type-select-container form-control">
+        <option value=""><i class="fa fa-fw fa-globe"></i> {{ lang.country }}</option>
+        {% assign countries = (site.data.countries | sort: 'country_pt_br') %}
+        {% for country_pt in countries %}
+          {% if country_pt.country_pt_br %}
+            <option value="{{country_pt.short}}">{{country_pt.country_pt_br}}</option>             		  {% endif %}
+        {% endfor %}
+      </select>
+    </div>
+    <h2 class="map-title map-title-2">{{ lang.with }}</h2>
+    <div class="form-group">
+      <label for="payment_method"></label>
+      <select id="payment_method" class="type-select-container form-control">
+        <option value=""><i class="fa fa-fw fa-money"></i> {{ lang.pmethod }}</option>
+        {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
+        {% for method in paymentmethods %}
+          {% if method.pt %}
+          	<option value="{{method.short}}">{{method.pt}}</option>
+          {% else %}
+          	<option value="{{method.short}}">{{method.pmethod}}</option>
+          {% endif %}
+        {% endfor %}
+      </select>
+    </div>
+  </form>
+
 </div>
-</div>
-<hr>
+  
+<div class="container-fluid" id="notification"></div>
+<br><br>
+<div class="container" id="sellers"></div>

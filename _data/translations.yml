@@ -162,6 +162,37 @@ pt:
   popular: Popular
   learnmore: Saiba mais
   buy_wallet: Comprar
+  country: País
+  bbi: "Comprar Bitcoin em:"
+  with: "com:"
+  pmethod: Método de pagamento
+  by: by
+  select_country: Please select a country.
+  select_payment_method: Please select a payment method.
+  no_sellers_found: Sorry, no matches found.
+  sellers_found: 'We found <strong><%= exchangeCount %></strong> Bitcoin exchange<%= ( exchangeCount > 1 ? \"s\" : \"\") %> in <strong><%= countryName %></strong> that accept <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
+  average: Average
+  low: Low
+  high: High
+  trusted: Trusted
+  newcompany: New Company
+  lowtrust: Low Trust
+  vary: Varies
+  slow: Slow
+  fast: Fast
+  hard: Hard
+  easy: Easy
+  eouse: Ease of Use
+  privacy: Privacy
+  speed: Speed
+  fees: Fees
+  rep: Reputation
+  limits: Limits
+  pros: Pros
+  cons: Cons
+  popular: Popular
+  learnmore: Learn More
+  buy_wallet: Buy
   
  
 ##################### Hebrew #####################

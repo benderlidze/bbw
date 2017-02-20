@@ -29,12 +29,9 @@
 	    {% capture include_to_scssify %}
 	    {% include inlinecss.scss %}
 	    {% endcapture %}
-	    {{ include_to_scssify | scssify }}
+	    {{ include_to_scssify | scssify }}\
+	    {% include criticalcss.html %}
     </style>
-    <script>
-    loadCSS("{{ "/stylesheets/shiori.css" | prepend:site.baseurl }}");
-    </script>
-
 
     {% if page.di == true %}
     <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
