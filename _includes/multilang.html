@@ -1,0 +1,53 @@
+
+
+<li class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <i class="fa fa-fw fa-globe"></i> {{ lang.language }} <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+  
+  {% for post in site.pages %}
+	{% if post.pagename == page.pagename and post.url != page.url %}	
+	
+	<li><a href="{{ post.url }}">
+	
+	{% if post.lang == 'en' %}
+		English
+	{% elsif post.lang == 'de' %}
+		Deutsch
+	{% elsif post.lang == 'es' %}
+		Español
+	{% elsif post.lang == 'ru' %}
+		Русский
+	{% elsif post.lang == 'zh' %}
+		中文
+	{% elsif post.lang == 'pt' %}
+		Português
+	{% elsif post.lang == 'fr' %}
+		Français
+	{% elsif post.lang == 'nl' %}
+		Nederlands
+	{% elsif post.lang == 'ar' %}
+		العربية
+	{% elsif post.lang == 'it' %}
+		Italiano
+	{% elsif post.lang == 'el' %}
+		Ελληνικά
+	{% elsif post.lang == 'uk' %}
+		Українська
+	{% elsif post.lang == 'bg' %}
+		български
+	{% elsif post.lang == 'pl' %}
+		Polski
+	{% elsif post.lang == 'he' %}
+		עברית		
+	{% endif %} 
+	
+	</a></li>
+	    
+    {% endif %}  			
+  {% endfor %}
+
+  
+  </ul>
+</li>

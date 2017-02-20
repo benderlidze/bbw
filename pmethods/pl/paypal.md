@@ -10,6 +10,7 @@ lang: pl
 pmethod: paypal
 author: jordantuwiner
 pagename: paypal
+multilang: yes
 ---
 <div class="col-sm-12">
 

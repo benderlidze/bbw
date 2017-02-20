@@ -1,22 +1,7 @@
-<li class="btn-group">
-  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    <i class="fa fa-fw fa-globe"></i> {{ lang.language }} <span class="caret"></span>
-  </button>
-  <ul class="dropdown-menu">
-    <li><a href="/">English</a></li>
-    <li><a href="/es/">Español</a></li>
-    <li><a href="/pt-br/">Português</a></li>
-    <li><a href="/zh/">中文</a></li>
-    <li><a href="/ru/">Русский</a></li>
-    <li><a href="/de/">Deutsch</a></li>
-    <li><a href="/fr/">Français</a></li>
-    <li><a href="/nl/">Nederlands</a></li>
-    <li><a href="/ar/">العربية</a></li>
-    <li><a href="/it/">Italiano</a></li>
-    <li><a href="/el/">Ελληνικά</a></li>
-    <li><a href="/uk/">Українська</a></li>
-  </ul>
-</li>
+{% if page.multilang %}
+	{% include multilang.html %}
+{% endif %}
+
 {% if page.lang != 'en' %}
 <li>
 <a class="wallet-nav" href="{{ lang.home_url }}"><!--<i class="fa fa-fw fa-map-marker"></i> -->{{ lang.find_country }}</a>

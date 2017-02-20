@@ -1,16 +1,19 @@
 ---
 hide_sidebar: true
-lang: es
-title: Comprar Bitcoin en cualquier lugar
-seotitle: Comprar Bitcoin en cualquier lugar
-desc: Comprar Bitcoin en cualquier lugar del mundo. Simplemente seleccione un país. 
-permalink: /es/
+lang: zh
+title: 购买比特币 - Buy Bitcoin Worldwide
+seotitle: 购买比特币 - Buy Bitcoin Worldwide
+desc: Buy Bitcoin Worldwide 可协助您以首选的付款方式在各国家购买比特币。比特币交易平台、代理人和经销商到处皆有。 
+permalink: /zh/
+layout: default
 layout: home
 home: yes
 include_javascript:
-  - 'sellers/es'
-  - 'i18n/es'
+  - 'sellers/zh'
+  - 'i18n/zh'
   - 'buybot'
+multilang: yes
+pagename: index
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
@@ -23,10 +26,10 @@ include_javascript:
 
       <select id="country" class="type-select-container form-control">
         <option value=""><i class="fa fa-fw fa-globe"></i> {{ lang.country }}</option>
-        {% assign countries = (site.data.countries | sort: 'country_es') %}
-        {% for country_es in countries %}
-          {% if country_es.country_es %}
-            <option value="{{country_es.short}}">{{country_es.country_es}}</option>             		  {% endif %}
+        {% assign countries = (site.data.countries | sort: 'country_zh') %}
+        {% for country in countries %}
+          {% if country.country_zh %}
+            <option value="{{country.short}}">{{country.country_zh}}</option>             		  {% endif %}
         {% endfor %}
       </select>
     </div>
@@ -37,8 +40,8 @@ include_javascript:
         <option value=""><i class="fa fa-fw fa-money"></i> {{ lang.pmethod }}</option>
         {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
         {% for method in paymentmethods %}
-          {% if method.es %}
-          	<option value="{{method.short}}">{{method.es}}</option>
+          {% if method.zh %}
+          	<option value="{{method.short}}">{{method.zh}}</option>
           {% else %}
           	<option value="{{method.short}}">{{method.pmethod}}</option>
           {% endif %}

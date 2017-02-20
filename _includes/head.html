@@ -13,10 +13,12 @@
 	<meta name="description" content="{{ page.desc }}" />
 	{% include analytics.html %}
     {% include loadcssjs.html %}
+	
 	{% if page.country  %}
 	{% include hreflang.html %}
 	{% endif %}
-	{% if page.pagename  %}
+	
+	{% if page.pagename %}
 	{% include hreflang-2.html %}
 	{% endif %}
 	

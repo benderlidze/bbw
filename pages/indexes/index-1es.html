@@ -1,16 +1,18 @@
 ---
 hide_sidebar: true
-lang: ru
-title: Купить Bitcoin в любой точке мира
-seotitle: Купить Bitcoin в любой точке мира
-desc: Buy Bitcoin Worldwide поможет Вам купить биткоин в любой стране удобным для Вас способом оплаты. Это очень легко найти биткоин-биржи, брокеров и дилеров.  
-permalink: /ru/
+lang: es
+title: Comprar Bitcoin en cualquier lugar
+seotitle: Comprar Bitcoin en cualquier lugar
+desc: Comprar Bitcoin en cualquier lugar del mundo. Simplemente seleccione un país. 
+permalink: /es/
 layout: home
 home: yes
 include_javascript:
-  - 'sellers/ru'
-  - 'i18n/ru'
+  - 'sellers/es'
+  - 'i18n/es'
   - 'buybot'
+multilang: yes
+pagename: index
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
@@ -23,10 +25,10 @@ include_javascript:
 
       <select id="country" class="type-select-container form-control">
         <option value=""><i class="fa fa-fw fa-globe"></i> {{ lang.country }}</option>
-        {% assign countries = (site.data.countries | sort: 'country_ru') %}
-        {% for country_ru in countries %}
-          {% if country_ru.country_ru %}
-            <option value="{{country_ru.short}}">{{country_ru.country_ru}}</option>             		  {% endif %}
+        {% assign countries = (site.data.countries | sort: 'country_es') %}
+        {% for country_es in countries %}
+          {% if country_es.country_es %}
+            <option value="{{country_es.short}}">{{country_es.country_es}}</option>             		  {% endif %}
         {% endfor %}
       </select>
     </div>
@@ -37,8 +39,8 @@ include_javascript:
         <option value=""><i class="fa fa-fw fa-money"></i> {{ lang.pmethod }}</option>
         {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
         {% for method in paymentmethods %}
-          {% if method.ru %}
-          	<option value="{{method.short}}">{{method.ru}}</option>
+          {% if method.es %}
+          	<option value="{{method.short}}">{{method.es}}</option>
           {% else %}
           	<option value="{{method.short}}">{{method.pmethod}}</option>
           {% endif %}

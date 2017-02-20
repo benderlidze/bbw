@@ -8,6 +8,8 @@ sitemap:
 desc: Aprende a comprar bitcoins con efectivo en cualquier país hispanohablante. ¡Esta es la guía definitiva! 
 lang: es
 pmethod: cash
+multilang: yes
+pagename: cash
 ---
 <div class="content-with-sidebar col-md-9">
 <p>
