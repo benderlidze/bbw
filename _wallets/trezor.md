@@ -3,8 +3,8 @@ layout: wallet
 lang: en
 author: jordantuwiner
 permalink: "/wallets/trezor/"
-seotitle: "Trezor Review: Is It Worth Buying? (2017)"
-title: "Trezor"
+seotitle: "5 Things to Know Before Buying a TREZOR [Review]"
+title: "TREZOR"
 desc: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering simple and secure cold storage and offline transaction signing. 
 wallet: trezor
 cat: hardware
