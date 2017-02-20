@@ -39,7 +39,7 @@ en:
   select_country: Please select a country.
   select_payment_method: Please select a payment method.
   no_sellers_found: Sorry, no matches found.
-  sellers_found: 'We found <strong><%= exchangeCount %></strong> Bitcoin exchange<%= ( exchangeCount > 1 ? \"s\" : \"\") %> in <strong><%= countryName %></strong> that accept <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
+  sellers_found: 'We found <strong><%= exchangeCount %></strong> Bitcoin exchange<%= ( exchangeCount > 1 ? \"s\" : \"\") %> in <strong><%= countryName %></strong> that accept<%= ( exchangeCount < 1 ? \"s\" : \"\") %> <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
   average: Average
   low: Low
   high: High
