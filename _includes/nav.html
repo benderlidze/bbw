@@ -25,6 +25,31 @@
 <a class="contribute-nav" href="{{ lang.paymentmethods_url }}"><!--<i class="fa fa-fw fa-credit-card"></i> -->{{ lang.paymentmethods }}</a>
 </li>
 {% endif %}
+
+
+
+
+
+{% if page.lang == 'es' %}
+
+<li>
+<a class="contribute-nav" href="/es/monederos-bitcoin/"><!--<i class="fa fa-fw fa-bitcoin"></i> -->Monederos Bitcoin</a>
+</li>
+
+{% endif %}
+
+
+{% if page.lang == 'pt' %}
+
+<li>
+<a class="contribute-nav" href="/pt-br/carteiras-bitcoin/"><!--<i class="fa fa-fw fa-bitcoin"></i> -->Carteiras Bitcoin</a>
+</li>
+
+{% endif %}
+
+
+
+
 {% if page.lang == 'en' and page.home %}
 <li>
 <a class="contribute-nav" href="/wallets/"><!--<i class="fa fa-fw fa-bitcoin"></i> -->Wallets</a>
