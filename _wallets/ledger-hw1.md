@@ -26,6 +26,7 @@ pt: A Ledger HW.1 pode ser considerada uma carteira de hardware de custo-benefí
 screen: no
 released: Jan 2013
 price: $17
+price_2: 17
 pro1: At 15€ (~$17), the Ledger HW.1 is a good option for users on a budger
 pro2: 
 con1: No screen means the HW.1 must be setup on bootable USB or offline computer in order to setup securely

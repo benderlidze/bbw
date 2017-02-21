@@ -26,6 +26,7 @@ pt: A TREZOR foi lançada em agosto de 2014 como a primeira carteira Bitcoin de 
 weight: 9.1
 released: Oct 2013
 price: $99
+price_2: 99
 pro1: Screen offers extra protection and verification
 pro2: Affordable hardware wallet with screen
 con1: $99 price tag may be out of reach for those on a budget

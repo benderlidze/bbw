@@ -25,6 +25,7 @@ pt: A Ledger Nano S é a mais barata das três carteiras de hardware com tela; c
 weight: 10.1
 released: August 2016
 price: 58€
+price_2: 65
 screen: yes
 pic: nanos.png
 pro1: Affordable hardware wallet with screen 58€ ($65)

@@ -32,6 +32,7 @@ weight: 10
 screen: yes
 released: Sep 2015
 price: $99
+price_2: 99
 pic: keepkey.png
 rating: 4.6
 ---
