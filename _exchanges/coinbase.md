@@ -6,7 +6,7 @@ exchange: coinbase
 thumb: coinbase.png
 lang: en
 cat: broker, popular
-seotitle: "Coinbase Review: Is Coinbase Safe? (Yes) 2017"
+seotitle: "5 Things to Know Before Using Coinbase [2017 Review]"
 website: coinbase.com
 website_url: http://buybitcoinww.co/Buy_Coinbase
 twitter: coinbase

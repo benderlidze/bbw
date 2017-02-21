@@ -6,7 +6,7 @@ exchange: localbitcoins
 desc: LocalBitcoins is a P2P Bitcoin exchange. Buyers and sellers agree on trade terms, and LocalBitcoins is used as escrow.
 thumb: localbitcoins.png
 lang: en
-seotitle: "LocalBitcoins Review: Is it Safe?"
+seotitle: "5 Reasons LocalBitcoins is Safe to Use [2017 Review]"
 website: localbitcoins.com
 website_url: http://buybitcoinww.co/local_bitcoins
 contribute: localbitcoins

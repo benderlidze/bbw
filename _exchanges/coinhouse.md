@@ -6,7 +6,7 @@ exchange: coinhouse
 desc: Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Coinhouse users can buy bitcoin with a credit card or Neosurf prepaid card.
 thumb: coinhouse.png
 lang: en
-seotitle: "Coinhouse Review: Buy Bitcoins Fast in Europe"
+seotitle: "5 Things to Know Before Using Coinhouse [Review]"
 website: coinhouse.io
 website_url: http://buybitcoinww.co/coinhouse
 contribute: coinhouse
