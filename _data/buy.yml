@@ -1123,7 +1123,7 @@
    url: https://www.bitcoinvietnam.com.vn/
    icon: /img/buy/bitcoinvietnam.png
    countries: vn
-   po: bt
+   po: bt, cash
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
    pros: <li>Prices only slightly above the global market rate</li><li>Most trusted exchange in Vietnam</li>
    cons: <li>Not as private as buying from an ATM in Vietnam</li>
