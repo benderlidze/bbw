@@ -1146,8 +1146,18 @@
    countries: vn
    po: bt, cash
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Prices only slightly above the global market rate</li><li>Most trusted exchange in Vietnam</li>
+   pros: <li>Prices only slightly above the global market rate</li><li>Trusted exchange in Vietnam</li>
    cons: <li>Not as private as buying from an ATM in Vietnam</li>   
+   
+ - name: VBTC
+   desc: VBTC is a Bitcoin exchange based in Vietnam. It's geared towards traders and offers algorithmic trading, limit and market orders, and trade reporting.
+   url: https://vbtc.vn/
+   icon: /img/buy/vbtc.png
+   countries: vn
+   po: bt
+   tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
+   pros: <li>Prices only slightly above the global market rate</li><li>Trusted exchange in Vietnam</li>
+   cons: <li>Not as private as buying from an ATM in Vietnam</li> 
 
 ##### Moldova ####################################################
 
