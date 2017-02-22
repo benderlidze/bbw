@@ -1020,7 +1020,7 @@
    desc_ru: Биткоин-биржа. Купить биткоин онлайн в Бразилии банковским переводом и беспроцентным вкладом.
    desc_uk: Біткоін-біржа. Купити біткоіни онлайн в Бразилії банківським переказом і безвідсотковим внеском.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>>Deep liquidity promotes a price close to fair market rate/li> <li>Fast deposits and withdrawls; should only take 1 minute to confirm</li> <li>Signup bonus</li>
+   pros: <li>Deep liquidity promotes a price close to fair market rate</li> <li>Fast deposits and withdrawls; should only take 1 minute to confirm</li> <li>Signup bonus</li>
    cons: <li>Not private since identity verification is required</li>
 
  - name: FlowBTC
@@ -1664,7 +1664,7 @@
    desc_bg: Купете биткойн от някой от над 800-те терминала на ZebraPay на територията на Румъния.
    desc_ru: Купить биткоин в более чем 800 терминалах ZebraPay в Румынии.
    desc_uk: Купити біткоіни в більш ніж 800 терміналах ZebraPay в Румунії.
-   pros: <li>One of the most private ways to buy bitcoins in Romania</li> <li>Convenient way to purchase coins if you have a ZebraPay terminal near you</li><li>1% fee for online purchase is fair for the region</li><li>2.5% ATM fee is low for cash purchase</li><li>4% ZebraPay fee is reasonable for cash purchase/li>
+   pros: <li>One of the most private ways to buy bitcoins in Romania</li> <li>Convenient way to purchase coins if you have a ZebraPay terminal near you</li><li>1% fee for online purchase is fair for the region</li><li>2.5% ATM fee is low for cash purchase</li><li>4% ZebraPay fee is reasonable for cash purchase</li>
    cons: <li>Online purchase is not private; identity verification required</li><li>Online purchase method requires proof of payment within an hour</li>
 
  - name: BitcoinXRomania
@@ -1749,7 +1749,7 @@
    desc_uk: Купити біткоін на Bitstamp через SEPA-платіж або грошовим переказом. Збори можуть змінюватися.
    desc_sell: Sell bitcoins on Bitstramp, then transfer your funds to a bank account through SEPA transfer.
    desc_babt: Bitstamp is one of the world's largest Bitcoin exchanges. It makes it easy for Europeans to purchase large amounts of bitcoins fast with SEPA bank transfer. Almost anyone in the world can use their bank account to send a wire transfer to Bitstamp, although fees may apply.
-   pros: <li>One of the longest-running Bitcoin exchanges</li> <li>Very low 0.25% fee, falling to 0.1% with sufficient trading volume</li><li>Good range of deposit and withdrawal options</li> <li>Deep liquidity promotes a price close to fair market rate</li><li>Offers wide range of altcoins<li>
+   pros: <li>One of the longest-running Bitcoin exchanges</li> <li>Very low 0.25% fee, falling to 0.1% with sufficient trading volume</li><li>Good range of deposit and withdrawal options</li> <li>Deep liquidity promotes a price close to fair market rate</li><li>Offers wide range of altcoins</li>
    cons: <li>Has been hacked before, users should not store funds on the exchange for any period of time</li> <li>High 8% fee on small credit card purchases, falling to 5% with sufficient trading volume</li> <li>Geared towards traders; slightly confusing for first time buyers</li>
 
  - name: Kraken
@@ -2154,7 +2154,7 @@
    desc_uk: Купити біткоіни за ЄВРО за допомогою міжнародного банківського переказу.
    tags: [quickinfo, lowprivacy, speedvaries, avgfees, trusted, eoueasy, highlimits]
    desc_babt: Xapo accepts account deposits via international wire transfer.
-   pros: <li>Started as a vaulting service, with claimed security investment above $20 million</li> <li>Easy to use for first-time buyers</li>< li>Deep liquidity promotes a price close to fair market rate</li>
+   pros: <li>Started as a vaulting service, with claimed security investment above $20 million</li> <li>Easy to use for first-time buyers</li><li>Deep liquidity promotes a price close to fair market rate</li>
    cons: <li>Offers a wallet service that should not be used to store bitcoins</li><li>Requires ID verification, so not private</li><li>Trading fees not publically stated on website</li>
    ## exchange only launched in 2014 although the vault thing was around since 2011
 
