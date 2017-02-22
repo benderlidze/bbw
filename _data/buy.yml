@@ -1,5 +1,12 @@
+ ## Steve's notes:
+ ## suggest altering "Sell" link at the top as it's confusing; implying a list of places to sell bitcoin. something like "Click here for venues to sell Bitcoin" would be more clear
+ ## suggest grouping list by regions, with a quick-jump menu at the top. multi-regional exchanges like Coinbases can be listed up top, followed by USA, Europe, Asia, etc. alternately, a map graphic of some kind might be helpful
+ ## suggest Bitex.la, Ripio and SurBTC be listed higher up with the other South American countries.
+ ## I didn't edit any of the exchanges which have been commented out
+ ## Market makers and market takers are terms used in the pros or cons often, these terms aren't defined and there isn't space to do so... Alternative terms are immediate fill and limit order but I think these are worse. Perhaps a clearer term can be thought of.
+
  - name: Coinbase
-   desc: Coinbase is the world's largest Bitcoin broker. It offers an easy and fast way for new users to purchase bitcoins. Coinbase supports customers in over 30 countries, including the United States, Europe (besides Germany), UK, Singapore, Canada, and Australia. <br><br> Customers in the above-mentioned countries can purchase bitcoins by <a href="/en/buy-bitcoin-credit-debit-card/">credit card</a>, debit card, bank transfer, SEPA transfer, and more.<br><br> Get $10 or €10 worth of free bitcoin when you buy more than $100 or €100 worth through <a rel="nofollow" target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a>.
+   desc: Coinbase is the world's largest Bitcoin broker. They represent an easy and fast way for new users to purchase bitcoins. Coinbase supports customers in over 30 countries, including the United States, Europe (besides Germany), UK, Singapore, Canada, and Australia. <br><br> Customers in the above-mentioned countries can purchase bitcoins by <a href="/en/buy-bitcoin-credit-debit-card/">credit card</a>, debit card, bank transfer, SEPA transfer, and more.<br><br> Get $10 or €10 worth of free bitcoin when you buy more than $100 or €100 worth through <a rel="nofollow" target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a>.
    url: http://buybitcoinww.co/Buy_Coinbase
    internal_url: /exchanges/coinbase/
    icon: /img/buy/coinbase.png
@@ -40,14 +47,14 @@
    desc_uk: Купити біткоін за допомогою Вашого банківського рахунку. Легко, швидко, зручно. Збір у розмірі 1%.
    desc_sell: Sell bitcoins to a bank account in the US (ACH), Europe (SEPA), Canada (Interac) and UK.
    pros:  <li>High liquidity and buying limits</li> <li>Easy way for newcomers to get bitcoins</li> <li>"Instant Buy" option available with <a href="/en/buy-bitcoin-credit-debit-card/">credit card or debit card</a></li>
-   cons: <li><a href="/buy-bitcoin-bank-transfer-account/">Purchases made with bank transfer</a> can take up to 5 days to complete</li> <li>Sending bitcoins directly from Coinbase to a legally-questionable site may result in the closure of your account</li>
+   cons: <li><a href="/buy-bitcoin-bank-transfer-account/">Purchases made with bank transfer</a> can take up to 5 days to complete</li> <li>Sending bitcoins directly from Coinbase to any legally-questionable site may result in closure of your account</li>
    sg: Residents of Singapore can purchase bitcoins on Coinbase using three payment options - <a href="/en/buy-bitcoin-credit-debit-card/">credit card</a>, debit card, or bank transfer. <br><br> Once your Coinbase account is verified, you will be given the account information that will be used to make a bank transfer deposit. This is done through Xfers Transfers. Coinbase claims that deposits clear within a few minutes, and that there are no deposit fees. Once you deposit Coinbase charges 1.49% to purchase coins. <br> <br> If you are buying with a <a href="/en/buy-bitcoin-credit-debit-card/#coinbase-guide">credit card or debit card</a>, there is also a required identity verification. Fees for buying with a credit card or debit card are 3.99%. <br><br> If you purchase more than $100 USD (~136.24 SGD) worth of bitcoins through <a target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a> then you get $10 USD (13.62 SGD) worth of bitcoins for free!
    ca: Residents of Canada can use Coinbase to <a href="/en/buy-bitcoin-credit-debit-card/">purchase bitcoins with a credit card or debit card</a>. The fees are 3.99% per purchase, and your bitcoins are delivered instantly. <br><br> If you purchase more than $100 USD (~130 CAD) worth of bitcoins through <a target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a> then you get $10 USD (~13 CAD) worth of bitcoins for free!
    us: Coinbase is probably the fastest and easiest way to buy bitcoins in the USA. <br><br> If you need bitcoins fast, then <a href="/en/buy-bitcoin-credit-debit-card/#coinbase-guide">buying with a credit card or debit card</a> is a good option. Coinbase charges 3.99% fees for credit/debit card purchases but you can get your coins instantly. <br><br> Another payment option for US customers is using a connected bank account. The fees are less for this method--1.49%--but your coins are only delivered after five days. <br><br> Get $10 of free bitcoin when you buy more than $100 worth through <a target="_blank" rel="nofollow" href="http://buybitcoinww.co/Buy_Coinbase">this link</a>.
    au: Residents of Australia can use Coinbase to <a href="/en/buy-bitcoin-credit-debit-card/">purchase bitcoins with a credit card or debit card</a>. The fees are 3.99% per purchase, and your bitcoins are delivered instantly. <br><br> If you purchase more than $100 USD (~130 AUD) worth of bitcoins through <a target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a> then you get $10 USD (~13 AUD) worth of bitcoins for free!
 
  - name: VirWoX
-   desc: Technically, VirWoX isn't a Bitcoin exchange. It serves primarily as a market for "Second Life Lindens," a currency used in the virtual world, Second Life. <br><br> Although you can't buy bitcoins with PayPal directly through VirWoX, it's possible to buy Second Life Lindens (SLL) and then sell these for bitcoins. While convoluted, this process works reliably. The major drawback is that all the associated fees total roughly 10%. <br><br> This workaround/hack has made <b>VirWoX the easiest and most popular way to buy bitcoins with PayPal</b>.
+   desc: Technically, VirWoX isn't a Bitcoin exchange. They serve primarily as a market for "Second Life Lindens," a currency used in the virtual world, Second Life. <br><br> Although you can't buy bitcoins with PayPal directly through VirWoX, it's possible to buy Second Life Lindens (SLL) and then sell these for bitcoins. While convoluted, this process works reliably. The major drawback is that all the associated fees total roughly 10%. <br><br> This workaround/hack has made <b>VirWoX the easiest and most popular way to buy bitcoins with PayPal</b>.
    url: http://buybitcoinww.co/bitcoin_virwox
    icon: /img/buy/virwox.png
    po: paypal, paypal1, paysafecard
@@ -63,7 +70,7 @@
    desc_paysafecard: VirWoX is well-known in Bitcoin as being one of the few ways to purchase bitcoins with PayPal. What do you is fund your VirWoX account with PayPal and purchase Second Life Lindens--a virtual currency used in the game Second Life. Then you trade the Second Life Lindens for bitcoins. <br><br> The same way bitcoins can't be purchased with PayPal directly, it's also not possible to directly purchase bitcoins with a paysafecard. The same workaround, however, that works with PayPal also works with paysafecard. You can fund your VirWoX account with paysafecard, buy Second Life Lindens, and then trade them for bitcoins. We'll show you step-by-step below how to do this.
    internal_url: /exchanges/virwox/
    pros: <li>The easiest and perhaps only reliable way to purchase bitcoins with PayPal or Skrill</li>
-   cons: "<li>Convenience at cost: around 10% in fees to buy bitcoins with PayPal</li>"
+   cons: <li>Convenience at a price; around 10% in fees to buy bitcoins with PayPal</li>
    tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eouhard, avglimits]
 
 ## - name: Celery
@@ -119,7 +126,7 @@
    internal_url: /exchanges/coinmama/
    pros: <li>Works in almost all countries</li> <li>Highest limits for buying bitcoins with a credit card</li> <li>Reliable and trusted broker</li>
    cons: <li>Some of the highest fees among credit/debit card bitcoin brokers</li>
-   desc: CoinMama allows customers in almost every country to buy bitcoin with a credit or debit card. CoinMama charges an ~8% fee on each purchase. <br><br> If you're buying less than $150 worth of bitcoins, you don't need to verify your identity. This makes small purchases quick and easy. <br><br>Want to buy using CoinMama? <a href="/en/buy-bitcoin-credit-debit-card/#coinmama-guide">This step-by-step guide will show you </a> how to use CoinMama.
+   desc: CoinMama allows customers in almost every country to buy bitcoin with a credit or debit card. They charge an ~8% fee on each purchase. <br><br> If buying less than $150 worth of bitcoins, you won't need to verify your identity. This convenience makes small purchases quick and easy. <br><br>Want to buy using CoinMama? <a href="/en/buy-bitcoin-credit-debit-card/#coinmama-guide">This step-by-step guide will show you </a> how to use CoinMama.
    desc_it: CoinMama è un broker di Bitcoin specializzato nel lasciar acquistare Bitcoin tramite carta di credito.
    desc_pt_br: CoinMama é uma corretora de bitcoin especializada na compra de bitcoin com cartão de crédito ou débito.
    desc_es: Corredor de bitcoin que se especializa en la compra de bitcoin con tarjeta de crédito o débito.
@@ -135,7 +142,7 @@
    desc_ccww_de: CoinMama ist ein Bitcoin-Broker, der spezialisiert im Ermöglichen des Kaufs von Bitcoins mit einer Kredit- oder Debitkarte ist. Ihnen wird eine 8% Gebühr auf Grund der Risiken und Bearbeitungsgebühren, die mit Kreditkartenzahlungen kommen, berechnet. Es ist möglich  $5,000 im Wert von Bitcoin pro Tag zu kaufen. Nachdem Ihr Konto verifiziert wird und ein Kauf erfolgt, werden Sie Ihre Bitcoin innerhalb weniger Stunden erhalten. Verwenden Sie <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">diesen Link</a>, um 5% Rabatt auf Ihre Bestellung zu erhalten. CoinMama nicht verfügbar ist für die Bewohner der Vereinigten Staaten.
 
  - name: BitPanda
-   desc: BitPanda is a Bitcoin broker based in Austria. It has low fees across the board for its wide range of payment methods, and high limits. It offers customers the option to buy bitcoins with credit card, debit card, SOFORT, Skrill, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
+   desc: BitPanda is a Bitcoin broker based in Austria. They have high payment limits and low fees across their wide range of payment methods. BitPanda offers customers the option to buy bitcoins with credit card, debit card, SOFORT, Skrill, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
    url: http://buybitcoinww.co/bitpanda
    icon: /img/buy/bitpanda.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -144,7 +151,7 @@
    avail: Europe
    internal_url: /exchanges/bitpanda/
    pros: <li>Some of the lowest fees for buying bitcoins with credit/debit card</li> <li>Reliable and trusted broker</li>
-   cons: <li>Fees are not displayed publically on website but instead included in buy price</li>
+   cons: <li>Fees aren't shown openly on the site but instead included in the buying price</li>
    po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt, sell, neteller, skrill
    desc_neteller: BitPanda is a bitcoin exchange based in Vienna, Austria. European users can buy bitcoins with Neteller in under 10 seconds using BitPanda. Note that the exact fees for purchasing with NETELLER are not displayed publically. You will be shown a buy price at check out and the fees for using NETELLER are included in that price.
    desc_skrill: BitPanda is a bitcoin exchange based in Austria. Among many payment methods accepted, customers can buy bitcoins with Skrill in under 10 seconds. Note that the exact fees for purchasing with Skrill are not displayed publically. You will be shown a buy price at check out and the fees for using Skrill are included in that price
@@ -171,7 +178,7 @@
    desc_sell: Sell bitcoins for Skrill, NETELLER, PayPal (EU only), Amazon.de credit, or SEPA transfer.
 
  - name: GDAX
-   desc: GDAX is one of the largest Bitcoin exchanges in the United States. Users can fund accounts with bank transfer, SEPA, and bank wire. GDAX offers good prices and low fees, but its confusing user interface makes it difficult for first time buyers.
+   desc: Coinbase's exchange, GDAX, is one of the largest Bitcoin exchanges in the United States. Users can fund their accounts via bank transfer, SEPA, or bank wire. GDAX offers good prices and low fees, but their confusing user interface may initially prove difficult to navigate.
    tags: [quickinfo, review, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
    url: http://buybitcoinww.co/Buy_Coinbase
    internal_url: /exchanges/coinbase/
@@ -196,10 +203,10 @@
    desc_uk: Біткоін-біржа. Купівля SEPA-платежем або банківським (Automated Clearing House) переказом.
    desc_sell: Sell bitcoins on Coinbase Exchange, then transfer to a United States bank account via ACH.
    pros: <li>Some of the lowest fees available for US and EU customers</li> <li>Possible to buy bitcoins for 0% fees</li>
-   cons: <li>User interface is confusing for first time buyers</li>
+   cons: <li>User interface is confusing for first time buyers</li> <li>Sending bitcoins directly from GDAX to any legally-questionable site may result in closure of your account</li>
 
  - name: CEX.io
-   desc: CEX.io lets you <a href="/en/buy-bitcoin-credit-debit-card/">buy bitcoin with a credit card</a>, ACH bank transfer, SEPA transfer, cash, and AstroPay. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America.
+   desc: CEX.io lets you <a href="/en/buy-bitcoin-credit-debit-card/">buy bitcoin with a credit card</a>, ACH bank transfer, SEPA transfer, cash, or AstroPay. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and certain countries in South America.
    url: http://buybitcoinww.co/CEX__IO
    internal_url: /exchanges/cex-io/
    icon: /img/buy/cex.png
@@ -233,12 +240,13 @@
    tags: [quickinfo, review, lowprivacy, avgspeed, avgfees, trusted, eouavg, avglimits, home]
    fees_cc: 3.5%
    avail: Global
-   pros: <li>Support for many countries and has decent fees</li>
-   cons: <li>Verification process is extensive; requires tons of information and takes a long time</li>
-   desc_babt: CEX.io allows for purchases of bitcoins using ACH in the USA and with SEPA transfer in EU countries.
+   pros: <li>Support for many countries and regions</li> <li>Low 0.2% trading fee</li> <li>Established and trusted exchange</li>
+   cons: <li>Verification process is extensive, requiring much personal information (including a photo) and incurring a long delay</li><li>GBP market lacks liquidity</li>
+   desc_babt: CEX.io allows for purchases of bitcoins using ACH in the USA or via SEPA transfer for EU countries.
 
  - name: Coinhouse
-   desc: Coinhouse lets you buy bitcoins with a 3D secure credit or debit card in Europe. While its fees are somewhat high, it offers high buying limits.
+   desc: Coinhouse lets you buy bitcoins in Europe with a 3-D Secure-activated Visa or Mastercard credit/debit cards, certain prepaid cards and Neosurf tickets. While their fees are somewhat high, Coinhouse does offer relatively high buying limits.
+   ## per their site, they have a EUR 2000/month limit. Is this considered high in Europe? it seems restrictive to me.
    url: http://buybitcoinww.co/coinhouse
    internal_url: /exchanges/coinhouse/
    icon: /img/buy/coinhouse.png
@@ -264,8 +272,8 @@
    desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
    desc_ccww_de: Coinhouse kann 3D-Sichere Kreditkarten und Debitkarten  in der SEPA Zone verarbeiten.Die Lieferung von Bitcoins ist unmittelbar. Dieser Dienst wird von Ledger, einer bekannten Sicherheitsfirma im Bitcoinraum betrieben. Gebühren laufen von 6 bis 10%, je nach Kaufvolumen.
    desc_ccww: <p>European residents can buy bitcoin with a 3D secure credit or debit card at Coinhouse.</p> <p>The fees range from 6-10% depending on your total buy volume. Coinhouse is a popular option due to its high limits. </p>
-   pros: <li>High limits make it easy to buy large amounts of bitcoins fast</li> <li>Reliable and trusted broker; run by the Bitcoin Embassy in Paris</li>
-   cons: <li>Highest fees among trusted exchanges that accept credit/debit cards</li>
+   pros: <li>High limits make it easy to buy large amounts of bitcoins quickly</li> <li>Reliable and trusted broker; run by the Bitcoin Embassy in Paris</li>
+   cons: <li>Highest fees among those trusted exchanges which accept credit/debit cards</li> <li>Intensive verification procedures</li>
 
 ## - name: 247Exchange
 ##   url: http://buybitcoinww.co/247exchange
@@ -285,14 +293,14 @@
 ##   desc_ccww_pl: 247Exchange pozwoli Ci kupić bitcoiny za pomocą karty kredytowej lub debetowej. Każdemu zakupowi bitcoinów towarzyszy opłata w wysokości 7%; 4% na pokrycie opłat manipulacyjnych, 3% to opłata serwisowa. 247Exchange nie jest dostępny dla mieszkańców Stanów Zjednoczonych.
 
  - name: LocalBitcoins
-   desc: LocalBitcoins is an escrow service that helps match bitcoin buyers and sellers. The most common method of payment for purchase is cash deposit. <br><br> Users, however, can create ads to buy or sell using the payment method of their choice. Buying bitcoins via an in-person meeting facilitated by LocalBitcoins can be one of the fastest and most private ways to buy bitcoins in any country.
+   desc: LocalBitcoins is an escrow service which also helps to match bitcoin buyers and sellers. The most common method of payment for purchase is cash deposit. However, users may advertise trades for whichever payment method they prefer. <br><br> Buying bitcoins via an in-person meeting, secured and facilitated by LocalBitcoins, may be one of the fastest and most private ways to buy bitcoins in any country.
    url: http://buybitcoinww.co/local_bitcoins
    internal_url: /exchanges/localbitcoins/
    icon: /img/buy/localbitcoins.png
    tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eouhard, avglimits, int]
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
-   pros: <li>Can be private, fast and easy</li> <li>In person trades require no personal information</li> <li>Purchases of bitcoin can be made quickly via cash deposit</li>
-   cons: <li>Need to keep eye out for scams</li> <li>Hard to buy large amounts of bitcoins compared to larger exchanges</li>
+   pros: <li>Can be private, fast and easy</li> <li>In-person trades require no personal information</li> <li>Purchases of bitcoin can be made quickly via cash deposit</li>
+   cons: <li>Beware of scams; always follow the rules!</li> <li>Harder to buy large amounts of bitcoins compared to large exchanges</li> <li>Slightly to significantly higher prices than regular exchanges; premium for higher privacy</li>
    desc_paypal: Local Bitcoins connects you with local sellers who accept PayPal for Bitcoin. It's best to meet the seller in person and make the transaction in order to reduce the risk of fraud. Only deal with Local Bitcoins sellers with good feedback and a history of sales.
    desc_nobank: Local Bitcoins provides escrow and offers a number of payment methods for buying bitcoin with no bank account. Cash deposit, Western Union, face-to-face cash trade, Amazon gift card are all offered on top of many other payment methods. Local Bitcoins provides escrow, but be sure to buy from sellers with previous trade history and positive feedback.
    desc_cdus: It's possible to buy bitcoins with cash on LocalBitcoins via cash trade in-person or with cash deposit. LocalBitcoins provides escrow and connects you with sellers. It's private and LocalBitcoins does not require any personal details or verification, altough specific sellers may request. Be sure to buy from sellers with previous trade history and positive feedback. Local Bitcoins charges a flat 1% fee on each purchase.
@@ -318,7 +326,7 @@
    desc_sell: Sell bitcoins for cash deposit, or meet in person and make a cash trade. 1% fee.
 
  - name: BitQuick
-   desc: BitQuick is one of the fastest ways to buy bitcoins in the United States using cash deposit. Users can browse a wide range of offers at different prices. Once a desired offer is found users make a cash deposit into the seller's account and will usually receive bitcoins within an hour.
+   desc: BitQuick is one of the fastest ways to buy bitcoins in the United States using cash deposit. Users can browse a wide range of offers at various prices. Once a desired offer is found, buyers visit a bank to make a cash deposit into the seller's account. Buyers then usually receive their bitcoins within an hour.
    url: http://buybitcoinww.co/buybitquick
    icon: /img/buy/bitquick.png
    countries: us
@@ -341,11 +349,12 @@
    desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
    desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
    desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
-   pros: <li>One of the fastest ways to buy bitcoins</li>
-   cons: <li>2% fees on purchases are somewhat high for cash purchase</li> <li>Prices vary and can be much higher or lower than current Bitcoin price</li>
+   pros: <li>One of the fastest ways to buy bitcoins</li> <li>More physically secure than other cash payment methods as one pays the money to a bank teller</li>
+   cons: <li>2% fees for buyers are somewhat high for cash trading</li> <li>Prices vary and can be much higher (or even lower) than the current Bitcoin price</li>
 
  - name: Bitcoin.de
-   desc: Bitcoin.de is a major European peer-to-peer Bitcoin exchange. Users can buy bitcoin online from other users with <a href="/en/buy-bitcoin-sepa-transfer/">SEPA bank transfers</a>.
+   desc: Bitcoin.de is a major European peer-to-peer Bitcoin exchange. Users can buy bitcoin online from other Bitcoin.de users through <a href="/en/buy-bitcoin-sepa-transfer/">SEPA bank transfers</a>.
+## unsure why "SEPA bank transfers" is linked in this section but not previously, please review
    url: https://www.bitcoin.de/
    icon: /img/buy/bitcoinde.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -367,7 +376,7 @@
    cons: <li>Limited to SEPA as a payment method</li>
 
  - name: Luno
-   desc: Luno is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. It offers 0% fees for market makers, meaning you can buy bitcoins with no fees if you have some patience.
+   desc: Luno is a Bitcoin exchange with a presence in South Africa, Singapore, Nigeria, Malaysia and Indonesia. It offers 0% fees for market makers, meaning you can avoid fees if you place a buy order then wait for a seller to take it. <br><br> Luno also offers an Instant Buy feature.
    url: https://www.luno.com/
    icon: /img/buy/luno.png
    countries: id, my, ng, za, sg
@@ -380,13 +389,14 @@
    desc_uk: Біткоін-біржа і брокер. Легкий спосіб купити біткоін в п'яти підтримуваних країнах.
    sg: Luno is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. Luno is currently offering Zero fee trading in Singapore for a limited time period until January 2017.
    id: Luno is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. Luno offers a unique fee structure for traders in Indonesia. Makers are rewarded a +0.2% bonus on a trade, while takers are charged -0.2%. Hence, traders are incentivised to bring their orders to Luno.
-   pros: <li>One of the most trusted Bitcoin exchanges in Asia</li>
-   cons: <li>Users should not store bitcoins in Luno's wallet service</li>
+   pros: <li>One of the most trusted Bitcoin exchanges in Asia</li> <li>Free deposits and low withdrawal fees</li> <li> Low fees; 0% for market makers and only 0% - 1% for market takers (depending on fiat currency)</li> <li>High to infinite limits for exchange, depending on verification level</li>
+   cons: <li>Users should not store bitcoins in Luno's wallet service</li> <li>Limited deposit options, usually only bank transfer, and no credit/debit card options</li>
 
 ##### USA ####################################################
 
  - name: Gemini
-   desc: Gemini is a New York based Bitcoin exchange open to residents of the United States, UK, and Canada. Deposits can be made via wire transfer, SEPA or ACH transfer. <br><br>While Gemini is available in most US states, US residents should <a href="https://gemini.com/areas-of-operation/">check Gemini's areas of operations page</a>.
+   desc: Gemini is a New York-based Bitcoin exchange, open to residents of the United States, UK, Canada, Hong Kong, Japan, Singapore and South Korea. Deposits can be made via wire transfer, SEPA or ACH transfer. <br><br>While Gemini is available in most US states, US residents should <a href="https://gemini.com/areas-of-operation/">check Gemini's areas of operations page</a>.
+## kindly check inclusion of these Asian countries, previously you had it as just US, UK and Canada... this could be a recent development or I'm missing the reason for their exclusion.
    url: https://gemini.com/
    icon: /img/buy/gemini.png
    countries: us
@@ -395,13 +405,13 @@
    desc_sell: Sell bitcoins on Gemini and then transfer your funds to a US bank account via ACH transfer.
    tags: [quickinfo, lowprivacy, slow, lowfees, trusted, eouhard, highlimits]
    desc_babt: US customers can purchase bitcoins on Gemini by funding their account with ACH transfer.
-   pros: <li>Trustworthy and regulated exchange </li> <li>Instant deposit lets you buy coins quick (but not withdraw)</li> <li>Some of the lowest fees in US and Canada</li>
-   cons: <li>Somewhat confusing to use for new buyers</li> <li>Not available in all US states</li>
+   pros: <li>Trustworthy and regulated exchange </li> <li>Instant deposit lets you buy coins quickly (but not withdraw them)</li> <li>Some of the lowest fees in the US and Canada</li>
+   cons: <li>Somewhat confusing to use for new buyers</li> <li>Not yet available in all US states</li>
 
 ##### England ####################################################
 
  - name: Bittylicious
-   desc: Bittylicious is a Bitcoin exchange located in the United Kingdom. Customers can purchase bitcoin instantly via Barclays Pingit, instant UK bank transfer, or credit/debit card.
+   desc: Bittylicious is a Bitcoin exchange located in the United Kingdom. Customers can purchase bitcoin instantly via Barclays Pingit, Faster Payments-enabled bank transfer, Paym, or credit/debit card.
    url: http://buybitcoinww.co/bittylicious
    icon: /img/buy/bittylicious.png
    countries: gb
@@ -409,11 +419,11 @@
    desc_ar:  شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.
    desc_sell: It's possible to sign up with Bittylicious and become a broker online.
    desc_babt: UK residents can purchase bitcoins within 15 minutes via online bank transfer.
-   pros: <li>One of the fastest ways to buy bitcoins in the UK</li>
-   cons: <li>SEPA transfer not available as payment method</li>
+   pros: <li>One of the fastest ways to buy bitcoins in the UK</li> <li>Refund guarantee in the event of delayed payment</li>
+   cons: <li>SEPA transfer not available as payment method</li> <li>RBS/Natwest PYC payment method unavailable</li>
 
  - name: Coinfloor
-   desc: Coinfloor is a Bitcoin exchange and broker based in the United Kingdom. Customers can deposit via bank transfer, SEPA, and more.
+   desc: Coinfloor is based in the United Kingdom. They operate as both a Bitcoin exchange (Coinfloor Exchange) and broker referral service (Coinfloor Market). Coinfloor's Exchange service accepts deposits in GBP, EUR, PLN and USD. <br><br>Customers can deposit to the Market via UK bank transfers and to the exchange via bank transfer, SEPA, or SWIFT.
    url: https://coinfloor.co.uk/
    icon: /img/buy/coinfloor.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -428,30 +438,30 @@
    desc_bg: Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.
    desc_sell: Sell bitcoins to a bank account via bank transfer, SEPA, and more.
    tags: [quickinfo, rec, lowprivacy, avgspeed, highfees, trusted, eouhard, avglimits]
-   pros: <li>Trustworthy and regulated exchange </li>
-   cons: <li>High minimum deposit amount; must deposit at least 1,000 units of currency</li>
+   pros: <li>Trustworthy and regulated exchange </li> <li>Offers a sophisticated bitcoin storage service, Coinfloor Vaults</li>
+   cons: <li>Coinfloor Exchange has a high minimum deposit amount; must deposit at least 1,000 units of currency</li> <li>Coinfloor Market only accepts GBP bank transfers</li>
    desc_babt: UK residents can fund their Coinfloor exchange account with SEPA or online bank transfer, while EU residents can use SEPA. Note that there is a minimum deposit amount of 1,000 currency units (i.e. 1,000 euros or 1,000 pounds).
 
  - name: BitBargain
-   desc: BitBargain is P2P marketplace for buying and selling bitcoin in the United Kingdom. The company regulates its sellers to ensure only those with high feedback are displayed and used.
+   desc: BitBargain is peer to peer marketplace for buying and selling bitcoin in the United Kingdom. The company vets its sellers to ensure that only those with positive buyer feedback are allowed to trade.
    url: https://bitbargain.co.uk/
    icon: /img/buy/bitbargain.png
    countries: gb
    po: cash, sell
    desc_ar:  أسواق P2P لبيع بيتكوين وشرائه. طرق الدفع المتعددة المتاحة.
-   pros: <li>Ability to buy bitcoins instantly with a number of payment methods</li> <li>Many trusted sellers, so less risk of getting scammed</li>
+   pros: <li>Ability to buy bitcoins instantly with a number of payment methods</li> <li>Many trusted sellers, so reduced risk of getting scammed</li> <li>BitBargain claims an average purchase time of 8 minutes</li>
    cons: <li>Hard to buy large amounts of bitcoins</li>
    tags: [quickinfo, avgprivacy, fast, avgfees, trusted, eoueasy, avglimits]
 
  - name: QuickBitcoin
-   desc: QuickBitcoin lets you buy bitcoins in the UK in less than one hour via online bank transfer. They also have a unique ransomware service to help you unlock your computer or files.
+   desc: QuickBitcoin lets you buy bitcoins in the UK in under an hour, utilising online bank transfers. They also offer a unique anti-ransomware service to help you unlock a computer affected by such malware.
    url: https://quickbitcoin.co.uk/
    icon: /img/buy/quickuk.png
    countries: gb
    po: bt
    desc_ar:  وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.
    tags: [quickinfo, lowprivacy, fast, avgfees, trusted, eoueasy, avglimits]
-   pros: <li>Fast delivery of bitcoins</li><li>Established and trusted broker</li>
+   pros: <li>Fast delivery of bitcoins</li><li>Established and trusted broker</li> <li>Many positive user reviews</li>
    cons: <li>Limited payment options</li>
 
 ## - name: CryptoMate
@@ -466,18 +476,21 @@
 ##### Austria ####################################################
 
  - name: bitcoinbon
-   desc: bitcoinbon is a Bitcoin network that allows users to buy bitcoin with cash at over 600 physical locations across Austria. Users can buy in amounts of €25, €50, or €100.
+   desc: bitcoinbon is an Austrian services which allows users to make cash purchases of bitcoins via redeemable paper coupons. The service is available at over 3,000 physical locations across Austria. Users may buy in amounts of €25, €50, or €100.
    url: https://www.bitcoinbon.at/
    icon: /img/buy/bitcoinbon.png
    countries: at
    po: cdeu, cdat, cash
    desc_de: Bitcoins mit Bargeld in über 600 Verkaufsstellen kaufen. Erhältlich in €25, €50 und €100.
+   ## I think that 600 figure needs review, site suggests 3,000 but this should be confirmed by a German speaker
    pros: <li>One of the best ways to buy bitcoins in Austria</li>
-   cons: <li>Low buying limits</li>
+   cons: <li>Low buying limits</li> <li>High fee of between 7% to 9%</li>
    tags: [quickinfo, highprivacy, fast, highfees, trusted, eoueasy, avglimits]
+   ## got this data from Google Translate, not 100% certain of the 3,000 "venues," which was translated as "traffics" - https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.bitcoinbon.at%2Ffaq%2F&edit-text=
 
  - name: Coinfinity
-   desc: Coinfinity is a Bitcoin exchange based in Austria. Customers can buy bitcoin via SEPA transfer or SOFORT.
+   desc: Coinfinity is a Bitcoin exchange based in Austria. Customers can buy bitcoin via SOFORT. Coinfinity also operates Bitcoin ATMs in Vienna and Graz and owns the above-mentioned bitcoinbon voucher service.
+  ## I only see SOFORT option on their site, no SEPA. they also have several ATMs
    url: https://coinfinity.co/
    icon: /img/buy/coinfinity.png
    countries: at
@@ -486,10 +499,11 @@
    desc_babt: Residents in Austria can buy bitcoins with a bank account online using SOFORT transfer.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
    pros: <li>Trusted and established exchange</li>
-   cons: <li>Limited payment methods available</li><li>ID verification required, so not private</li>
+   cons: <li>Limited payment methods available</li><li>ID verification is required for their exchange, so not private</li>
 
  - name: Cointed
-   desc: Cointed allows customers to buy and sell bitcoins in Europe using SEPA, Skrill, cash, and many other options.
+   desc: Cointed allows customers to buy and sell bitcoins across Europe, using SEPA, Skrill, cash, and many other payment options. They also operate 9 Bitcoin ATMs across Austria.
+   ## couldn't verify payment methods on their site
    desc_de: Cointed ist schnell, sicher und seriös. Cointed bietet eine Vielzahl an Lösungen und Services an, darunter das Kaufen und Verkaufen von Bitcoins und Ethereum, Point-of-Sale Lösungen für lokale Shops sowie Zahlungsschnittstellen für Webshops.
    url: https://www.cointed.com/
    icon: /img/buy/cointed.png
@@ -502,7 +516,7 @@
 ##### France ####################################################
 
  - name: Paymium
-   desc: Paymium was the first European exchange, founded in 2011. It provides a EUR/BTC exchange service, and complies with European Regulations. Customers can purchase bitcoins SEPA Wire Transfer or credit card.
+   desc: Paymium was the first European Bitcoin exchange, founded in 2011. It provides a EUR/BTC exchange service, and complies with all relevent European Regulations. Customers can purchase bitcoins via SEPA, wire transfer, or credit card.
    url: https://paymium.com/
    icon: /img/buy/paymium.png
    countries: fr, ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -518,11 +532,12 @@
    desc_sell: Sell bitcoins in France via French national bank transfer or SEPA.
    desc_babt: Paymium is a Bitcoin exchange based in France; anyone in the country can get bitcoins with a bank transfer using Paymium.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits]
-   pros: <li>Established and trusted exchange</li>
-   cons: <li>ID verification required, so not private</li>
+   pros: <li>Established and trusted exchange</li> <li>Mobile app available</li>
+   cons: <li>ID verification required for amounts over €2,500, so not private</li>
 
  - name: Bitboat
-   desc: Bitboat lets you buy bitcoin fast with cash in the UK, Spain, Italy, France, Belgium, Cyprus, and Romania. You can use a number of payment methods, including Paysafecard, Neosurf, and more.
+   desc: Bitboat lets you buy bitcoin in the UK, Portugal, Spain, Italy, France, Belgium, Greece, Cyprus, and Romania. You can buy using Paysafecard or Neosurf, as well as further options in Italy, France and Spain.
+   ## I don't see anything about buying with cash in their FAQ - https://www.bitboat.net/en/help (How to Buy tab)
    url: http://buybitcoinww.co/BitBoat
    icon: /img/buy/bitboat.png
    countries: fr, it, es, be, pt, cy, ro, gb
@@ -530,12 +545,13 @@
    desc_neosurf: At Bitboat you can buy bitcoins with Neosurf in Europe. Bitboat sells bitcoins for cash in the <a href="/en/gb/">UK</a>, <a href="/en/it/">Italy</a>, <a href="/en/fr/">France</a>, <a href="/en/be/">Belgium</a>, <a href="/en/cy/">Cyprus</a>, and <a href="/en/ro/">Romania</a>.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
    pros: <li>Wide range of payment methods offered</li>
-   cons: <li>ID verification required; not a good way to buy privately</li><li>Many of the payment methods offered come with high fees</li>
+   cons: <li>ID verification required; not a good way to buy privately</li><li>Many of the payment methods offered come with high fees</li> <li>Tight payment limit of €5,000 per month across all payment methods</li>
 
 ##### Switzerland ####################################################
 
  - name: Bity
-   desc: Bity is a Bitcoin exchange based in Switzerland. It allows for a quick first purchase and only requires phone verification for initial buy limits.
+   desc: Bity is a Bitcoin exchange and ATM operator, based in Switzerland. Their 5 ATMs allow for a quick first purchase and only require phone verification for an initial buy limit of 1,000 EUR or CHF. Their online service accepts wire transfers, SOFORT and online bank transfers.
+## note for consistency: wire transfer = SWIFT / SEPA, online bank transfer = EFT? EFT is the term in South Africa when using online banking to pay a bank in the same country, is the term known / does it have same meaning overseas?
    url: https://bity.com/
    icon: /img/buy/bity.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb, ch
@@ -551,14 +567,14 @@
    tags: [quickinfo, avgprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    desc_babt: Bity is a Bitcoin broker that makes it possible for all Europeans to purchase bitcoins with SEPA. At first, only verification using a phone number is required.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Easy to start buying bitcoins after mobile phone verification</li>
-   cons: <li>ID verification is required for most purchases, so not a private way to buy</li>
+   pros: <li>Easy to start buying bitcoins after mobile phone verification</li> <li>Payment limit of up to €100,000 annually after intensive verification</li>
+   cons: <li>ID verification is required for most purchases, so not a private way to buy</li> <li>Low annual limit of only €4,000 without intensive verification</li>
 
 
 ##### Canada ####################################################
 
  - name: Canadian Bitcoins
-   desc: <p>Canadian Bitcoins is a Bitcoin exchanged based in Canada. The company offers many payment options:</p> <ul> <li>Interac Online</li><li>Bill Payment via online banking</li><li>Direct debit from bank account</li><li>Flexepin Voucher</li><li>Cash via mail</li><li>Cash in person (Ottowa)</li></ul> <p>The fees vary for each payment method.</p>
+   desc: <p>Canadian Bitcoins is a Bitcoin exchanged based in Canada. The company offers many payment options:</p> <ul> <li>Interac Online</li><li>Bill Payment via online banking</li><li>Direct debit from bank account</li><li>Flexepin Voucher</li><li>Cash via mail</li><li>Cash in person (Ottawa)</li><li>Debit in person (Ottawa)</li></ul> <p>The fees vary for each payment method.</p>
    url: https://www.canadianbitcoins.com/
    icon: /img/buy/canadianbitcoins.png
    countries: ca
@@ -574,7 +590,7 @@
    cons: <li>Many payment methods are not private ways to buy bitcoins</li>
 
  - name: Satoshi Counter
-   desc: Buy in person in Montreal or online in the rest of Canada. The company allows for the purchase of large amounts of bitcoins although extra verification is required.
+   desc: Buy in person in Montreal or online in the rest of Canada. The company allows for the purchase of large amounts of bitcoins (up to $1m.) although extra verification is required for such trades.
    url: http://satoshicounter.com/
    icon: /img/buy/satoshicounter.png
    countries: ca
@@ -586,11 +602,12 @@
    desc_ru: Купить биткоин лично в Монреале или онлайн в других регионах Канады.
    desc_uk: Купити біткоін особисто в Монреалі або онлайн в інших регіонах Канади.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Great way to buy large amounts of bitcoins in Canada</li>
+   pros: <li>Great way to buy large amounts of bitcoins in Canada</li> <li>Reliable and trusted broker; run by the Bitcoin Embassy in Montreal</li>
    cons: <li>Even buying with cash, identity verification is required so not private</li>
 
  - name: QuickBT
-   desc: QuickBT lets you buy small amounts of bitcoin in minutes (up to 0.2 BTC) with Interac Online or a debit card. Usually bitcoins will be delivered within a few minutes after payment.
+   desc: QuickBT is a Canadian broker which sells small amounts (up to $100) of bitcoin within minutes, via Interac Online, Flexepin vouchers, or a debit card. Usually bitcoins will be delivered within a few minutes after payment.
+   ## I think using bitcoin amounts (such as 0.2 in this case, changed to $100) will lead to extra maintenance given how volatile price can be
    url: https://quickbt.com
    icon: /img/buy/quickbt.png
    countries: ca
@@ -602,8 +619,8 @@
    desc_ru: Купить небольшие суммы биткоин в считанные секунды с помощью INTERAC Online.
    desc_uk: Купити невеликі суми біткоін в лічені секунди за допомогою INTERAC Online.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Easy way to buy small amounts of bitcoins fast</li><li>No verification required</li>
-   cons: <li>Low limits</li>
+   pros: <li>Easy way to buy small amounts of bitcoins fast</li><li>No verification beyond cellphone number required</li>
+   cons: <li>Low daily limit of $100 per cellphone number</li>
 
 ## - name: QuadrigaCX
 ##   desc: Bitcoin exchange. Fund account with Interac Online and many other payment options.
@@ -613,7 +630,7 @@
 ##   po: io
 ##   name_es: QuadrigaCX
 ##   desc_es: Intercambio de Bitcoin. Cuenta de fondos con Interac Online y muchos otros métodos de pago.
-   desc_ar:  صرافة بيتكوين . تمويل الحساب بنظام Interac على الانترنت وبالعديد من خيارات الدفع الأخرى.
+##   desc_ar:  صرافة بيتكوين . تمويل الحساب بنظام Interac على الانترنت وبالعديد من خيارات الدفع الأخرى.
 ##   desc_fr: Bourse d'échange de bitcoins. Alimentez votre compte avec Interac® et bien d'autres moyens.
 ##   desc_ru: Биткоин-биржа. Пополните счет с помощью INTERAC Online и другими способами оплаты.
 ##   desc_uk: Біткоін-біржа. Поповніть рахунок за допомогою INTERAC Online та іншими способами оплати.
@@ -644,7 +661,7 @@
    desc_ru: Купить биткоин онлайн в Канаде с помощью INTERAC Online. Удобно и быстро.
    desc_uk: Купити біткоіни онлайн в Канаді за допомогою INTERAC Online. Зручно і швидко.
    tags: [quickinfo, lowprivacy, fast, highfees, avgrep, eoueasy, lowlimits]
-   pros: <li>Fast way to buy bitcoins</li>
+   pros: <li>Fast way to buy bitcoins</li> <li>Buying $250 worth of bitcoins is possible with only email address and cellphone number</li>
    cons: <li>High fees at 4.95% per trade</li><li>Very low limits</li>
 
 ##### Venezuela ####################################################
@@ -659,12 +676,12 @@
    desc_es: Encuentre un socio para comerciar en el grupo de Facebook de Bitcoin Venezuela.
    desc_ar:  البحث عن شريك تجاري في مجموعة (جروب) بيتكوين فنزويلا على الفيسبوك.
    desc_sell: Find a trade partner in the Bitcoin Venezuela Facebook group and sell bitcoins for cash.
-   pros: <li>Trading in person, not online via bank transfer</li>
-   cons: <li>With Venezuela's economic situation, fees may be high or rates bad</li>
+   pros: <li>Trading privately in person, not online via bank transfer</li>
+   cons: <li>Due to Venezuela's economic situation, fees may be high or rates bad</li>
    tags: [quickinfo, highprivacy, fast, avgfees, trusted, eoueasy, highlimits]
 
  - name: SurBitcoin
-   desc: SurBitcoin was the first Bitcoin exchange in Venezuela. Its customers can buy bitcoin via bank transfer. The government recently took steps to halt trading, so be sure to check the status of the exchange before buying.
+   desc: SurBitcoin was the first Bitcoin exchange in Venezuela. It now facilitates and secures private trades between bitcoin buyers and sellers. The only payment method is to deposit funds to a bank account.
    url: https://surbitcoin.com/
    icon: /img/buy/surbitcoin.png
    countries: ve
@@ -673,25 +690,26 @@
    desc_es: Primer intercambio de Bitcoin en Venezuela. Comprar Bitcoin mediante transferencia bancaria.
    desc_ar:  أول صرافة بيتكوين في فنزويلا. شراء بيتكوين عن طريق التحويل المصرفي.
    desc_sell: Sell bitcoins on SurBitcoin, and then transfer the bolivars to your bank account.
-   pros: <li>Venezuela's only online exchange</li>
-   cons: <li>Government may shut down exchange or halt trading randomly</li>
+   pros: <li>Payments from the same bank can clear within a few hours</li> <li>Trusted and verified traders may receive bitcoins without waiting for deposit confirmation</li>
+   ## removed <li>Venezuela's only online exchange</li> as contradicted by CryptoBuyer entry below
+   cons: <li>Government may shut down exchange or halt trading unpredictably</li> <li>Payments from different banks can take up to 2 working days to clear</li>
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
 
  - name: CryptoBuyer
-   desc: Cryptobuyer is a Bitcoin exchange in Venezuela and lets you buy and sell bitcoins online using National Bank Transfer.
+   desc: Cryptobuyer is a Bitcoin exchange in Venezuela which lets you buy bitcoins online via national bank transfer, credit card, or national debit card. They also allow you to buy Amazon Gift Cards or top up your phone's airtime with bitcoin.
    url: https://cryptobuyer.io/
    icon: /img/buy/cryptobuyer.png
    countries: ve
    po: bt
    desc_es: Cryptobuyer le permite comprar y vender bitcoins en Venezuela usando transferencias bancarias.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Possible to buy bitcoin online in Venezuela</li>
-   cons: <li>Government may shut down exchange or halt trading randomly</li><li>Not private, identity verification required</li>
+   pros: <li>Possible to buy bitcoin online in Venezuela</li> <li>No limits on bitcoin sales</li>
+   cons: <li>Government may shut down exchange or halt trading unpredictably</li><li>Not private; identity verification required</li> <li>Buying limit of 50,000 VEF for credit/debit cards</li>
 
 ##### Chile ####################################################
 
  - name: Yaykuy
-   desc: Yaykuy is a Bitcoin exchange based in Chile. It's pretty easy to use. You just tell the company how many bitcoins you want. Then they tell you the price for your purchase and you make an online transfer to the exchange's bank account. Once the transfer is complete you will receive your bitcoins, which usually happens within 24 hours.
+   desc: Yaykuy is a Bitcoin broker based in Chile. The service is easy to use: you create an order for however many bitcoins you want, Yaykuy will then quote a price for your purchase. You then make an online transfer to their bank account. Once the deposit is confirmed, which usually happens within 24 hours, you'll receive your bitcoins.
    url: http://www.yaykuy.cl/
    icon: /img/buy/yaykuy.png
    countries: cl
@@ -704,6 +722,7 @@
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
    pros: <li>Fast and simple way to purchase bitcoins online in Chile</li>
    cons: <li>Identity verification required, so not private</li>
+   ##site wouldn't load in Google Translate; could not confirm details. from the description, they are brokers not an exchange per se
 
 ##### Paraguay ####################################################
 
@@ -719,11 +738,12 @@
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
    pros: <li>The only Bitcoin exchange in Paraguay</li>
    cons: <li>Not a private way to buy since ID verification is required</li>
+   ## did not sign in to verify, site itself and a search provides no further info
 
 ##### Peru ####################################################
 
  - name: CambistaBitcoin
-   desc: CambistaBitcoin is a Bitcoin broker in Peru. You buy bitcoin online via bank transfer or in-person using many of their accepted payment methods. The company has many ways to contact them online and will help you through the whole process of buying coins.
+   desc: CambistaBitcoin is a Bitcoin broker in Peru. You buy bitcoin online, via bank transfer or SWIFT, and in-person using one of their many payment methods. The company provide 10 methods of communication and will gladly assist you with the process of buying bitcoins.
    url: http://www.cambistabitcoin.com/
    icon: /img/buy/cambistabtc.png
    countries: pe
@@ -738,7 +758,7 @@
 ##### Israel ####################################################
 
  - name: bit2c
-   desc: bit2c is the largest Bitcoin exchange in Israel. You can fund your account with Israeli bank transfer or credit card. Most bank transfer deposits are confirmed in your account within 24 hours.
+   desc: bit2c is the largest Bitcoin exchange in Israel. You can fund your account via Israeli bank transfer or credit card. Most bank transfer deposits are confirmed in your account within 24 hours.
    url: http://buybitcoinww.co/bit2c
    icon: /img/buy/bit2c.png
    countries: il
@@ -755,7 +775,7 @@
    cons: <li>Not private since identity verification is required</li>
 
  - name: Bits of Gold
-   desc: Bits of Gold is a Bitcoin broker in Israel. You can buy Bitcoin directly from the company with bank transfer, cash, or credit card. The fees for buying with Bits of Gold are higher than Bit2c, but it is easier to use for first-time buyers.
+   desc: Bits of Gold is a Bitcoin broker in Israel. You can buy Bitcoin directly from the company with bank transfer, cash, or credit card. The fees for buying with Bits of Gold are higher than Bit2c, but it is easier to use for first-time buyers. They also operate a Bitcoin ATM in Tel Aviv which requires no identification and charges a 5% fee.
    url: https://www.bitsofgold.co.il
    icon: /img/buy/bitsofgold.png
    countries: il
@@ -768,13 +788,13 @@
    desc_uk: Купити біткоіни у Bit of Gold, найбільшого біткоіни-брокера в Ізраїлі.
    desc_sell: Bitcoin broker. Sell bitcoins to your Israeli bank account or credit card.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Clean interface makes it easy for first-time buyers</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>Clean interface makes it easy for first-time buyers</li> <li>No identity verification for amounts under 1000 ILS</li>
+   cons: <li>Not private since identity verification is required for amounts over 1000 ILS</li>
 
 ##### United Arab Emirates ####################################################
 
  - name: BitOasis
-   desc: BitOasis is a Bitcoin platform serving the Middle East. Customers can buy bitcoin via bank transfer in the United Arab Emirates, Saudi Arabia, Oman, Qatar, Kuwait, and Bahrain.
+   desc: BitOasis is a Bitcoin platform serving the Middle East. Customers can buy bitcoin via bank transfer or cash deposit in the United Arab Emirates, Saudi Arabia, Oman, Qatar, Kuwait, and Bahrain. UAE clients may also deposit funds via exchange houses.
    url: https://bitoasis.net/en/
    icon: /img/buy/bitoasis.png
    countries: ae, qa, kw, bh, sa, om
@@ -782,13 +802,13 @@
    desc_ar:  شراء بيتكوين بسرعة بالدرهم الإماراتي عن طريق التحويلات المصرفية.
    desc_sell: Sell bitcoins via bank transfer in the United Arab Emirates, Qatar, Kuwait, and Bahrain.
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>One of the best way to buy bitcoins in the countries it services</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>One of the best way to buy bitcoins in the countries it services</li> <li>Multi-sig security measures</li> <li>Low 0.5% flat fee on all orders</li> <li>Verification not required for amounts below $500 per week</li>
+   cons: <li>Above $500 per week limit, not private since identity verification is required</li>
 
 ##### Kuwait ####################################################
 
  - name: BitFils
-   desc: BitFils is a Bitcoin broker in Kuwait. You can buy bitcoin quickly online in Kuwait with a debit card.
+   desc: BitFils is a Bitcoin broker in Kuwait. You can buy bitcoin online quickly, using a debit card.
    url: https://bitfils.com/
    icon: /img/buy/bitfils.png
    countries: kw
@@ -800,9 +820,10 @@
    cons: <li>Not private since identity verification is required</li>
 
 ##### Argentina ####################################################
-
- - name: Bitex.la
-   desc: Bitex.la is a Bitcoin exchange with service in many South American countries. You can deposit into your exchange account with cash or AstroPay.
+## suggest Bitex.la, Ripio and SurBTC be listed above with the other South American countries.
+ - name: Bitex
+ ## Site now presents itself as only Bitex, unless similarly-named exchange exists elsewhere there's no need for .la extension
+   desc: Bitex.la is a Bitcoin exchange and broker which services many South American countries, including Brazil, Mexico, Argentina, Chile, Peru and Uruguay. You can fund your exchange account with cash or AstroPay.
    url: https://bitex.la/exchange
    icon: /img/buy/bitexla.png
    countries: ar, cl, br, mx, es, pe, uy
@@ -818,11 +839,11 @@
    desc_uk: Біткоін-біржа, що працює в багатьох Південноамериканських країнах.
    desc_sell: Sell bitcoins in many South American countries. Get paid in cash in person or via bank deposit.
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Many payment methods available</li><li>Low fees for South American countries</li>
+   pros: <li>Many payment methods available</li><li>Low fees for South American countries</li><li>Bitex brokers the sale of large amounts of bitcoin<li>
    cons: <li>Not private since identity verification is required</li>
 
  - name: Ripio
-   desc: Ripio is a Bitcoin platform based in Argentina. You can use it to buy bitcoin at over 8,000 convenience stores across Argentina. It's quick, secure, and easy to use.
+   desc: Ripio is a Bitcoin platform based in Argentina. Ripio accepts bank transfers from Argentina or Brazil. Ripio also accepts cash payments from over 8,000 convenience stores across Argentina, via Easy Payment or Rapipago.  It's quick, secure, and easy to use.
    url: https://ripio.com/
    icon: /img/buy/ripio.png
    countries: ar, br
@@ -832,13 +853,14 @@
    desc_ar:  شراء بيتكوين في أكثر من 8000 متجر في جميع أنحاء الأرجنتين. محليًا، وسريعة وآمنة.
    desc_de: Bitcoin in über 8000 lokaler Läden in ganz Argentinien kaufen. Lokal, schnell, sicher.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouhard, avglimits]
-   pros: <li>Fast way to buy bitcoins in Argentina</li><li>Many payment methods available</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>Fast way to buy bitcoins in Argentina</li><li>A few payment methods available</li> <li>Low 0.5 fee</li>
+   cons: <li>Bank transfer option is not private since identity verification is required</li>
 
 ##### Chile ####################################################
 
  - name: SurBTC
-   desc: SurBTC is a Bitcoin exchange in Chile, backed by investors from the United States. You can fund your exchange account using online bank transfer. Funds are usually available within 3 hours if the transfer is made during the week during working hours.
+   desc: SurBTC is a Bitcoin exchange for Chile and Colombia, backed by investors from the United States. You can fund your exchange account using online bank transfer. Funds are usually available within 3 hours if the transfer is made during the week during working hours.
+   ## could not verify payment methods on the site
    url: https://www.surbtc.com/
    icon: /img/buy/surbtc.png
    countries: cl
@@ -849,13 +871,13 @@
    desc_de: Bitcoin Börse. Geld online über Banküberweisungen einzahlen. Gebühr variiert.
    desc_sell: Sell bitcoins in Chile via online bank transfer. Fees vary.
    tags: [quickinfo, lowprivacy, avgspeed, feesvary, trusted, eouhard, highlimits]
-   pros: <li>Fast way to buy bitcoins</li><li>Good liquidity, meaning prices are good</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>Fast way to buy bitcoins</li><li>Good liquidity, meaning prices are good</li> <li>High limit of $10,000 per month for those who complete full verification</li>
+   cons: <li>Not private since identity verification is required</li> <li>Very low limit of $100 per month for basic verification level (which includes ID number)</li>
 
 ##### Singapore ####################################################
 
  - name: CoinHako
-   desc: CoinHako is a Bitcoin broker based in Singapore, backed by investors from the USA. You can top up your CoinHako account using Xfers transfer, which will let you buy coins within 10 minutes.
+   desc: CoinHako is a Bitcoin broker based in Singapore, backed by investors from the USA. They accept bank transfers from Singapore or Malaysia and international bank wires. You can also top up your CoinHako account using Xfers, which allows you to buy bitcoins within 10 minutes.
    url: https://www.coinhako.com/
    icon: /img/buy/coinhako.png
    countries: sg
@@ -863,8 +885,8 @@
    desc_zh: 比特币代理人。通过银行转账购买比特币。费率为0.9%。
    desc_sell: Sell bitcoins online in Singapore via bank transfer. 0.9% fee per sell.
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits]
-   pros: <li>Super fast way to purchase bitcoins in Singapore</li><li>Trusted and established exchange</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>Super fast way to purchase bitcoins in Singapore</li><li>Fees are reasonable at 0.9%</li><li>Small amounts of bitcoin may be purchased without verficiation</li><li>Trusted and established exchange</li>
+   cons: <li>Not private for larger amounts since identity verification is required</li></li>Xfer limit is only 100 SGD without verification</li><li>Other payment methods have a limit of 200 SGD without verification</li>
 
 ## - name: CRXzone
 ##   desc: Buy bitcoin via OKPAY, Perfect Money, bank transfer, or Egopay.
@@ -875,20 +897,21 @@
 ##   desc_zh: 可通过银行转账、OKPAY、Perfect Money、Egopay购买比特币。
 
  - name: FYB-SG
-   desc: FYB-SG is a Bitcoin exchange based in Singapore. You can fund your exchange account via inter-bank transfers for a 0.6% fee.
+   desc: FYB-SG is a Bitcoin exchange based in Singapore, the first to be established there. You can fund your exchange account via online bank transfer for a 0% fee or via cash deposit.
+   ##this extra info about cash deposit and free bank transfers is in the Youtube video on their FAQ page
    url: https://www.fybsg.com/
    icon: /img/buy/fybsg.png
    countries: sg
    po: bt
    desc_zh: 比特币交易。通过银行间转账于账户增资。费率为0.6%。
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, avgrep, eoueasy, highlimits]
-   pros: <li>Exchange only charges 0.6% per trade</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>Low fees; exchange only charges 0.6% per trade</li><li>Market makers receive a 50% fee discount for a super low 0.3% fee</li><li>Instant deposit and withdrawal options for SGD</li>
+   cons: <li>Not private since identity verification is required, this process can be as quick as 30 minutes</li> <li>Single payment method</li>
 
 ##### Mexico ####################################################
 
  - name: Bitso
-   desc: Bitso is a Bitcoin exchange based in Mexico. You can fund your account with SPEI Transfer, Oxxo, or at any 7-Eleven in the country.
+   desc: Bitso is a Bitcoin exchange based in Mexico. You can fund your account with SPEI Transfer or via cash deposit using Oxxo or any 7-Eleven in Mexico. They offer additional withdrawal methods.
    url: https://bitso.com/
    icon: /img/buy/bitso.png
    countries: mx
@@ -897,11 +920,11 @@
    desc_es: Intercambio de Bitcoin mexicano. Deposite localmente o con transferencia bancaria o SPEI.
    desc_ar:  صرافة بيتكوين المكسيكي. الإيداع محليا أو التحويل المصرفي أو SPEI.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Trusted exchange; backed by investors in the United States</li>
-   cons: <li>Not private since identity verification is required</li><li>Has a wallet that should not be used to store bitcoins</li>
+   pros: <li>Trusted exchange; backed by investors in the United States</li> <li>Multi-sig security measures</li> </li>SPEI payment method is fast and without fees</li>
+   cons: <li>Not private since identity verification is required</li><li>Offers a web wallet but this is not ideal for bitcoin storage</li>
 
  - name: Volabit
-   desc: Volabit is a Bitcoin exchange based in Mexico. You can fund your account by depositing cash at any 7-Eleven, Farmacias Benavides, Farmacias del Ahorro, Extra or make an online bank transfer.
+   desc: Volabit is a Bitcoin exchange based in Mexico. You can fund your account via online bank transfer or by cash deposit at any 7-Eleven, Farmacias Benavides, Farmacias del Ahorro, or Extra.
    url: https://volabit.com/
    icon: /img/buy/volabit.png
    countries: mx
@@ -910,8 +933,8 @@
    desc_es: Comprar Bitcoin en México con efectivo en 7-Eleven, Banamex, OXXO  o con una transferencia bancaria.
    desc_ar:  شراء بيتكوين في المكسيك نقدًا في 7-Eleven ، Banamex, OXXO، أو بالتحويل المصرفي.
    tags: [quickinfo, rec, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Volabit fees are very low, although the deposit methods all come with <a href="https://www.volabit.com/en/fees">various fees</a></li>
-   cons: <li>Not private since identity verification is required</li><li>Has a wallet that should not be used to store bitcoins</li>
+   pros: <li>Volabit fees are low at 0.8%, although the deposit methods all come with <a href="https://www.volabit.com/en/fees">various fees</a></li> <li>Popular option with over 35,000 Mexican users</li>
+   cons: <li>Not private since identity verification is required</li><li>Offers a web wallet but this is not ideal for bitcoin storage</li>
 
 ## - name: meXBT
 ##   desc: Mexican Bitcoin exchange. Deposit with bank transfer or locally at over 130,000 stores.
@@ -929,7 +952,7 @@
 ##### Brazil ####################################################
 
  - name: Panama Bitcoins
-   desc: Panama Bitcoins connects you with bitcoin brokers across the country. They charge a flat 1% fee. You can get in touch with them using the methods of contact on their website.
+   desc: Panama Bitcoins connects you with bitcoin brokers across the Republic of Panama. They charge a flat 1% fee. You can get in touch with them using the 4 methods of contact on their website.
    url: https://www.ptycoin.com/
    icon: /img/buy/panamabtc.png
    countries: pa
@@ -938,14 +961,14 @@
    desc_es: Panama Bitcoins le conecta con corredores de Bitcoin a lo largo del país.
    desc_sell: Contact Panama Bitcoins to get connected with bitcoin brokers across the country.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>One of the best ways to buy bitcoins in Panama</li><li>Trusted broker that has been running for a long time</li>
-   cons: <li>Not simple to do online, need to make contact with broker</li>
+   pros: <li>One of the best ways to buy bitcoins in Panama</li><li>Trusted service that's been in business since 2013</li>
+   cons: <li>Not a streamlined online process for your first purchase; it's necessary for new customers to establish contact with a broker</li>
 
 
 ##### Brazil ####################################################
 
  - name: SatoshiTango
-   desc: SatoshiTango is a Bitcoin platform. Users in Brazil, Colombia, Chile, Peru, Uruguay, Argentina, Costa Rica, Ecuador, El Salvador, Honduras, Panama and Nicaragua can use SatoshiTango to buy bitcoin.
+   desc: SatoshiTango is a South American Bitcoin exchange. Users in Brazil, Colombia, Chile, Peru, Uruguay, Argentina, Costa Rica, Ecuador, El Salvador, Honduras, Panama and Nicaragua can use SatoshiTango to buy bitcoin. <br><br>Payment methods include bank transfer, bank wire, cash deposit in Buenos Aires or through a coupons from PagoFacil, RapiPago, BaproPagos, CobroExpress or ProvinciaPagos.
    url: http://buybitcoinww.co/Satoshi_Tango
    icon: /img/buy/satoshitango.png
    countries: br, tr, cl, co, pe, uy, ar, cr, ec, sv, gt, hn, ni, pa
@@ -960,11 +983,11 @@
    desc_ru: Биткоин-платформа. Поддерживает множество стран в Южной Америке и Европе.
    desc_uk: Біткоін-платформа. Підтримує безліч країн у Південній Америці і Європі.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>One of the best ways to buy bitcoins in the countries it offers service</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>One of the best ways to buy bitcoins in the countries it covers</li> <li>Allows for the payment of utility bills and the purchase of airtime with bitcoin</li>
+   cons: <li>Not private since identity verification is required</li> <li>Due to regulations, a separate account is needed for each fiat currency SatoshiTango accepts; USD, EUR and ARS</li>
 
  - name: Mercado Bitcoin
-   desc: Mercado Bitcoin is an exchange based in Brazil. You can buy bitcoin online with bank transfers and no deposit fees. Mercado Bitcoin offers some of the best liquidity in Brazil, meaning you'll get a great price on your purchase of bitcoins.
+   desc: Mercado Bitcoin is the largest Bitcoin exchange in Brazil and South America. Without verifying, you can buy bitcoin using cash deposits. After verification, you can also fund your account with online bank transfers, which incur no deposit fee. Mercado Bitcoin offers some of the best liquidity in Brazil, meaning you should get the fair market price when buying bitcoins.
    url: https://www.mercadobitcoin.com.br/
    icon: /img/buy/mercado.png
    countries: br
@@ -978,11 +1001,12 @@
    desc_ru: Биткоин-биржа. Купить биткоин онлайн в Бразилии через банковский перевод. Сборы могут меняться.
    desc_uk: Біткоін-біржа. Купити біткоіни онлайн в Бразилії через банківський переказ.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Good liquidity</li><li>Prices close to market rate</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>Deep liquidity promotes a price close to fair market rate</li> <li>Very popular with over 100,000 clients</li>
+   cons: <li>Not private since identity verification is required to exceed daily limits or use bank transfers</li>
 
  - name: FOXBIT
-   desc: FOXBIT is a Bitcoin exchange based in Brazil. You can buy bitcoin online with bank transfers and no deposit fees. FOXBIT offers some of the best liquidity in Brazil, meaning you'll get a great price on your purchase of bitcoins.
+ ## this site wouldn't display text properly for me through Google Translate so I couldn't check the info thoroughly, it might work for more countries than Brazil and have more payment methods
+   desc: FOXBIT is a Bitcoin exchange based in Brazil. You can buy bitcoin online with bank transfers and no deposit fees. FOXBIT offers some of the best liquidity in Brazil, meaning you should get the fair market price when buying bitcoins.
    url: http://www.foxbit.com.br
    icon: /img/buy/foxbit.png
    countries: br
@@ -996,11 +1020,12 @@
    desc_ru: Биткоин-биржа. Купить биткоин онлайн в Бразилии банковским переводом и беспроцентным вкладом.
    desc_uk: Біткоін-біржа. Купити біткоіни онлайн в Бразилії банківським переказом і безвідсотковим внеском.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Good liquidity</li><li>Prices close to market rate</li>
+   pros: <li>>Deep liquidity promotes a price close to fair market rate/li> <li>Fast deposits and withdrawls; should only take 1 minute to confirm</li> <li>Signup bonus</li>
    cons: <li>Not private since identity verification is required</li>
 
  - name: FlowBTC
-   desc: FlowBTC is a Bitcoin exchange based in Brazil. You can fund your account online via bank transfer. Fees vary based on your total trading volume.
+   desc: FlowBTC is a Bitcoin exchange based in Brazil. You can fund your account online via bank transfer.
+   ## Google Translate failed on their fees page but it looks like a flat rate of 0.35% rather a volume-related rate, would need a Portugese-speaker to confirm
    url: https://trader.flowbtc.com
    icon: /img/buy/flowbitcoin.png
    countries: br
@@ -1014,11 +1039,11 @@
    desc_ru: Биткоин-биржа. Онлайн-вклад банковским переводом. Комиссия может меняться.
    desc_uk: Біткоін-біржа. Онлайн-вклад банківським переказом. Комісія може змінюватися.
    tags: [quickinfo, lowprivacy, avgspeed, feesvary, avgrep, eouavg, highlimits]
-   pros: <li>Ability to purchase bitcoins very fast</li>
+   pros: <li>Ability to purchase bitcoins relatively quickly; express deposits can clear the same day</li> <li>Low 0.35% fees</li> <li>Low 0.5% deposit fee</li>
    cons: <li>Not private since identity verification is required</li>
 
  - name: Bitcoin To You
-   desc: Bitcoin To You is a Bitcoin exchange in Brazil. You can buy bitcoins online in less than 10 minutes using their service. You simply create an account and make a deposit via online bank transfer.
+   desc: Bitcoin To You was the first Bitcoin broker to be established in Brazil, in 2013. You can buy bitcoins online from them in less than 10 minutes. You simply create an account and make a deposit via online bank transfer.
    url: https://www.bitcointoyou.com/
    icon: /img/buy/bitcointoyou.png
    countries: br
@@ -1032,11 +1057,11 @@
    desc_ru: Биткоин-биржа. Онлайн-вклад банковским переводом. Комиссия может меняться.
    desc_uk: Біткоін-біржа. Онлайн-вклад банківським переказом. Комісія може змінюватися.
    tags: [quickinfo, rec, lowprivacy, fast, lowfees, avgrep, eoueasy, avglimits]
-   pros: <li>Super quick way to purchase bitcoins</li>
-   cons: <li>Not private since identity verification is required</li><li>Offers a wallet that should not be used to store bitcoins</li>
+   pros: <li>Super quick way to purchase bitcoins</li> <li>Established and trusted broker</li><li>Low trade fees of 0.6% for market takers and 0.25% for market makers</li> <li>Reasonable 1.89% bank deposit fee</li>
+   cons: <li>Not private since identity verification is required</li><li>Offers a web wallet but this is not ideal for bitcoin storage</li> <li>Not available on Sundays or during the week before 8 AM and after 8 PM</li>
 
  - name: BitCambio
-   desc: BitCambio is a Bitcoin exchange based in Brazil. You can make a deposit online via bank transfer. Fees vary depending on your trading volume.
+   desc: BitCambio is another Bitcoin exchange based in Brazil. You can make a deposit online via bank transfer. Fees vary depending on your trading volume.
    url: https://bitcambio.com.br/
    icon: /img/buy/bitcambio.png
    countries: br
@@ -1050,46 +1075,47 @@
    desc_ru: Биткоин-биржа. Онлайн-вклад банковским переводом. Комиссия может меняться.
    desc_uk: Біткоін-біржа. Онлайн-вклад банківським переказом. Комісія може змінюватися.
    tags: [quickinfo, lowprivacy, avgspeed, feesvary, avgrep, eouhard, highlimits]
-   pros: <li>Can achieve low fees with high trading volume</li>
-   cons: <li>Not private since identity verification is required</li>
+   pros: <li>Can achieve low fees with high trading volume</li> <li>Account with 4 major Brazilian banks for fast and cheap inter-bank transfers</li>
+   cons: <li>Not private since identity verification is required</li> <li>Initial limit of R$30,000 but this can be raised by doing more trades</li>
 
 ##### China ####################################################
 
  - name: BTCC
-   desc: BTCC is China's largest Bitcoin exchange. You can fund your exchange account online via bank transfer.
+   desc: BTCC is China's second largest Bitcoin exchange and the longest-running Bitcoin exchange in the world. You can fund your exchange account online via bank transfer.
+   ##got volume of Chinese exchange from https://data.bitcoinity.org/markets/volume/30d/CNY?c=e&t=bar
    url: https://www.btcchina.com/
    icon: /img/buy/btcchina.png
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国零交易费的比特币交易平台。通过银行转账交存。
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>BTCC has great liquidity and good prices</li>
-   cons: <li>Not private since identity verification is required</li> <li>Interface may be confusing for first-time buyers</li>
+   pros: <li>BTCC has great liquidity and good prices</li> <li>Bank deposits are processed within 30 minutes of confirmation</li>
+   cons: <li>Not private since identity verification is required</li> <li>Interface may be confusing for first-time buyers</li> <li>Limited payment methods; only bank transfer</li> <li>Bank transfers not originating from China Merchants Bank may be delayed outside regular banking times</li>
 
  - name: OKCoin
-   desc: OKCoin is the second largest Bitcoin exchange in China. Customers can make deposits to their exchange accounts via bank transfer.
+   desc: OKCoin is the largest Bitcoin exchange in China. Customers can make deposits to their exchange accounts via bank transfer.
    url: https://www.okcoin.cn/
    icon: /img/buy/okcoin.png
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国最大的比特币交易平台。零交易费。通过银行转账交存。
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Has great liquidity and good prices</li>
-   cons: <li>Not private since identity verification is required</li> <li>Interface may be confusing for first-time buyers</li>
+   pros: <li>OKCoin has great liquidity and good prices</li> <li>Wechat integration</li> <li>Offers USD as well as CNY trading</li>
+   cons: <li>Not private since identity verification is required</li> <li>Interface may be confusing for first-time buyers</li> <li>Limited payment methods; only bank transfer</li>
 
  - name: Huobi
-   desc: Huobi is the second largest Bitcoin exchange in China. You can fund your exchange account online via bank transfer.
+   desc: Huobi is the third largest Bitcoin exchange in China. You can fund your exchange account online via CNY bank transfer or with USD via OKPay (1.5% fee) or international wire transfer (1% fee).
    url: https://www.huobi.com/
    icon: /img/buy/huobi.png
    countries: cn, hk, mo
    po: bt
    desc_zh: 中国第二大、零交易费的比特币交易平台。通过银行转账交存。
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Has great liquidity and good prices</li>
-   cons: <li>Not private since identity verification is required</li> <li>Interface may be confusing for first-time buyers</li>
+   pros: <li>Huobi has great liquidity and good prices</li> <li>Always-available, bilingual customer support</li> <li>Offers USD as well as CNY trading</li>
+   cons: <li>Not private since identity verification is required</li> <li>Interface may be confusing for first-time buyers</li> <li>Limited payment methods; only bank transfer</li>
 
  - name: LakeBTC
-   desc: LakeBTC is a Bitcoin exchange based in China. Customers can deposit via bank transfer or SEPA. LakeBTC is one of the top 15 global exchanges based average daily trading volume. You can fund your account with credit card, MPESA, SEPA, or even cash.
+   desc: LakeBTC is the fourth largest Bitcoin exchange in China. They operate internationally, in around 40 different countries. LakeBTC is one of the top 15 global exchanges based average daily trading volume. Customers can deposit via cash, bank wire, Western Union, MoneyGram, OKPay, Perfect Money, PayPal, Payza, Skrill, Neteller, Leupay, CHATS or LakePay, although not all methods are available in all countries.
    url: http://buybitcoinww.co/Lake_BTC
    icon: /img/buy/lakebtc.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mo
@@ -1098,11 +1124,11 @@
    desc_zh: 中国比特币交易平台。通过银行转账或国家环保总局交存。
    desc_bg: Биткойн борса в Китай. Депозирайте чрез банков превод или SEPA.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, avgrep, eouhard, avglimits]
-   pros: <li>Global exchange that offers many payment methods</li>
+   pros: <li>Global exchange that offers many payment methods</li> <li>Vast array of BTC-fiat currency trading pairs</li>
    cons: <li>Interface may be hard to use for first-time buyers</li>
 
  - name: Gatecoin
-   desc: Gatecoin is a regulated cryptocurrency and blockchain assets exchange based in Hong Kong. Users can buy bitcoin using HKD, EUR, USD and CNY.
+   desc: Gatecoin is a regulated Bitcoin and altcoin exchange based in Hong Kong. They accept bank transfers from around 40 different countries. Users can buy bitcoin using HKD, EUR, USD and CNY.
    url: https://gatecoin.com/
    icon: /img/buy/gatecoin.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -1113,25 +1139,25 @@
    desc_fr: Gatecoin est un échangeur régulé de crypto-monnaies et d'actifs liés à la Blockchain. Acheter et vendre des bitcoins et de l'éther aec USD, EUR, HKD et CNY.
    desc_bg: Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.
    tags: [quickinfo, lowprivacy, speedvaries, feesvary, lowtrust, eouavg, avglimits]
-   pros: <li>High liquidity and many trading pairs</li>
-   cons: <li>Was recently hacked; users should not store funds on the exchange for long periods of time</li>
+   pros: <li>High liquidity</li> <li>Several BTC-fiat currency trading pairs</li> <li>Multi-sig security feautures</li>
+   cons: <li>Was hacked in May of 2016; users should not store funds on the exchange if it can be avoided</li>
 
 ##### Vietnam ####################################################
-
+   
  - name: Bitcoin Vietnam
-   desc: Bitcoin Vietnam is the largest Bitcoin exchange in Vietnam. It's an easy and convenient way to buy bitcoin within the country.
+   desc: Bitcoin Vietnam is the largest Bitcoin exchange in Vietnam. It's an easy and convenient way to buy bitcoin within the country. Bitcoin Vietnam's partnership with other global exchanges ensures deep liquidity.
    url: https://www.bitcoinvietnam.com.vn/
    icon: /img/buy/bitcoinvietnam.png
    countries: vn
    po: bt, cash
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
    pros: <li>Prices only slightly above the global market rate</li><li>Most trusted exchange in Vietnam</li>
-   cons: <li>Not as private as buying from an ATM in Vietnam</li>
+cons: <li>Not as private as buying from an ATM in Vietnam</li>   
 
 ##### Moldova ####################################################
 
  - name: Buyer.md
-   desc: Buyer.md is a Bitcoin broker in Moldova. Buyer.md buys bitcoin on BTC-e and then sells to you for 7% fee.
+   desc: Buyer.md is a Bitcoin broker in Moldova, which also brokers other goods and services. Buyer.md buys bitcoin on BTC-e and then sells it customers at a 7% fee. They accept a range of Russian payment methods, including WebMoney, Yandex.Money, and Qiwi. They also accept Western payment services, such as PayPal, Skrill, Payza, and Perfect Money.
    url: http://buyer.md/
    icon: /img/buy/buyermd.png
    countries: md
@@ -1139,8 +1165,8 @@
    desc_ru: Биткоин-брокер. Buyer.md покупает биткоины на BTC-e, а затем продает Вам. Сбор в размере 7%.
    desc_uk: Біткоін-брокер. Buyer.md купує біткоіни на BTC-e, а потім продає Вам. Збір у розмірі 7%.
    tags: [quickinfo, avgprivacy, avgspeed, lowfees, avgrep, eouavg, lowlimits]
-   pros: <li>Besides LocalBitcoins, the best way to buy bitcoin in Moldova</li>
-   cons: <li>You may be able to find another way to buy for less than 7% fees</li>
+   pros: <li>Besides LocalBitcoins, the best way to buy bitcoin in Moldova</li> <li>Great variety of payment options</li>
+   cons: <li>You may be able to find another way to buy for cheaper than 7% fees</li> <li>No streamlined method available; you'll have to negotiate with Buyer.md</li>
 
 
 ##### Australia ####################################################
@@ -1152,11 +1178,11 @@
    countries: au
    po: bpay
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, avgrep, eoueasy, highlimits]
-   pros: <li>Low fees at just 1%</li><li>Clean interface makes it easy for first-time buyers</li>
+   pros: <li>Low fees at just 1%</li><li>Clean interface makes it easy for first-time buyers</li><li>Supports several fiat currencies</li>
    cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
 
  - name: BuyaBitcoin
-   desc: BuyaBitcoin is Australian Bitcoin broker. You can use the service to buy bitcoin via cash deposit for 4.9% fees. The coins are usually delivered within 1 hour.
+   desc: BuyaBitcoin is Australian Bitcoin broker. You can use the service to buy bitcoin via cash deposit for 4.9% fees. Your coins are usually delivered within an hour.
    url: https://buyabitcoin.com.au/
    icon: /img/buy/buyabitcoin.png
    countries: au
@@ -1166,80 +1192,83 @@
    cons: <li>High fees for buying bitcoins with cash</li>
 
  - name: Independent Reserve
-   desc: Independent Reserve is an Australian Bitcoin exchange geared towards traders. You can fund your account with EFT or SWIFT.
+   desc: Independent Reserve is an Australian Bitcoin exchange, geared towards traders and corporations. You can fund your account with EFT, SWIFT, POLi, or Crypto Captial. All these methods are free above certain minimums.
    url: https://www.independentreserve.com/
    icon: /img/buy/ir.png
    countries: au
    po: bt, swift
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, avgrep, eouhard, highlimits]
-   pros: <li>Great liquidity means good prices close to market rate</li>
-   cons: <li>Not a wide range of payment methods</li>
+   pros: <li>Great liquidity means good prices close to market rate</li><li>Fair range of payment methods</li><li>Support for AUD, NZD, and USD</li><li>Fees start at 0.5% but may fall as low as 0.1%, depending on trading volume</li>
+   cons: <li>User interface is confusing for first time buyers</li>
 
  - name: Coin Loft
-   desc: Coin Loft is an Australian Bitcoin broker. You can buy bitcoin with cash deposit, credit card, Flexepin, and Poli. If you purchase with cash your coins are delivered within 1 hour.
+   desc: Coin Loft is an Australian Bitcoin broker. You can buy bitcoin with cash deposit, credit card, Flexepin, and POLi. If you purchase with cash, your coins are delivered within an hour.
    url: https://www.coinloft.com.au/
    icon: /img/buy/coinloft.png
    countries: au
    po: cash, cc, poli, flexepin
    tags: [quickinfo, avgprivacy, fast, highfees, avgrep, eouavg, avglimits]
-   pros: <li>Established broker in Australia</li> <li>Wide range of payment methods</li>
-   cons: <li>4% fees is high for cash buys</li><li>5% fee for credit card buys is high</li>
+   pros: <li>Established and trusted broker</li><li>Wide range of payment methods</li><li>Only Australian service accepting Flexepin</li>
+   cons: <li>4% fee is rather steep for cash purchases</li><li>9% cumulative fee for credit card purchases is very high</li><li>Identity verification is required, even for cash payments</li>
 
 ##### Malaysia ####################################################
 
  - name: Bitcoin Exchange Malaysia
    desc: Bitcoin Exchange Malaysia is a Bitcoin exchange based in Malaysia. It offers a fast and easy service, although its buying and selling rates aren't great.
+   ## can't confirm payment methods as I get "BillPlz has denied their service" message, probably due to non-Malaysian IP.  https://www.billplz.com/ say they work for bank transfers, Visa, Mastercard and Paypal tho not sure all those options are enabled on the btc.my.
    url: http://btc.my/
    icon: /img/buy/btcmy.png
    countries: my
    desc_zh: 比特币交易。在马来西亚购买比特币简单又方便的方式。
    tags: [quickinfo, avgprivacy, avgspeed, highfees, avgrep, eoueasy, highlimits]
-   pros: <li>The only Bitcoin exchange based in Malaysia</li>
+   pros: <li>The only Bitcoin exchange based in Malaysia</li><li>Very simple interface</li>
    cons: <li>Very bad rates for buying and selling</li>
 
 ##### Pakistan ####################################################
 
  - name: Urdubit
-   desc: Urdubit is the first and only Bitcoin exchange based in Pakistan. You can buy bitcoin online via bank transfer.
+   desc: Urdubit is the first and only Bitcoin exchange based in Pakistan. You can buy bitcoin online via bank transfer; bank deposits usually take a day to confirm.
    url: https://urdubit.com/
    icon: /img/buy/urdubit.png
    countries: pk
    po: bt
    tags: [quickinfo, rec, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Easy way to buy bitcoins online in Pakistan</li> <li>Service works fast; deposits clear within a few hours</li>
+   pros: <li>Easy way to buy bitcoins online in Pakistan</li> <li>Low 0.75% trading fee</li><li>Global exchange partnerships promote liquidity, resulting in prices close to fair market rates</li>
    cons: <li>Not a private way to buy bitcoins; identity verification required</li>
 
 ##### Philippines ####################################################
 
  - name: BuyBitcoin.ph
-   desc: BuyBitcoin.ph is the easiest way to purchase bitcoins in the Philippines. The interface is very easy to use for first-time buyers. You can buy with many online payment methods or with cash.
+   desc: BuyBitcoin.ph's brokerage service is the easiest way to purchase bitcoins in the Philippines. The interface is very easy to use for first-time buyers. You can use cash or various online payment methods.
+   ## couldn't verify this as their site (with about 10 javascripts) seems broken and won't display any help pages for me
    url: https://buybitcoin.ph/
    icon: /img/buy/buybitcoinph.png
    countries: ph
    po: bt, cash
-   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Easiest way to buy bitcoin in the Philippines</li> <li>Exchange is run by coins.ph</li>
+   tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted eouavg, highlimits]
+   pros: <li>Easiest way to buy bitcoin in the Philippines</li> <li>Exchange is run by popular remittance service, coins.ph</li>
    cons: <li>Rates won't be as good as the trading exchanges in the Philippines</li>
 
  - name: prepaidbitcoin.ph
-   desc: <p>Prepaidbitcoin.ph is a unique Bitcoin service in the Philippines. It sells vouchers at a number of physical locations across the country that can be redeemed online for bitcoins. </p> <p>Just make sure you have a <a href="/wallets/">Bitcoin wallet</a>, since you will need an address to receive the coins.</p>
+   desc: <p>Prepaidbitcoin.ph is a unique Bitcoin service in the Philippines. They sell vouchers from 2 physical locations in Makati City, these vouchers can be redeemed online for bitcoins. Vouchers may also be boght online via Gamex.ph, using Smart or Sun mobile payments.</p><br><br><p>Make sure you have a <a href="/wallets/">Bitcoin wallet</a> before you redeem a voucher, since you'll need an address to receive your bitcoins.</p>
    url: https://www.prepaidbitcoin.ph/
    icon: /img/buy/prepaidbitcoin.png
    countries: ph
    po: cash
    tags: [quickinfo, rec, avgprivacy, fast, avgfees, trusted, eoueasy, lowlimits]
-   pros: <li>Easy way to buy bitcoins in the Philippines</li> <li>Run by the same company that runs coins.ph</li>
-   cons: <li>Rates are not as good as buying from coins.ph</li>
+   pros: <li>Easy way to buy bitcoins in the Philippines</li> <li>Run by the same company as popular remittance service, coins.ph</li>
+   cons: <li>Rates are not as good as buying directly from coins.ph</li>
+   ## if purchase from coins.ph is possible and cheap, shouldn't it be listed as an option for buyers?
 
  - name: BTCExchange
-   desc: BTCExchange.ph is a Bitcoin exchange based in the Philippines. You can fund your account via bank transfer or cash deposit. It is more geared towards traders rather than first-time buyers.
+   desc: BTCExchange.ph is a Bitcoin exchange based in the Philippines. You can fund your account via the DragonPay service, which accepts cash, cheques, mobile payments and bank transfer. BTCExchange is more geared towards traders rather than first-time buyers.
    url: https://www.btcexchange.ph/
    icon: /img/buy/btcexchange.png
    countries: ph
    po: bt, cash
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Bitcoin exchange in the Philippines with high</li> <li>Low fees overall</li>
-   cons: <li>Exchange can be hard to use; is geared towards traders</li>
+   pros: <li>Bitcoin exchange in the Philippines with high</li> <li>Low maker fee of 0.2%</li><li>Fair taker fee of 0.5%</li><li>Fees fall as low as 0% with sufficient trading volume</li>
+   cons: <li>Exchange can be hard to use for new Bitcoin users; it's geared towards traders</li> <li>Not a private way to buy bitcoins; identity verification required</li>
 
  - name: Coinage
    desc: Coinage was the first Bitcoin exchange geared towards traders in the Philippines. You can fund your account via bank transfer or cash deposit.
@@ -1248,77 +1277,79 @@
    countries: ph
    po: bt, cash
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eouhard, highlimits]
-   pros: <li>High liquidity</li>
-   cons: <li>Highest fees among trading exchanges in the Philippines</li>
+   pros: <li>High liquidity</li><li>24/7 support staff</li><li>Deep liquidity ensures you get a fair market price</li>
+   cons: <li>Highest fees among trading exchanges in the Philippines</li> <li>Not a private way to buy bitcoins; identity verification required</li><li>Limited payment options</li>
 
 ##### Cambodia ####################################################
 
  - name: BitcoinCambodia.co
-   desc: <p>BitcoinCambodia.co uses LocalBitcoins to make buying and selling bitcoins in Cambodia easy and secure. They setup their selling services on the platform and LocalBitcoins escrow ensures your trade goes through safely.</p> <p>You can buy with cash, MoneyGram, PayGo wallet, WING, or ABA Bank Transfer.</p>
+   desc: BitcoinCambodia.co is a broker that uses LocalBitcoins. They make buying and selling bitcoins in Cambodia easy and secure. You can pay with cash in Phnom Penh, or online via MoneyGram, PayGo Wallet, WING Cash Xpress, or ABA Bank Transfer.
    url: http://bitcoincambodia.co/
    icon: /img/buy/bcamodia.png
    countries: kh
    po: cash
    tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Offers widest range of payment methods among Cambodian exchanges</li>
-   cons: <li>Minimum buy amounts make it hard to buy small amounts</li>
+   pros: <li>Offers widest range of payment methods among Cambodian exchanges</li><li>All payment options are fast, besides cash trades take a day or two to schedule</li>
+   cons: <li>Minimum buy amounts make it hard to buy small amounts</li><li>Limits vary but are quite low; highest is $1500 for cash trades or $1000 for online methods</li>
 
  - name: Bitcoin Cambodia
-   desc: Bitcoin Cambodia was the first Bitcoin exchange established in Cambodia. You can create an account and buy with Wing or cash in person.
+   desc: Bitcoin Cambodia was the first Bitcoin exchange established in Cambodia. You can create an account and buy in person with USD, via WING Cash Xpress.
    url: https://bitcoincambodia.com/
    icon: /img/buy/cambodia.png
    countries: kh
    po: cash
    tags: [quickinfo, avgprivacy, avgspeed, highfees, trusted, eouavg, highlimits]
-   pros: <li>Easy way to buy bitcoins with cash in Cambodia</li><li>For low liquidity, selling rates are not bad</li>
-   cons: <li>Have to physically go buy bitcoins with cash</li>
+   pros: <li>Easy way to buy bitcoins with cash in Cambodia</li><li>Private; no identity verification is required</li><li>For low liquidity, selling rates are not bad</li><li>Very simple interface</li>
+   cons: <li>No online purchase method; must use a WING Cash Xpress</li><li>4.5% fee is considerable</li><li>Transactions made after 6 PM may not be processed until 8 AM the next day</li>
+## As far as I understand from reading their FAQ, no ID verification is needed so privacy rating should be set to High.
 
 ##### Caribbean ####################################################
 
- - name: bitt
-   desc: Bitt is a Bitcoin exchange based in the Caribbean. It has received over $10 million worth of venture capital funding. You can trade many currencies on the Bitt platform, including BBD, TTD, JMD, USD, EUR, and GBP.
+ - name: Bitt
+   desc: Bitt is a Bitcoin exchange based in the Caribbean. It has received over $10 million in venture capital funding. You can trade many currencies on the Bitt platform, including BBD, TTD, JMD, USD, EUR, and GBP.
    url: https://www.bitt.com/
    icon: /img/buy/bitt.png
    countries: jm, bb, tt
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Trusted exchange backed by US investors</li><li>1% fees are low for the markets that Bitt serves</li>
-   cons: <li>Not a private way to purchase bitcoins</li><li>ID verification required</li>
+   pros: <li>Trusted exchange backed by US investors</li><li>1% fees are low for the markets that Bitt serves</li><li>USD, EUR, and GBP trading fees are very low at 0.2%</li>
+   cons: <li>Not a private way to buy bitcoin as ID verification is required</li><li>Low liquidity for certain currency pairs means wide spreads; harder to get bitcoin at a fair market rate</li>
 
 ##### Indonesia ####################################################
 
  - name: bitcoin.co.id
-   desc: bitcoin.co.id is Indonesia's largest Bitcoin exchange. You can fund your trading account or buy bitcoins with local bank transfer, Alfa network, Doku, Veritrans, or EasyPay.
+   desc: bitcoin.co.id is Indonesia's largest Bitcoin exchange. You can buy bitcoins using cash in Jakarta or Ubud, or online via bank transfer, Alfa network, Doku, Veritrans, or EasyPay.
+   ## help page mentions "cash, bank transfer, voucher or e-wallet," I don't know if those last few methods include Alfa, Doku, Veritrans and EasyPay... https://help.bitcoin.co.id/en_US/saya-pengguna-baru-dan-saya-bingung-harus-memulai-darimana-bagaimana-cara-membeli-menjual-bitcoin/
    url: https://www.bitcoin.co.id/
    icon: /img/buy/bitcoincoid.png
    countries: id
    desc_zh: 信誉高的印尼比特币交易。通过银行转账于账户增资。
    po: bt, easypay
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Good liquidity</li><li>Many payment methods available for deposits</li>
-   cons: <li>ID verification required</li><li>Not good for private purchases of bitcoins</li>
+   pros: <li>Good liquidity</li><li>Many payment methods available for deposits</li><li>Support is available 24/7</li><li>Bank deposits are processed instantly</li>
+   cons: <li>Not private since ID verification is required</li><li>Exchange can be hard to use for new Bitcoin users; it's geared towards traders</li>
 
 ##### Japan ####################################################
 
  - name: bitFlyer
-   desc: bitFlyer is the largest Bitcoin exchange in Japan in terms of average daily volume. In fact, it is one of the largest Bitcoin exchanges in the world.
+   desc: bitFlyer is the largest Bitcoin broker and exchange in Japan, in terms of users, average daily volume and investment capital. In fact, it is one of the largest Bitcoin exchanges in the world. You can deposit funds via credit card or bank transfers, with Quick Deposit functionality enabled for many banks.
    url: https://bitflyer.jp/
    icon: /img/buy/bitflyer.png
    countries: jp
    desc_zh: 比特币交易平台。通过银行转账于账户增资。
    po: bt
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouavg, varylimits]
-   pros: <li>Great liquidity and offers price at near-market rates</li>
-   cons: <li>Many documents required to verify account</li>
+   pros: <li>Deep liquidity ensures prices near the fair market rate</li><li>Extremely low fees; 0.15% at most, lower for more trading volume<li>Fairly private for small trades; only a phone number or Facebook account required for 250,000 JPY monthly limit</li><li>High or no limits for fully-verified or VIP traders</li>
+   cons: <li>Identity verification required to unlock higher monthly limits</li><li>Support only available from 9 AM to 7 PM during weekdays</li><li>Limited payment options</li><li>Exchange can be hard to use for new Bitcoin users; it's geared towards traders</li>
 
  - name: Coincheck
-   desc: Coincheck is a Bitcoin exchange based in Japan. Registered users can buy and sell bitcoin with bank transfer or credit card.
+   desc: Coincheck is a Bitcoin exchange based in Japan. Registered users can buy and sell bitcoin via bank transfer or credit card.
    url: https://coincheck.jp/en/exchange
    icon: /img/buy/coincheck.png
    countries: jp
    po: bt, cc
    tags: [quickinfo, avgprivacy, slow, feesvary, trusted, eouhard, highlimits]
-   pros: <li>No need to upload scans of ID</li> <li>One of a few major Bitcoin exchanges in Japan</li>
-   cons: <li>Fees for buying with a credit card vary</li>
+   pros: <li>Private for Japanese citiizens buying less than $500 worth of bitcoin; no need for identity verification</li> <li>One of a few major Bitcoin exchanges in Japan</li><li>Support for multiple altcoins</li>
+   cons: <li>No set fee for credit card deposits; varies based on conditions</li><li>Exchange can be hard to use for new Bitcoin users; it's geared towards traders</li>
 
 
 ## - name: QuoinExchange
@@ -1337,7 +1368,8 @@
 ##### Russia ####################################################
 
  - name: Matbea
-   desc: Matbea is Bitcoin exchange based in Russia. Customers can deposit funds to buy bitcoin via bank transfer or cash deposit.
+ ## Couldn't verify; Google Translate fails and English version lists no details.
+   desc: Matbea is Bitcoin exchange based in Russia. You can fund your account by cash deposit or bank transfer.
    url: https://matbea.com/
    icon: /img/buy/matbea.png
    countries: ru
@@ -1347,7 +1379,7 @@
    desc_ru: Биткоин-биржа. Вкладывайте средства через банковский перевод или денежный перевод.
    desc_uk: Біткоін-біржа. Вкладайте кошти через банківський переказ або грошовий переказ.
    tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>One of few Bitcoin exchanges based in Russia</li> <li>Wide range of deposit methods</li>
+   pros: <li>One of few Bitcoin exchanges based in Russia</li> ##<li>Wide range of deposit methods</li> - only cash and bank transfer?
    cons: <li>Does not offer rates close to market price</li>
 
 ## - name: ALFAcashier
@@ -1379,7 +1411,7 @@
 
 
  - name: Safello
-   desc: Safello is a Bitcoin exchange registered as a financial institution in Sweden. It offers a wide range of payment methods--Swish, SEPA, and iDEAL--to residents of Europe.
+   desc: Safello is a Bitcoin exchange based in Sweden and fully-registered as a financial institution. It offers a wide range of payment methods - Swish, SEPA, SWIFT, Faster Payments, Bankgiro and iDEAL - to European residents.
    url: https://safello.com/
    icon: /img/buy/safello.png
    countries: se, es, pl, hu, be, nl, gb, it, ch, de, fr, at, bg, cy, hr, cz, dk, ee, fi, gr, ie, li, lt, lu, mc, mt, pt, ro, sm, sk
@@ -1398,13 +1430,14 @@
    desc_uk: Купити біткоіни через SEPA, Swish, SWIFT, Bankgiro та іншими способами.
    tags: [quickinfo, avgprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Offers a wide range of payment methods</li><li>Support many countries</li>
-   cons: <li>Not a private way to buy since ID verification is required</li>
+   pros: <li>Offers a wide range of payment methods</li><li>Available from 32 countries</li><li>Offers a wide variety of payment methods</li><li>Deep liquidity ensures prices near the fair market rate</li><li>Support staff available every day from 8 AM to 10 PM</li>
+   cons: <li>Not a private way to buy since ID verification is required</li><li>Support staff available during weekdays only, from 9 AM to 5 PM (UTC)</li><li>Only Swish payments will confirm over weekends</li><li>Fees aren't clearly stated but included in your buying price</li>
 
 ##### Ukraine ####################################################
 
- - name: btcu.biz
-   desc: btcu.biz may be the best way to buy bitcoins in Ukraine (besides LocalBitcoins). You can buy bitcoin with credit card or cash deposit at thousands of ATMs across Ukraine.
+ - name: Btcu.biz
+   desc: Btcu.biz may be the best way to buy bitcoins in Ukraine (besides LocalBitcoins). You can buy bitcoin (or BTCe codes redeemable for bitcoin) by depositing cash at any IBox or Tyme ATM in Ukraine.
+   ## saw nothing on the site about credit cards, only cash payments, so removed that option in desc...
    url: https://btcu.biz/
    icon: /img/buy/btcubiz.png
    countries: ua
@@ -1413,11 +1446,13 @@
    desc_ru: Купить биткоин с помощью кредитной карты или наличными деньгами в тысячах банкоматах Украины.
    desc_uk: Купити біткоіни за допомогою кредитної картки або готівкою в тисячах банкоматах України.
    tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Great and convenient way to buy bitcoins in Ukraine</li>
-   cons: <li>Somewhat high fees at around 7%</li>
+   pros: <li>Great and convenient way to buy bitcoins in Ukraine</li><li>Private; no personal info is required besides your phone number</li>
+   cons: <li>Somewhat high fees of around 7%</li>
 
  - name: Kuna
-   desc: Kuna is a physical Bitcoin broker. You can go to their offices and purchase bitcoins with cash.
+   desc: Kuna is a Bitcoin exchange in Ukraine. You can go to their offices and purchase bitcoins with cash or buy online using a credit card.
+   ## their (terribly confusing) site and FB page suggests credit cards payments are possible: https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=ru&sp=nmt4&tl=en&u=https://kuna.io/documents/rules&usg=ALkJrhhgHPtTnLxoo1NikRaFebBTpNpppA
+   ## I didn't see cash payments specifically mentioned... they may have transformed into an online-only exchance rather than an in-person broker but a Russian speaker is needed to clarify
    url: http://kuna.com.ua/
    icon: /img/buy/kuna.png
    countries: ua
@@ -1426,33 +1461,33 @@
    desc_ru: Биткоин-брокер. Купить биткоин прямо через агенство Kuna Bitcoin.
    desc_uk: Біткоін-брокер. Купити біткоіни прямо через агенство Kuna Bitcoin.
    tags: [quickinfo, highprivacy, fast, avgfees, trusted, eoueasy, highlimits]
-   pros: <li>Convenient way to buy bitcoins if you live near the agency</li>
-   cons: <li>Not an option for many people in Ukraine</li>
+   pros: <li>Convenient way to buy bitcoins if you live near the agency</li><li>Low fees; 1% and below</li>
+   cons: <li>Not a convenient option if you don't have a credit card or live far from their premises</li>
 
 ##### Kyrgyzstan ####################################################
 
 ##### Thailand ####################################################
 
  - name: coins.co.th
-   desc: coins.co.th is a Bitcoin platform operating in Thailand. Customers can buy bitcoin via bank or cash deposit, bank transfer, or ATMs across the country.
+   desc: coins.co.th is a Bitcoin broker operating in Thailand. Customers can buy bitcoin via bank or cash deposit, bank transfer, mobile payments, or ATMs across the country. They also allow trading in numerous altcoins.
    url: https://coins.co.th/buy-bitcoin
    icon: /img/buy/coinsth.png
    countries: th
    desc_zh: 在国内以银行/现金交存、银行转账或自动提款机购买比特币。
    po: cash, bt
    tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Very easy to use for first-time buyers</li> <li>Great selection of payment methods, including mobile payments</li>
-   cons: <li>Don't store bitcoins in coins.co.th Bitcoin wallet</li>
+   pros: <li>Very easy to use for first-time buyers</li> <li>Great selection of payment methods, including mobile payments</li><li>They allow you to top up your phone's airtime with bitcoin</li><li>Support for many altcoins</li>
+   cons: <li>Don't store bitcoins in coins.co.th Bitcoin wallet</li> <li>Not a private way to buy since ID verification is required</li>
 
  - name: bitcoin.co.th
-   desc: Bitcoin.co.th is the easiest way to buy bitcoins in Thailand. You can fund your account with the exchange via cash deposit, bank transfer, or at any ATM. You can also sell bitcoins and receive THB to any Thai bank account.
+   desc: Bitcoin.co.th is the easiest way to buy bitcoins in Thailand. You can fund your account with the exchange via cash deposit, bank transfer, or at any ATM.
    url: https://bitcoin.co.th
    icon: /img/buy/bitcoincoth.png
    countries: th
    desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
    po:  cash, bt
    tags: [quickinfo, rec, avgprivacy, fast, highfees, trusted, eoueasy, highlimits]
-   pros: <li>Super easy way to buy bitcoins in Thailand</li> <li>Many payment methods available</li>
+   pros: <li>Super easy way to buy bitcoins in Thailand</li> <li>Many payment methods available</li><li>They allow you to top up your phone's airtime with bitcoin</li>
    cons: <li>Fees not displayed; fees included in buy price</li>
 
  - name: bx.in.th
@@ -1463,66 +1498,68 @@
    desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
    po: bt
    tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Good rates for buying bitcoin in Thailand</li>
-   cons: <li>Not as easy to use as other exchanges in Thailand</li>
+   pros: <li>Very low 0.25% fees</li><li>Support for many altcoins</li><li>Fairly private; only name and surname required to register</li>
+   cons: <li>Not as easy to use as other exchanges in Thailand</li><li>Exchange can be hard to use for new Bitcoin users; it's geared towards traders</li></li>Exchange may request further personal info for verification purposes at any time</li>
 
 ##### South Korea ####################################################
 
  - name: Korbit
-   desc: Korbit is the largest Bitcoin exchange in South Korea based on trading volume. Deposit via bank transfer.
+   desc: Korbit is the first and largest Bitcoin exchange in South Korea, based on trading volume. Deposits can be made via bank transfer only.
    url: https://korbit.co.kr/
    icon: /img/buy/korbit.png
    countries: kr
    po: bt
    tags: [quickinfo, rec, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Extremely low fees for buying bitcoins</li> <li>Good liquidity; easy to get a good price on your purchase</li>
-   cons: <li>Can be hard to use for the first time</li><li>Offers a wallet that should not be used for Bitcoin storage</li>
+   pros: <li>Extremely low fees of 0% (for market makers) to 0.2% (for market takers)</li> <li>Deep liquidity ensures a buying price close to fair market rate</li><li>Multi-sig security features</li><li>Offers a remittance service</li>
+   cons: <li>Can be hard to use for the first time</li><li>Offers a wallet that should not be used for Bitcoin storage</li><li>Single payment method</li>
 
  - name: Coinplug
-   desc: Coinplug is a Bitcoin exchange based in South Korea. Customers can buy bitcoin by making a deposit to one of Coinplug's virtual bank accounts.
+   desc: Coinplug is a Bitcoin exchange based in South Korea. Customers can buy bitcoin by making a bank deposit to one of Coinplug's virtual bank accounts. <br><br>Coinplug also operates the okBitcard service which allows bitcoin vouchers to be purchased from any 7-11, Mini Stop or Nautilus ATM across South Korea. Vouchers may be purchased in ₩10,000, ₩30,000, or ₩50,000 denominations.
    url: https://www.coinplug.com/
    icon: /img/buy/coinplug.png
    countries: kr
    po: cc, cash
    tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Low fees; possible to buy for just 0.1%</li>
-   cons: <li>Identity verification required</li><li>Interface may be confusing for first time buyers</li>
+   pros: <li>Low fees; possible to buy for just 0.1%</li><li>Investment and technical advice from some prominent industry names</li><li>okBitcard is a quick and convenient to buy small amounts of bitcoin at over 32,000 venues across South Korea</li><li>okBitcard is quite a private buying method; requires only your phone number</li>
+   cons: <li>Not private since identity verification is required for exchange trading</li><li>Interface may be confusing for first time buyers</li><li>Exchange's virtual bank accounts, valid for 24 hours only, may lead to complications in the event of payment delays</li>
+
+## added the okBitcard service run by Coinplug but maybe it requires a link (to https://www.coinplug.com/intro/okbitcard.do#focusTest) or a separate entry? okBitcard allows BTC vouchers to be bought for cash at 32,000+ stores across S. Korea: http://www.coindesk.com/coinplug-sell-bitcoin-cards-24000-korean-convenience-stores/
 
 ##### Taiwan ####################################################
 
  - name: MaiCoin
-   desc: MaiCoin is the largest Bitcoin exchange in Taiwan. Customers can deposit via bank transfer online or buy bitcoins with cash at a number of locations.
+   desc: MaiCoin is the largest Bitcoin exchange in Taiwan. Customers can deposit funds via cash payment at any Taiwanese ATM, 7-Eleven ibon terminal, or bank counter. Online, clients may pay via bank transfer. MaiCoin also accepts payments from post offices.
    url: https://www.maicoin.com/
    icon: /img/buy/maicoin.png
    countries: tw
    desc_zh: 台湾最大的比特币交易平台。通过自动提款机或银行转账交存。
    po: cash, bt
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouavg, avglimits]
-   pros: <li>Fast way to buy bitcoin in Taiwan</li><li>No fees; only bank transfer fees apply</li>
-   cons: <li>Process for buying with cash may be slightly confusing the first time</li><li>Verification required; not private</li>
+   pros: <li>Fast way to buy bitcoin in Taiwan</li><li>No fees; only bank transfer fees apply</li><li>Daily limit of $500,000 NTD may be raised on request</li><li>7-Eleven ibon method is fairly private; requires only your mobile phone number</li>
+   cons: <li>Process for buying with cash may be slightly confusing the first time</li><li>Verification required for most methods; not private</li>
 
  - name: BitoEX
-   desc: BitoEX is a Bitcoin company based in Taiwan. It allows users to purchase bitcoins at 5,000 convenience stores across Taiwan.
+   desc: BitoEX is a Bitcoin company based in Taiwan. It allows users to purchase bitcoins at 5,000 FamilyMart convenience stores across Taiwan.
    url: https://www.bitoex.com/fami?locale=en
    icon: /img/buy/bitoex.png
    countries: tw
    desc_zh: 可在台湾内超过五千家的便利商店购买比特币。简单又快捷。
    po: cash
    tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Fast way to buy bitcoin in Taiwan</li><li>1% fees for purchases</li>
-   cons: <li>Process may be slightly confusing the first time</li>
+   pros: <li>Fast way to buy bitcoin in Taiwan</li><li>Very low cash purchase charges; 1% BitoEX fee and 25 TWD FamilyMart rate</li><li>Fairly private purchase method, requires only your mobile phone number</li>
+   cons: <li>Process may be slightly confusing the first time</li><li>20,000 TWD buying limit per phone number</li>
 
 ##### India ####################################################
 
  - name: Unocoin
-   desc: Unocoin is the leading Indian Bitcoin platform. Its customers can buy bitcoin with any Indian bank account using online banking or NEFT/RTGS.
+   desc: Unocoin is India's leading Bitcoin platform. Their customers can buy bitcoin with any Indian bank account via online banking or NEFT and RTGS.
    url: https://www.unocoin.com/
    icon: /img/buy/unocoin.png
    countries: in
    po: bt
    desc_pt_br: Plataforma Indiana de Bitcoins. Compre Bitcoins usando qualquer tipo de conta bancária indiana.
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits]
-   pros: <li>Regulated company in India</li> <li>Backed by investors in the United States</li>
+   pros: <li>Regulated company in India</li> <li>Backed by investors in the United States</li><li>Low 1% fee, reduced to 0.7% with sufficient trading volume</li>
    cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification, so not private</li>
 
  - name: Zebpay
@@ -1532,19 +1569,19 @@
    countries: in
    po: bt
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits]
-   pros: <li>Regulated company in India</li>
-   cons: <li>Fees included in buy/sell prices, not displayed publically</li><li>Requires ID verification; not private</li>
+   pros: <li>Regulated company in India</li><li>Offers additional services, such as purchase of mobile airtime and gift vouchers for bitcoin</li><li>Multi-sig security features</li>
+   cons: <li>Fees included in buy/sell prices, not displayed publically</li><li>Requires ID verification; not private</li><li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
 
- - name: coinsecure
-   desc: Coinsecure is an Indian Bitcoin exchange and trading platform. It offers low fees at just 0.3% per buy and a number of deposit options.
+ - name: Coinsecure
+   desc: Coinsecure is an Indian Bitcoin exchange and trading platform. It offers very low fees at just 0.3% per buy and a number of deposit options; including NEFT, RTGS, IMPS and cash deposit.
    url: https://coinsecure.in/
    icon: /img/buy/coinsecure.png
    countries: in
    po: bt
    desc_pt_br: Plataforma indiana de conversão de Bitcoins. Taxa de 0,3% e várias opções de depósito.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eoueasy, avglimits]
-   pros: <li>Regulated Bitcoin exchange based in India</li>
-   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
+   pros: <li>Regulated Bitcoin exchange based in India</li><li>Very low fees</li><li>Video service guides available</li>
+   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification; not private</li><li>Interface is geared for traders and may be confusing for first time buyers</li>
 
 ##### Serbia ####################################################
 
@@ -1567,40 +1604,42 @@
 ##### Netherlands ####################################################
 
  - name: Bitonic
-   desc: Bitonic is the most popular Bitcoin exchange in the Netherlands. It's a fast and easy way to buy bitcoins with iDEAL or MasterCash.
+   desc: Bitonic was founded in 2012 and is the most popular Bitcoin service in the Netherlands. Their brokerage service is a fast and easy way to buy bitcoins via iDEAL, Bancontact , Giropay, or Mybank. You may also fund your Bitonic BL3P exchange account via the bunq app, iDEAL or SEPA transfer.
+   ##Other payment methods - NOTE: Mastercash no longer listed! Site mentions Bancontact as "former MisterCash" - are listed in their FAQ https://bitonic.nl/faq#about but I don't see them in the payment dropdown on their front page.
    url: http://buybitcoinww.co/bitonic_nl
    icon: /img/buy/bitonic.png
    countries: nl
    po: ideal, mastercash
    tags: [quickinfo, avgprivacy, fast, avgfees, trusted, eoueasy, avglimits]
-   pros: <li>Oldest and trusted Bitcoin exchange in the Netherlands</li> <li>Super fast delivery of bitcoins</li> <li>No identity verification required</li>
-   cons: <li>Fees only displayed in price at checkout</li>
+   pros: <li>First and highly-trusted Bitcoin service in the Netherlands</li> <li>Super fast delivery of bitcoins</li><li>BL3P exchanges offers a very low 0.25% fee and promises fast deposits and withdrawals</li>
+   cons: <li>Brokerage fees not publically stated; included in price at checkout</li><li>Semi-private brokering service; bank account verification required but TOR connections allowed</li>
+   ## perhaps BL3P should be listed separately? it seems to service all of Europe via SEPA
 
  - name: Bitrush
-   desc: Bitrush is a Bitcoin exchange based in the Netherlands. Its customers can buy bitcoins with iDEAL, MisterCash and MyBank.
+   desc: Bitrush is a Bitcoin exchange based in the Netherlands. Its customers can buy bitcoins with iDEAL, Bancontact, and MyBank.
    url: https://www.bitrush.nl
    icon: /img/buy/bitrush.png
    countries: nl, de, gb, be
    po: ideal, sofort
    tags: [quickinfo, lowprivacy, fast, avgfees, avgrep, eoueasy, avglimits]
    pros: <li>Simple interface makes buying an easy process</li> <li>Fast delivery of bitcoins after payment</li>
-   cons: <li>New broker, needs to build trust</li>
+   cons: <li>New broker, needs to build trust</li><li>Requires ID verification; not private</li>
 
 ##### Poland ####################################################
 
  - name: BitBay
-   desc: BitBay is a European Bitcoin exchange based in Poland. Residents of the EU can buy bitcoins with euros via wire transfer or credit card. Customers in Poland can buy with cash at Poczta Polska.
+   desc: BitBay is a European Bitcoin exchange based in Poland. Residents of the EU can buy bitcoins with euros via wire transfer, DotPay or credit/debit card. Polish nationals may additionally fund their account via PLN cash deposits at Żabka and FreshMarket stores or at any Polish bank or post office.
    url: http://buybitcoinww.co/BitBay_net
    icon: /img/buy/bitbaynet.png
    countries: pl
    po: bt, cash
    desc_ccww_pl: BitBay jest wiodącą giełdą kryptowalut w Polsce. Udostępnia wiele zaawansowanych narzędzi do handlu Bitcoin i innymi altcoinami. To, co wyróżnia giełdę BitBay to możliwość szybkich wpłat i wypłat różnymi metodami. Poczta Polska, bankomaty czy karta do konta to najpopularniejsze z nich. Karty kredytowe i debetowe Visa i Mastercard umożliwiają szybkie wpłaty walut EUR i USD na konto BitBay. Prowizja wynosi 5%, ale nie mniej niż 10 EUR lub USD. Usługa jest dostępna tylko dla zweryfikowanych użytkowników giełdy. Wpłacone środki można wykorzystać na dalsze transakcje giełdowe.
    tags: [quickinfo, lowprivacy, fast, avgfees, avgrep, eoueasy, avglimits]
-   pros: <li>One of the few Poland based Bitcoin exchanges</li> <li>Some of the lowest fees for Poland if bank transfer is used</li>
-   cons: <li>Slightly high fees for buying bitcoins with a credit card</li>
+   pros: <li>One of the few Polish Bitcoin exchanges</li> <li>Some of the lowest trading fees for Poland; 0.43% down to 0.25% for sufficient trading volume</li><li>Accepts payments in PLN, EUR, and USD</li><li>No identity verification required to buy up to €15,000 worth of bitcoin annually</li><li>Extensive range of payment options</li><li>Good live support and written guides</li>
+   cons: <li>Slightly high fees for buying bitcoins with a credit card</li><li>Requires ID verification; not private</li>
 
  - name: BitMarket
-   desc: BitMarket is a Bitcoin exchange based in Poland. Users can deposit PLN via local bank transfer.
+   desc: BitMarket is a Bitcoin exchange based in Poland. Users can deposit EUR or PLN via local bank transfer, SEPA, or bank wire.
    url: https://www.bitmarket.pl/
    icon: /img/buy/bitmarket.png
    countries: pl
@@ -1609,13 +1648,14 @@
    desc_ru: Биткоин-биржа. Вклад PLN с помощью местного банковского перевода.
    desc_uk: Біткоін-біржа. Вклад PLN за допомогою місцевого банківського переказу.
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, avgrep, eouhard, avglimits]
-   pros: <li>One of the few Poland based Bitcoin exchanges</li> <li>Some of the lowest fees for Poland</li>
-   cons: <li>Slightly confusing for first time buyers</li>
+   pros: <li>One of the few Poland based Bitcoin exchanges</li> <li>The lowest trading fees for Poland, 0.15% for market markers, falling to 0% for sufficient volume and 0.45% for market takers, falling to 0.3% for sufficient volume</li><li>Free PLN deposits</li>
+   cons: <li>Slightly confusing for first time buyers</li><li>Requires ID verification; not private</li>
 
 ##### Romania ####################################################
 
  - name: Bitcoin Romania
-   desc: Bitcoin Romania is a cash to bitcoin service. Customers can buy bitcoin at more than 800 ZebraPay terminals across Romania.
+   desc: Bitcoin Romania is a Bitcoin brokerage. Customers can buy online via bank transfer or in-person by depositing cash at over 800 ZebraPay terminals across Romania. <br><br>They also operate a Bitcoin ATM in Bucharest, this method requires no identity verification .
+   ## bank transfer method: https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=ro&sp=nmt4&tl=en&u=http://bitcoinromania.ro/bitcoin/cumpara-bitcoin-pe-platforma-online-bitcoin-romania/&usg=ALkJrhgbdmcbkr7cte09aaZU2RJS-W0ptQ
    url: http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/
    icon: /img/buy/btcromania.png
    countries: ro
@@ -1624,8 +1664,8 @@
    desc_bg: Купете биткойн от някой от над 800-те терминала на ZebraPay на територията на Румъния.
    desc_ru: Купить биткоин в более чем 800 терминалах ZebraPay в Румынии.
    desc_uk: Купити біткоіни в більш ніж 800 терміналах ZebraPay в Румунії.
-   pros: <li>One of the best ways to buy bitcoins in Romania</li> <li>Convenient way to purchase coins if you have a ZebraPay terminal near you</li>
-   cons: <li>Higher fees than other exchanges in Romania</li>
+   pros: <li>One of the most private ways to buy bitcoins in Romania</li> <li>Convenient way to purchase coins if you have a ZebraPay terminal near you</li><li>1% fee for online purchase is fair for the region</li><li>2.5% ATM fee is low for cash purchase</li><li>4% ZebraPay fee is reasonable for cash purchase/li>
+   cons: <li>Online purchase is not private; identity verification required</li><li>Online purchase method requires proof of payment within an hour</li>
 
  - name: BitcoinXRomania
    desc: Bitcoin exchange based in Romania. Customers can make deposits via bank transfer. The company charges just a 0.5% fee on all trades.
@@ -1638,38 +1678,42 @@
    desc_ru: Биткоин-биржа. Депозит с помощью банковского перевода. Сборы в размере 0.5% на все сделки.
    desc_uk: Біткоін-біржа. Депозит за допомогою банківського переказу. Збори в розмірі 0.5% на всі операції.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
-   pros: <li>One of the best ways to buy bitcoins in Romania</li> <li>Charges just 0.5% per buy</li>
+   pros: <li>Probably the cheapest way to buy bitcoins in Romania</li> <li>Very low 0.5% trading fee</li><li>Free deposits and withdrawals</li><li>Accepts RON, GBP, HUN, EUR, and USD payments</li>
+   cons: <li>Online purchase is not private; identity verification required</li><li>Geared towards traders; confusing for first time buyers, particularly with inclusion of the CXC exchange token</li><li>Limited payment options</li>
 
 ##### Dominican Republic ####################################################
 
  - name: BitcoinRD
-   desc: BitcoinRD is the easiest way to purchase bitcoins in the Dominican Republic. Users can purchase with bank transfer.
+   desc: BitcoinRD is a Bitcoin broker and probably the easiest way to purchase bitcoins in the Dominican Republic. Users can purchase via bank transfer.
    url: http://bitcoinrd.online/
    icon: /img/buy/bitcoinrd.png
    countries: do
    po: bt
    desc_es: Compra Bitcoins en República Dominicana vía transferencia bancaria.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, avgrep, eouavg, avglimits]
-   pros: <li>One of the best ways to buy bitcoins in the Dominican Republic</li>
-   cons: <li>Identity verification offers less privacy than other methods in the DR like LocalBitcoins</li>
+   pros: <li>One of the easiest ways to buy bitcoins in the Dominican Republic</li><li>Accounts with major banks; Banco Popular, BanReservas, and BHD León, should ensure fast payment</li><li>BitcoinRD has good feedback on all their LocalBitcoins trades so far</li>
+   cons: <li>Identity verification required; less private than other methods available in DR, such as LocalBitcoins cash trades</li><li>Offers an Android Bitcoin wallet but this is not ideal for bitcoin storage</li><li>Not as secure as buying through LocalBitcoins' escrowed service</li><li>Single payment method</li>
 
 
 ##### Nigeria ####################################################
 
  - name: NairaEx
-   desc: NairaEx is the largest Bitcoin exchange in Nigeria. Its customers can purchase bitcoins with Perfect Money, Web Money, bank transfer or cash in person.
+   desc: NairaEx is the largest Bitcoin exchange in Nigeria. Its customers can purchase bitcoins with Perfect Money, bank transfer or with cash via bank deposit.
+   ## did not see Web Money listed on the site as a payment option, changed cash in person to bank deposit... Probably not best way to buy bitcoins in Nigeria, I saw high spreads, so Luno is probably the best. changed pros accordingly
    url: https://nairaex.com/home
    icon: /img/buy/nairaex.png
    countries: ng
    po: cash, bt
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
-   pros: <li>Best way to buy bitcoins in Nigeria</li>
-   cons: <li>Identity verification offers less privacy than other methods in Nigeria like LocalBitcoins</li>
+   pros: <li>Long-running Nigerian exchange</li> <li>Several payment methods</li>
+   cons: <li>Identity verification offers less privacy than other purchase methods in Nigeria, like LocalBitcoins</li>
 
 ##### Kenya ####################################################
 
  - name: BitPesa
-   desc: BitPesa is a Bitcoin remittance company. In Nigeria, you can use BitPesa to buy bitcoins with your debit card or Paga account. In Uganda, you can buy with MTN or Airtel.
+   desc: BitPesa is a Bitcoin remittance company. They sell bitcoin in Kenya via the popular M-PESA mobile payment service. BitPesa also has a presence in 2 other African countries. In Nigeria, you can use BitPesa to buy bitcoins with your debit card or Paga account. In Uganda, you can buy with MTN or Airtel. Purchase method for Kenya is coming soon...
+   ## confirmed works in Kenya: https://www.bitpesa.co/blog/how-do-i-buy-bitcoin-from-bitpesa/
+   ## these guys are apparently working on a payment methods for buying bitcoin in Kenya but don't have info up yet, should check back and add info for Kenyan MPESA funding methods when available: https://bitpesa.zendesk.com/hc/en-us/articles/115000150484-How-to-buy-bitcoin-in-Kenya
    url: https://www.bitpesa.co/
    icon: /img/buy/bitpesa.png
    countries: ug, ng
@@ -1678,13 +1722,13 @@
    desc_es: BitPesa es una compañía de envíos de Bitcoin pero también vende Bitcoin en Kenia.
    desc_fr: BitPesa est une société de transfert de Bitcoins qui vend également des Bitcoins au Kenya.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
-   pros: <li>Best way to buy bitcoins in Nigeria and Uganda</li>
-   cons: <li>Identity verification offers less privacy than other methods in Nigeria like LocalBitcoins</li>
+   pros: <li>Convenient way to buy bitcoins in Kenya, Nigeria, and Uganda</li>
+   cons: <li>Identity verification offers less privacy than other methods in Nigeria or Uganda, like LocalBitcoins</li>
 
 ####################################################
 
  - name: Bitstamp
-   desc: BitStamp is one of the world's largest and most well known Bitcoin exchanges. Deposits can be made through bank transfer, SEPA transfer, or even credit card.
+   desc: BitStamp is one of the world's largest and most well-known Bitcoin exchanges. Deposits can be made through bank transfer, SEPA transfer, international bank wire, and now even credit cards.
    url: https://www.bitstamp.net/
    icon: /img/buy/stamp.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -1705,18 +1749,17 @@
    desc_uk: Купити біткоін на Bitstamp через SEPA-платіж або грошовим переказом. Збори можуть змінюватися.
    desc_sell: Sell bitcoins on Bitstramp, then transfer your funds to a bank account through SEPA transfer.
    desc_babt: Bitstamp is one of the world's largest Bitcoin exchanges. It makes it easy for Europeans to purchase large amounts of bitcoins fast with SEPA bank transfer. Almost anyone in the world can use their bank account to send a wire transfer to Bitstamp, although fees may apply.
-   pros: <li>One of the oldest running Bitcoin exchanges</li> <li>Unique amount of deposit and withdraw options</li>
-   cons: <li>Has been hacked before, users should not store funds on the exchange for any period of time</li>
+   pros: <li>One of the longest-running Bitcoin exchanges</li> <li>Very low 0.25% fee, falling to 0.1% with sufficient trading volume</li><li>Good range of deposit and withdrawal options</li> <li>Deep liquidity promotes a price close to fair market rate</li><li>Offers wide range of altcoins<li>
+   cons: <li>Has been hacked before, users should not store funds on the exchange for any period of time</li> <li>High 8% fee on small credit card purchases, falling to 5% with sufficient trading volume</li> <li>Geared towards traders; slightly confusing for first time buyers</li>
 
  - name: Kraken
-   desc: Kraken is the world's largest euro-denominated Bitcoin exchange based on daily average trading volume. It supports deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via international bank transfer, SEPA transfer, and Interac.
+   desc: Founded mid-2013, Kraken is the world's largest Euro-denominated Bitcoin exchange, based on daily average trading volume. It supports deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via bank wire, SEPA, SWIFT, and bank deposit (Japan only).
+   ## removed Interac funding method, not found on https://www.kraken.com/en-us/help/faq
    url: https://www.kraken.com/
    icon: /img/buy/kraken.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
    po: sepa, io, lowfees, babt, sell
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>High liquidity for large volume buyers in European markets</li>
-   cons: <li>User-interface makes it difficult for first time buyers</li>
    name_es: Kraken
    desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
    desc_ar:  صرافة بيتكوين التي تدعم ودائع SEPA والتحويلات البنكية، والحوالات البنكية السريعة SWIFT، والإيداع المصرفي بالين الياباني JPY.
@@ -1732,17 +1775,17 @@
    desc_uk: Біткоін-біржі, що підтримують SEPA-депозити, банківські перекази, SWIFT.
    desc_sell: Sell bitcoins to your bank account in Europe through SEPA transfer.
    desc_babt: Kraken is the world's largest euro-denominated Bitcoin exchange based on daily average trading volume. It supports bank transfer deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via international bank transfer, SEPA transfer, and Interac.
+   pros: <li>Well-financed and trusted exchange</li><li>Very low 0.25% taker fee, falling to 0.1% with sufficient trading volume</li><li>Very low maker fee, falling to 0% with sufficient trading volume</li><li>Deep liquidity for large volume buyers in European markets ensures a price close to fair market rate</li><li>Highly-rated for security</li><li>Publishes proof of reserve audits</li>
+   cons: <li>User-interface makes it difficult for first time buyers</li><li>Requires ID verification, so not private</li>
 
  - name: Wall of Coins
-   desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, UK, Canada, Australia, Germany, Poland, Argentina, Brazil, Latvia, Mexico, Philippines, and Romania. It offers low fees and is a more private way to purchase coins.
+   desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, UK, Canada, Argentina, Australia, Brazil, Canada, Germany, Latvia, Mexico, Poland, the Philippines, and Romania. It offers low fees and is a very private way to purchase coins.
    tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eoueasy, avglimits, int]
    url: http://buybitcoinww.co/Wall_of_Coins
    internal_url: /exchanges/wall-of-coins/
    icon: /img/buy/wallofcoins.png
    countries: us, ca, de, ph, ar, pl, lv
    po: fast, cash, cdus, nobank, lowfees
-   pros: <li>Easy and private way to purchase bitcoins</li>
-   cons: <li>Currently limited to 12 countries</li>
    desc_nobank: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes.
    desc_cdus: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes.
    desc_cdus_short: Wall of Coins makes it easy and fast to buy bitcoins with cash. <a href="/exchanges/wall-of-coins/">Wall of Coins review</a>.
@@ -1755,6 +1798,8 @@
    desc_zh: 可在全美一些特定的银行以现金交存购买比特币。
    desc_ru: Купить биткоин наличным депозитом во множестве банков США.
    desc_uk: Купити біткоіни готівковим депозитом в безлічі банків США.
+   pros: <li>Easy way to purchase bitcoins</li><li>Fairly private way to purchase bitcoins; only your phone number is required</li>
+   cons: <li>Currently limited to 12 countries</li> <li>Hard to find sellers offering high volume</li>
 
 ## - name: 247Exchange
 ##   url: http://buybitcoinww.co/247exchange
@@ -1767,7 +1812,7 @@
 ##   cons: <li>Somewhat high fees for credit and debit card purchases</li>
 
  - name: LibertyX
-   desc: LibertyX makes buying bitcoins with cash a simple process. You first use LibertyX's app to locate a store near you that sells LibertyX codes. Once you locate a store you enter your LibertyX code to the app along with a Bitcoin address and your coins will be delivered. <br><br> If you connect a Facebook account to your LibertyX app, your first $500 of purchases are fee-free. Otherwise all purchases cost 1% in fees.
+   desc: LibertyX is an American service which makes buying bitcoins with cash simple. First, use LibertyX's app to locate a store near you that sells LibertyX codes. Next, enter your LibertyX code to the app, along with your Bitcoin address and you'll receive your bitcoins very soon after. <br><br> If you connect a Facebook account to your LibertyX app, your first $500 of purchases are fee-free. Otherwise all purchases cost 1% in fees.
    url: https://libertyx.com/
    icon: /img/buy/libertyx.png
    countries: us
@@ -1787,11 +1832,12 @@
    desc_zh: 可在美国的一些零售店以现金购买比特币。
    desc_ru: Купить биткоин за наличные во множестве магазинов США.
    desc_uk: Біткоіни-брокер. Купити біткоіни за готівку в безлічі магазинів США.
-   pros: <li>Easy way to buy bitcoins with cash for low fees</li>
-   cons: <li>Some verification is required so it is a less private way of buying with cash</li>
+   pros: <li>Easy and fast way to buy bitcoins with cash</li>Low 1.5% (plus store fee) rate for cash purchase method</li><li>Daily $1000 limit is fairly high for a convenience service</li>
+   cons: <li>Participating stores add their own variable fee</li><li>Some verification is required which lowers the expected privacy level of cash purchase</li><li>Attaching your Facebook account further degrades privacy</li>
 
  - name: CoinCorner
-   desc: CoinCorner is a Bitcoin exchange based in the Isle of Man. Users in the UK and Europe can purchase bitcoins with SEPA, credit/debit card, or GBP bank transfer.
+   desc: CoinCorner is a Bitcoin exchange based on the Isle of Man. They cater to users in the UK, Europe, Canada, Australia, and certain African, Asian, and South American <a href="https://www.coincorner.com/Countries">countries.</a> CoinCorner users may purchase bitcoins with SEPA, credit/debit card, GBP bank transfer, and now <a href="https://www.coincorner.com/BuyBitcoinsNeteller">Neteller</a>too.
+   ## note addition of neteller method with no limits and claimed privacy
    desc_ccww_short: Buy bitcoin in the UK and Europe with debit card or credit card.
    desc_babt: CoinCorner is a Bitcoin exchange based in the Isle of Man. Users in the UK and Europe can purchase bitcoins with SEPA, credit/debit card, or GBP bank transfer.
    url: http://buybitcoinww.co/coincorner
@@ -1801,11 +1847,11 @@
    desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    desc_neteller: CoinCorner recently added support for NETELLER. It lets you use CoinCorner and fund your account without giving up your credit card details or extra personal information.
-   pros: <li>Trusted and regulated company in the UK</li> <li>Wide range of payment options</li> <li>Good customer support</li>
-   cons: <li>Slightly high fees for buying with a credit card</li>
+   pros: <li>Trusted and regulated company in the UK</li><li>Wide range of payment options</li> <li>Good customer support</li> <li>Instant credit card purchases</li><li>Supports a very wide range of countries</li> </li>Video tutorials covering the basics of Bitcoin and buying and selling</li></li>Multi-sig security features</li>
+   cons: <li>Slightly high 5% fee for buying with a credit card</li><li>1% trading fee slightly high by European standards</li><li>Offers a mobile wallet but this is not ideal for bitcoin storage</li><li>Requires ID verification, so not private</li><li>Geared towards traders; slightly confusing for first time buyers</li><li>Does not provide exchange prices for comparison without sign-up</li>
 
  - name: Coin ATM Radar
-   desc: Coin ATM Radar is a Bitcoin ATM database that helps you locate Bitcoin ATMs in your area to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>. Bitcoin ATMs can be quick and easy ways to buy bitcoins and are also private. That convenience and privacy, however, comes with a price as most ATMs have fees of 5-10%.
+   desc: Coin ATM Radar is a Bitcoin ATM database which helps you to locate Bitcoin ATMs in your area to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>. Bitcoin ATMs can be a quick and easy way to buy bitcoins and they're also private. That convenience and privacy, however, comes with a price; most ATMs have fees of 5-10%.
    url: /en/buy-bitcoins-with-cash/#coinatmradar
    icon: /img/buy/car.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
@@ -1818,7 +1864,8 @@
 
 
  - name: Snapcard
-   desc: Snapcard is a California based Bitcoin broker. It serves US customers who can buy bitcoins with a wire transfer or ACH transfer.
+   desc: Snapcard is a California based Bitcoin broker. They service US customers via wire or ACH transfers.
+   ## only saw ACH transfers listed here: https://www.snapcard.io/buy-bitcoin ... wires from within USA should go the same way however
    url: https://www.snapcard.io/buy-bitcoin
    icon: /img/buy/snapcard.png
    countries: us
@@ -1834,11 +1881,12 @@
    desc_pt_br: Compre Bitcons usando sua conta bancária. Simples, rápido e conveniente.
    desc_de: Kaufen Sie Bitcoin mit Ihren Bankkonto. Einfach, schnell, bequem.
    tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eoueasy, avglimits]
-   pros: <li>One of the simplest ways to purchase bitcoins in the United States</li> <li>Some of the lowest fees among US Bitcoin brokers</li>
+   pros: <li>One of the simplest ways to purchase bitcoins in the United States</li> <li>0.5% fee is one of the lowest among US Bitcoin brokers</li>
    cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
 
  - name: Purse.io
-   desc: "With Purse.io you purchase bitcoin with a credit or debit card but not directly. Purse.io connects you with a buyer who wants to make a purchase on Amazon. You use your credit card or debit card to order items from the buyer's Amazon wish list. When the items have been delivered to the buyer, you are given bitcoin equivalent to the value of the items you ordered for the buyer. Purse.io is available in the United States, Canada, Japan, Brazil, France, Italy, Spain, China, and India."
+   desc: With Purse.io, you purchase bitcoin with a credit or debit card but indirectly; Purse.io connects you with a buyer who wants to make a purchase on Amazon. You use your credit/debit card to order items from the buyer's Amazon wish list. When the items have been delivered to the buyer, you're given some bitcoin equivalent to the value of the items you ordered for the buyer. <br><br>Purse.io is available in the United States, Canada, Japan, Brazil, France, Italy, Spain, China, and India.
+   ## removed quote marks as they didn't seem to alter displayed text in any way
    url: http://buybitcoinww.co/purse_io
    icon: /img/buy/purse.png
    countries: us, ca, jp, br, uk, fr, it, es, cn, in
@@ -1862,22 +1910,24 @@
    desc_uk: Купити біткоіни за допомогою кредитної карти або подарунковою карткою Amazon.
    desc_it: Con Purse.io è possibile acquistare Bitcoin con una carta di credito ma non direttamente.
    tags: [quickinfo, avgprivacy, slow, highfees, trusted, eouavg, avglimits]
-   pros: <li>Unique way to buy bitcoins with a credit card; offers slightly more privacy than other exchanges</li>
-   cons: <li>Very high fees for buying with a credit card</li> <li>Delivery speed of bitcoins is inconsistent</li>
+   pros: <li>Unique way to buy bitcoins with a credit/debit card; offers slightly more privacy than other exchanges</li>
+   cons: <li>Very high fees for buying with a credit/debit card</li> <li>Delivery speed of bitcoins is inconsistent</li>
 
  - name: Coinhouse
-   desc: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company.
+   desc: Coinhouse will let you buy bitcoin via 3DS-secured credit/debit cards and Neosurf prepaid cards. Neosurf cards can be purchased at over 50,000 <a href="http://www.neosurf.com/en_GB/application/findcard">locations across Europe.</a> Coinhouse charges a 10% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company.
+   ## I see a 10% fee for Neosurf tickets listed on their site... not sure if this is added to their regular trading fee for a total 20% fee? Either way, please check 17% figure... also 50,000 outlets are listed on https://www.coinhouse.io/faq
    url: http://buybitcoinww.co/coinhouse
    po: neosurf
    icon: /img/buy/coinhouse.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company.
    tags: [quickinfo, lowprivacy, fast, highfees, trusted, eouavg, highlimits]
-   pros: <li>One of the easiest ways to buy bitcoins with Neosurf</li>
-   cons: <li>High fees</li>
+   pros: <li>One of the easiest ways to buy bitcoins with Neosurf</li><li>Reputable broker run by Ledger / Paris Bitcoin Embassy</li>
+   cons: <li>Steep 10% trading fees, falling to 6% with sufficient trading volume</li><li>Neosurf fee plus trading fee can bring total costs up to 20%</li><li>Initial €2,000 monthly purchase limit</li><li>Nor private; requires ID verification which defeats privacy advantage of anonymous Neosurf payment method</li>
 
  - name: Cubits
-   desc: Cubits is a Bitcoin exchange based in the United Kingdom. It allows users in almost any country besides the United States to purchase bitcoins using a wide range of currencies and payment methods. The payment options include SEPA, OKPAY, SOFORT, Skrill, Dotpay, and Online Bank Transfer.
+   desc: Cubits is a Bitcoin exchange based in the United Kingdom. It allows users in almost every country besides the United States to purchase bitcoins, using a wide range of currencies and payment methods. The payment options include SEPA, SWIFT, credit cards, OKPAY, SOFORT, Skrill, Dotpay, and online bank transfer.
+   ## confirm Skrill = Rapid Transfer, the method listed on Cubits site - https://cubits.com/help/buying_selling_bitcoin
    url: http://buybitcoinww.co/Cubits_
    icon: /img/buy/cubits.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
@@ -1896,10 +1946,11 @@
    desc_de: Bitcoin in verschiedenen Ländern über SEPA, OKPAY, SOFORT und Skrill kaufen.
    desc_bg: Купете биткойн в голям брой страни чрез SEPA, OKPAY, SOFORT и Skrill.
    desc_babt: Cubits accepts SWIFT transfers, and other local bank transfer methods like SOFORT and Online Bank Transfer.
-   pros: <li>Wide range of payment methods offered</li> <li>Super clean design makes the buying process easy</li>
-   cons: <li>Offers a wallet that should not be used to store bitcoins</li>
+   pros: <li>Fair 0.9% trading fee</li><li>Wide range of payment methods offered</li><li>Support for 20 fiat currencies</li><li>Super clean design makes the buying process easy</li>
+   cons: <li>Offers a wallet that should not be used to store bitcoins</li><li>Requires ID verification, so not private</li>
 
  - name: VirWoX
+   ##duplicate listing. did not edit details of this duplicate entry
    desc: Technically, VirWoX isn't even a Bitcoin exchange. It mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 10% in fees. <br><br> This workaround/hack has made VirWoX the easiest and most popular way to <a href="/en/buy-bitcoin-paypal/">buy bitcoins with PayPal</a>.
    desc_skrill_short: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a> or Skrill. Buy Second Life Lindens, and trade them for bitcoin.
    desc_skrill: VirWoX isn't a Bitcoin exchange, but rather used to acquire Second Life Lindens (SLL), a currency used in the virtual world Second Life. It is, however, possible to buy SLL with Skrill, and then trade the SLL for bitcoin. We don't have a step-by-step tutorial for how to go through the process with Skrill, but it's <a href="/en/buy-bitcoin-paypal/">very similar to how it's done with PayPal</a>. Simply deposit with Skrill, buy SLL, and trade the SLL for BTC. You can follow the steps shown in the PayPal article for an approximate how-to.
@@ -1921,35 +1972,34 @@
    tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eouhard, avglimits]
 
  - name: Bitit
-   desc: Bitit lets you purchase bitcoins online with a credit card or cash in 100K+ local stores across Europe.
+   desc: Bitit lets you purchase bitcoin online with a 3DS-enabled credit/debit cards or with cash via Neosurf, Flexepin (coming soon) and Cashlib vouchers, available in over 150,000 local stores across Europe.
+   ## added Cashlib as a recent payment option
    url: http://buybitcoinww.co/bitit_gift
    icon: /img/buy/bitit.png
    countries: fr, ca, gb, pl, de, it, es, nl, ch, be, lu, mt, il, dk, au, gr, is, ie, no, fi, za, mx, hr, at, pt, se, cy, cz, br, ar
    po: cc, neosurf
    desc_fr: Acheter des Bitcoins en ligne par carte bancaire ou en espèces dans 100k+ magasins
    tags: [quickinfo, avgprivacy, fast, avgfees, avgrep, eouavg, lowlimits]
-   pros: <li>Unique way of purchasing offers extra privacy over other methods</li> <li>Super fast way to purchase coins</li>
-   cons: <li>In-person buying methods offer more privacy but can be confusing</li>
+   pros: <li>Unique way of purchasing offers extra privacy over other methods</li><li>Very low 3.9% credit card fee</li><li>8% Neosurf fee is slightly better than Coinhouse's 10%</li><li>Available in 50 countries</li><li>Super fast way to purchase bitcoin</li><li>Many payment methods</li><li>€10,000 initial weekly Neosurf cash payment limit</li> <li>Bitcoin gift cards also available; more expensive than other options but they do make good gifts</li>
+   cons: <li>In-person buying methods offer more privacy but can be confusing</li><li>Identity verification required for buying amounts over €25</li><li>€500 initial weekly credit/debit card limit</li>
 
  - name: CoinBTM
-   desc: CoinBTM is a New York based Bitcoin ATM provider with over 30 machines in NY and New Jersey. Check its website for the latest details on locations, fees, and hours.
+   desc: CoinBTM is a New York-based Bitcoin ATM provider with over 30 machines across NY and New Jersey. Check their website for the latest details on locations, fees, and hours.
    url: http://coinbtm.com/
    icon: /img/buy/coinbtm.png
    countries: us
    tags: [quickinfo, avgprivacy, fast, highfees, trusted, eoueasy, avglimits]
-   pros: <li>Online ATM map makes it easy to find one of CoinBTM's ATMs</li> <li>Buying at Bitcoin ATMs offers high privacy</li>
+   pros: <li>Online ATM map makes it easy to find one of CoinBTM's ATMs</li> <li>Buying at Bitcoin ATMs offers high privacy; only your phone number is required</li>
    cons: <li>Buying at ATMs is one of the most expensive ways to purchase bitcoins</li>
 
  - name: itBit
-   desc: itBit is a global Bitcoin exchange licensed with the New York State Department of Financial Services. It also operates a global OTC trading desk, making it easy for customers to buy large amounts of bitcoins. It supports all US states besides Texas.
+   desc: itBit is a global Bitcoin exchange, licensed with the New York State Department of Financial Services. It also operates a global OTC trading desk, making it easy for customers to buy large amounts (100 BTC and up) of bitcoin. It supports all US states besides Texas.
    url: https://www.itbit.com/
    internal_url: /exchanges/itbit/
    icon: /img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
    po: sepa
    tags: [quickinfo, review, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>OTC trading desk is one of the best ways to buy large amounts of bitcoins</li>
-   cons: <li>Limited payment options</li> <li>User interface is hard for first time buyers </li>
    name_es: itBit
    desc_es: Deposite con transferencia ACH, SEPA o transferencia bancaria internacional.
    desc_ar:  صرافة بيتكوين الموجدود بنيويورك . الإيداع بتحويل ACH، أو SEPA، أو التحويل البنكي الدولي.
@@ -1961,6 +2011,8 @@
    desc_de: Bitcoin Börse. Einzahlen mit ACH Überweisungen, SEPA oder internationale Überweisung.
    desc_zh: 纽约比特币交易所。以ACH、国家环保总局转账或国际电汇交存。
    desc_bg: Биткойн борса. Депозирайте чрез ACH превод, SEPA, или международен банков превод.
+   pros: <li>OTC trading desk is one of the best ways to buy large amounts of bitcoins</li><li>Deep liquidity promotes a price close to fair market rate</li><li>Extremely low fees; 0% for market makers and 0.2% for market takers</li><li>Fee on OTC brokering service is only 0.1%</li>
+   cons: <li>Limited payment options</li> <li>Geared towards traders; exchange interface may be confusing for first time buyers</li><li>Requires ID verification, so not private</li>
 
 ## - name: expresscoin
 ##   desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
@@ -1968,7 +2020,7 @@
 ##   icon: /img/buy/expresscoin.png
 ##   countries: us
 ##   po: nobank, mo, pc
-   desc_nobank: Expresscoin is a bitcoin broker geared towards those without a bank account. The company's only payment options at the moment are money order and personal check.
+##   desc_nobank: Expresscoin is a bitcoin broker geared towards those without a bank account. The company's only payment options at the moment are money order and personal check.
 ##   name_es: expresscoin
 ##   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria.
 ##   desc_ar:  شراء بيتكوين بالحوالات أو الشيكات الشخصية. جيد للذين لا يملكون حسابا مصرفيا.
@@ -1988,7 +2040,8 @@
 ##   po: okpay, perfectmoney
 
  - name: CryptoPay
-   desc: CryptoPay is a Bitcoin broker based in the UK. Residents of the UK can purchase bitcoins in minutes using local bank transfer. Customers from other European countries can purchase bitcoins with SEPA transfer.
+ ## could not access site to check, confirmed down: http://isitdownorjust.me/cryptopay-me/
+   desc: CryptoPay is a Bitcoin broker based in the UK. Residents of the UK can purchase bitcoins in minutes via local bank transfers. Customers from other European countries can purchase bitcoins with SEPA transfer.
    url: https://cryptopay.me/
    icon: /img/buy/cryptopay.png
    countries: gb
@@ -2005,11 +2058,12 @@
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA или банковским переводом в Великобритании.
    desc_uk: Купити біткоіни за допомогою SEPA-платежу або банківським переказом у Великобританії.
    tags: [quickinfo, lowprivacy, fast, avgfees, avgrep, eoueasy, avglimits]
-   pros: <li>User interface is easy and makes the buying process less confusing</li>
-   cons: <li>Offers a wallet; should not be used to store bitcoins</li>
+   pros: <li>User interface is well-designed and makes the buying process simple</li>
+   cons: <li>Offers its own wallet but this is not ideal for bitcoin storage</li>
 
  - name: Anycoin Direct
-   desc: Anycoin Direct is a Bitcoin broker based in the Netherlands. Customers can purchase bitcoin with SEPA, Interac Online, iDEAL and many more payment methods.
+   desc: Anycoin Direct is a Bitcoin broker based in the Netherlands which services clients across Europe. Customers can purchase bitcoin with SEPA, SOFORT, Giropay, iDEAL, Mybank, Bancontact, and TrustPay.
+   ## removed interac payment method, added others listed as per: https://anycoindirect.eu/en/buy/bitcoins (I think interac is dead)
    url: https://anycoindirect.eu/
    icon: /img/buy/anycoin.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
@@ -2025,8 +2079,8 @@
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA, INTERAC Online или множеством других способов.
    desc_uk: Біткоіни-брокер. Купити біткоіни за допомогою SEPA, INTERAC Online або безліччю інших способів.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, highlimits]
-   pros: <li>High limits can be achieved with time</li> <li>Wide range of payment methods</li>
-   cons: <li>Fees not directly published on website</li>
+   pros: <li>High limits can be achieved with time</li> <li>Very wide range of payment methods</li><li>Support for numerous altcoins</li>
+   cons: <li>Fees not directly published on website</li><li>Requires intensive ID verification, including video chat, so not private</li>
 
 ## - name: SpectroCoin
 ##   desc: Bitcoin exchange, wallet and debit card. USD, EUR, GBP and other currencies supported.
@@ -2055,7 +2109,8 @@
 ##   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
 
  - name: Bitfinex
-   desc: Bitfinex has long been one of the largest USD Bitcoin exchanges. In August 2016, however, it was hacked and lost around 30% of its users funds. While Bitfinex can be helpful if buying large amounts of bitcoins, it is probably best to not use the exchange until it is able to compensate its users and figure out how it was hacked.
+   desc: Hong Kong-based Bitfinex has long been one of the largest USD Bitcoin exchanges in the world. Bitfinex accounts may be funded by bank wire only, their fee on accepting such transfers is low at only 0.1%.<br><br>In August 2016, however, it was hacked and lost around 30% of its users funds. While Bitfinex can be helpful for buying large amounts of bitcoins, it is probably best to not use the exchange until it fully compensates affected users.
+   ## afaik they figured out how the hack was done, it was some exploit of BitGo, so I removed that bit. they still haven't repaid everyone afaik
    url: http://buybitcoinww.co/bitfinex_exchange
    icon: /img/buy/finex.png
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn
@@ -2074,12 +2129,12 @@
    desc_ru: Пополнить счет международным банковским переводом и купить биткоины на бирже.
    desc_uk: Поповнити рахунок міжнародним банківським переказом і купити біткоіни на біржі.
    tags: [quickinfo, lowprivacy, speedvaries, avgfees, lowtrust, eouhard, highlimits]
-   pros: <li>One of the best ways to buy large amounts of bitcoins</li>
-   cons: <li>Was recently hacked and has yet to figure out how leaving all of its users' funds at risk</li>
+   pros: <li>Very low fees even for low volume buyers; 0.1% for market makers and 0.2% for market takers</li><li>One of the best ways to buy large amounts of bitcoins</li> <li>Allows lending of fiat or bitcoin to margin traders at interest (but this is risky in light of the hack)</li><li>Very deep liquidity promotes a price close to fair market rate</li><li>Supports several altcoins</li>
+   cons: <li>Was recently hacked and has yet to fully compensate all users for their loss</li><li>Geared towards traders; possibly quite confusing for first time buyers</li><li>Single payment option</li>
    desc_babt: Bitfinex allows customers to deposit large amounts of funds using SWIFT.
 
  - name: Xapo
-   desc: Xapo is a global Bitcoin platform. It allows users in nearly any country to purchase bitcoins via SWIFT transfer. While Xapo itself has low fees, you may incur significant charges when you send the SWIFT transfer to Xapo.
+   desc: Xapo is a global Bitcoin platform, based in Switzerland. It allows users in almost any country to purchase bitcoins via SWIFT transfer. While Xapo itself has low fees, you may incur significant charges when you send the SWIFT transfer to Xapo. Xapo also offers a bitcoin-funded debit card which works just like any other.
    url: https://xapo.com/
    icon: /img/buy/xapo.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, au, br, cl, co, mx, uy, cn, hk, tr, ar
@@ -2099,22 +2154,23 @@
    desc_uk: Купити біткоіни за ЄВРО за допомогою міжнародного банківського переказу.
    tags: [quickinfo, lowprivacy, speedvaries, avgfees, trusted, eoueasy, highlimits]
    desc_babt: Xapo accepts account deposits via international wire transfer.
-   pros: <li>One of the first Bitcoin exchanges</li> <li>Easy to use for first-time buyers</li>
-   cons: <li>Offers a wallet service that should not be used to store bitcoins</li>
+   pros: <li>Started as a vaulting service, with claimed security investment above $20 million</li> <li>Easy to use for first-time buyers</li>< li>Deep liquidity promotes a price close to fair market rate</li>
+   cons: <li>Offers a wallet service that should not be used to store bitcoins</li><li>Requires ID verification, so not private</li><li>Trading fees not publically stated on website</li>
+   ## exchange only launched in 2014 although the vault thing was around since 2011
 
  - name: Belgacoin
-   desc: Belgacoin is a Bitcoin exchange based in Belgium. It accepts payments via SEPA or international bank transfer.
+   desc: Belgacoin is a Bitcoin broker based in Belgium. They accept payments via SEPA or international bank transfer. The service requires no verification or even registration, so it's both convenient and anonymous (although bank transfers by their nature are not anonymous).
    url: https://www.belgacoin.com/
    icon: /img/buy/belgacoin.png
    po: bt
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   pros: <li>Established exchange that has been around for a while</li>
-   cons: <li>Slightly high fees for purchasing with SEPA transfer</li>
-   tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
+   pros: <li>Perhaps the easiest and most private way to buy bitcoins in Europe</li><li>Established and trusted brokerage that's been around for a long time</li><li>Private method; no registration or verification required</li><li>Low 1% trading fee</li><li>Simple website and purchase process</li>
+   cons: <li>Can take up to 1 business day for order to be processed after confirmation of deposit</li>
+   tags: [quickinfo, highprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
+   ## changed lowprivacy to highprivacy in tags...
 
-
- - name: BTCe
-   desc: BTC-e is a Bitcoin exchange based on Bulgaria. While its owners are anonymous, it has been one of the most widely used Bitcoin exchanges throughout Bitcoin's history. It has never lost user funds like many other regulated exchanges, which makes it trustworthy in the eyes of some. But since it's not regulated, its owners could run away with customer funds at anytime. BTC-e appears to be trustworthy, but use with caution and don't leave funds on the exchange! <br><br> Users can deposit with bank transfer, SEPA, webmoney.ru, credit card, and many more options.
+ - name: BTC-e
+   desc: BTC-e is a Bitcoin exchange based in Bulgaria. While its owners remain anonymous, it's been around for a very long time and is one of the more popular exchanges. Unlike many other regulated exchanges, BTC-e has never lost user funds, which increases its reputation for trustworthiness. However, as it's unregulated, its owners could potentially run away with customer funds at anytime. BTC-e appears to be trustworthy, but use with caution and don't leave funds on the exchange! <br><br> Users can deposit via US bank wire, SEPA, Visa, Mastercard, Liqpaym, unikarta, PerfectMoney, WebCreds, Ukash, and Webmoney.
    url: https://btc-e.com/
    icon: /img/buy/btce.png
    countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -2133,8 +2189,8 @@
    desc_ru: Биткоин-биржа, поддерживающая банковские переводы, SEPA, кредитные карты, Webmoney.ru.
    desc_uk: Біткоін-біржа, підтримуюча банківські перекази, SEPA, кредитні картки, Webmoney.ru.
    tags: [quickinfo, highprivacy, speedvaries, lowfees, avgrep, eouhard, highlimits]
-   pros: <li>One of the oldest and longest running Bitcoin exchanges</li> <li>Wide range of payment options</li>
-   cons: <li>Owners are anonymous and BTC-e is not regulated</li>
+   pros: <li>One of the longest-running, trouble-free Bitcoin exchanges</li><li>Very low 0.2% trading fees</li><li>Accepts EUR, USD and RUR</li><li>Extensive range of payment options</li>
+   cons: <li>Owners are anonymous</li><li>BTC-e is not regulated but does comply with AML/CTF</li><li>Requires ID verification for bank transfer payments, so not private</li>
 
 
 ## - name: Paxful
@@ -2146,7 +2202,7 @@
 ##   desc_paypal: Paxful helps match you with a seller who accepts PayPal for Bitcoin. It's best to make the exchange in person in order to reduce the risk of fraud. Only buy from sellers with excellent feedback and previous sales.
 
  - name: HappyCoins
-   desc: HappyCoins is a Bitcoin exchange based in the Netherlands, but services customers in all of Europe. It offers a wide range of payment methods including many instant payment methods such as iDEAL, GiroPay, myBank, Sofort, and more. It also offers SEPA deposits for all EU residents.
+   desc: HappyCoins is a Bitcoin exchange based in the Netherlands which services customers across Europe. HappyCoins accepts a wide range of payment methods, including many instant payment methods; iDEAL, Bancontact, GiroPay, myBank, Sofort and Interac. It also offers SEPA deposits for all EU residents, which take 1 to 3 days to clear.
    url: https://www.happycoins.com/
    icon: /img/buy/happy.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -2163,11 +2219,11 @@
    desc_uk: Біткоін-брокер. Купити біткоіни за допомогою SEPA-платежу, iDEAL та інших способів оплати.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    desc_babt: HappyCoins offers many bank-related instant payment methods such as iDEAL, GiroPay, myBank, Sofort, and SEPA.
-   pros: <li>Old and trusted exchange</li><li>Wide range of payment options offered</li>
+   pros: <li>Long-running and trusted exchange</li><li>Wide range of payment options offered</li><li>Occasional "HappyHour" 0% fee periods</li><li>Quite private; only email and bank account number and name required</li>
    cons: <li>Fees are not displayed publically; only included in price at checkout</li>
 
  - name: Mycelium Local Trader
-   desc: Mycelium Local Trader helps you find local Bitcoin sellers. Once you locate a seller, you meet up in person and go through with the purchase. Mycelium charges absolutely no fees. While Mycelium Local Trader works great in highly populated areas, users in low population areas will have trouble finding sellers.
+   desc: Mycelium Local Trader helps you find local Bitcoin sellers. Once you locate a seller, you meet up in-person and conduct the trade. Mycelium charges absolutely no fees. While Mycelium Local Trader works great in highly-populated areas, users in low population areas will have trouble finding sellers.
    url: "/en/buy-bitcoins-with-cash/#local-trader"
    icon: /img/buy/mycelium.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
@@ -2192,11 +2248,11 @@
    desc_ru: Купить у местных трейдеров через биткоин-кошелек Mycelium.
    desc_uk: Купити у місцевих трейдерів через біткоін-гаманець Mycelium.
    tags: [quickinfo, highprivacy, fast, lowfees, trusted, eouavg, highlimits, int]
-   pros: <li>Easy and cheap way to buy bitcoins with cash</li><li>Private way to buy bitcoins, no personal information required</li>
+   pros: <li>Easy and cheap way to buy bitcoins with cash</li><li>Private way to buy bitcoins, no personal information required beyond cellphone number</li>
    cons: <li>Users in sparsely populated areas will have trouble finding sellers</li>
 
  - name: ShapeShift
-   desc: ShapeShift lets you buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens. ShapeShift works in nearly every country but you will need another cryptocurrency in order to purchase bitcoins. Exchanges happen almost instantly because ShapeShift never actually controls your tokens but just exchanges them.
+   desc: ShapeShift lets you buy bitcoin with Litecoin, Dogecoin, altcoins and many other digital tokens. ShapeShift works in nearly every country but you will need another cryptocurrency in order to purchase bitcoins. Exchanges happen almost instantly because ShapeShift never actually controls your tokens but just exchanges them.
    url: /kb/buy-bitcoin-without-verification-id/#shapeshift
    icon: /img/buy/shapeshift.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
@@ -2216,11 +2272,11 @@
    desc_ru: Купить биткоин за Litecoin, Dogecoin, altcoins и другие криптовалюты.
    desc_uk: Купити біткоіни за Litecoin, Dogecoin, altcoins та інші криптовалюти.
    tags: [quickinfo, highprivacy, fast, avgfees, trusted, eoueasy, highlimits]
-   pros: <li>Easiest and fastest way to buy bitcoins with altcoins </li>
+   pros: <li>Easiest and fastest way to buy bitcoins with altcoins</li><li>Fees are reasonable for larger traders</li>
    cons: <li>Need altcoins or other digital tokens to use</li>
 
  - name: bitcoin-otc
-   desc: Bitcoin-OTC is an over-the-counter marketplace for the P2P exchanging of bitcoin. It is almost like a Craigslist for Bitcoin. Users must create ads or locate other ads to find sellers of bitcoin. Bitcoin-OTC is somewhat complicated and hard to use, but may be the only option for users in some countries without an exchange.
+   desc: Bitcoin-OTC is an over-the-counter marketplace for the peer to peer exchanging of bitcoin. It is almost like a Craigslist for Bitcoin. Users must create ads or locate other ads to find sellers of bitcoin. Bitcoin-OTC is somewhat complicated and hard to use, but may be the only option for users in some countries without an exchange.
    url: /kb/buy-bitcoin-without-verification-id/#bitcoin-otc
    icon: /img/buy/bitcoinotc.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
@@ -2242,7 +2298,7 @@
    desc_uk: Платформа p2p-обміну біткоінами.
    tags: [quickinfo, highprivacy, speedvaries, feesvary, trusted, eouhard, highlimits]
    pros: <li>Can be a good way to find Bitcoin sellers if no other options exist</li>
-   cons: <li>Need to keep eye out for scams</li><li>Need to build trust and feedback for your account before using</li>
+   cons: <li>Need to keep eye out for scams</li><li>Need to build trust and feedback for your account before trading larger amounts</li>
 
  - name: Local Bitcoins
    desc_neteller_short: Buy bitcoins with NETELLER online from other users; LocalBitcoins is used as escrow.
@@ -2259,6 +2315,7 @@
    desc_skrill: LocalBitcoins is an escrow service and will help connect you with users online who accept Skrill for bitcoin. Use caution when trading on LocalBitcoins. Check each seller's profile to verify a history of succesful trades. Trader's with negative feedback and problematic trading history should be avoided.
    po: skrill
    hide: yes
+   ## not sure why this entry is duplicated and has no desc, pros or cons?
 
  - name: ANXPRO
    desc: ANXPRO is a Bitcoin exchange based in Hong Kong. It lets you buy bitcoins with bank transfer.
@@ -2269,18 +2326,18 @@
    desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
    desc_ar:  شراء بيتكوين بالإيداع النقدي، أو بحوالة مصرفية، أو SEPA، وغير ذلك من الطرق الكثيرة.
    desc_fr: Achetez des bitcoins par dépôt d'espèces, virement bancaire, SEPA et bien plus.
-   pros: <li>One of the oldest running Bitcoin exchanges</li>
-   cons: <li>Limited payment options</li><li>Extra fees may be charged when sending a wire to the exchange</li>
+   pros: <li>One of the oldest running Bitcoin exchanges</li><li>Low 06% fee for market takers and 0.3% fee for market makers</li>
+   cons: <li>Limited payment options</li><li>Extra fees may be charged when sending a wire to the exchange</li><li>Requires ID verification, so not private</li>
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
 
  - name: BitSquare
-   desc: BitSquare is a decentralized Bitcoin exchange, meaning it never has access to your money. It offers high privacy and security, and never controls its users funds.
+   desc: BitSquare is a decentralized Bitcoin exchange. They facilitate trade by escrowing bitcoins of both buyer and seller, to promote the successful conclusion of trades. It offers high privacy and security, and never controls its users funds.
    url: https://bitsquare.io/
    icon: /img/buy/bitsquare.png
    po: bt
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   pros: <li>The exchange never has control of your money</li>
-   cons: <li>Currently low volume, so may be hard to purchase depending on buy amount or your location</li>
+   pros: <li>The exchange never has control of your money</li><li>Usually requires some bitcoin for escrow, so not an option for first-time buyers</li><li>Works over TOR for increased privacy</li><li>Very low 0.0008 BTC flat fee</li>
+   cons: <li>Currently low volume, so may be hard to purchase depending on buy amount or your location</li><li>1 bitcoin trade limit, no limit on number of trades</li>
    tags: [rec, quickinfo, highprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
 
 #####: All countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
