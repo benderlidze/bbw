@@ -23,8 +23,10 @@ en: The Ledger HW.1 can be considered a budget hardware wallet. It doesn't have 
 es: El Ledger HW.1 puede ser considerado un monedero hardware económico. No tiene pantalla, así que no es tan seguro como las tres opciones mencionadas anteriormente. Sin embargo, te dará más seguridad que un monedero dinámico.
 weight: 2
 pt: A Ledger HW.1 pode ser considerada uma carteira de hardware de custo-benefício. Ela não possui uma tela, por isso não é tão segura quanto as três opções citadas acima. No entanto, fornece mais segurança do que uma carteira quente.
+sv: Ledger HW.1 kan betraktas vara en budgetplånbok. Den har ingen skärm så den är inte lika säker som de tre andra alternativen ovan. Den kommer dock att ge dig högre säkerhet än en mjukvaruplånbok.
+ru: Ledger HW.1 считается одним из самых бюджетных аппаратных кошельков. У него нет экрана, и поэтому его нельзя считать настолько безопасным, как три предыдущих кошелька. Хотя при этом он все равно будет защищен лучше онлайн-кошельков.
 screen: no
-released: Jan 2013
+released: 2013
 price: $17
 price_2: 17
 pro1: At 15€ (~$17), the Ledger HW.1 is a good option for users on a budger

@@ -22,8 +22,10 @@ summary: The Ledger Nano S is the cheapest of the three hardware wallets with a 
 en: The Ledger Nano S is the cheapest of the three hardware wallets with a screen; it costs about $65. Ledger, one of the most well-known Bitcoin security companies, released the device in August 2016. 
 es: El Ledger Nano S es el más barato de los tres monederos hardware con pantalla; cuesta alrededor de $65. Ledger, una de las compañías de seguridad Bitcoin más conocidas, lanzó el dispositivo en agosto de 2016.
 pt: A Ledger Nano S é a mais barata das três carteiras de hardware com tela; custa cerca de US$65. A Ledger, uma das mais conhecidas empresas de segurança Bitcoin, lançou o dispositivo em agosto de 2016.
+sv: Ledger Nano S är den billigaste av de tre hårdvaruplånböckerna med skärm. Den kostar runt 65 dollar, ca 600 SEK. Ledger är ett av de kändaste företagen inom Bitcoin säkerhet och de släppte Nano S i augusti 2016.
+ru: Ledger Nano S – самый дешевый из трех аппаратных кошельков, оборудованных экранов. Он обойдется Вам примерно в $63. Устройство было представлено в августе 2016 года компанией Ledger, одной из самых известных в Bitcoin-индустрии.
 weight: 10.1
-released: August 2016
+released: 2016
 price: 58€
 price_2: 65
 screen: yes

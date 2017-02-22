@@ -23,8 +23,10 @@ summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, of
 en: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure bitcoin storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, thumb-sized device.
 es: TREZOR fue lanzado en agosto de 2014 como el primero monedero hardware Bitcoin, ofreciendo almacenamiento seguro de bitcoins, además de la habilidad de poder gastar con la conveniencia de un monedero dinámico. TREZOR es un dispositivo pequeño, del tamaño de un pulgar. 
 pt: A TREZOR foi lançada em agosto de 2014 como a primeira carteira Bitcoin de hardware, oferecendo armazenamento seguro de bitcoins, juntamente com a praticidade de gastá-los com a facilidade de uma carteira quente. TREZOR é um dispositivo pequeno, do tamanho de um polegar.
+sv: TREZOR lanserades i augusti 2014 och var den första Bitcoin hårdvaruplånboken som erbjöd säker förvaring för bitcoins och möjligheten att spendera mynten lika enkelt som med mjukvara. TREZOR är en liten tumstor enhet. 
+ru: TREZOR выпустили в августе 2014, и это первый в мире аппаратный Bitcoin-кошелек, предоставляющий безопасное хранилище биткойнов с возможностью тратить их так же удобно, как и онлайн-кошельки. Устройство исполнено в компактном дизайне.
 weight: 9.1
-released: Oct 2013
+released: 2013
 price: $99
 price_2: 99
 pro1: Screen offers extra protection and verification
