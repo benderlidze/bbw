@@ -1,9 +1,4 @@
- ## Steve's notes:
- ## suggest altering "Sell" link at the top as it's confusing; implying a list of places to sell bitcoin. something like "Click here for venues to sell Bitcoin" would be more clear
- ## suggest grouping list by regions, with a quick-jump menu at the top. multi-regional exchanges like Coinbases can be listed up top, followed by USA, Europe, Asia, etc. alternately, a map graphic of some kind might be helpful
- ## suggest Bitex.la, Ripio and SurBTC be listed higher up with the other South American countries.
- ## I didn't edit any of the exchanges which have been commented out
- ## Market makers and market takers are terms used in the pros or cons often, these terms aren't defined and there isn't space to do so... Alternative terms are immediate fill and limit order but I think these are worse. Perhaps a clearer term can be thought of.
+## suggest Bitex.la, Ripio and SurBTC be listed higher up with the other South American countries.
 
  - name: Coinbase
    desc: Coinbase is the world's largest Bitcoin broker. They represent an easy and fast way for new users to purchase bitcoins. Coinbase supports customers in over 30 countries, including the United States, Europe (besides Germany), UK, Singapore, Canada, and Australia. <br><br> Customers in the above-mentioned countries can purchase bitcoins by <a href="/en/buy-bitcoin-credit-debit-card/">credit card</a>, debit card, bank transfer, SEPA transfer, and more.<br><br> Get $10 or €10 worth of free bitcoin when you buy more than $100 or €100 worth through <a rel="nofollow" target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a>.
@@ -1707,6 +1702,19 @@
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    pros: <li>Long-running Nigerian exchange</li> <li>Several payment methods</li>
    cons: <li>Identity verification offers less privacy than other purchase methods in Nigeria, like LocalBitcoins</li>
+
+
+##### Italy ####################################################
+
+   name: Postebit
+   desc: Postebit is a Bitcoin exchange based in Italy. You can buy bitcoin with cash using the Italian poste office or Sisal. 
+   url: https://posteb.it
+   icon: /img/buy/postebit.png
+   countries: it
+   po: cash
+   tags: [quickinfo, avgprivacy, fast, avgfees, trusted, eoueasy, avglimits]
+   pros: <li>Buyer can usually receive the bitcoins within 15 minutes</li><li>Anyone near an Italian post office can use the service</li>
+   cons: <li>Trusted company with excellent support</li><li>Only available to use from 8:00 until 20:00</li>
 
 ##### Kenya ####################################################
 

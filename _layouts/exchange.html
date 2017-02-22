@@ -104,11 +104,10 @@ hide_sidebar: true
 	
 	<div class="alt-exchanges">
 	
-	<h2>{{ page.title }} Alternatives</h2>
-	
-	{% assign pages = site.exchanges | sort:"weight"  %}
-    {% for exchange in pages reversed limit:4 %}
-	{% if exchange.tags contains page.related and exchange.title != page.title %}
+	<h2 class="bold-header">{{ page.title }} Alternatives</h2>
+	<br>
+    {% for exchange in site.exchanges %}
+	{% if page.related == exchange.related and exchange.title != page.title %}
 	{% include exchange-list-bounce.html %}
 	{% endif %}
 	{% endfor %} 

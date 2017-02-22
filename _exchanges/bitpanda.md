@@ -6,7 +6,7 @@ exchange: bitpanda
 desc: BitPanda is a Bitcoin broker based in Austria. It offers a wide range of payment methods and has good prices.  
 thumb: bitpanda.png
 lang: en
-seotitle: "3 Reasons BitPanda is Legit and Not a Scam [Review]"
+seotitle: "BitPanda Review: 3 Reasons It's Legit [And Not a Scam]"
 website: bitpanda.com
 website_url: http://buybitcoinww.co/bitpanda
 location: Austria
@@ -32,7 +32,6 @@ fees_score: 9
 fees_width: 90
 aff: yes
 rating: 4.5
-tags: [cc, noid]
 related: cc
 ---
 

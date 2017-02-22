@@ -1229,7 +1229,10 @@ input.gsc-input {
 	margin-top: 25px !important;
 }
 
-
+.alt-exchanges .buy-info-full {
+    border-bottom: 0 solid #ccc !important;
+    padding-bottom: 5px;
+}
 
 .wallet-type-hot {
 	text-align: center;
@@ -2301,6 +2304,7 @@ blockquote {
     font-weight: bold;
     margin-top: 4px;
     padding-right: 2px;
+    padding-left: 7px;
 }
 
 .single-rating {

@@ -33,8 +33,7 @@ fees_score: 8
 fees_width: 80
 aff: yes
 rating: 4
-tags: [cc, noid]
-related: cc
+related: ccc
 --- 
 Bitit allows users to buy bitcoins online in 10 minutes with a 3D Secure credit / debit card and with cash in more than 150K+ Local Stores using Neosurf, Flexepin or Cashlib vouchers. 
 

@@ -6,7 +6,7 @@ exchange: coinmama
 desc: CoinMama is a bitcoin broker based in Israel. They specialize in selling bitcoins for credit card to nearly anyone in the world.   
 thumb: coinmama.png
 lang: en
-seotitle: "3 Reasons CoinMama is Legit and Not a Scam [Review]"
+seotitle: "CoinMama Review: 3 Reasons It's Legit [And Not a Scam]"
 website: coinmama.com
 website_url: http://buybitcoinww.co/CoinMama_Bitcoin
 location: Israel
@@ -32,7 +32,6 @@ fees_score: 3
 fees_width: 30
 aff: yes
 rating: 4.1
-tags: [cc, noid]
 related: cc
 ---
 

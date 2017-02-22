@@ -25,7 +25,6 @@ reputation_score: 9
 fees_score: 8
 aff: yes
 rating: 4.3
-tags: [cash, noid]
 related: cash
 ---
 

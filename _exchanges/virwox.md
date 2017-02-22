@@ -33,7 +33,6 @@ fees_score: 1
 fees_width: 10
 aff: yes
 rating: 3.5
-tags: [none, non]
 related: none
 ---
 VirWoX offers one of the few ways to [buy bitcoin with PayPal](/en/buy-bitcoin-paypal/): buy buying Second Life Lindens with PayPal, and then trading the Second Life Lindens for bitcoin.  
