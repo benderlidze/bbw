@@ -709,7 +709,7 @@
 ##### Chile ####################################################
 
  - name: Yaykuy
-   desc: Yaykuy is a Bitcoin broker based in Chile. The service is easy to use: you create an order for however many bitcoins you want, Yaykuy will then quote a price for your purchase. You then make an online transfer to their bank account. Once the deposit is confirmed, which usually happens within 24 hours, you'll receive your bitcoins.
+   desc: "Yaykuy is a Bitcoin broker based in Chile. The service is easy to use: you create an order for however many bitcoins you want, Yaykuy will then quote a price for your purchase. You then make an online transfer to their bank account. Once the deposit is confirmed, which usually happens within 24 hours, you'll receive your bitcoins."
    url: http://www.yaykuy.cl/
    icon: /img/buy/yaykuy.png
    countries: cl
