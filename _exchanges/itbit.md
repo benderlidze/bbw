@@ -31,6 +31,8 @@ reputation_width: 100
 fees_score: 10
 fees_width: 100
 rating: 4.1
+tags: [bt, test]
+related: bt
 ---
  
 

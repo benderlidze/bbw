@@ -32,6 +32,8 @@ fees_score: 5
 fees_width: 50
 aff: yes
 rating: 4.6
+tags: [cash, noid]
+related: cash
 ---
 
 

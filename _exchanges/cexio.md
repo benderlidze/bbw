@@ -32,6 +32,8 @@ reputation_width: 80
 fees_score: 8
 fees_width: 80
 rating: 4
+tags: [cc, test]
+related: cc
 ---
  
 

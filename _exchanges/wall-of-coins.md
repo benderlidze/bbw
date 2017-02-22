@@ -25,6 +25,8 @@ reputation_score: 9
 fees_score: 8
 aff: yes
 rating: 4.3
+tags: [cash, noid]
+related: cash
 ---
 
 ![wall of coins review](/img/reviews/woc.png){: .img-responsive .kb-helper}

@@ -22,6 +22,8 @@ reputation_score: 9
 fees_score: 9
 aff: yes
 rating: 4.8
+tags: [cash, noid]
+related: cash
 ---
 [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is a global Bitcoin exchange that gives a lot of options to its users. 
 

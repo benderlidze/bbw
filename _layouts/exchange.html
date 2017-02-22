@@ -101,6 +101,19 @@ hide_sidebar: true
   </div>
 	
 	<a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-bottom btn-success"><i class="fa fa-bitcoin"></i> Visit {{ page.website }}</a>
+	
+	<div class="alt-exchanges">
+	
+	<h2>{{ page.title }} Alternatives</h2>
+	
+	{% assign pages = site.exchanges | sort:"weight"  %}
+    {% for exchange in pages reversed limit:4 %}
+	{% if exchange.tags contains page.related and exchange.title != page.title %}
+	{% include exchange-list-bounce.html %}
+	{% endif %}
+	{% endfor %} 
+	
+	</div>
 
 </div>
 </div>

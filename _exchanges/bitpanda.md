@@ -32,6 +32,8 @@ fees_score: 9
 fees_width: 90
 aff: yes
 rating: 4.5
+tags: [cc, noid]
+related: cc
 ---
 
 * Table of Contents
