@@ -5,6 +5,8 @@
    pt: "A Electrum é uma carteira Bitcoin leve para Mac, Linux e Windows. A Electrum foi criada em novembro de 2011. As principais características da Electrum são: suporte para carteiras de hardware (como a TREZOR, a Ledger Nano e a KeepKey) e armazenamento Bitcoin seguro usando um computador offline. A Electrum é uma boa opção tanto para iniciantes quanto para usuários avançados."
    sv: "Electrum är en lättviktig Bitcoin plånbok för Mac, Linux och Windows. Electrum skapades i november 2011. De huvudsakliga funktionerna i Elektrum är: stöd för hårdvaruplånböcker (som TREZOR, Ledger, Nano och KeepKey.) och säker förvaring för dina bitcoins offline. Electrum är ett bra alternativ för både nybörjare och avancerade användare."
    ru: "Electrum – нечто вроде облегченной версии Bitcoin-кошелька для Mac, Linux и Windows. Кошелек Electrum был выпущен в ноябре 2011. Среди основных свойств Electrum можно отметить: поддержку аппаратных кошельков (TREZOR, Ledger Nano и KeepKey), возможность безопасно хранить биткойны. Electrum подойдет как новичкам, так и продвинутым пользователям."
+   fr: "Electrum est un portefeuille Bitcoin léger pour systèmes Mac, Linux et Windows. Il a été créé en novembre 2011. Les caractéristiques principales d’Electrum sont : prise en charge des harware wallets (TREZOR, Ledger Nano, KeepKey et autres) et sécurisation du stockage des bitcoins avec un ordinateur hors ligne. Electrum est une bonne solution pour les débutants, tout comme pour les utilisateurs plus expérimentés."
+   nb: "Electrum er en lett Bitcoin lommebok for Mac, Linux og Windows. Electrum ble opprettet i november 2011. Hovedfunksjonene til Electrum er: støtte for hardware lommebøker (som TREZOR, Ledger Nano and KeepKey), og sikker Bitcoin lagring ved å bruke en datamaskin uten nett. Electrum er et godt valg for både nybegynnere og erfarne brukere."
    tags: [desktop, mac, nonhw]
    thumb: electrum.png
    website_url: http://electrum.org/ 
@@ -16,6 +18,8 @@
    pt: "Mycelium é a carteira Bitcoin para Android mais popular. É muito fácil de usar para enviar e receber pagamentos. Fazer backup de sua carteira também é simples, já que a Mycelium deixa tudo muito claro, com instruções de configuração e backup."
    sv: "Mycelium är den populäraste Bitcoinplånboken för Android. Den är väldigt enkel att använda för att skicka och ta emot betalningar. Det är också enkelt att backa upp din plånbok, eftersom Mycelium har väldigt tydliga instruktioner för installation och back up."
    ru: "Mycelium считается одним из самых популярных Bitcoin-кошельков для Android. Им очень просто пользоваться. Вы также без труда сможете создавать резервные копии, а вместе с приложением предоставляется очень подробное руководство."
+   fr: Mycelium est le portefeuille Bitcoin sous Android le plus populaire. Il est d’une grande facilité d’utilisation pour l’envoi et la réception de paiements. Il permet aussi de faire des sauvegardes faciles de son portefeuille à l’aide d’instructions très claires et détaillées.
+   nb: "Mycelium er den mest populære Bitcoin lommeboken for Android. Den er veldig enkel å bruke til å sende og motta betalinger. Sikkerhetskopiering er også enkelt å få til, i og med at Mycelium har veldig enkle instruksjoner for hvordan du skal sette dette opp."
    tags: [android, mobile, nonhw]
    thumb: mycelium.png
    website_url: https://mycelium.com/mycelium-wallet.html
@@ -27,6 +31,8 @@
    pt: Consideramos a breadwallet, juntamente com a Copay (abaixo), a melhor carteira Bitcoin para iPhone. É de código aberto e proporciona ao usuário o controle total sobre suas chaves privadas. Também tem uma interface limpa que torna o envio e recebimento de bitcoins um processo agradável e super simples.
    sv: Vi betraktar breadwallet, tillsammans med Copay som är listat nedan, som de bästa alternativen för Bitcoin plånböcker för iPhone. Den är av öppen kod och ger användaren full kontroll över sina privata nycklar. Den har också ett rent gränssnitt som gör processen att skicka och ta emot bitcoins både trevlig och super-enkel.
    ru: Лично мы считаем breadwallet (и следующий в списке Copay) лучшими биткойн-кошельками для iPhone. Он распространяется с открытым кодом и предлагает пользователям полный контроль над приватными ключами. Интерфейс здесь очень простой и приятный, и позволяет без труда отправлять и получать платежи в биткойнах.
+   fr: "Nous pensons que breadwallet - tout comme Copay (ci-dessous) - est le meilleur portefeuille Bitcoin pour iPhone. Il est open source et donne à ses utilisateurs un contrôle total sur leurs clés privées. Son interface est aussi des plus ergonomiques afin que l’envoie et la réception de bitcoins se fasse de la manière la plus agréable et simple possible."
+   nb: "Vi anser breadwallet, sammen med Copay (under), som den beste Bitcoin lommeboken for iPhone. Den har en åpen kildekode og brukere har full kontroll over sine private nøkler. Den har også et oversiktlig grensesnitt som gjør sending og mottak av Bitcoins til en enkel prosess."
    tags: [mobile, nonhw, ios]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
@@ -38,6 +44,8 @@
    pt: breadwallet, a maior carteira Bitcoin para iPhone, lançou recentemente uma carteira para Android. Ela oferece o controle do usuário de chaves privadas, uma interface fácil de usar e suporte para senha.
    sv: breadwallet är den största Bitcoinplånboken för iPhone som nyligen också släppts för Android. Den ger användaren kontroll över privata nycklar, har ett tydligt gränssnitt och ger support för lösenorden.  
    ru: breadwallet – великолепный Bitcoin-кошелек для iPhone, который недавно представили и в версии для Android. Кошелек позволяет управлять приватными ключами при помощи простого в использовании пользовательского интерфейса.
+   fr: Le célèbre portefeuille Bitcoin pour iPhone breadwallet a récemment sorti une version pour appareils sous Android. Breadwallet permet aux utilisateurs de contrôler leurs clés privées et offre une interface ergonomique avec prise en charge d’un mot de passe.
+   nb: breadwallet, også kjent som den store iPhone Bitcoin lommeboken, har nylig utgitt en Android lommebok. Den gir brukere kontrollen over private nøkler, har et brukervennlig grensesnitt, og passord støtte. 
    tags: [mobile, android]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
@@ -49,6 +57,8 @@
    pt: A carteira Bitcoin Copay é a carteira de código aberto do BitPay. Pode ser usada em vários dispositivos, já que a Copay está disponível para Android, Windows Phone, iOS e todas as plataformas desktop. Entre muitos outros ótimos recursos, é fácil criar várias contas para que você possa ter carteiras separadas para o seu negócio e para fundos pessoais.
    sv: Copay Bitcoin plånbok är BitPays plånbok med öppen kod. Den kan användas på många enheter eftersom Copay är tillgänglig för både Android, Windows Phone, iOS och alla olika typer av skrivbord. Den har många riktigt bra funktioner, och det är lätt att skapa flera olika konton så att du kan ha separata plånböcker för ditt företag och dina privata resurser.
    ru: Bitcoin-кошелек Copay – проект BitPay с открытым исходным кодом. Его можно использовать на нескольких устройствах, так как Copay представлен в версиях для Android, Windows Phone, iOS и для всех настольных ОС. Среди множества великолепных функций, этот кошелек позволяет создавать несколько счетов, и разделять кошельки на рабочие и личные.
+   fr: "Le portefeuille Bitcoin Copay est le portefeuille open source de BitPay. Il peut être utilisé au travers de tous les appareils, puisque Copay est disponible sous Android, Widnows, iOS et toutes les plateformes de bureau. En plus de toutes ses fonctionnalités, il permet de créer plusieurs comptes en toute facilité afin de séparer ses portefeuilles et en créer un personnel et un professionnel."
+   nb: "Copay Bitcoin lommeboken er BitPay sin åpen kildekode lommebok. Den kan brukes på tvers av flere enheter, i og med at Copay er tilgjengelig for Android, Windows Phone, iOS og alle forskjellige skrivebordsplattformer. Blant mange andre flotte funksjoner, er det veldig enkelt å opprette flere kontoer. Dette gjør at du kan ha egne lommebøker for en virksomhet og for personlig bruk."
    tags: [nonhw, ios]
    thumb: copay.png
    website_url: https://copay.io/   
@@ -60,6 +70,8 @@
    pt: A carteira Bitcoin Copay também está disponível para Android. É fácil de usar e possui muitos recursos avançados que oferecem grande flexibilidade.
    sv: Sist, men inte minst, är Copay också tillgängligt för skrivbord. Denna skrivbordsapp ger dig möjligheten att administrera dina hårdvaruplånböcker, tillsammans med alla andra funktioner som listats ovan.
    ru: Bitcoin-кошелек Copay также доступен пользователям Android. Им очень просто пользоваться, и при этом он предлагает множество продвинутых функций.
+   fr: Le portefeuille Bitcoin Copay est également disponible sous Android. Il est facile à utiliser et offre de nombreuses fonctionnalités avancées pour bénéficier d’une grande flexibilité.
+   nb:  Copay Bitcoin lommeboken er også tilgjengelig for Android. Den er veldig enkel å bruke og tilbyr mange avanserte funksjoner, noe som gir god fleksibilitet.
    tags: [android, nonhw]
    thumb: copay.png
    website_url: https://copay.io/
@@ -71,6 +83,8 @@
    pt: Airbitz é uma carteira Bitcoin fácil de usar, para iPhone e Android. Sua característica de login familiar faz com que o aplicativo seja tranquilo para pessoas novas no Bitcoin. A carteira também cria backups automáticos, para que você não precise se preocupar com os aspectos técnicos da realização de backups manuais.
    sv: Airbitz är en Bitcoin plånbok som är lätt att använda för iPhone och Android. Den har en välbekant login-funktion som gör att nya användare känner igen sig. Plånboken skapar automatiskt en back up, så du behöver inte oroa dig över teknikaliteter kring hur man skapar en manuellt.
    ru: Airbitz – простой в использовании Bitcoin-кошелек для iPhone и Android. Удобная авторизация позволяет без труда справиться с приложением даже новичкам в сфере биткойнов. Кошелек автоматически создает резервные копии, так что Вам не придется беспокоиться за это.
+   fr: Airbitz est un portefeuille Bitcoin pour iPhone et Android très facile à utiliser. Ses fonctionnalités de connexion sont très familières aux utilisateurs n’ayant pas encore l’habitude des bitcoins. Ce portefeuille crée aussi des sauvegardes automatiques afin de ne pas avoir à vous soucier des aspects techniques impliqués dans la sauvegarde manuelle de votre portefeuille.
+   nb: Airbitz er en Bitcoin lommebok som er enkel å bruke både for iPhone og Android. De har en velkjent innloggingsfunksjon, ved hjelp av en app, som gjør det til rene leken å bruke Bitcoin for nye brukere. Lommeboken har også automatisk sikkerhetskopiering, sånn at du ikke trenger å bekymre deg for å gjøre dette selv.
    tags: [android, ios, nonhw]
    thumb: airbitz.png
    website_url: https://copay.io/      
@@ -82,6 +96,8 @@
    pt: Por último, mas não menos importante, a Copay também está disponível para desktop. Seu aplicativo para desktop lhe dá a capacidade de gerenciar suas carteiras de hardware, juntamente com todos os outros recursos mencionados acima.
    sv: Sist, men inte minst, är Copay också tillgängligt för skrivbord. Denna skrivbordsapp ger dig möjligheten att administrera dina hårdvaruplånböcker, tillsammans med alla andra funktioner som listats ovan.
    ru: Copay также есть в версии для персонального компьютера. Это приложение, кроме всех вышеперечисленных свойств, дает возможность работать с аппаратными кошельками.
+   fr: Copay est aussi disponible en version de bureau. Son application de bureau offre la possibilité de gérer vos portefeuilles matériels et de bénéficier de toutes les autres fonctionnalités indiquées ci-dessus.
+   nb: Sist, men ikke minst, har vi Copay som også er tilgjengelig for skrivebordet. Denne skrivebordsappen gir deg muligheten til å administrere hardware lommebøker, sammen med alle de andre funksjonene vi nevnte for Copay over.
    tags: [nonhw, desktop]
    thumb: copay.png
    website_url: https://copay.io/         
@@ -93,6 +109,8 @@
    pt: GreenBits é a versão nativa do Android da GreenAddress. É uma carteira multi-assinatura que também suporta carteiras de hardware como a TREZOR e a Ledger.
    sv: GreenBits är den ursprungliga Android-versionen av GreenAddress. Det är en plånbok med multisignatur som också stödjer hårdvaruplånböcker som TREZOR och Ledger.
    ru: GreenBits представляет собой нативную Android-версию кошелька GreenAddress. Это мультиподписной кошелек, который также поддерживает аппаратные кошельки TREZOR и Ledger.
+   fr: GreenBits est la version Android de GreenAddress. C’est un portefeuille à double signature compatible avec les hardware wallets tels que le les TREZOR et les Ledger.
+   nb: GreenBits er den opprinnelige Android versjonen av Green Address. Det er en multi-signature lommebok som også støtter hardware lommebøker som TREZOR og Ledger.
    tags: [android, mobile, nonhw]
    thumb: greenbits.png
    website_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en 
@@ -104,6 +122,8 @@
    pt: <p>GreenAddress é uma carteira Bitcoin multi-assinatura disponível via web, desktop, Android e iOS. A GreenAddress é compatível com carteiras de hardware como a TREZOR, a Ledger Nano e a HW.1.</p> <p>"Multi-assinatura" significa, nesse contexto, que o site exige uma confirmação manual sua para que suas moedas sejam movimentadas; isso aumenta muito a segurança.</p>
    sv: "<p>GreenAddress är en plånbok med multisignatursfunktion som är tillgänglig både på webben, för skrivbordet, Android och iOS. GreenAddress är kompatibel med hårdvaruplånböcker som TREZOR, Ledger Nano och HW.1.</p><p> ”Multisignatur” betyder i den här kontexten att programmet behöver en manuell bekräftelse från dig för att du ska kunna flytta dina bitcoins; detta förbättrar säkerheten avsevärt.</p>"
    ru: "<p>GreenAddress представляет собой мультиподписной Bitcoin-кошелек, представленный в как онлайн, так и в версиях для ПК, Android или iOS. GreenAddress совместим с аппаратными кошельками TREZOR, Ledger Nano и HW.1.</p><p>“Мультиподпись” в данном контексте означает, что сайт потребует от вас разрешения на перемещение средств. Это позволяет в некоторой степени повысить уровень безопасности.</p>"
+   fr: "<p>GreenAddress est un portefeuille Bitcoin à double signature disponible sur internet, mais aussi en version desktop, Android et iOS. GreenAddress est compatible avec les hardware wallets tels que le TREZOR, le Ledger Nano et le HW.1.</p><p>« Double signature » signifie que le site exige une confirmation manuelle pour tout déplacement de bitcoins, ce qui augmente grandement la sécurité.</p>"
+   nb: "<p> GreenAddress er en multi-signature Bitcoin lommebok tilgjengelig på nettet, datamaskin, Android og iOS. GreenAdress passer godt med hardware lommebøker som TREZOR, Ledger Nano S og Ledger HW.1.</p><p> “Multi-signature” betyr, i denne sammenhengen, at nettstedet krever en manuell bekreftelse fra deg for at myntene dine skal bli overført; dette er noe som forbedrer sikkerheten</p>"
    tags: [web, online, nonhw]
    thumb: greenaddress.png
    website_url: https://greenaddress.it/       
@@ -115,6 +135,8 @@
    pt: Bitcoin Wallet, ou "Schildbach Wallet", foi a primeira carteira Bitcoin móvel. A Bitcoin Wallet é mais segura do que a maioria das carteiras Bitcoin móveis, porque ela se conecta diretamente à rede Bitcoin. A Bitcoin Wallet tem uma interface simples e apenas a quantidade necessária de recursos, tornando-se uma ótima carteira e uma ótima ferramenta educacional para iniciantes Bitcoin.
    sv: "Bitcoin Wallet, eller “Schildbach Wallet”, var den första mobila plånboken för Bitcoin. Bitcoin Wallet är säkrare än de flesta mobila plånböckerna eftersom den kopplar upp sig direkt mot Bitcoin nätverket. Bitcoin Wallet har en enkel design och lagom många funktioner som gör den till en bra plånbok att börja med om man är nybörjare på Bitcoin."
    ru: "Bitcoin Wallet или “Кошелёк Шильбаха” был первым мобильным биткойн-кошельком. Bitcoin Wallet предлагает чуть больший уровень безопасности, чем большинство мобильных биткойн-кошельков, так как подключается напрямую к сети Bitcoin. В Bitcoin Wallet простой интерфейс, а среди функций только самые необходимые, что делает этот кошелек идеальным для знакомства с биткойн-трансакциями."
+   fr: "Bitcoin Wallet (aussi connu sous le nom de « Schildbach Wallet ») était le premier portefeuille Bitcoin à faire son apparition sur mobile. Bitcoin Wallet est plus sécurisé que la plupart des portefeuilles Bitcoin sur mobile car il se connecte directement au réseau Bitcoin. Bitcoin Wallet a une interface simple et ergonomique renfermant juste les fonctionnalités nécessaires à en faire un excellent outil éducatif pour les débutants."
+   nb: "Bitcoin Wallet, eller mer kjent som Schildbach Wallet, var den første Bitcoin lommeboken for mobil. Bitcoin Wallet er mer sikker en de fleste Bitcoin lommebøkene, fordi den er tilkoblet direkte til Bitcoin nettverket. Bitcoin Wallet er et enkelt grensesnitt og en akkurat passe mengde med funksjoner, noe som gjør den til en flott lommebok og et stort verktøy for nye Bitcoin brukere."
    tags: [mobile, android, nonhw]
    thumb: bwallet.png
    website_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet  

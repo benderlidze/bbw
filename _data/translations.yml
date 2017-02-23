@@ -375,6 +375,10 @@ fr:
   about_url: /en/about/
   change_lang: Langue 
   by: par
+  learnmore: En savoir plus
+  buy_wallet: Acheter
+  wallets: Portefeuilles
+  wallets_url: /fr/portefeuilles-bitcoin/
   
 ##################### Italian #####################
 it:
@@ -613,7 +617,7 @@ sv:
   get_wallet: 
   short_lang: 
   language: Svenska
-  home_url: 
+  home_url: /
   find_country: 
   by_jordan:
   disclaimer: Varning
@@ -624,7 +628,37 @@ sv:
   paymentmethods_url: 
   about: 
   about_url: /en/about/
-  learnmore: Saiba mais
-  buy_wallet: Comprar
+  learnmore: Läs mer
+  buy_wallet: Köp
   wallets: Plånböcker
   wallets_url: /sv/bitcoin-planbocker/
+  
+nb:
+  buy: Kup bitcoiny
+  atms: ATM
+  exchanges: 
+  namerica:
+  samerica: 
+  asia: 
+  europe: 
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: 
+  contribute: 
+  get_wallet: 
+  short_lang: 
+  language: Svenska
+  home_url: /
+  find_country: 
+  by_jordan:
+  disclaimer: Varning
+  disclaimer_url: /en/disclaimer/
+  contact: Kontakta oss
+  contact_url: /en/contact/
+  paymentmethods: 
+  paymentmethods_url: 
+  about: 
+  about_url: /en/about/
+  learnmore: Lær mer
+  buy_wallet: Kjøp
+  wallets: Lommebøker
+  wallets_url: /nb/bitcoin-lommeboeker/

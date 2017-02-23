@@ -2,7 +2,7 @@
 	{% include multilang.html %}
 {% endif %}
 
-{% if page.lang != 'en' and page.lang != 'sv' %}
+{% if page.lang != 'en' and page.lang != 'sv' and page.lang != 'nb' %}
 <li>
 <a class="wallet-nav" href="{{ lang.home_url }}"><!--<i class="fa fa-fw fa-map-marker"></i> -->{{ lang.find_country }}</a>
 </li>
@@ -15,7 +15,7 @@
 
 
 
-{% if page.lang == 'es' or page.lang == 'pt' or page.lang == 'sv' or page.lang == 'ru' %}
+{% if page.lang == 'es' or page.lang == 'pt' or page.lang == 'fr' or page.lang == 'sv' or page.lang == 'ru' or page.lang == 'nb' %}
 
 <li>
 <a class="contribute-nav" href="{{ lang.wallets_url }}"><!--<i class="fa fa-fw fa-bitcoin"></i>-->{{ lang.wallets }}</a>

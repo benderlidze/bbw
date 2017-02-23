@@ -1372,8 +1372,15 @@
 
 ##### Russia ####################################################
 
+ - name: Best Change
+   desc: Best Change makes it possible to buy bitcoins with WebMoney, PayPal, Skrill, BTC-e codes, cash, Perfect Money, and more. 
+   url: https://www.bestchange.ru/
+   icon: /img/buy/bestchange.jpg
+   countries: ru, by, ua
+   pros: <li>Lists many places to buy bitcoins in Russia and nearby countries</li> 
+   cons: <li>Does not actually sell bitcoins</li>
+
  - name: Matbea
- ## Couldn't verify; Google Translate fails and English version lists no details.
    desc: Matbea is Bitcoin exchange based in Russia. You can fund your account by cash deposit or bank transfer.
    url: https://matbea.com/
    icon: /img/buy/matbea.png
@@ -1384,7 +1391,7 @@
    desc_ru: Биткоин-биржа. Вкладывайте средства через банковский перевод или денежный перевод.
    desc_uk: Біткоін-біржа. Вкладайте кошти через банківський переказ або грошовий переказ.
    tags: [quickinfo, avgprivacy, avgspeed, lowfees, trusted, eouavg, highlimits]
-   pros: <li>One of few Bitcoin exchanges based in Russia</li> ##<li>Wide range of deposit methods</li> - only cash and bank transfer?
+   pros: <li>One of few Bitcoin exchanges based in Russia</li> <li>Wide range of deposit methods</li>
    cons: <li>Does not offer rates close to market price</li>
 
 ## - name: ALFAcashier
