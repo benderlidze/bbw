@@ -1875,16 +1875,16 @@
    pros: <li>Trusted and regulated company in the UK</li><li>Wide range of payment options</li> <li>Good customer support</li> <li>Instant credit card purchases</li><li>Supports a very wide range of countries</li> </li>Video tutorials covering the basics of Bitcoin and buying and selling</li></li>Multi-sig security features</li>
    cons: <li>Slightly high 5% fee for buying with a credit card</li><li>1% trading fee slightly high by European standards</li><li>Offers a mobile wallet but this is not ideal for bitcoin storage</li><li>Requires ID verification, so not private</li><li>Geared towards traders; slightly confusing for first time buyers</li><li>Does not provide exchange prices for comparison without sign-up</li>
 
- - name: Coin ATM Radar
-   desc: Coin ATM Radar is a Bitcoin ATM database which helps you to locate Bitcoin ATMs in your area to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>. Bitcoin ATMs can be a quick and easy way to buy bitcoins and they're also private. That convenience and privacy, however, comes with a price; most ATMs have fees of 5-10%.
-   url: /en/buy-bitcoins-with-cash/#coinatmradar
-   icon: /img/buy/car.png
+ - name: Bitcoin ATMs
+   desc: You can use our Bitcoin ATM map to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>. Bitcoin ATMs can be a quick and easy way to buy bitcoins and they're also private. That convenience and privacy, however, comes with a price; most ATMs have fees of 5-10%.
+   url: /bitcoin-atms/
+   icon: /img/buy/screen2.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
    po: fast, cdus, nobank, cash
    desc_nobank: Coin ATM Radar helps you find Bitcoin ATMs in your area, where you can by bitcoins with cash and no bank account.
-   desc_cdus: Coin ATM Radar is a Bitcoin ATM map that helps you find a Bitcoin ATM in your local area. Using Bitcoin ATMs you can buy bitcoins with cash. The average ATM charges a fee of 5-10%, but this is what people are willing to pay to buy bitcoins privately and with no verification. There are many Bitcoin ATM manufacturates, so each ATM is different. Some require verification, some don't.
+   desc_cdus: Our Bitcoin ATM map helps you find a Bitcoin ATM in your local area. Using Bitcoin ATMs you can buy bitcoins with cash. The average ATM charges a fee of 5-10%, but this is what people are willing to pay to buy bitcoins privately and with no verification. There are many Bitcoin ATM manufacturates, so each ATM is different. Some require verification, some don't.
    desc_cdus_short: Find a Bitcoin ATM in your area where you can purchase bitcoins with cash.
-   pros: <li>Coin ATM Radar makes it super easy to find a Bitcoin ATM near you</li>
+   pros: <li>Our map makes it super easy to find a Bitcoin ATM near you</li>
    cons: <li>Bitcoin ATMs often have 5-10% fees per purchase</li>
 
 
