@@ -63,7 +63,7 @@ All EU residents may [buy bitcoin with Neosurf](/en/buy-bitcoin-neosurf/).
 Users must provide full identity verification, including a selfie, picture of an ID, and proof of address. 
 
 ## Limits & Liquidity
-After complete account verification, users can buy up to €500 per day, and up to €2,000 per week. This limit may be increased if requested. 
+After complete account verification, users can buy up to €2,000 per day or even €10,000 per month. The limits will depend on the quality of the documents you provide for verification.
 
 ## Speed
 After initial verification, which may take a few hours, delivery of bitcoin is instant. 
