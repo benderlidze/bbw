@@ -4,6 +4,11 @@ hide_sidebar: true
 ---
 <div itemprop="review" itemscope itemtype="http://schema.org/Review" class="exchange-article {{ page.exchange }}-exchange">
 	
+
+<div class="row content-with-sidebar col-md-10 col-md-offset-1 col-sm-12">	
+<div class="exchange-header-back">
+
+
 <div itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
 	
 	<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -26,10 +31,9 @@ hide_sidebar: true
 	</span>
 	
 </div>	
-	
 
-<div class="row content-with-sidebar col-md-9">	
-<div class="exchange-header-back">
+<br>
+
 <div class="exchange-header {{ page.exchange }}-exchange">
 	  <img alt="{{ page.title }} review" class="exchange-logo" src="{{ "/img/exchanges/" | prepend: site.baseurl }}{{ page.thumb }}">
 	  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}"><span itemprop="name">{{ page.title }} Review</span></a></h1>
@@ -117,25 +121,5 @@ hide_sidebar: true
 </div>
 </div>
 
-
-
-<div class="row sidebar-add exchange-sidebar col-md-3">
-
-<div class="list-group vitals">
-	 	      {% if page.location != null %}
-	 		  <span class="list-group-item"><i class="fa fa-map-marker fa-fw"></i>&nbsp; {{ page.location }}</span>
-	 	      {% endif %}
-			  <a rel="nofollow" class="list-group-item" href="{{ page.website_url }}"><i class="fa fa-link fa-fw"></i>&nbsp; <span>{{ page.website }}</span></a>
-			  {% if page.twitter != null %}
-			  <a rel="nofollow" class="list-group-item" href="{{ page.twitter_url }}"><i class="fa fa-twitter fa-fw"></i>&nbsp; <span>@{{ page.twitter }}</span></a>
-			  {% endif %}
-			  {% if page.facebook != null %}
-			  <a rel="nofollow" class="list-group-item" href="{{ page.facebook_url }}"><i class="fa fa-facebook fa-fw"></i>&nbsp; <span>{{ page.facebook }}</span></a>
-			  {% endif %}
-</div>
-
-{% include sidebar.html %}
-
-</div>	
 	
 </div>

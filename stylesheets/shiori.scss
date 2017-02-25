@@ -69,10 +69,15 @@ $space-md: $line-height-computed * 2;
 h2 {
   margin-top: $line-height-computed * 1.5;
   margin-bottom: $line-height-computed * 0.25;
+  font-weight: bold;
 }
 h3 {
   text-transform: uppercase;
   margin-bottom: $line-height-computed * 0.25;
+  font-weight: bold;
+}
+h4 {
+	font-weight: bold;
 }
 
 .lead {
