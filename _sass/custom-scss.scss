@@ -283,6 +283,10 @@ html, body {
  .arabic .col-md-1, .arabic .col-md-2, .arabic .col-md-3, .arabic .col-md-4, .arabic .col-md-5, .arabic .col-md-6, .arabic .col-md-7, .arabic .col-md-8, .arabic .col-md-9, .arabic .col-md-10, .arabic .col-md-11, .arabic .col-md-12 {
 	 float: right;
  }
+ 
+.arabic .buy-info-full .btn {
+	float: left !important;
+}
 
 
 .buy-info h4 {
@@ -1076,6 +1080,19 @@ input.gsc-input {
 
 .white-background {
 	background: #fff;
+}
+
+.arabic .color-guide-img {
+    float: left;
+    margin-right: 7px;
+}
+
+.arabic .caption-img-box {
+	float: left !important;
+	
+	span {
+		text-align: left;
+	}
 }
 
 @media (min-width: 768px) { 
@@ -1916,6 +1933,10 @@ iframe #navigation {
 		margin-right: 10px;
 	}
 	
+	.arabic .btn-primary {
+		margin-left: 10px !important;
+	}
+	
 	.recommended {
 	    color: #daa520;
 	    display: inline-block;
@@ -2661,6 +2682,13 @@ blockquote {
 	 font-family: "FontAwesome";
 	 margin-right: 10px;
 }
+
+.arabic {
+	.quick-info-pros li::before, .quick-info-cons li::before {
+		padding-left: 10px;
+	}
+}
+
 
 .quick-info-pros li::before {
 	 content: "\f164";
