@@ -263,6 +263,10 @@ ar:
   about: نبذة عن
   about_url: /en/about/
   change_lang: لغة  
+  buy_wallet:  شراء
+  learnmore: اعرف المزيد
+  wallets: Monederos Bitcoin
+  wallets_url: /es/monederos-bitcoin/
   
 ##################### Russian #####################
 ru:

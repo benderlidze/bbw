@@ -2002,9 +2002,9 @@
    url: http://buybitcoinww.co/bitit_gift
    icon: /img/buy/bitit.png
    countries: fr, ca, gb, pl, de, it, es, nl, ch, be, lu, mt, il, dk, au, gr, is, ie, no, fi, za, mx, hr, at, pt, se, cy, cz, br, ar
-   po: cc, neosurf
+   po: cc, neosurf, cash
    desc_fr: Acheter des Bitcoins en ligne par carte bancaire ou en espèces dans 100k+ magasins
-   tags: [quickinfo, avgprivacy, fast, avgfees, avgrep, eouavg, lowlimits]
+   tags: [quickinfo, avgprivacy, fast, avgfees, trusted, eouavg, lowlimits]
    pros: <li>Unique way of purchasing offers extra privacy over other methods</li><li>Very low 3.9% credit card fee</li><li>8% Neosurf fee is slightly better than Coinhouse's 10%</li><li>Available in 50 countries</li><li>Super fast way to purchase bitcoin</li><li>Many payment methods</li><li>€10,000 initial weekly Neosurf cash payment limit</li> <li>Bitcoin gift cards also available; more expensive than other options but they do make good gifts</li>
    cons: <li>In-person buying methods offer more privacy but can be confusing</li><li>Identity verification required for buying amounts over €25</li><li>€500 initial weekly credit/debit card limit</li>
 
