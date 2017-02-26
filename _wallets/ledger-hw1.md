@@ -28,6 +28,7 @@ ru: Ledger HW.1 считается одним из самых бюджетных
 nb: Ledger HW.1 kan bli sett på som en hardware lommebok for et lavt budsjett. Den har ikke en skjerm, så den er ikke fullt så sikker som de tre andre alternativene nevnt over. Uansett, så vil den gi deg mer sikkerhet enn en hot lommebok og det er et godt valg for pengene.
 fr: Le Ledger HW.1 est souvent considéré comme un hardware wallet bon marché. Il n’a pas d’écran et n’est donc pas aussi sécurisé que les trois options précédentes. Il offre cependant toutefois plus de sécurité qu’un hot wallet.
 ar: "يمكن اعتبار Ledger HW.1 كجهاز للميزانية. هو لا يحتوي على شاشة، ولذلك فهو ليس آمناً تماماً كالخيارات الثلاث التي ذكرت سابقاً في الأعلى. ولكن على كل حال، سيوفر لك حماية وأمان أكثر من المحفظة الساخنة."
+th: "Ledger HW.1 ถือเป็นกระเป๋าฮาร์ดแวร์รุ่นประหยัด อุปกรณ์ไม่มีหน้าจอในตัว ดังนั้นอาจสู้อุปกรณ์อื่นในด้านความปลอดภัยไม่ได้ แต่ก็ยังถือว่าปลอดภัยกว่า hot wallet."
 screen: no
 released: 2013
 price: $17

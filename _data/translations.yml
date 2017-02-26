@@ -24,12 +24,8 @@ en:
   by_jordan: Site by Jordan Tuwiner
   disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
-  contact: Contact
-  contact_url: /en/contact/
   paymentmethods: Payment Methods
   paymentmethods_url: /en/payment-methods/
-  about: About
-  about_url: /en/about/
   change_lang: Language
   country: Country
   bbi: "Buy Bitcoin in:"
@@ -64,6 +60,24 @@ en:
   buy_wallet: Buy
   wallets: Wallets
   wallets_url: /wallets/
+  links: Links ## begin footer menu
+  findexchange: Find Exchange
+  felink: /
+  exchangereviews: Exchange Reviews
+  storingbtcs: Storing Bitcoins
+  walletslink: /wallets/
+  cc_url: /en/buy-bitcoin-credit-debit-card/
+  cc: Credit Card
+  pp_url: /en/buy-bitcoin-paypal/
+  cc_url: /en/buy-bitcoin-credit-debit-card/
+  cash: Cash
+  cash_url: /en/buy-bitcoins-with-cash/
+  site: Site
+  about: About Us
+  disclaimer: Disclaimer
+  privacyp: Privacy Policy
+  connect: Connect
+  contact: Contact
   
 ##################### Spanish #####################
 es:   
@@ -666,3 +680,33 @@ nb:
   buy_wallet: Kjøp
   wallets: Lommebøker
   wallets_url: /nb/bitcoin-lommeboeker/
+  
+th:
+  buy: Kup bitcoiny
+  atms: ATM
+  exchanges: 
+  namerica:
+  samerica: 
+  asia: 
+  europe: 
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: 
+  contribute: 
+  get_wallet: 
+  short_lang: 
+  language: ภาษาไทย
+  home_url: /
+  find_country: 
+  by_jordan:
+  disclaimer: Varning
+  disclaimer_url: /en/disclaimer/
+  contact: Kontakta oss
+  contact_url: /en/contact/
+  paymentmethods: 
+  paymentmethods_url: 
+  about: 
+  about_url: /en/about/
+  learnmore: อ่านเพิ่มเติม
+  buy_wallet: สั่งซื้อ
+  wallets: กระเป๋าสตางค์ Bitcoin
+  wallets_url: /th/bitcoin-wallets/
