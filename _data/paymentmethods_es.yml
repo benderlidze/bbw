@@ -9,7 +9,3 @@
  - pmethod: PayPal
    icon: paypal
    url: /es/comprar-bitcoin-paypal/
-   
- - pmethod: SEPA
-   icon: eur
-   url: /es/comprar-bitcoin-online-con-transferencias-sepa/
