@@ -29,6 +29,8 @@ nb: KeepKey ble utgitt september 2015 and var den andre hardware Bitcoin lommebo
 fr: Le KeepKey a été mis en vente en septembre 2015 et était le deuxième portefeuille matériel Bitcoin à présenter un écran. Le grand écran du KeepKey offre des aspects sécuritaires que le Nano S et le Trezor n’ont pas.
 ar: "لقد صدر KeepKey في سبتمبر 2015، ولقد كان ثاني جهاز خاص بمحفظة بت كوين يشمل على شاشة. إن شاشة KeepKey الكبيرة تعطيك بعض ميزات الحماية والآمان والتي لا يوفرها Nano S و Trezor."
 th: KeepKey ออกสู่ตลาดในปี 2015 และเป็นอุปกรณ์ตัวที่สองในตลาดที่มีหน้าจอ มีจุดเด่นตรงที่หน้าจอมีขนาดใหญ่ เพิ่มฟีเจอร์ความปลอดภัยได้มากกว่า Nano S และ Trezor.
+ko: "KeepKey는 2015 년 9 월에 출시되었으며 화면을 제공하는 두 번째 하드웨어 비트코인 지갑이었습니다. KeepKey의 더 큰 화면은 Nano S와 Trezor에 없는 몇 가지 추가 보안 기능을 제공합니다."
+da: "KeepKey blev udgivet i september 2015 og blev den anden bitcoin hardware-tegnebog som inkluderede en skærm. KeepKeys større skærm giver den nogle ekstra sikkerhedsfunktioner som Nano S og Trezor mangler."
 weight: 9
 pro1: Most secure & feature packed Bitcoin hardware wallet available
 pro2: Digital screen & metal body

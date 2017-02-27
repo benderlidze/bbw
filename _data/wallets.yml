@@ -10,6 +10,8 @@
    ar: "Electrum هو نسخة خفيفة من محفظة بت كوين لماكنتوش ولينكس وويندوز. ولقد تم إنشاء Electrum في نوفمبر 2011. إن الميزات الرئيسية الخاصة بـ Electrum هي: يدعم أجهزة المحافظ (مثل TREZOR و Ledger Nano و KeepKey)، وتخزين آمن للبت كوين باستخدام كميوتر غير متصل بالانترنت. إن Electrum هو خيار جيد لكل مستخدمينه سواءً كانوا مبتدئين أو خبراء."
    ja: ""
    th: "Electrum เป็นโปรแกรมกระเป๋าสตางค์บิทคอยน์สำหรับ Mac, Linux และ Windows ตัวโปรแกรมขนาดเล็กไม่หนักเครื่อง Electrum เปิดตัวในเดือนพฤศจิกายน 2011 ฟีเจอร์หลักของโปรแกรมได้แก่ การรองรับกระเป๋าฮาร์ดแวร์ (เช่น TREZOR, Ledger Nano และ KeepKey) และการจัดเก็บบิทคอยน์อย่างปลอดภัยไว้ในคอมพิวเตอร์ที่ไม่ได้เชื่อมต่อออนไลน์ Electrum เป็นตัวเลือกที่ดีไม่ว่าจะเป็นมือใหม่หรือผู้ใช้ที่มีความชำนาญ"
+   da: "Electrum er en letvægtig bitcoin-tegnebog til Mac, Linux og Windows. Electrum blev dannet i november 2011. De primære funktioner ved Electrum er: understøttelse for hardware-tegnebøger (som TREZOR, Ledger Nano og KeepKey) og sikker bitcoin-opbevaring ved brug af en offline computer. Electrum er en god mulighed for både nybegyndere og avancerede brugere."
+   ko: "Electrum 은 맥, 리눅스 및 윈도우용 경량 비트코인 지갑입니다. Electrum 은 2011 년 11 월에 만들어졌습니다. Electrum 의 주요 기능은 하드웨어 지갑 (예 : TREZOR, Ledger Nano 및 KeepKey) 지원 및 오프라인 컴퓨터를 사용한 비트코인 저장 장치의 보안 기능입니다. Electrum 은 초보자와 고급 사용자 모두에게 좋은 옵션입니다."
    tags: [desktop, mac, nonhw]
    thumb: electrum.png
    website_url: http://electrum.org/ 
@@ -26,6 +28,8 @@
    ar: "Mycelium هو أكثر محافظ البت كوين استعمالاً في نظام تشغيل أندرويد. إن نه سهل الاستخدام لإرسال واستقبال المدفوعات. وكذلك فإنه من السهل إنشاء نسخة احتياطية من محفظتك، حيث أن Mycelium يجعل ذلك واضحاً جداً في تعليمات التنصيب والنسخ الاحتياطي."
    th: "Mycelium เป็นกระเป๋าสตางค์ที่นิยมใช้มากที่สุดบน Android เนื่องจากใช้งานในการรับและจ่ายบิทคอยน์ได้ง่าย มีการสอนวิธีการสำรองข้อมูลหรือการแบคอัพไว้อย่างละเอียด"
    ja: ""
+   da: "Mycelium er den mest populære bitcoin-tegnebog til Android. Den er meget let at bruge, når man sender og modtager betalinger. At tage backup af din tegnebog er også simpelt, eftersom Mycelium gør det meget tydeligt med opsætning og backup-instruktioner."
+   ko: "Mycelium 은 안드로이드에서 가장 인기있는 비트코인 지갑입니다. 지불 송금에 사용하기가 매우 쉽습니다. Mycelium 은 설정 및 백업 지침을 통해 매우 명확하게 처리하므로 지갑을 백업하는 것도 간단합니다."
    tags: [android, mobile, nonhw]
    thumb: mycelium.png
    website_url: https://mycelium.com/mycelium-wallet.html
@@ -41,7 +45,9 @@
    nb: "Vi anser breadwallet, sammen med Copay (under), som den beste Bitcoin lommeboken for iPhone. Den har en åpen kildekode og brukere har full kontroll over sine private nøkler. Den har også et oversiktlig grensesnitt som gjør sending og mottak av Bitcoins til en enkel prosess."
    ar: "نحن نعتبر breadwallet، جنباً إلى جنب مع Copay (المذكور في الأسفل)، كأفضل محفظة بت كوين لجهاز الآيفون. هو مفتوح المصدر ويعطي المستخدم التحكم الكامل بمفاتيحه الخاصة. وله واجهة مريحة تجعل من استقبال وارسال المدفوعات من البت كوين عملية ممتعة وسهلة جداً."
    ja: ""
+   da: "Vi betragter breadwallet, sammen med Copay (nedenunder), som den bedste bitcoin-tegnebog for iPhone. Den er frit tilgængelig for alle og den giver brugeren fuld kontrol over deres private nøgler. Den har også et rent interface, som gør afsendelsen og modtagelsen af bitcoins en behagelig og super simple proces."
    th: "เราเห็นว่า breadwallet และ Copay (รายละเอียดด้านล่าง) เป็นกระเป๋าบิทคอยน์ที่ดีที่สุดสำหรับ iPhone เพราะป็น open source และให้อำนาจแก่ผู้ใช้เต็มที่ในการควบคุมกุญแจส่วนตัวของตน นอกจากนี้แล้วดีไซน์ยังดูสะอาดตา ทำให้การรับส่งบิทคอยน์เป็นเรื่องง่ายและน่ารื่นรมย์"
+   ko: "우리는 Copay (아래)와 함께 breadwallet 을 아이폰용 최고의 비트 동전 지갑으로 생각합니다. 오픈 소스이며사용자가개인키를완벽하게제어할수있습니다.또한비트코인의송금 및 수령을 즐겁고 매우 간단한 프로세스로 만드는 깔끔한 인터페이스가 있습니다."
    tags: [mobile, nonhw, ios]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
@@ -58,6 +64,8 @@
    ar: "Breadwallet هي أفضل محفظة لجهاز الآيفون وتخص بت كوين، ولقد تم اصدار نسخة خاصة منها لنظام تشغيل الأندرويد. إنها توفر للمستخدم خاصية التحكم بالمفاتيح الخاصة وهي ذات واجهة سهلة الاستخدام ومزودة بنظام رمز المرور."
    ja: ""
    th: "breadwallet เป็นกระเป๋าสตางค์ที่มีชื่อเสียงครองตลาด iPhone และเร็ว ๆ นี้ได้มีการปล่อยเวอร์ชั่นสำหรับ Android ออกมาด้วย กระเป๋าสตางค์ให้ผู้ใช้ควบคุมกุญแจส่วนตัวได้ หน้าตาแอพเข้าใจง่าย และสามารถสร้างพาสเวิร์ดได้"
+   da: "breadwallet, den store Bitcoin-tegnebog til iPhone, udgav for nylig en tegnebog til Android. Den tilbyder brugeren kontrol over private nøgler, et inderface der er let at bruge og en adgangskodeopsætning."
+   ko: "breadwallet 는 위대한 아이폰 비트코인 지갑 그리고 최근에 안드로이드 지갑을 발표했습니다. 개인 키의 사용자 제어, 사용하기 쉬운 인터페이스 및 암호 지원을 제공합니다."
    tags: [mobile, android]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
@@ -74,6 +82,8 @@
    ar: "إن محفظة بت كوين Copay هي مفتوحة المصدر وتابعة لشركة BitPay. ويمكن استعمالها من خلال العديد من الأجهزة، حيث أن Copay هي متوفرة للأندرويد، وهاتف ويندوز، ونظام تشغيل iOS ، وجميع أنظمة تشغيل أجهزة الحاسوب. ومن بين العديد من المزايا الرائعة، فإنه من السهل إنشاء عدة حسابات حيث يمكنك الحصول على محافظ منفصلة تخص نشاطك التجاري ومصروفاتك الشخصية."
    ja: ""
    th: "กระเป๋าสตางค์ Copay เป็นกระเป๋าสตางค์ open source ของ BitPay บริการนี้อำนวยความสะดวกข้ามระบบปฏิบัติการและใช้ได้หลายอุปกรณ์ สามารถใช้ได้ทั้งในระบบ Android, Windows Phone, iOS และทุกระบบปฏิบัติการของคอมพิวเตอร์ นอกจากจะมีฟีเจอร์หลากหลายแล้ว ยังสามารถสร้างบัญชีหลายอัน เช่น สร้างบัญชีสำหรับการเงินธุรกิจและบัญชีส่วนตัวแยกจากกันได้"
+   da: "Copay bitcoin-tegnebog er gratis tilgængelig for alle. Den kan bruges over flere enheder, eftersom Coplay er tilgængelig til Android, Windows Phone, iOS og alle computerplatforme. Iblandt dens mange gode funktioner, er det meget let at danne flere kontoer, så du kan have flere tegnebøger for din virksomhed og personlige midler."
+   ko: "Copay 비트코인 지갑은 BitPay 의 오픈 소스 지갑입니다. Copay 는 안드로이드, 윈도우 폰, iOS 및 모든 데스크톱 플랫폼에서 사용할 수 있으므로 여러 기기에서 사용할 수 있습니다. 다른 많은 훌륭한기능중에서도여러계정을쉽게만들수있으므로비즈니스및개인자금을 위한별도의 지갑을 가질 수 있습니다."
    tags: [nonhw, ios]
    thumb: copay.png
    website_url: https://copay.io/   
@@ -90,6 +100,8 @@
    ar: "إن محفظة بت كوين Copay هي متوفرة أيضاً لنظام التشغيل أندرويد. هي سهلة الاستخدام وتشمل على العديد من الميزات المتقدمة والتي توفر مرونة فائقة."
    ja: ""
    th: "กระเป๋าสตางค์บิทคอยน์ Copay สำหรับระบบ Android มีจุดเด่นตรงใช้ง่ายและมีฟีเจอร์ระดับสูงหลายอย่างที่ทำให้ตั้งค่าแอพตามต้องการได้มาก"
+   da: "Copay Bitcoin-tegnebog er også tilgængelig til Android. Den er let at benytte og tilbyder mange avancerede funktioner med stor fleksibilitet."
+   ko: "Copay 비트코인 지갑은 안드로이드에서도 사용할 수 있습니다. 사용하기 쉽고 뛰어난 유연성을 제공하는 많은 고급 기능을 제공합니다."
    tags: [android, nonhw]
    thumb: copay.png
    website_url: https://copay.io/
@@ -106,6 +118,8 @@
    ar: "Airbitz هي محفظة بت كوين سهلة الاستخدام وهي خاصة  لجهاز الآيفون والأندرويد. إن طريقة تسجيل الدخول السلسة الخاصة به، تجعل  استخدام البرنامج سهلاً جدا للأشخاص الجدد على بت كوين. وتقوم المحفظة بإنشاء نسخ احتياطية بشكل تلقائي، لذلك ليس عليك القلق من الأمور التقنية الخاصة بعمل نسخ احتياطية للمحفظة يدوياً."
    ja: ""
    th: "Airbitz กระเป๋าสตางค์สำหรับ iPhone และ Android ที่ใช้ง่ายด้วยดีไซน์หน้าล็อกอินที่คุ้นตา ทำให้ผู้ใช้บิทคอยน์มือใหม่เข้าถึงได้ง่าย แอพกระเป๋าสตางค์จะสร้างแบคอัพสำรองข้อมูลโดยอัตโนมัติ ตัดปัญหาความยุ่งยากในการต้องทำแบคอัพด้วยตนเอง"
+   da: "Airbitz er en brugervenlig bitcoin-tegnebog til iPhone og Android. Dens velkendte login-funktion gør brugen af app’en en leg for dem, som er nye til bitcoin. Tegnebogen tilbyder også automatisk backup, så du ikke behøver at bekymre dig om de tekniske vanskeligheder i at foretage backup af tegnebogen manuelt."
+   ko: "Airbitz 는 아이폰 및 안도로이드용 비트코인 지갑을 사용하기 쉽습니다. 친숙한 로그인 기능을 통해 비트 동전을 처음 접한 사람들에게도 앱을 쉽게 사용할 수 있습니다. 또한 지갑은 자동 백업을 생성하므로 수동 지갑 백업을 수행하는 기술에 대해 걱정할 필요가 없습니다."
    tags: [android, ios, nonhw]
    thumb: airbitz.png
    website_url: https://copay.io/      
@@ -122,6 +136,8 @@
    ar: "آخراً وليس أخيراً، Copay هو متوفر لجهاز الحاسوب أيضاً. إن التطبيق الخاص بالحاسوب يعطيك القدرة لإدارة أجهزة المحافظ، بالإضافة إلى جميع الميزات الأخرى التي ذكرت سابقاً في الأعلى"
    ja: ""
    th: "Copay สามารถใช้งานได้ในเวอร์ชั่นเดสท็อปเช่นเดียวกัน เวอร์ชั่นนี้รองรับการจัดการกระเป๋าฮาร์ดแวร์ด้วยเพิ่มเติมจากฟีเจอร์อื่น ๆ ดังที่ได้กล่าวถึงแล้ว"
+   da: "Sidst, men ikke mindst, Copay er også tilgængelig til computeren. Dets computerprogram giver dig evnen til at styre dine hardware-tegnebøger, sammen med alle de andre overstående funktioner."
+   ko: "마지막으로 Copay 는 데스크톱에서도 사용 가능합니다. 데스크톱 앱을 사용하면 위에서 언급 한 다른 모든 기능과 함께 하드웨어 지갑을 관리할 수 있습니다."
    tags: [nonhw, desktop]
    thumb: copay.png
    website_url: https://copay.io/         
@@ -138,6 +154,8 @@
    ar: "هي نسخة أندرويد مأخودة تماماً من GreenAddress. وهي محفظة متعددة التأكيد وتدعم أجهزة المحافظ مثل TREZOR و Ledger."
    ja: ""
    th: "GreenBits เป็นเวอร์ชั่น Android แท้ของ GreenAddress เป็นกระเป๋าสตางค์ระบบ multi-signature ซึ่งสามารถใช้ร่วมกับกระเป๋าฮาร์ดแวร์อย่าง TREZOR และ Ledger"
+   da: "GreenBits er den naturligt hjemmehørende Android-version af GreenAddress. Det er en multisignatur-tegnebog, der også understøtter hardware-tegnebøger som TREZOR og Ledger."
+   ko: "GreenBits 는 GreenAddress 의 기본 안드로이드 버전입니다. TREZOR 및 Ledger 와 같은 하드웨어 지갑을 지원하는 다중 서명 지갑입니다."
    tags: [android, mobile, nonhw]
    thumb: greenbits.png
    website_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en 
@@ -154,6 +172,10 @@
    ar: "<p>GreenAddress هو محفظة متعددة التأكيد ومتوفر على الانترنت وجهاز الحاسوب وأندرويد ونظام تشغيل iOS. إن GreenAddress متوافق مع أجهزة المحافظ الإلكترونية مثل TREZOR و Ledger Nano و HW.1.</p><p>إن مصطلح 'متعدد التأكيد' الذي تم ذكره يعني بأن الموقع سيحتاج إلى تأكيد يدوي منك للسماح للكوين الخاصة بك للانتقال، وهذا يعزز الحماية والأمان بصورة كبيرة.</p>"
    ja: ""
    th: "<p>กระเป๋าสตางค์ออนไลน์ GreenAddress ใช้ระบบ multi-signature สามารถใช้งานผ่านหน้าเว็บ โปรแกรมคอมพิวเตอร์ Android และ iOS กระเป๋า GreenAddress สามารถใช้ร่วมกับกระเป๋าฮาร์ดแวร์เช่น TREZOR, Ledger Nano, และ HW.1</p><p>'Multi-signature' หมายถึงระบบจะต้องให้ผู้ใช้ทำการยืนยันอีกครั้ง จึงจะสามารถใช้จ่ายด้วยบิทคอยน์ได้ ซึ่งทำให้มีความปลอดภัยมากขึ้น</p>"
+   da: "<p>GreenAddress er en multisignatur bitcoin-tegnebog tilgængelig på computeren, Android og iOS.
+GreenAddress er kompatibel med hardware-tegnebøger som TREZOR, Ledger Nano og HW.1.</p> <p>'Multisignatur' betyder i denne kontekst, at siden behøver manuel bekræftelse fra dig, for at dine bitcoins kan flyttes. Dette forbedrer sikkerheden markant.</p>"
+   ko: "<p>GreenAddress 는 웹, 데스크탑, 안드로이드 및 iOS 에서 사용할 수 있는 다중 서명 비트코인 지갑입니다. GreenAddress 는 TREZOR, Ledger Nano 및 HW.1 과 같은 하드웨어 지갑과 호환됩니다. </p><p>이 문맥에서 '다중 서명'이란 귀하의 코인을 이동하기 위해 사이트에서 귀하의 수동으로 확인을
+요구한다는 것을 의미합니다. 이렇게 하면 보안이 크게 향상됩니다.</p>"
    tags: [web, online, nonhw]
    thumb: greenaddress.png
    website_url: https://greenaddress.it/       
@@ -169,7 +191,9 @@
    nb: "Bitcoin Wallet, eller mer kjent som Schildbach Wallet, var den første Bitcoin lommeboken for mobil. Bitcoin Wallet er mer sikker en de fleste Bitcoin lommebøkene, fordi den er tilkoblet direkte til Bitcoin nettverket. Bitcoin Wallet er et enkelt grensesnitt og en akkurat passe mengde med funksjoner, noe som gjør den til en flott lommebok og et stort verktøy for nye Bitcoin brukere."
    ar: "Bitcoin Wallet أو 'Schildbach Wallet' كانت أول محفظة بت كوين للهواتف النقالة. Bitcoin Wallet هي أكثر أمناً من معظم محافظ بت كوين للهواتف النقالة، وذلك لأنها تتصل مباشرة في شبكة بت كوين. Bitcoin Wallet تملك واجهة بسيطة والكم المناسب من الميزات التي تجعلها محفظة ممتازة وأداة تعليمية رائعة لمستخدمي بت كوين الجدد."
    ja: ""
+   da: "Bitcoin Wallet, eller 'Schildbach Wallet', var den første mobile bitcoin-tegnebog. Bitcoint Wallet er mere sikker end de fleste Bitcoin-tegnebøger, fordi den forbinder direkte til bitcoin-netværket. Bitcoin Wallet har et simpelt interface og akkurat det rigtige antal funktioner, som gør den til en god tegnebog og et godt undervisningsredskab for nye til bitcoin."
    th: "Bitcoin Wallet หรือ 'Schildbach Wallet' เป็นกระเป๋าสตางค์แรกที่ออกมาในระบบมือถือ Bitcoin Wallet มีความปลอดภัยกว่าแอพบิทคอย์นทั่วไป เพราะมีการเชื่อมต่อโดยตรงกับเน็ตเวิร์คบิทคอยน์ แอพออกแบบให้แลดูสะอาดตา มีฟีเจอร์พื้นฐานครบ เป็นการช่วยให้ผู้ใช้มือใหม่เรียนรู้วิธีใช้งานได้ง่าย"
+   ko: "Bitcoin Wallet 또는 'Schildbach Wallet'은 최초의 모바일 비트코인 지갑이었습니다. 비트코인 지갑은 비트코인 네트워크에 직접 연결되기 때문에 대부분의 모바일 비트코인 지갑보다 안전합니다. 비트코인 지갑은 간단한 인터페이스와 기능 만 갖추고있어 비트코인 초보자에게 훌륭한 지갑이자 훌륭한 교육 도구입니다."
    tags: [mobile, android, nonhw]
    thumb: bwallet.png
    website_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet  

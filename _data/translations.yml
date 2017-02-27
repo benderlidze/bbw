@@ -710,3 +710,81 @@ th:
   buy_wallet: สั่งซื้อ
   wallets: กระเป๋าสตางค์ Bitcoin
   wallets_url: /th/bitcoin-wallets/
+  links: ลิงค์ ## begin footer menu
+  findexchange: หาตลาดแลกเปลี่ยน
+  felink: /
+  exchangereviews: รีวิวตลาดแลกเปลี่ยน
+  storingbtcs: การเก็บรักษา Bitcoin
+  walletslink: /th/bitcoin-wallets/
+  cc_url: /en/buy-bitcoin-credit-debit-card/
+  cc: บัตรเครดิต
+  pp_url: /en/buy-bitcoin-paypal/
+  cc_url: /en/buy-bitcoin-credit-debit-card/
+  cash: เงินสด
+  cash_url: /en/buy-bitcoins-with-cash/
+  site: เว็บไซต์
+  about: เกี่ยวกับเรา
+  disclaimer: ข้อสงวนสิทธิ์
+  privacyp:	นโยบายความเป็นส่วนตัว
+  connect: ตืดต่อ
+  contact: ติดต่อเรา
+
+ko:
+  buy: Kup bitcoiny
+  atms: ATM
+  exchanges: 
+  namerica:
+  samerica: 
+  asia: 
+  europe: 
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: 
+  contribute: 
+  get_wallet: 
+  short_lang: 
+  language: 한국의
+  home_url: /
+  find_country: 
+  by_jordan:
+  disclaimer: Varning
+  disclaimer_url: /en/disclaimer/
+  contact: Kontakta oss
+  contact_url: /en/contact/
+  paymentmethods: 
+  paymentmethods_url: 
+  about: 
+  about_url: /en/about/
+  learnmore: อ่านเพิ่มเติม
+  buy_wallet: สั่งซื้อ
+  wallets: กระเป๋าสตางค์ Bitcoin
+  wallets_url: /ko/bitcoin-wallets/  
+  
+da:
+  buy: Kup bitcoiny
+  atms: ATM
+  exchanges: 
+  namerica:
+  samerica: 
+  asia: 
+  europe: 
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: 
+  contribute: 
+  get_wallet: 
+  short_lang: 
+  language: Dansk
+  home_url: /
+  find_country: 
+  by_jordan:
+  disclaimer: Disclaimer
+  disclaimer_url: /en/disclaimer/
+  contact: Kontakt
+  contact_url: /en/contact/
+  paymentmethods: 
+  paymentmethods_url: 
+  about: 
+  about_url: /en/about/
+  learnmore: Lær mere
+  buy_wallet: Køb
+  wallets: Bitcoin Tegnebog
+  wallets_url: /da/bitcoin-tegnebog/
