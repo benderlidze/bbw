@@ -611,6 +611,14 @@ html, body {
     width: 100%;
 }
 
+.color-guide-text .exchange-pmethods-table td {
+    vertical-align: middle !important;
+}
+
+.color-guide-text .table-striped > tbody > tr:nth-child(2n+1) {
+    background-color: #f9f9f9 !important;
+}
+
 .exchange-pmethods-table td, .exchange-pmethods-table th {
 	padding: 5px !important;
 }
@@ -1274,6 +1282,12 @@ input.gsc-input {
 
 .color-guide-text {
     font-size: 1.2em;
+    
+    .buy-info-full h2 {
+	    font-size: 1em;
+	    font-weight: normal;
+	    margin-top: 15px;
+    }
 }
 
 .chapter-link {
@@ -2432,6 +2446,12 @@ blockquote {
 
 .gsst_a {
     display: none !important;
+}
+
+.ykwtig {
+	font-weight: bold;
+	font-size: 1.2em;
+	font-weight: normal;
 }
 
 .kb-what-is-mining {
