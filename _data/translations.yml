@@ -27,7 +27,7 @@ en:
   paymentmethods: Payment Methods
   paymentmethods_url: /en/payment-methods/
   change_lang: Language
-  country: Country
+  country: Country ## start find exchange tool translations
   bbi: "Buy Bitcoin in:"
   with: "with:"
   pmethod: Payment Method
@@ -36,7 +36,7 @@ en:
   select_payment_method: Please select a payment method.
   no_sellers_found: Sorry, no matches found.
   sellers_found: 'We found <strong><%= exchangeCount %></strong> Bitcoin exchange<%= ( exchangeCount > 1 ? \"s\" : \"\") %> in <strong><%= countryName %></strong> that accept<%= ( exchangeCount < 1 ? \"s\" : \"\") %> <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
-  average: Average
+  average: Average ## start quick info labels
   low: Low
   high: High
   trusted: Trusted
