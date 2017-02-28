@@ -622,6 +622,8 @@ pl:
   change_lang: język  
   learnmore: Dowiedz się więcej
   buy_wallet: Zakup
+  wallets: Portfele Bitcoin
+  wallets_url: /pl/portfele-bitcoin/
   
 sv:
   buy: Kup bitcoiny
