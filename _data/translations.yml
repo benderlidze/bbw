@@ -619,7 +619,9 @@ pl:
   paymentmethods_url: 
   about: 
   about_url: /en/about/
-  change_lang: język   
+  change_lang: język  
+  learnmore: Dowiedz się więcej
+  buy_wallet: Zakup
   
 sv:
   buy: Kup bitcoiny
@@ -756,7 +758,7 @@ ko:
   about_url: /en/about/
   learnmore: 더 알아보기 
   buy_wallet: 구매하기
-  wallets: 작은 지갑
+  wallets: 비트코인 지갑
   wallets_url: /ko/bitcoin-wallets/  
   
 da:

@@ -31,6 +31,7 @@ ar: "يمكن اعتبار Ledger HW.1 كجهاز للميزانية. هو لا 
 th: "Ledger HW.1 ถือเป็นกระเป๋าฮาร์ดแวร์รุ่นประหยัด อุปกรณ์ไม่มีหน้าจอในตัว ดังนั้นอาจสู้อุปกรณ์อื่นในด้านความปลอดภัยไม่ได้ แต่ก็ยังถือว่าปลอดภัยกว่า hot wallet."
 ko: "Ledger HW.1은 저예산 하드웨어 지갑입니다. 화면이 없으므로 위에서 언급 한 세 가지 옵션만큼 안전하지 않습니다. 그러나, 온라인 지갑보다는 더 많은 보안을 제공합니다."
 da: "Ledger HW.1 kan betragtes som en budget hardware-tegnebog. Den har ikke en skærm, så den er ikke helt så sikker som de tre overstående muligheder. Den vil dog give dig mere sikkerhed end en online-tegnebog."
+pl: "Ledger HW.Może być uznawany za tani portfel sprzętowy. Nie posiada wyświetlacz, więc nie jest tak bezpieczny, jak trzy opcje wymienione powyżej. Zapewnia on jednak większe bezpieczeństwo niż gorący portfel."
 screen: no
 released: 2013
 price: $17
