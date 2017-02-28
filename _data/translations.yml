@@ -754,9 +754,9 @@ ko:
   paymentmethods_url: 
   about: 
   about_url: /en/about/
-  learnmore: อ่านเพิ่มเติม
-  buy_wallet: สั่งซื้อ
-  wallets: กระเป๋าสตางค์ Bitcoin
+  learnmore: 더 알아보기 
+  buy_wallet: 구매하기
+  wallets: 작은 지갑
   wallets_url: /ko/bitcoin-wallets/  
   
 da:
