@@ -330,8 +330,8 @@
    tags: [quickinfo, review, rec, highprivacy, fast, avgfees, trusted, eouavg, avglimits]
    desc_nobank: BitQuick provides escrow between buyers and sellers. Payments are made via cash deposit at bank locations across the U.S., and via SEPA transfer in the EU. Your coins will usually be delivered in under two hours if payment was made via cash deposit.
    desc_fast: "BitQuick's goal is to make buying bitcoin fast and easy. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. BitQuick can be used in the United States and Europe."
-   desc_cdus: BitQuick provides escrow and connects you with sellers. You can buy bitcoin via cash deposit at a number of banks across the United States and Europe. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour.
-   desc_cdus_short: BitQuick helps you buy bitcoins fast in the United States with cash via cash deposit.
+   desc_cdus: <p>BitQuick connects you with sellers who want cash for their bitcoins. </p> <p>BitQuick is only available in the United States and works like this&#58;</p><ul><li><b>Find a seller</b>. Once you find a seller you agree on a price for the bitcoins.</li><li><b>Make cash deposit</b>. Go to the seller's bank and make a cash deposit into the seller's account.</li><li><b>Upload receipt</b>. Upload your receipt to the seller to prove you made the deposit.</li> <li><b>Receive bitcoins!</b> The seller will release bitcoins to you.</li></ul> <p>This process can be completed at a massive number of banks across the United States.</p> <p>Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour!</p>
+   desc_cdus_short: BitQuick helps you buy bitcoins fast in the United States with cash via cash deposit."
    desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.
    desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
    desc_fr: Achetez rapidement des bitcoins dans l'UE par dépôts d'espèces ou virements SEPA.
@@ -1804,7 +1804,7 @@
    cons: <li>User-interface makes it difficult for first time buyers</li><li>Requires ID verification, so not private</li>
 
  - name: Wall of Coins
-   desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, UK, Canada, Argentina, Australia, Brazil, Canada, Germany, Latvia, Mexico, Poland, the Philippines, and Romania. It offers low fees and is a very private way to purchase coins.
+   desc: <p>Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, UK, Canada, Argentina, Australia, Brazil, Canada, Germany, Latvia, Mexico, Poland, the Philippines, and Romania.</p> <p>It offers low fees and is a very private way to purchase coins.</p>
    tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eoueasy, avglimits]
    url: http://buybitcoinww.co/Wall_of_Coins
    internal_url: /exchanges/wall-of-coins/
@@ -1812,7 +1812,7 @@
    countries: us, ca, de, ph, ar, pl, lv
    po: fast, cash, cdus, nobank, lowfees
    desc_nobank: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes.
-   desc_cdus: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes.
+   desc_cdus: <p><a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods.</p> <p>Cash deposit, however, is the exchange's most common payment method.</p> <p>There are over 100,000 deposit locations available across the United States.</p> <p>Wall of Coins also supports Canada, the United Kingdom, Germany, Poland, Argentina, Latvia, Poland, and the Philippines.</p> <p>After a cash deposit is made you'll usually receive your bitcoins within 15 minutes.</p>
    desc_cdus_short: Wall of Coins makes it easy and fast to buy bitcoins with cash. <a href="/exchanges/wall-of-coins/">Wall of Coins review</a>.
    name_es: Wall of Coins
    desc_es: Comprar bitcoin a través de depósito en efectivo en numerosos bancos.
@@ -1844,7 +1844,7 @@
    po: fast, cdus, nobank, lowfees, cash
    tags: [quickinfo, avgprivacy, avgspeed, avgfees, trusted, eouavg, avglimits]
    desc_nobank: LibertyX lets you buy bitcoin with cash at a number of retail stores across the United States. You'll have to verify your identity before buying, making LibertyX less private than some of the other options. You can buy up to $1000 worth of bitcoin. You'll be charged a 1% fee on all purchases, but if you sign up with Facebook you can buy your first $1000 fee free. Your bitcoin should arrive a few minutes after your payment is made.
-   desc_cdus: LibertyX lets you buy bitcoin with cash at a number of retail stores across the United States. You'll have to verify your identity before buying, making LibertyX less private than some of the other options. You can buy up to $1000 worth of bitcoin and will be charged a 1% fee on all purchases. If you sign up with Facebook you can buy your first $1000 fee free. Your bitcoin should arrive a few minutes after your payment is made.
+   desc_cdus: <p>LibertyX lets you buy bitcoin with cash at a number of retail stores across the United States.</p> <p>You'll have to verify your identity before buying, making LibertyX less private than some of the other options.</p> <p>You can buy up to $1000 worth of bitcoin and will be charged a 1% fee on all purchases.</p> <p><b>Get this&#58;</b></p> <p>If you sign up with Facebook you can buy your first $1000 fee free.</p> <p>Your bitcoin should arrive a few minutes after your payment is made.</p>
    desc_cdus_short: Purchase bitcoins with cash at over 15,000 retail locations across the United States.
    desc_fast: LibertyX lets you buy bitcoin with cash at a number of stores across the United States. Bitcoin is usually delivered within an hour of payment, and sometimes within 15 minutes.
    name_es: LibertyX
@@ -1882,7 +1882,7 @@
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
    po: fast, cdus, nobank, cash
    desc_nobank: Coin ATM Radar helps you find Bitcoin ATMs in your area, where you can by bitcoins with cash and no bank account.
-   desc_cdus: Our Bitcoin ATM map helps you find a Bitcoin ATM in your local area. Using Bitcoin ATMs you can buy bitcoins with cash. The average ATM charges a fee of 5-10%, but this is what people are willing to pay to buy bitcoins privately and with no verification. There are many Bitcoin ATM manufacturates, so each ATM is different. Some require verification, some don't.
+   desc_cdus: <p>Our Bitcoin ATM map helps you find a Bitcoin ATM in your local area.</p><p>Using Bitcoin ATMs you can buy bitcoins with cash ONLY.</p> <p>The average ATM charges a fee of 5-10%, but this is what people are willing to pay to buy bitcoins privately and with no verification.</p> <p>There are many Bitcoin ATM manufacturates, so each ATM is different. Some require verification, although most don't.</p>
    desc_cdus_short: Find a Bitcoin ATM in your area where you can purchase bitcoins with cash.
    pros: <li>Our map makes it super easy to find a Bitcoin ATM near you</li>
    cons: <li>Bitcoin ATMs often have 5-10% fees per purchase</li>
@@ -1980,7 +1980,6 @@
    desc_skrill_short: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a> or Skrill. Buy Second Life Lindens, and trade them for bitcoin.
    desc_skrill: VirWoX isn't a Bitcoin exchange, but rather used to acquire Second Life Lindens (SLL), a currency used in the virtual world Second Life. It is, however, possible to buy SLL with Skrill, and then trade the SLL for bitcoin. We don't have a step-by-step tutorial for how to go through the process with Skrill, but it's <a href="/en/buy-bitcoin-paypal/">very similar to how it's done with PayPal</a>. Simply deposit with Skrill, buy SLL, and trade the SLL for BTC. You can follow the steps shown in the PayPal article for an approximate how-to.
    url: http://buybitcoinww.co/bitcoin_virwox
-   internal_url: /exchanges/virwox/
    icon: /img/buy/virwox.png
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
    po: pp, cc, skrill, okpay, sell
