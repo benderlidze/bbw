@@ -1856,7 +1856,7 @@
    desc_zh: 可在美国的一些零售店以现金购买比特币。
    desc_ru: Купить биткоин за наличные во множестве магазинов США.
    desc_uk: Біткоіни-брокер. Купити біткоіни за готівку в безлічі магазинів США.
-   pros: <li>Easy and fast way to buy bitcoins with cash</li>Low 1.5% (plus store fee) rate for cash purchase method</li><li>Daily $1000 limit is fairly high for a convenience service</li>
+   pros: <li>Easy and fast way to buy bitcoins with cash</li><li>Low 1.5% (plus store fee) rate for cash purchase method</li><li>Daily $1000 limit is fairly high for a convenience service</li>
    cons: <li>Participating stores add their own variable fee</li><li>Some verification is required which lowers the expected privacy level of cash purchase</li><li>Attaching your Facebook account further degrades privacy</li>
 
  - name: CoinCorner
