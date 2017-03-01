@@ -5,6 +5,8 @@ hide_sidebar: false
 {% assign wallet = site.data.wallets[page.wallet] %}
 <div itemprop="review" itemscope itemtype="http://schema.org/Review" class="wallet-article {{ page.wallet }}">
 
+<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Review"><meta itemprop="name" content="{{ page.title }}"/></span>
+
 <div itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
 	
 	<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
