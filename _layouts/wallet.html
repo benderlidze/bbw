@@ -92,12 +92,11 @@ hide_sidebar: false
     
    <span itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jordan Tuwiner"></span>
    
-   
-   <div itemprop="ReviewRating" itemscope itemtype="http://schema.org/Rating">
-	  <meta itemprop="worstRating" content="1">
-	  <meta itemprop="bestRating" content = "5">
-	  <strong>Rating: </strong><span itemprop="ratingValue">{{ page.rating }}</span>
-  </div>
+   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+				<meta itemprop="ratingValue" content="{{ page.rating }}">
+				<meta itemprop="worstRating" content="1">
+				<meta itemprop="bestRating" content="5">
+	</span>
      
     <a type="button" href="{{ page.buy_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-bottom btn-success"><i class="fa fa-bitcoin"></i> Buy a {{ page.title }}</a>
     <br>
