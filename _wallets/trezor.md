@@ -50,7 +50,7 @@ rating: 4.7
 {:toc}
 
 ## Price
-Costs $99 for one, or $276 for three. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"} with credit card or bank account from [Amazon](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
+Costs $99 for one, or $276 for three. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"}. To buy with a credit card or bank account you'll have to buy from [Amazon](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
 
 ## Security
 
