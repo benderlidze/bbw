@@ -3,7 +3,6 @@ layout: default
 hide_sidebar: true
 ---
 <div itemprop="review" itemscope itemtype="http://schema.org/Review" class="exchange-article {{ page.exchange }}-exchange">
-	<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Review"><meta itemprop="name" content="{{ page.title }}"/></span>
 
 
 <div class="row content-with-sidebar col-md-10 col-md-offset-1 col-sm-12">	
@@ -98,12 +97,17 @@ hide_sidebar: true
 	
 	</span>
 	
-	<p>Review by <span itemprop="author">Jordan Tuwiner</span> </p>
-   <div itemprop="ReviewRating" itemscope itemtype="http://schema.org/Rating">
-	  <meta itemprop="worstRating" content="1">
-	  <meta itemprop="bestRating" content = "5">
-	  <strong>Rating: </strong><span itemprop="ratingValue">{{ page.rating }}</span>
-  </div>
+	<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing">
+			<meta itemprop="name" content="{{ page.title }}">
+		</span>
+    
+   <span itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jordan Tuwiner"></span>
+   
+   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+				<meta itemprop="ratingValue" content="{{ page.rating }}">
+				<meta itemprop="worstRating" content="1">
+				<meta itemprop="bestRating" content="5">
+	</span>
 	
 	<a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-bottom btn-success"><i class="fa fa-bitcoin"></i> Visit {{ page.website }}</a>
 	
