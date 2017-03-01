@@ -5,8 +5,6 @@ hide_sidebar: false
 {% assign wallet = site.data.wallets[page.wallet] %}
 <div itemprop="review" itemscope itemtype="http://schema.org/Review" class="wallet-article {{ page.wallet }}">
 
-<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Review"><meta itemprop="name" content="{{ page.title }}"/></span>
-
 <div itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
 	
 	<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -87,8 +85,14 @@ hide_sidebar: false
    	<span itemprop="reviewBody">
     {{ content }} 
    	</span>
+   	
+   	<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing">
+			<meta itemprop="name" content="{{ page.title }}">
+		</span>
     
-   <p>Review by <span itemprop="author">Jordan Tuwiner</span> </p>
+   <span itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jordan Tuwiner"></span>
+   
+   
    <div itemprop="ReviewRating" itemscope itemtype="http://schema.org/Rating">
 	  <meta itemprop="worstRating" content="1">
 	  <meta itemprop="bestRating" content = "5">
