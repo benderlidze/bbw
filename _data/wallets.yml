@@ -13,6 +13,8 @@
    da: "Electrum er en letvægtig bitcoin-tegnebog til Mac, Linux og Windows. Electrum blev dannet i november 2011. De primære funktioner ved Electrum er: understøttelse for hardware-tegnebøger (som TREZOR, Ledger Nano og KeepKey) og sikker bitcoin-opbevaring ved brug af en offline computer. Electrum er en god mulighed for både nybegyndere og avancerede brugere."
    ko: "Electrum 은 맥, 리눅스 및 윈도우용 경량 비트코인 지갑입니다. Electrum 은 2011 년 11 월에 만들어졌습니다. Electrum 의 주요 기능은 하드웨어 지갑 (예 : TREZOR, Ledger Nano 및 KeepKey) 지원 및 오프라인 컴퓨터를 사용한 비트코인 저장 장치의 보안 기능입니다. Electrum 은 초보자와 고급 사용자 모두에게 좋은 옵션입니다."
    pl: "Electrum jest lekkim portfelem Bitcoin na Mac, Linux i Windows. Electrum powstał w listopadzie 2011 roku. Główne cechy Electrum to: wsparcie dla portfeli sprzętowych (takich jak TREZOR, Ledger Nano i KeepKey) oraz bezpieczne przechowywanie Bitcoin, dzięki wykorzystaniu komputera w trybie offline. Electrum jest dobrym rozwiązaniem zarówno dla początkujących jak i zaawansowanych użytkowników."
+   el: "Το Electrum είναι ένα ελαφρύ  πορτοφόλι Bitcoin για Mac, Linux και Windows. Το Electrum δημιουργήθηκε τον Νοέμβριο του 2011. Tα κυριότερα χαρακτηριστικά του Electrum είναι: υποστήριξη για πορτοφόλια υλισμικού (όπως τα TREZOR, Ledger Nano και KeepKey), και ασφαλή ς φύλαξη bitcoin μέσω υπολογιστή εκτός διαδικτύου. Το Electrum αποτελεί καλή επιλογή τόσο για αρχάριους όσο και για πιο προχωρημένους χρήστες."
+   zh: "Electrum是一个轻便的比特币钱包，可适用于Mac、Linux和Windows平台。它发布于2011年11月份。它的主要特性有：支持硬件钱包（例如：TREZOR, Ledger Nano 和 KeepKey）并且通过使用离线电脑可以安全存储比特币。不管是初学者，还是高级用户，Electrum都是一个不错的选择。"
    tags: [desktop, mac, nonhw]
    thumb: electrum.png
    website_url: http://electrum.org/ 
@@ -32,6 +34,8 @@
    da: "Mycelium er den mest populære bitcoin-tegnebog til Android. Den er meget let at bruge, når man sender og modtager betalinger. At tage backup af din tegnebog er også simpelt, eftersom Mycelium gør det meget tydeligt med opsætning og backup-instruktioner."
    ko: "Mycelium 은 안드로이드에서 가장 인기있는 비트코인 지갑입니다. 지불 송금에 사용하기가 매우 쉽습니다. Mycelium 은 설정 및 백업 지침을 통해 매우 명확하게 처리하므로 지갑을 백업하는 것도 간단합니다."
    pl: "Mycelium jest najpopularniejszym portfelem Bitcoin na platformę Android. Jest bardzo prosty w użyciu, przy wysyłaniu i otrzymywaniu płatności. Tworzenie kopii zapasowej portfela również jest proste, ponieważ Mycelium  posiada bardzo proste instrukcje konfiguracji i kopii zapasowej."
+   el: "Το Mycelium είναι το πιο δημοφιλές πορτοφόλι Bitcoin για Android. Είναι πολύ εύκολο στη χρήση του για την αποστολή και την είσπραξη πληρωμών. Η δημιουργία αντιγράφου ασφαλείας για το πορτοφόλι σας είναι επίσης απλή, καθώς το Mycelium παρέχει σαφείς οδηγίες ρύθμισης και δημιουργίας αντιγράφου ασφαλείας."
+   zh: "Mycelium是最受欢迎的Android平台的比特币钱包，用其发送或者接收支付比特币请求是很方便的。备份你的钱包也是很方便，因为Mycelium对安装和备份做了详尽的说明。"
    tags: [android, mobile, nonhw]
    thumb: mycelium.png
    website_url: https://mycelium.com/mycelium-wallet.html
@@ -51,6 +55,8 @@
    th: "เราเห็นว่า breadwallet และ Copay (รายละเอียดด้านล่าง) เป็นกระเป๋าบิทคอยน์ที่ดีที่สุดสำหรับ iPhone เพราะป็น open source และให้อำนาจแก่ผู้ใช้เต็มที่ในการควบคุมกุญแจส่วนตัวของตน นอกจากนี้แล้วดีไซน์ยังดูสะอาดตา ทำให้การรับส่งบิทคอยน์เป็นเรื่องง่ายและน่ารื่นรมย์"
    ko: "우리는 Copay (아래)와 함께 breadwallet 을 아이폰용 최고의 비트 동전 지갑으로 생각합니다. 오픈 소스이며사용자가개인키를완벽하게제어할수있습니다.또한비트코인의송금 및 수령을 즐겁고 매우 간단한 프로세스로 만드는 깔끔한 인터페이스가 있습니다."
    pl: "Uważamy, że breadwallet oraz Copay (poniżej), to najlepsze portfele Bitcoin na iPhone. Jest on open source'owy i daje użytkownikowi pełną kontrolę nad swoimi kluczami prywatnymi. Posiada również przejrzysty interfejs, który sprawia, że wysyłanie i otrzymywanie bitcoinów jest przyjemnym i banalnym procesem."
+   el: "Θεωρούμε το breadwallet, και το Copay (πιο κάτω), το καλύτερο  πορτοφόλι Bitcoin για iPhone. Είναι ανοιχτής πηγής και παρέχει στον χρήστη τον πλήρη έλεγχο των ιδιωτικών του κλειδιών. Διαθέτει επίσης  ξεκάθαρο περιβάλλον εργασίας που καθιστά την αποστολή και την είσπραξη bitcoins μια ευχάριστη και πολύ απλή διαδικασία."
+   zh: "我们认为breadwallet和下面要介绍的Copay，都被认为是iPhone平台最好的比特币钱包。它是开源的并且可以让用户完全掌控他们自己的私钥。它有一个简洁的交互界面，使得发送和接收比特币是一件快乐且超级简单的事情。"
    tags: [mobile, nonhw, ios]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
@@ -70,6 +76,8 @@
    da: "breadwallet, den store Bitcoin-tegnebog til iPhone, udgav for nylig en tegnebog til Android. Den tilbyder brugeren kontrol over private nøgler, et inderface der er let at bruge og en adgangskodeopsætning."
    ko: "breadwallet 는 위대한 아이폰 비트코인 지갑 그리고 최근에 안드로이드 지갑을 발표했습니다. 개인 키의 사용자 제어, 사용하기 쉬운 인터페이스 및 암호 지원을 제공합니다."
    pl: "breadwallet, wielki portfel Bitcoin dla iPhone, niedawno wydał również portfel na Android. Oferuje on użytkownikowi kontrolę kluczy prywatnych, łatwy w obsłudze interfejs i wsparcie kodu dostępu."
+   el: "Το breadwallet, το θαυμάσιο πορτοφόλι Bitcoin για iPhone, κυκλοφόρησε πρόσφατα ένα πορτοφόλι για συσκευές Android. Προσφέρει στον χρήστη τον έλεγχο των ιδιωτικών κλειδιών, εύκολο περιβάλλον εργασίας και υποστήριξη κωδικού πρόσβασης."
+   zh: "breadwallet，一个非常棒的iPhone平台的比特币钱包，最近也发布了其Android钱包。它为用户提供了对私钥的管理、简单的用户交互界面和一个密码支持。"
    tags: [mobile, android]
    thumb: breadwallet.png
    website_url: https://breadwallet.com/
@@ -89,6 +97,8 @@
    da: "Copay bitcoin-tegnebog er gratis tilgængelig for alle. Den kan bruges over flere enheder, eftersom Coplay er tilgængelig til Android, Windows Phone, iOS og alle computerplatforme. Iblandt dens mange gode funktioner, er det meget let at danne flere kontoer, så du kan have flere tegnebøger for din virksomhed og personlige midler."
    ko: "Copay 비트코인 지갑은 BitPay 의 오픈 소스 지갑입니다. Copay 는 안드로이드, 윈도우 폰, iOS 및 모든 데스크톱 플랫폼에서 사용할 수 있으므로 여러 기기에서 사용할 수 있습니다. 다른 많은 훌륭한기능중에서도여러계정을쉽게만들수있으므로비즈니스및개인자금을 위한별도의 지갑을 가질 수 있습니다."
    pl: "Portfel Bitcoin Copay jest open source'owym portfelem BitPaya. Może być używany na wielu urządzeniach, ponieważ Copay jest dostępny w wersjach dla systemu Android, Windows Phone, iOS i na wszystkie platformy stacjonarne. Poza posiadaniem dużej ilości doskonałych funkcji, można również łatwo utworzyć wiele kont, dzięki czemu można posiadać osobne portfele firmowe oraz prywatne."
+   el: "Το πορτοφόλι Bitcoin Copay είναι το πορτοφόλι ανοιχτής πηγής του BitPay. Μπορεί να χρησιμοποιηθεί σε πολλές συσκευές, δεδομένου ότι το Copay  προσφέρεται για τηλέφωνα Android, Windows, iOS, και για όλες τις πλατφόρμες υπολογιστή. Πέρα από τα υπόλοιπα εξαιρετικά χαρακτηριστικά του,  προσφέρει τη δυνατότητα  εύκολης δημιουργίας  πολλαπλών λογαριασμών, ώστε να μπορείτε να διατηρείτε χωριστά πορτοφόλια για τα επιχειρηματικά και τα ιδιωτικά σας κεφάλαια."
+   zh: "Copay是BitPay公司的开源的比特币钱包，它能跨平台使用，能在Android、Windows Phone、iOS和所有的桌面平台使用。在其众多的特性中，创建多个账户是非常简单的，因此你可以将你的公司账户和个人账户区分开来。"
    tags: [nonhw, ios]
    thumb: copay.png
    website_url: https://copay.io/   
@@ -108,6 +118,8 @@
    da: "Copay Bitcoin-tegnebog er også tilgængelig til Android. Den er let at benytte og tilbyder mange avancerede funktioner med stor fleksibilitet."
    ko: "Copay 비트코인 지갑은 안드로이드에서도 사용할 수 있습니다. 사용하기 쉽고 뛰어난 유연성을 제공하는 많은 고급 기능을 제공합니다."
    pl: "Portfel Bitcoin Copay jest również dostępny na Androida. Jest on łatwy w użyciu oraz oferuje wiele zaawansowanych funkcji, które umożliwiają dużą elastyczność."
+   el: "Το Copay πορτοφόλι Bitcoin διατίθεται επίσης για Android. Είναι εύκολο στη χρήση του, με πολλά προηγμένα χαρακτηριστικά που προσφέρουν μεγάλη ευελιξία."
+   zh: "Copay也适用于Android平台，它使用方便并且提供了很多灵活的高级特性。"
    tags: [android, nonhw]
    thumb: copay.png
    website_url: https://copay.io/
@@ -127,6 +139,8 @@
    da: "Airbitz er en brugervenlig bitcoin-tegnebog til iPhone og Android. Dens velkendte login-funktion gør brugen af app’en en leg for dem, som er nye til bitcoin. Tegnebogen tilbyder også automatisk backup, så du ikke behøver at bekymre dig om de tekniske vanskeligheder i at foretage backup af tegnebogen manuelt."
    ko: "Airbitz 는 아이폰 및 안도로이드용 비트코인 지갑을 사용하기 쉽습니다. 친숙한 로그인 기능을 통해 비트 동전을 처음 접한 사람들에게도 앱을 쉽게 사용할 수 있습니다. 또한 지갑은 자동 백업을 생성하므로 수동 지갑 백업을 수행하는 기술에 대해 걱정할 필요가 없습니다."
    pl: "Airbitz jest prostym w użyciu portfelem  Bitcoin na iPhone i Android. Znajoma funkcja logowania sprawia, że korzystanie z aplikacji jest bardziej przyjazne dla początkujących użytkowników Bitcoin. Portfel tworzy także automatyczne kopie zapasowe, dzięki czemu nie musimy się martwić o techniczne aspekty tworzenia ręcznych kopii zapasowych portfela."
+   el: "Το Airbitz είναι ένα εύκολο στη χρήση του πορτοφόλι Bitcoin για  iPhone και Android. Η οικεία σε όλους λειτουργία σύνδεσης  κάνει τη χρήση της εφαρμογής παιχνιδάκι για αυτούς που είναι νέοι στο Bitcoin. Tο πορτοφόλι δημιουργεί επίσης αυτόματα αντίγραφα ασφαλείας κι έτσι δεν χρειάζεται να ανησυχείτε για τις λεπτομέρειες της δημιουργίας αντιγράφων ασφαλείας του πορτοφολιού από μόνοι σας."
+   zh: "Airbitz是一个方便使用的比特币钱包--可适用于iPhone和Android平台。其熟悉的登录功能使得使用其App应用程序就像一阵清风一样易于被新手接受。它可以自动创建备份，因此你没有必要担心手动备份钱包带来的技术麻烦。"
    tags: [android, ios, nonhw]
    thumb: airbitz.png
    website_url: https://copay.io/      
@@ -146,6 +160,8 @@
    da: "Sidst, men ikke mindst, Copay er også tilgængelig til computeren. Dets computerprogram giver dig evnen til at styre dine hardware-tegnebøger, sammen med alle de andre overstående funktioner."
    ko: "마지막으로 Copay 는 데스크톱에서도 사용 가능합니다. 데스크톱 앱을 사용하면 위에서 언급 한 다른 모든 기능과 함께 하드웨어 지갑을 관리할 수 있습니다."
    pl: "Ostatni, ale nie mniej ważny, Copay jest również dostępny w wersji stacjonarnej. Jego aplikacja desktopowa daje możliwość zarządzania swoimi portfelami sprzętowymi, oraz korzystanie z wszystkich funkcjonalności wymienionych powyżej."
+   el: "Τέλος, αλλά εξίσου σημαντικό, το Copay προσφέρεται και για υπολογιστές. Η εφαρμογή για υπολογιστές σας δίνει τη δυνατότητα να διαχειρίζεστε τα πορτοφόλια υλισμικού σας παράλληλα με όλα τα άλλα χαρακτηριστικά που αναφέρονται πιο πάνω."
+   zh: "最后，但并非最不重要--Copay，也适用于桌面电脑。它的桌面端app提供你管理硬件钱包的功能，同时还具有上述提到的其他特性。"
    tags: [nonhw, desktop]
    thumb: copay.png
    website_url: https://copay.io/         
@@ -165,6 +181,8 @@
    da: "GreenBits er den naturligt hjemmehørende Android-version af GreenAddress. Det er en multisignatur-tegnebog, der også understøtter hardware-tegnebøger som TREZOR og Ledger."
    ko: "GreenBits 는 GreenAddress 의 기본 안드로이드 버전입니다. TREZOR 및 Ledger 와 같은 하드웨어 지갑을 지원하는 다중 서명 지갑입니다."
    pl: "GreenBits jest natywną wersją GreenAddress na Androida. Jest to portfel multipodpisowy, który wspiera również portfele sprzętowe, takie jak TREZOR i Ledger."
+   el: "Το GreenBits είναι η έκδοση για Android του GreenAddress. Είναι ένα πορτοφόλι πολλαπλής υπογραφής που υποστηρίζει επίσης πορτοφόλια υλισμικού όπως το TREZOR και το Ledger."
+   zh: "GreenBits是GreenAddress的Android版钱包。它是个多重签名的比特币钱包，同时支持类似TREZOR 和Ledger的硬件钱包。"
    tags: [android, mobile, nonhw]
    thumb: greenbits.png
    website_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en 
@@ -186,6 +204,9 @@ GreenAddress er kompatibel med hardware-tegnebøger som TREZOR, Ledger Nano og H
    ko: "<p>GreenAddress 는 웹, 데스크탑, 안드로이드 및 iOS 에서 사용할 수 있는 다중 서명 비트코인 지갑입니다. GreenAddress 는 TREZOR, Ledger Nano 및 HW.1 과 같은 하드웨어 지갑과 호환됩니다. </p><p>이 문맥에서 '다중 서명'이란 귀하의 코인을 이동하기 위해 사이트에서 귀하의 수동으로 확인을
 요구한다는 것을 의미합니다. 이렇게 하면 보안이 크게 향상됩니다.</p>"
    pl: "<p>GreenAddress jest multipodpisowym portfelem Bitcoin dostępnym przez stronę internetową, desktop, Android i iOS. GreenAddress jest kompatybilny z portfelami sprzętowymi takimi jak TREZOR, Ledger Nano oraz HW.1.</p> <p>'Multi-podpis' w tym przypadku oznacza, że strona wymaga przez Ciebie ręcznego potwierdzenia transferu bitcoinów; to znacznie zwiększa poziom bezpieczeństwa.</p>"
+   el: "<p>Το GreenAddress είναι ένα πορτοφόλι Bitcoin πολλαπλής υπογραφής που προσφέρεται διαδικτυακά για υπολογιστή, για συσκευές Android και  iOS. Το GreenAddress  είναι συμβατό με πορτοφόλια υλισμικού  όπως το TREZOR, το Ledger Nano και το HW.1. 
+</p><p>«Πολλαπλής υπογραφής» εδώ σημαίνει ότι η ιστοσελίδα απαιτεί επιβεβαίωση από εσάς τον ίδιο προκειμένου να μετακινηθούν τα νομίσματά σας∙ αυτό προσφέρει ιδιαίτερα ενισχυμένη ασφάλεια. </p>"
+   zh: "GreenAddress是一个具备多重签名的比特币钱包，其可在网络、桌面、Android和 iOS上使用。GreenAddress能和硬件钱包（例如TREZOR, Ledger Nano, and the HW.1）等兼容协作。“多重签名”是指网站需要您的手动确认比特币的转移，这大大提高了安全性。"
    tags: [web, online, nonhw]
    thumb: greenaddress.png
    website_url: https://greenaddress.it/       
@@ -205,6 +226,8 @@ GreenAddress er kompatibel med hardware-tegnebøger som TREZOR, Ledger Nano og H
    th: "Bitcoin Wallet หรือ 'Schildbach Wallet' เป็นกระเป๋าสตางค์แรกที่ออกมาในระบบมือถือ Bitcoin Wallet มีความปลอดภัยกว่าแอพบิทคอย์นทั่วไป เพราะมีการเชื่อมต่อโดยตรงกับเน็ตเวิร์คบิทคอยน์ แอพออกแบบให้แลดูสะอาดตา มีฟีเจอร์พื้นฐานครบ เป็นการช่วยให้ผู้ใช้มือใหม่เรียนรู้วิธีใช้งานได้ง่าย"
    ko: "Bitcoin Wallet 또는 'Schildbach Wallet'은 최초의 모바일 비트코인 지갑이었습니다. 비트코인 지갑은 비트코인 네트워크에 직접 연결되기 때문에 대부분의 모바일 비트코인 지갑보다 안전합니다. 비트코인 지갑은 간단한 인터페이스와 기능 만 갖추고있어 비트코인 초보자에게 훌륭한 지갑이자 훌륭한 교육 도구입니다."
    pl: "Bitcoin Wallet, lub 'Schildbach Wallet', był pierwszym mobilnym portfelem Bitcoin.  Bitcoin Wallet jest bezpieczniejszy niż większość mobilnych portfeli Bitcoin, ponieważ łączy się bezpośrednio z siecią Bitcoin. Bitcoin Wallet posiada prosty interfejs i jedynie niezbędną ilość funkcji, co czyni go doskonałym portfelem i narzędziem edukacyjnym dla początkujących użytkowników Bitcoin."
+   el: "To Bitcoin Wallet ή  «Schildbach Wallet», ήταν το πρώτο πορτοφόλι Bitcoin για κινητές συσκευές. Το Bitcoin Wallet είναι πιο ασφαλές από τα περισσότερα κινητά πορτοφόλια Bitcoin, επειδή συνδέεται απευθείας με το δίκτυο Bitcoin. Το περιβάλλον εργασίας του Bitcoin Wallet είναι απλό και διαθέτει ακριβώς όσα χαρακτηριστικά  χρειάζονται, καθιστώντας το ένα πραγματικά θαυμάσιο πορτοφόλι κι ένα εκπαιδευτικό εργαλείο για τους αρχάριους στο Bitcoin."
+   zh: "Bitcoin Wallet或者称Schildbach Wallet，是第一款移动版钱包，Bitcoin Wallet相比大多数的移动版钱包，要更具安全些，因为移动版钱包是直接联网的。Bitcoin Wallet有一个简单的界面和恰到好处的功能，使其成为一个非常棒的钱包和对比特币初学者的一个好的教育工具。"
    tags: [mobile, android, nonhw]
    thumb: bwallet.png
    website_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet  

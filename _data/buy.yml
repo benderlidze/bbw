@@ -1271,7 +1271,7 @@
    countries: ph
    po: bt, cash
    tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Bitcoin exchange in the Philippines with high</li> <li>Low maker fee of 0.2%</li><li>Fair taker fee of 0.5%</li><li>Fees fall as low as 0% with sufficient trading volume</li>
+   pros: <li>Bitcoin exchange in the Philippines with high liquidity</li> <li>Low maker fee of 0.2%</li><li>Fair taker fee of 0.5%</li><li>Fees fall as low as 0% with sufficient trading volume</li>
    cons: <li>Exchange can be hard to use for new Bitcoin users; it's geared towards traders</li> <li>Not a private way to buy bitcoins; identity verification required</li>
 
  - name: Coinage
@@ -1441,7 +1441,7 @@
    desc_uk: Купити біткоіни через SEPA, Swish, SWIFT, Bankgiro та іншими способами.
    tags: [quickinfo, avgprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
-   pros: <li>Offers a wide range of payment methods</li><li>Available from 32 countries</li><li>Offers a wide variety of payment methods</li><li>Deep liquidity ensures prices near the fair market rate</li><li>Support staff available every day from 8 AM to 10 PM</li>
+   pros: <li>Available from 32 countries</li><li>Offers a wide variety of payment methods</li><li>Deep liquidity ensures prices near the fair market rate</li><li>Support staff available every day from 8 AM to 10 PM</li>
    cons: <li>Not a private way to buy since ID verification is required</li><li>Support staff available during weekdays only, from 9 AM to 5 PM (UTC)</li><li>Only Swish payments will confirm over weekends</li><li>Fees aren't clearly stated but included in your buying price</li>
 
 ##### Ukraine ####################################################
@@ -1729,8 +1729,8 @@
    countries: it
    po: cash
    tags: [quickinfo, avgprivacy, fast, avgfees, trusted, eoueasy, avglimits]
-   pros: <li>60,000 locations throughout Italy to buy</li><li>Buyer can usually receive the bitcoins within 15 minutes</li><li>No verification required</li>
-   cons: <li>Trusted company with excellent support</li><li>Only available to use from 8:00 until 20:00</li>
+   pros: <li>60,000 locations throughout Italy to buy</li><li>Buyer can usually receive the bitcoins within 15 minutes</li><li>No verification required</li><li>Trusted company with excellent support</li>
+   cons: <li>Only available to use from 8:00 until 20:00</li>
 
 ##### Kenya ####################################################
 

@@ -31,6 +31,8 @@ th: Ledger Nano S เป็นตัวที่ราคาต่ำที่�
 da: Ledger Nano S er den billigste af de tre hardware-tegnebøger med skærme; den koster omkring $65. Ledger, en af de best kendte bitcoin sikkerhedsvirksomheder, udgav enheden i august 2016.
 ko: "Ledger Nano S 는 화면이 있는 3 개의 하드웨어 지갑 중에서 가장 저렴한 제품입니다. 그것은 대략 $ 65 정도 합니다. 가장 잘 알려진 Bitcoin 보안 회사 중 하나인 Ledger 가 2016 년 8 월에 이 지갑을 출시했습니다."
 pl: "Ledger Nano S jest najtańszymz trzech portfeli sprzętowych z wyświetlaczem; kosztuje około 65 $. Ledger, jedna z najbardziej znanych firm zabezpieczających Bitcoin, wydała urządzenie w sierpniu 2016 roku."
+el: "Tο Ledger Nano S είναι το οικονομικότερο από τα τρία πορτοφόλια υλισμικού (hardware wallets) με οθόνη∙ κοστίζει περίπου 65 $. Η Ledger, μια από τις πιο γνωστές εταιρείες ασφάλειας Bitcoin, κυκλοφόρησε τη συσκευή τον Αύγουστο του 2016."
+zh: "Ledger Nano S在三个带有屏幕的硬件钱包中是最便宜的。它售价65美元。Ledger--是鼎鼎有名的专注于比特币安全的公司之一，其在2016年8月份推出这款Ledger Nano S设备。"
 weight: 10.1
 released: 2016
 price: 58€

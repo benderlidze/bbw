@@ -521,6 +521,8 @@ el:
   about: Σχετικά
   about_url: /en/about/
   change_lang: Γλώσσα   
+  learnmore: Μάθετε περισσότερα
+  buy_wallet: Αγορά
 
 ##################### Chinese #####################
  
@@ -562,6 +564,8 @@ zh:
   select_payment_method: 请选择付款方式。
   no_sellers_found: 很抱歉，找不到匹配项。
   sellers_found: '找到 <strong><%= exchangeCount %></strong> 个匹配项 :'
+  learnmore: 了解更多
+  buy_wallet: 购买
   
 bg:
   buy: Купете биткойн
