@@ -528,7 +528,7 @@ el:
 
 ##################### Chinese #####################
  
-zh:
+zh_CN:
   buy: 购买比特币
   atms: 自动提款机
   exchanges: 交易
@@ -546,7 +546,7 @@ zh:
   get_wallet: 获取比特币钱包
   short_lang: zh
   language: 中文
-  home_url: /zh/
+  home_url: /zh-cn/
   find_country: 找寻国家
   by_jordan: 乔丹网站
   disclaimer: 免责声明

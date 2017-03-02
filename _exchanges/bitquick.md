@@ -6,7 +6,7 @@ exchange: bitquick
 desc: BitQuick is a Bitcoin exchange that lets customers buy bitcoins with cash via cash deposit. 
 thumb: bitquick.png
 lang: en
-seotitle: "BitQuick Review: Is It Safe? (Yes)"
+seotitle: "BitQuick Review: 3 Reasons It's Legit (And Not A Scam)"
 website: bitquick.co
 website_url: http://buybitcoinww.co/buybitquick
 location: USA

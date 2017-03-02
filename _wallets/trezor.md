@@ -33,7 +33,7 @@ ko: "TREZOR는 2014 년 8 월 최초의 비트코인 하드웨어 지갑으로 �
 da: "TREZOR startede i august 2014 som den første bitcoin hardware-tegnebog - den tilbyder en sikker bitcoin-opbevaring, plus evnen til at forbruge med bekvemmeligheden af en online-tegnebog. TREZOR er en lille enhed på størrelse med en tommelfinger."
 pl: "TREZOR miał premierę w sierpniu 2014 roku jako pierwszy portfel sprzętowy Bitcoin, oferujący bezpieczne przechowywanie bitcoinów oraz możliwość wydawanie ich z wygodą godną gorącego portfela. TREZOR to niewielkie urządzenie wielkości kciuka."
 el: "Το TREZOR κυκλοφόρησε τον Αύγουστο του 2014 ως το πρώτο πορτοφόλι υλισμικού Bitcoin που εκτός από την ασφαλή φύλαξη bitcoin προσέφερε και τη δυνατότητα να τα ξοδεύει κάποιος με την άνεση ενός ηλεκτρονικού πορτοφολιού (hot wallet). Το TREZOR είναι μια μικρή συσκευή, σε μέγεθος αντίχειρα."
-zh: "Trezor成立于2014年，并且发布了其第一款硬件钱包--提供安全比特币存储和与热钱包一样方便消费的能力。TREZOR是一款只有拇指大小的小型设备。"
+zh_CN: "Trezor成立于2014年，并且发布了其第一款硬件钱包--提供安全比特币存储和与热钱包一样方便消费的能力。TREZOR是一款只有拇指大小的小型设备。"
 weight: 9.1
 released: 2013
 price: $99

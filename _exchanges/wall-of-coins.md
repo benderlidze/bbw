@@ -6,7 +6,7 @@ exchange: wallofcoins
 desc: "Wall of Coins is a peer-to-peer Bitcoin exchange that makes it easy to buy and sell bitcoins."
 thumb: wallofcoins.jpg
 lang: en
-seotitle: "Wall of Coins Review"
+seotitle: "Wall of Coins Review: 3 Reasons It's Safe to Use"
 website: WallofCoins.com
 website_url: http://buybitcoinww.co/Wall_of_Coins
 twitter: wallofcoins

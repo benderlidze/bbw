@@ -6,7 +6,7 @@ exchange: coinbase
 thumb: coinbase.png
 lang: en
 cat: broker, popular
-seotitle: "Coinbase Review: 5 Things to Know Before Buying [or Using]"
+seotitle: "Coinbase Review: 5 Things to Know Before Buying (or Using)"
 website: coinbase.com
 website_url: http://buybitcoinww.co/Buy_Coinbase
 twitter: coinbase
