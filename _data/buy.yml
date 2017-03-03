@@ -2026,7 +2026,7 @@
    icon: /img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
    po: sepa
-   tags: [quickinfo, review, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
+   tags: [quickinfo, review, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits, int]
    name_es: itBit
    desc_es: Deposite con transferencia ACH, SEPA o transferencia bancaria internacional.
    desc_ar:  صرافة بيتكوين الموجدود بنيويورك . الإيداع بتحويل ACH، أو SEPA، أو التحويل البنكي الدولي.
