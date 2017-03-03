@@ -1982,7 +1982,7 @@
    desc_skrill_short: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a> or Skrill. Buy Second Life Lindens, and trade them for bitcoin.
    desc_skrill: VirWoX isn't a Bitcoin exchange, but rather used to acquire Second Life Lindens (SLL), a currency used in the virtual world Second Life. It is, however, possible to buy SLL with Skrill, and then trade the SLL for bitcoin. We don't have a step-by-step tutorial for how to go through the process with Skrill, but it's <a href="/en/buy-bitcoin-paypal/">very similar to how it's done with PayPal</a>. Simply deposit with Skrill, buy SLL, and trade the SLL for BTC. You can follow the steps shown in the PayPal article for an approximate how-to.
    url: http://buybitcoinww.co/bitcoin_virwox
-   internal_url: '/exchanges/virwox/#virwox-review'
+   internal_url: '/en/buy-bitcoin-paypal/#virwox-review'
    icon: /img/buy/virwox.png
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
    po: pp, cc, skrill, okpay, sell
