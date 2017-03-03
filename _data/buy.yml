@@ -65,7 +65,7 @@
    desc_paysafecard: VirWoX is well-known in Bitcoin as being one of the few ways to purchase bitcoins with PayPal. What do you is fund your VirWoX account with PayPal and purchase Second Life Lindens--a virtual currency used in the game Second Life. Then you trade the Second Life Lindens for bitcoins. <br><br> The same way bitcoins can't be purchased with PayPal directly, it's also not possible to directly purchase bitcoins with a paysafecard. The same workaround, however, that works with PayPal also works with paysafecard. You can fund your VirWoX account with paysafecard, buy Second Life Lindens, and then trade them for bitcoins. We'll show you step-by-step below how to do this.
    pros: <li>The easiest and perhaps only reliable way to purchase bitcoins with PayPal or Skrill</li>
    cons: <li>Convenience at a price; around 10% in fees to buy bitcoins with PayPal</li>
-   tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eouhard, avglimits]
+   tags: [quickinfo, rec, lowprivacy, fast, highfees, trusted, eouhard, avglimits]
 
 ## - name: Celery
 ##   desc: Bitcoin broker. Buy with your bank account via ACH bank transfer.

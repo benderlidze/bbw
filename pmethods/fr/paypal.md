@@ -1,7 +1,7 @@
 ---
 layout: guidehelp
 title: "Comment acheter des bitcoins avec PayPal"
-seotitle: "Acheter des bitcoins avec Paypal facilement en 3 étapes"
+seotitle: "3 étapes faciles pour acheter des bitcoins avec Paypal"
 permalink: "/fr/acheter-des-bitcoins-avec-paypal/"
 sitemap:
     priority: 0.7
