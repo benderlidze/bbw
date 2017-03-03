@@ -325,6 +325,27 @@ ru:
   wallets_url: /ru/bitcoin-koshelki/
   learnmore: Подробнее
   buy_wallet: Купить
+  average: Средне
+  low: Плохо
+  high: Хорошо
+  trusted: Доверенный
+  newcompany: Новая компания
+  lowtrust: Низкое доверие
+  vary: Варьируется
+  slow: Долго
+  fast: Быстро
+  hard: Сложно
+  easy: Просто
+  eouse: Простота в использовании
+  privacy: Приватность
+  speed: Скорость
+  fees: Комиссии
+  rep: Репутация
+  limits: Лимиты
+  pros: Плюсы
+  cons: Минусы
+  popular: Популярность
+
  
   
 ##################### Ukrainian #####################

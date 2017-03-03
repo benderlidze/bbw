@@ -20,4 +20,8 @@
 {{ name.desc_pl }}
 {% elsif page.lang == 'en' %}
 {{ name.desc }}
+{% elsif page.lang == 'ru' %}
+{{ name.desc_ru }}
+{% elsif page.lang == 'ru' and page.pmethod == 'ccww' %}
+{{ name.desc_ccww_ru }}
 {% endif %}
