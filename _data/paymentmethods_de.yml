@@ -1,12 +1,14 @@
- - pmethod: Kredit oder Debitkarte
+ - pmethod: Kreditkarte
    icon: credit-card 
    url: /de/bitcoin-kaufen-mit-kreditkarte/
    desc: 
+   nav: yes
 
  - pmethod: PayPal
    icon: paypal
    url: /de/bitcoin-kaufen-paypal/
    desc:  
+   nav: yes
    
  - pmethod: SEPA 
    icon: eur

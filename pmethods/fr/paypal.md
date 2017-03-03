@@ -14,8 +14,6 @@ multilang: yes
 ---
 <div class="col-sm-12">
 
-{% include languages.html %}
-
 <p>Beaucoup de personnes souhaitent acheter des bitcoins avec PayPal car c’est un moyen très répandu de payer en ligne.  Il faut cependant avoir conscience que les paiements avec PayPal sont un procédé réversible, tandis que ceux utilisant des bitcoins ne le sont pas. Les bourses d’échange et les traders estiment donc que laisser la possibilité aux utilisateurs de convertir un solde PayPal en bitcoins est plutôt risqué.</p>
 
 <img class="img-responsive halfimg-right" alt="Acheter des bitcoins avec Paypal" src="/img/icons/sepa.png">

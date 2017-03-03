@@ -14,8 +14,6 @@ multilang: yes
 ---
 <div class="col-sm-12">
 
-{% include languages.html %}
-
 <p><img class="img-responsive halfimg-right" alt="Bitcoins kaufen mit PayPal" src="/img/icons/sepa.png"> Wielu ludzi chce kupować bitcoiny za pośrednictwem PayPal, ponieważ jest to popularny sposób na dokonywanie płatności online.</p>
 
 <p>Jednakże płatności PayPal są odwracalne, podczas gdy transakcje bitcoinowe nie. Czyni to je ryzykownym dla handlowców i wymian które pozwoliłyby użytkownikom przekształcać PayPal w bitcoiny lub kupować bitcoiny za pomocą karty kredytowej.</p>

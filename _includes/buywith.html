@@ -1,0 +1,114 @@
+<li class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <i class="fa fa-fw fa-bitcoin"></i> {{ lang.paymentmethods }} <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu buy-with-pmethod">
+  
+  {% if page.lang == 'en' %}
+	  {% for pmethod in site.data.paymentmethods %}
+	  	{% if pmethod.nav %}	
+		<li>
+			<a href="{{ pmethod.url }}">
+				<i class="fa fa-fw fa-{{ pmethod.icon }}"></i> 
+				{{ pmethod.pmethod }}
+			</a>
+		</li>
+		{% endif %}  			
+	  {% endfor %} 
+  {% endif %}
+  
+  {% if page.lang == 'de' %}
+	  {% for pmethod in site.data.paymentmethods_de %}
+	  	{% if pmethod.nav %}	
+		<li>
+			<a href="{{ pmethod.url }}">
+				<i class="fa fa-fw fa-{{ pmethod.icon }}"></i> 
+				{{ pmethod.pmethod }}
+			</a>
+		</li>
+		{% endif %}  			
+	  {% endfor %} 
+  {% endif %}  
+  
+  {% if page.lang == 'ru' %}
+	  {% for pmethod in site.data.paymentmethods_ru %}
+	  	{% if pmethod.nav %}	
+		<li>
+			<a href="{{ pmethod.url }}">
+				<i class="fa fa-fw fa-{{ pmethod.icon }}"></i> 
+				{{ pmethod.pmethod }}
+			</a>
+		</li>
+		{% endif %}  			
+	  {% endfor %} 
+  {% endif %}  	 
+  
+  {% if page.lang == 'es' %}
+	  {% for pmethod in site.data.paymentmethods_es %}
+	  	{% if pmethod.nav %}	
+		<li>
+			<a href="{{ pmethod.url }}">
+				<i class="fa fa-fw fa-{{ pmethod.icon }}"></i> 
+				{{ pmethod.pmethod }}
+			</a>
+		</li>
+		{% endif %}  			
+	  {% endfor %} 
+  {% endif %}
+  
+  
+  {% if page.lang == 'fr' %}
+	  {% for pmethod in site.data.paymentmethods_fr %}
+	  	{% if pmethod.nav %}	
+		<li>
+			<a href="{{ pmethod.url }}">
+				<i class="fa fa-fw fa-{{ pmethod.icon }}"></i> 
+				{{ pmethod.pmethod }}
+			</a>
+		</li>
+		{% endif %}  			
+	  {% endfor %} 
+  {% endif %}
+  
+  
+  {% if page.lang == 'pt' %}
+	  {% for pmethod in site.data.paymentmethods_pt %}
+	  	{% if pmethod.nav %}	
+		<li>
+			<a href="{{ pmethod.url }}">
+				<i class="fa fa-fw fa-{{ pmethod.icon }}"></i> 
+				{{ pmethod.pmethod }}
+			</a>
+		</li>
+		{% endif %}  			
+	  {% endfor %} 
+  {% endif %}
+  
+  {% if page.lang == 'pl' %}
+	  {% for pmethod in site.data.paymentmethods_pl %}
+	  	{% if pmethod.nav %}	
+		<li>
+			<a href="{{ pmethod.url }}">
+				<i class="fa fa-fw fa-{{ pmethod.icon }}"></i> 
+				{{ pmethod.pmethod }}
+			</a>
+		</li>
+		{% endif %}  			
+	  {% endfor %} 
+  {% endif %}
+  
+  {% if page.lang == 'it' %}
+	  {% for pmethod in site.data.paymentmethods_it %}
+	  	{% if pmethod.nav %}	
+		<li>
+			<a href="{{ pmethod.url }}">
+				<i class="fa fa-fw fa-{{ pmethod.icon }}"></i> 
+				{{ pmethod.pmethod }}
+			</a>
+		</li>
+		{% endif %}  			
+	  {% endfor %} 
+  {% endif %}
+  
+  </ul>
+</li>

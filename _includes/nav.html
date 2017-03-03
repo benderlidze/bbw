@@ -2,12 +2,15 @@
 	{% include multilang.html %}
 {% endif %}
 
+
+{% if page.lang == 'en' or page.lang == 'de' or page.lang == 'ru' or page.lang == 'fr' or page.lang == 'pt' or page.lang == 'es' or page.lang == 'pl' or page.lang == 'it' %}
+{% include buywith.html %}
+{% endif %}
+
+
 {% if page.lang != 'en' and page.lang != 'sv' and page.lang != 'th' and page.lang != 'nb' and page.lang != 'ko' and page.lang != 'da' and page.lang != 'pl'  %}
 <li>
 <a class="wallet-nav" href="{{ lang.home_url }}"><!--<i class="fa fa-fw fa-map-marker"></i> -->{{ lang.find_country }}</a>
-</li>
-<li>
-<a class="contribute-nav" href="{{ lang.paymentmethods_url }}"><!--<i class="fa fa-fw fa-credit-card"></i> -->{{ lang.paymentmethods }}</a>
 </li>
 {% endif %}
 
@@ -31,6 +34,7 @@
 <a class="contribute-nav" href="/wallets/"><!--<i class="fa fa-fw fa-bitcoin"></i> -->Wallets</a>
 </li>
 {% elsif page.lang == 'en' %}
+
 <li>
 <a class="contribute-nav" href="/">Find Exchange</a>
 </li>

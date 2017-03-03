@@ -63,7 +63,6 @@
    desc_pl: Wymiana cyfrowej waluty. Najprostszy sposób na kupienie bitconów poprzez PayPal.
    desc_it: Lo scambio di valuta digitale. Il modo più semplice per acquistare Bitcoin con PayPal.
    desc_paysafecard: VirWoX is well-known in Bitcoin as being one of the few ways to purchase bitcoins with PayPal. What do you is fund your VirWoX account with PayPal and purchase Second Life Lindens--a virtual currency used in the game Second Life. Then you trade the Second Life Lindens for bitcoins. <br><br> The same way bitcoins can't be purchased with PayPal directly, it's also not possible to directly purchase bitcoins with a paysafecard. The same workaround, however, that works with PayPal also works with paysafecard. You can fund your VirWoX account with paysafecard, buy Second Life Lindens, and then trade them for bitcoins. We'll show you step-by-step below how to do this.
-   internal_url: /exchanges/virwox/
    pros: <li>The easiest and perhaps only reliable way to purchase bitcoins with PayPal or Skrill</li>
    cons: <li>Convenience at a price; around 10% in fees to buy bitcoins with PayPal</li>
    tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eouhard, avglimits]
@@ -392,12 +391,13 @@
    desc: Gemini is a New York-based Bitcoin exchange, open to residents of the United States, UK, Canada, Hong Kong, Japan, Singapore and South Korea. Deposits can be made via wire transfer, SEPA or ACH transfer. <br><br>While Gemini is available in most US states, US residents should <a href="https://gemini.com/areas-of-operation/">check Gemini's areas of operations page</a>.
 ## kindly check inclusion of these Asian countries, previously you had it as just US, UK and Canada... this could be a recent development or I'm missing the reason for their exclusion.
    url: https://gemini.com/
+   internal_url: '/exchanges/#gemini'
    icon: /img/buy/gemini.png
    countries: us
    po: usbt, bt, babt, sell
    desc_ach: Gemini is a Bitcoin exchange that serves both individual and institutional clients. You can fund your exchange account via ACH transfer or wire transfer. Currently available in <a rel="nofollow" href="https://blog.gemini.com/geminis-area-of-operation/">26 U.S. states</a>.
    desc_sell: Sell bitcoins on Gemini and then transfer your funds to a US bank account via ACH transfer.
-   tags: [quickinfo, lowprivacy, slow, lowfees, trusted, eouhard, highlimits]
+   tags: [quickinfo, lowprivacy, slow, lowfees, trusted, eouhard, highlimits, int]
    desc_babt: US customers can purchase bitcoins on Gemini by funding their account with ACH transfer.
    pros: <li>Trustworthy and regulated exchange </li> <li>Instant deposit lets you buy coins quickly (but not withdraw them)</li> <li>Some of the lowest fees in the US and Canada</li>
    cons: <li>Somewhat confusing to use for new buyers</li> <li>Not yet available in all US states</li>
@@ -1982,6 +1982,7 @@
    desc_skrill_short: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a> or Skrill. Buy Second Life Lindens, and trade them for bitcoin.
    desc_skrill: VirWoX isn't a Bitcoin exchange, but rather used to acquire Second Life Lindens (SLL), a currency used in the virtual world Second Life. It is, however, possible to buy SLL with Skrill, and then trade the SLL for bitcoin. We don't have a step-by-step tutorial for how to go through the process with Skrill, but it's <a href="/en/buy-bitcoin-paypal/">very similar to how it's done with PayPal</a>. Simply deposit with Skrill, buy SLL, and trade the SLL for BTC. You can follow the steps shown in the PayPal article for an approximate how-to.
    url: http://buybitcoinww.co/bitcoin_virwox
+   internal_url: '/exchanges/virwox/#virwox-review'
    icon: /img/buy/virwox.png
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
    po: pp, cc, skrill, okpay, sell
@@ -1995,7 +1996,7 @@
    desc_pl: Wymiana cyfrowej waluty. Najprostszy sposób na kupienie bitconów poprzez PayPal.
    pros: <li>The easiest and basically only way to purchase bitcoins with PayPal or Skrill</li>
    cons: "<li>Comes with a price: it will cost around 10% in fees to buy with PayPal</li>"
-   tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eouhard, avglimits]
+   tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eouhard, avglimits, int]
 
  - name: Bitit
    desc: Bitit lets you purchase bitcoin online with a 3DS-enabled credit/debit cards or with cash via Neosurf, Flexepin (coming soon) and Cashlib vouchers, available in over 150,000 local stores across Europe.

@@ -1,31 +1,36 @@
  - pmethod: Credit Card
    icon: credit-card 
    url: /en/buy-bitcoin-credit-debit-card/
-   desc: Buy bitcoin online with a credit or debit card.  
+   desc: Buy bitcoin online with a credit or debit card. 
+   nav: yes 
 
  - pmethod: PayPal
    icon: paypal
    url: /en/buy-bitcoin-paypal/
    desc: Buy bitcoin online via PayPal.  
+   nav: yes 
    
  - pmethod: Cash
    icon: money 
    url: /en/buy-bitcoins-with-cash/
    desc: Buy bitcoin with cash via local bank deposit.  
+   nav: yes 
    
  - pmethod: Bank Account
    icon: bank
    url: /buy-bitcoin-bank-transfer-account/
    desc: Buy bitcoin with bank account/transfer.  
+   nav: yes 
    
  - pmethod: SEPA Transfer
    icon: eur
    url: /en/buy-bitcoin-sepa-transfer/
    desc: Buy bitcoin online via SEPA bank transfer.    
    
- - pmethod: No Verification
+ - pmethod: Privately
    icon: camera
    url: /kb/buy-bitcoin-without-verification-id/
    desc: Buy bitcoins with no ID or verification. 
+   nav: yes 
    
      

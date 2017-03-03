@@ -1,11 +1,14 @@
  - pmethod: Tarjeta de crédito
    icon: credit-card 
    url: /es/comprar-bitcoins-con-tarjeta-de-credito-o-debito/
+   nav: yes
 
  - pmethod: Efectivo
    icon: money
    url: /es/comprar-bitcoin-con-efectivo/
+   nav: yes
 
  - pmethod: PayPal
    icon: paypal
    url: /es/comprar-bitcoin-paypal/
+   nav: yes

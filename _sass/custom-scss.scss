@@ -180,6 +180,19 @@ body {
 	text-align: right;
 }
 
+.buy-with-pmethod {
+
+	li a {
+		display: inline-block !important;
+		padding: 7px 1px 6px 12px;
+		width: 100%;
+	}
+	
+	.fa {
+		padding-right: 5px;
+	}
+}
+
 a {
     transition: background-color 0.3s linear 0s, color 0.3s linear 0s;
 }

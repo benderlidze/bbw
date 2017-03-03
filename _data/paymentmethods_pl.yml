@@ -1,0 +1,11 @@
+ - pmethod: Karta kredytowa
+   icon: credit-card 
+   url: /pl/jak-kupic-bitcoiny-za-pomoca-karty-kredytowej/
+   desc: 
+   nav: yes
+  
+ - pmethod: PayPal
+   icon: paypal
+   url: /pl/kup-bitcoiny-paypal/
+   desc: 
+   nav: yes 

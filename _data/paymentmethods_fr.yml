@@ -1,19 +1,11 @@
- - pmethod: Carte de crédit ou de débit
+ - pmethod: Carte de crédit
    icon: credit-card 
    url: /fr/acheter-des-bitcoins-avec-une-carte-de-credit-ou-debit/
    desc: 
+   nav: yes
 
  - pmethod: PayPal
    icon: paypal
    url: /fr/acheter-des-bitcoins-avec-paypal/
    desc:  
-   
- - pmethod: SEPA 
-   icon: eur
-   url: /fr/acheter-des-bitcoins-en-ligne-par-virement-sepa/
-   desc: 
-   
- - pmethod: Interac En Ligne
-   icon: exchange 
-   url: /fr/comment-acheter-des-bitcoins-avec-interac-en-ligne/
-   desc:    
+   nav: yes

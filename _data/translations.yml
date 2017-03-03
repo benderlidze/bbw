@@ -621,8 +621,7 @@ pl:
   disclaimer_url: /en/disclaimer/
   contact: 
   contact_url: /en/contact/
-  paymentmethods: 
-  paymentmethods_url: 
+  paymentmethods: Metody Płatności
   about: 
   about_url: /en/about/
   change_lang: język  

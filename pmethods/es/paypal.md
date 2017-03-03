@@ -14,8 +14,6 @@ multilang: yes
 ---
 <div class="col-sm-12">
 
-{% include languages.html %}
-
 <p><img class="img-responsive halfimg-right" alt="buy bitcoin with paypal" src="/img/icons/sepa.png"> Muchas personas quieren comprar bitcoin con PayPal porque es una forma común de pagar en línea. </p>
 
 <p>Pero los pagos por PayPal son reversibles, mientras que las transacciones de Bitcoin no lo son. Esto lo hace riesgoso para comerciantes e intercambios que permitirían a los usuarios convertir PayPal a bitcoin, o <a href="/es/comprar-bitcoins-con-tarjeta-de-credito-o-debito/">comprar bitcoins con una tarjeta de crédito</a>.</p>

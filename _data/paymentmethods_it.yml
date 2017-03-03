@@ -1,0 +1,11 @@
+ - pmethod: Carta di credito
+   icon: credit-card 
+   url: /it/acquista-bitcoin-con-carta-di-credito-debito/
+   desc: 
+   nav: yes
+  
+ - pmethod: PayPal
+   icon: paypal
+   url: /it/come-acquistare-bitcoin-con-paypal/
+   desc: 
+   nav: yes 
