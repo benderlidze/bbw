@@ -3610,10 +3610,11 @@
  - name: Kraken
    desc: Founded mid-2013, Kraken is the world's largest Euro-denominated Bitcoin exchange, based on daily average trading volume. It supports deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via bank wire, SEPA, SWIFT, and bank deposit (Japan only).
    url: https://www.kraken.com/
+   internal_url: /exchanges/#kraken
    icon: /img/buy/kraken.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
    po: sepa, io, lowfees, babt, sell
-   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits, int]
    name_es: Kraken
    desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
    desc_ar:  صرافة بيتكوين التي تدعم ودائع SEPA والتحويلات البنكية، والحوالات البنكية السريعة SWIFT، والإيداع المصرفي بالين الياباني JPY.

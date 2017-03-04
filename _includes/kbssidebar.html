@@ -1,9 +1,0 @@
-<div class="kb-section-sidebar">
-<h3>Categories</h3>
-{% for kbsection in site.data.kbsections %}
-	<a class="kb-sidebar-cats" href="{{ kbsection.url }}">
-	<img src="/img/kbindex/{{ kbsection.icon }}">
-	<div class="kb-section-title">{{ kbsection.kb }}</div>
-	</a>	
-{% endfor %}
-</div>
