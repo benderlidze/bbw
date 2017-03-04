@@ -164,31 +164,21 @@
 
 {% elsif page.lang == 'zh' and name.desc_zh == null %}
 
-{% elsif page.lang == 'ru' and name.desc_ru != null and name.name_ru != null %}
-<div class="col-md-6 buy-info">
+{% elsif page.lang == 'ru' %}
+
+<div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name_ru }}</a> 
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> {% include rec.html %}
 		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
-		<p class="ru">{{ name.desc_ru }}</p>
+		<p class="new-desc-box">{% include description.html %}</p>
+		{% include pros-cons.html %}
+		{% include quick-info-checker.html %}
+		
 		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
-
-{% elsif page.lang == 'ru' and name.desc_ru != null  and name.name_ru == null %}
-<div class="col-md-6 buy-info">
-		<h4>
-		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-		</h4>
-		<p class="ru">{{ name.desc_ru }}</p>
-		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-</div>
-
-{% elsif page.lang == 'ru' and name.desc_ru == null %}
 
 {% elsif page.lang == 'uk' and name.desc_uk != null and name.name_uk != null %}
 <div class="col-md-6 buy-info">

@@ -6,7 +6,13 @@
 
 	<div class="exchange-pros-title">{{ lang.pros }}</div> 
 	<ul class="quick-info-pros">
+		
+		{% if page.lang == 'en' %}
 		{{ name.pros }}
+		{% elsif page.lang == 'ru' %}
+		{{ name.pros_ru }}
+		{% endif %}
+		
 	</ul>
 
 </div> 
@@ -15,7 +21,11 @@
 
 	<div class="exchange-pros-title">{{ lang.cons }}</div> 
 	<ul class="quick-info-cons">
-	    {{ name.cons }}
+	    {% if page.lang == 'en' %}
+		{{ name.cons }}
+		{% elsif page.lang == 'ru' %}
+		{{ name.cons_ru }}
+		{% endif %}
 	</ul>
 
 </div> 
