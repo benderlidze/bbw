@@ -3567,10 +3567,11 @@
  - name: Bitstamp
    desc: BitStamp is one of the world's largest and most well-known Bitcoin exchanges. Deposits can be made through bank transfer, SEPA transfer, international bank wire, and now even credit cards.
    url: https://www.bitstamp.net/
+   internal_url: /exchanges/#bitstamp
    icon: /img/buy/stamp.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, lowfees, babt, sell
-   tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eouhard, highlimits]
+   tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eouhard, highlimits, int]
    name_es: Bitstamp
    desc_es: Comprar bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Comisiones varias.
    desc_ar:  شراء بيتكوين على Bitstamp عبر SEPA أو حوالة مصرفية. تختلف الرسوم.
