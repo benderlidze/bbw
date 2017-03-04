@@ -24,7 +24,7 @@ pagename: index
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
-{% if country.eu == true and country.it == true %}
+{% if country.eu == true and country.it_index == true %}
 {% include index-list.html %}
 {% endif %}
 {% endfor %}

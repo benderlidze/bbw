@@ -7,6 +7,7 @@
  - country: Bahamas
    short: bs
    na: yes
+   country_es: Bahamas
    
  - country: Barbados
    short: bb
@@ -16,9 +17,11 @@
    short: ca
    na: yes
    pop: yes
+   country_es: Canadá
    country_ar: كندا
    ru: yes
    country_ru: Канада
+   country_uk: Канада
    country_fr: Canada
    
  - country: Cuba
@@ -52,8 +55,8 @@
  - country: Mexico
    short: mx
    na: yes
-   es: yes
    country_es: México
+   country_ar: المكسيك
    
  - country: Puerto Rico
    short: pr
@@ -76,7 +79,6 @@
    short: us
    na: yes
    pop: yes
-   es: yes
    country_es: Estados Unidos
    country_ar: الولايات المتحدة
    url_ar: yes
@@ -85,21 +87,30 @@
    country_ru: Соединённые Штаты Америки
    url_ru: yes
    url_ru_c: Соединённые_Штаты_Америки
-   uk: yes
    country_uk: Сполучені Штати Америки
    url_uk: yes
    url_uk_c: Сполучені_Штати_Америки
+   country_fr: États-Unis
    country_de: Vereinigte Staaten
    url_de: yes
    url_de_c: Vereinigte-Staaten
+   country_nl: Verenigde Staten
    country_el: Ηνωμένες Πολιτείες
    url_el: yes
    url_el_c: Ηνωμένες_Πολιτείες
+   it: yes
+   country_it: Stati Uniti d'America
+   url_it: yes
+   url_it_c: stati-uniti-damerica
    country_pt_br: Estados Unidos
    url_pt_br: yes
    url_pt_br_c: estados-unidos
    zh: yes
    country_zh: 美国
+   bg: yes
+   country_bg: Съединени Американски Щати
+   url_bg: yes
+   url_bg_c: Съединени-Американски-Щати
    
    
    
@@ -113,40 +124,58 @@
  - country: Albania
    short: al
    eu: yes
+   country_es: Albania
+   it: yes
+   country_it: Albania
+   url_it: yes
+   url_it_c: albania
+   el: yes
    country_el: Αλβανία
 
  - country: Andorra
    short: ad
    eu: yes 
+   country_es: Andorra
 
  - country: Armenia
    short: am
    eu: yes  
+   country_es: Armenia
 
  - country: Austria
    short: at
    eu: yes  
+   country_es: Austria
    country_de: Österreich
 
  - country: Azerbaijan
    short: az
-   eu: yes  
-   ru: yes
+   eu: yes
+   country_es: Azerbaiyán
    country_ru: Азербайджан
+   country_uk: Азербайджан
 
  - country: Belarus
    short: by
    eu: yes  
+   country_es: Bielorrusia
    ru: yes
    country_ru: Белоруссия
+   country_uk: Білорусь
 
  - country: Belgium
    short: be
    eu: yes  
+   country_es: Bélgica
+   nl: yes
    country_nl: België
-   fr: yes
+   fr_index: yes
    country_fr: Belgique
    country_de: Belgien
+   it: yes
+   country_it: Belgio
+   url_it: yes
+   url_it_c: belgio
 
 # - country: Bosnia and Herzegovina
 #   short: ba
@@ -155,88 +184,143 @@
  - country: Bulgaria
    short: bg
    eu: yes  
+   country_es: Bulgaria
    bg: yes
    country_bg: България
 
  - country: Croatia
    short: hr
    eu: yes  
+   country_es: Croacia
    ru: yes
    country_ru: Хорватия
+   country_uk: Хорватія
+   it: yes
+   country_it: Croazia
+   url_it: yes
+   url_it_c: croazia
 
  - country: Cyprus
    short: cy
    eu: yes  
+   country_es: Chipre
+   el: yes
    country_el: Κύπρος
 
  - country: Czech Republic
    short: cz
    eu: yes  
+   country_es: República Checa
    ru: yes
    country_ru: Чехия
+   country_uk: Чехія
    country_de: Tschechien
 
  - country: Denmark
    short: dk
    eu: yes  
+   country_es: Dinamarca
+   country_de: Dänemark
 
  - country: Estonia
    short: ee
    eu: yes  
+   country_es: Estonia
    ru: yes
    country_ru: Эстония
+   country_uk: Естонія
 
  - country: Finland
    short: fi
    eu: yes  
+   country_es: Finlandia
    ru: yes
    country_ru: Финляндия
+   country_uk: Фінляндія
 
  - country: France
    short: fr
    eu: yes  
+   country_es: Francia 
    country_ar: فرنسا
    ru: yes
    country_ru: Франция
+   country_uk: Франція
+   nl: yes
+   country_nl: Frankrijk
+   fr: yes
    country_fr: France
    country_de: Frankreich
+   it: yes
+   country_it: Francia
+   url_it: yes
+   url_it_c: francia
 
  - country: Georgia
    short: ge
    eu: yes  
+   country_es:  Georgia
    ru: yes
    country_ru: Грузия
+   country_uk: Грузія
 
  - country: Germany
    short: de
    pop: yes
    eu: yes  
+   country_es: Alemania
    country_ar: ألمانيا
    ru: yes
    country_ru: Германия
+   country_uk: Німеччина
+   nl: yes
+   country_nl: Duitsland
    country_de: Deutschland
+   it: yes
+   country_it: Germania
+   url_it: yes
+   url_it_c: germania
 
  - country: Greece
    short: gr
    eu: yes  
+   country_es: Grecia
+   it: yes
+   country_it: Grecia
+   url_it: yes
+   url_it_c: grecia
+   el: yes
    country_el: Ελλάδα
+   bg: yes
+   country_bg: Гърция
 
  - country: Hungary
    short: hu
    eu: yes  
+   country_es: Hungría
+   ru: yes
+   country_ru: Венгрия
+   country_uk: Угорщина
    country_de: Ungarn
+   bg: yes
+   country_bg: Унгария
 
  - country: Iceland
    short: is
    eu: yes  
+   country_es: Islandia
 
  - country: Ireland
    short: ie
    eu: yes  
+   country_es: Irlanda
 
  - country: Italy
    short: it
    eu: yes  
+   country_es: Italia
+   fr: yes
+   country_fr: Italie
    country_de: Italien
    it: yes
    country_it: Italia
@@ -250,72 +334,102 @@
  - country: Latvia
    short: lv
    eu: yes  
+   country_es: Letonia
    ru: yes
    country_ru: Латвия
+   country_uk: Латвія
 
  - country: Liechtenstein
    short: li
    eu: yes  
+   country_es: Liechtenstein
    country_de: Liechtenstein
 
  - country: Lithuania
    short: lt
    eu: yes  
+   country_es: Lituania
    ru: yes
    country_ru: Литва
+   country_uk: Литва
 
  - country: Luxembourg
    short: lu
    eu: yes  
+   country_es: Luxemburgo
+   fr: yes
    country_fr: Luxembourg
    country_de: Luxemburg
 
  - country: Macedonia
    short: mk
    eu: yes 
+   country_es: Macedonia
+   bg: yes
+   country_bg: Македония 
    
  - country: Malta
    short: mt
    eu: yes   
+   country_es: Malta
+   it: yes
+   country_it: Malta
+   url_it: yes
+   url_it_c: malta
    
  - country: Moldova
    short: md
    eu: yes  
+   country_es: Moldavia 
    ru: yes
    country_ru: Молдавия
+   country_uk: Молдова
+   bg: yes
+   country_bg: Молдова
    
  - country: Monaco
    short: mc
    eu: yes     
+   country_es: Mónaco
+   country_fr: Monaco
+   it: yes
+   country_it: Principato di Monaco
+   url_it: yes
+   url_it_c: principato-di-monaco
    
  - country: Montenegro
    short: me
    eu: yes   
+   country_es: Montenegro 
    
  - country: Netherlands
    short: nl
    eu: yes    
+   country_es: Países Bajos
    country_ar: هولندا
+   nl: yes
    country_nl: Nederland
    country_de: Niederlande
    
  - country: Norway
    short: nor
    eu: yes 
-   ru: yes
+   country_es: Noruega
    country_ru: Норвегия 
+   country_uk: Норвегія
    
  - country: Poland
    short: pl
-   eu: yes   
-   ru: yes
+   eu: yes  
+   country_es: Polonia
    country_ru: Польша
+   country_uk: Польща
    country_de: Polen
    
  - country: Portugal
    short: pt
    eu: yes    
-   pt_br: yes
+   country_es: Portugal
    country_pt_br: Portugal
    url_pt_br: yes
    url_pt_br_c: portugal
@@ -324,35 +438,61 @@
  - country: Romania
    short: ro
    eu: yes    
+   country_es: Rumania
    ru: yes
    country_ru: Румыния
+   country_uk: Румунія
+   country_de: Rumänien
+   bg: yes
+   country_bg: Румъния
    
  - country: Russia
    short: ru
    eu: yes     
+   country_es: Rusia
    ru: yes
    country_ru: Россия
+   country_uk: Росія
    country_de: Russland
+   el: yes
+   country_el: Ρωσία
    
  - country: San Marino
    short: sm
    eu: yes   
+   country_es: San Marino
+   it: yes
+   country_it: San Marino
+   url_it: yes
+   url_it_c: san-marino
    
  - country: Serbia
    short: rs
    eu: yes   
+   country_es: Serbia
    ru: yes
    country_ru: Сербия
+   country_uk: Сербія
+   bg: yes
+   country_bg: Сърбия
    
  - country: Slovakia
    short: sk
-   eu: yes    
-   ru: yes
+   eu: yes 
+   country_es: Eslovaquia 
    country_ru: Словакия
+   country_uk: Словаччина
+   bg: yes
+   country_bg: Словакия
    
  - country: Slovenia
    short: si
-   eu: yes    
+   eu: yes  
+   country_es: Eslovenia   
+   it: yes
+   country_it: Slovenia
+   url_it: yes
+   url_it_c: slovenia
    
  - country: Spain
    short: es
@@ -362,14 +502,16 @@
  - country: Sweden
    short: se
    eu: yes    
+   country_es: Suecia
    country_ar: السويد
    
  - country: Switzerland
    short: ch
    eu: yes  
+   country_es: Suiza
    country_fr: Suisse
    country_de: Schweiz
-   it: yes
+   it_index: yes
    country_it: Svizzera
    url_it: yes
    url_it_c: svizzera
@@ -377,29 +519,42 @@
  - country: Turkey
    short: tr
    eu: yes 
+   country_es: Turquía  
+   el: yes
    country_el: Τουρκία
+   bg: yes
+   country_bg: Турция  
    
  - country: Ukraine
    short: ua
    eu: yes
+   country_es: Ucrania 
    ru: yes
    country_ru: Украина  
-   uk: yes
    country_uk: Україна  
+   bg: yes
+   country_bg: Украйна
    
  - country: United Kingdom
    short: gb
    eu: yes 
+   pop: yes
    pop: yes  
    es: no 
    country_ar: المملكة المتحدة
    url_ar: yes
    url_ar_c: المملكة_المتحدة
+
    
  - country: Vatican City
    short: va
-   eu: yes 
+   eu: yes
+   country_es: Vaticano        
    country_de: Vatikanstadt
+   it: yes
+   country_it: Città del Vaticano
+   url_it: yes
+   url_it_c: città-del-vaticano
    
 # South America   
 
@@ -408,11 +563,12 @@
    short: ar
    sa: yes
    country_es: Argentina
+   country_ar: الأرجنتين
    country_de: Argentinien
   
  - country: Bolivia
    short: bo
-   sa: yes
+   sa: yes 
    country_es: Bolivia 
   
  - country: Brazil
@@ -422,27 +578,30 @@
    country_ar: البرازيل
    ru: yes
    country_ru: Бразилия
+   country_uk: Бразилія
    country_pt_br: Brasil
    url_pt_br: yes
    url_pt_br_c: brasil
+   fr: yes
+   country_fr: Brésil
    country_de: Brasilien
   
  - country: Chile
    short: cl
-   sa: yes 
+   sa: yes  
    country_es: Chile
+   country_ar: تشيلي
+   country_de: Chile
   
  - country: Colombia
    short: co
    sa: yes  
-   es: yes
    country_es: Colombia
    country_ar: كولومبيا
   
  - country: Ecuador
    short: ec
    sa: yes  
-   es: yes
    country_es: Ecuador
   
  - country: Guyana
@@ -464,6 +623,7 @@
    short: sr
    sa: yes  
    country_es: Surinam
+   nl: yes
    country_nl: Suriname
   
  - country: Uruguay
@@ -573,6 +733,8 @@
  - country: Vanuatu
    short: vu
    oc: yes
+   fr: yes
+   country_fr: Vanuatu
 
       
 # Middle East
@@ -585,7 +747,7 @@
  - country: Egypt
    short: eg
    me: yes
-   ar: yes
+   ar_index: yes
    country_ar: مصر
 
  - country: Iran
@@ -605,6 +767,7 @@
    country_ar: إسرائيل
    ru: yes
    country_ru: Израиль
+   country_uk: Ізраїль
 
  - country: Jordan
    short: jo
@@ -620,6 +783,7 @@
    short: lb
    me: yes
    country_ar: لبنان
+   fr: yes
    country_fr: Liban
 
  - country: Oman
@@ -640,7 +804,7 @@
  - country: Saudi Arabia
    short: sa
    me: yes
-   ar: yes
+   ar_index: yes
    country_ar: السعودية
 
  - country: Syria
@@ -665,6 +829,10 @@
  - country: Afghanistan
    short: af
    as: yes
+
+# - country: Armenia
+#   short:
+#   as: yes
 
  - country: Bangladesh
    short: bd
@@ -698,6 +866,8 @@
    short: in
    as: yes
    country_pt_br: Índia
+   url_pt_br: yes
+   url_pt_br_c: india
 
  - country: Indonesia
    short: id
@@ -716,12 +886,15 @@
    as: yes
    ru: yes
    country_ru: Казахстан
+   country_uk: Казахстан
+   country_de: Kasachstan
 
  - country: Kyrgyzstan
    short: kg
    as: yes
    ru: yes
    country_ru: Киргизия
+   country_uk: Киргизстан
 
  - country: Laos
    short: la
@@ -792,6 +965,7 @@
    as: yes
    ru: yes
    country_ru: Таджикистан
+   country_uk: Таджикистан
 
  - country: Thailand
    short: th
@@ -808,12 +982,14 @@
    as: yes
    ru: yes
    country_ru: Туркмения
+   country_uk: Туркменістан
 
  - country: Uzbekistan
    short: uz
    as: yes
    ru: yes
    country_ru: Узбекистан
+   country_uk: Узбекистан
 
  - country: Vietnam
    short: vn
@@ -824,10 +1000,10 @@
 
  - country: Algeria
    short: dz
-   af: yes  
-   ar: yes
+   af: yes
    country_ar: الجزائر
-   fr: yes
+   ar_index: yes
+   fr_index: yes
    country_fr: Algérie
 
  - country: Angola
@@ -839,7 +1015,7 @@
 
  - country: Benin
    short: bj
-   af: yes  
+   af: yes 
    country_fr: Bénin
 
  - country: Botswana
@@ -848,52 +1024,65 @@
 
  - country: Burkina Faso
    short: bf
-   af: yes 
+   af: yes
+   country_fr: Burkina Faso
 
  - country: Burundi
    short: bi
-   af: yes 
+   af: yes
    country_fr: Burundi
 
  - country: Cape Verde
    short: cv
    af: yes  
    country_pt_br: Cabo Verde
+   url_pt_br: yes
+   url_pt_br_c: cabo-verde
 
  - country: Cameroon
    short: cm
-   af: yes   
+   af: yes  
    country_fr: Cameroun
 
  - country: Chad
    short: td
-   af: yes   
+   af: yes
+   country_ar: تشاد
+   fr: yes
+   country_fr: Tchad   
 
  - country: Comoros
    short: km
-   af: yes  
+   af: yes 
+   country_fr: Comores
    
  - country: Congo
    short: cg
-   af: yes 
+   af: yes
+   country_fr: Congo  
 
  - country: DR Congo
    short: cd
-   af: yes    
+   af: yes   
+   country_fr: RD Congo
 
  - country: Djibouti
    short: dj
-   af: yes   
+   af: yes 
    country_ar: جيبوتي
+   fr: yes
+   country_fr: Djibouti
 
  - country: Equatorial Guinea
    short: gq
    af: yes  
    country_es: Guinea Ecuatorial
+   fr: yes
+   country_fr: Guinée Équatoriale 
 
  - country: Eritrea
    short: er
-   af: yes  
+   af: yes
    country_ar: إريتريا
 
  - country: Ethiopia
@@ -902,7 +1091,8 @@
 
  - country: Gabon
    short: ga
-   af: yes  
+   af: yes 
+   country_fr: Gabon
 
  - country: Gambia
    short: gm
@@ -914,21 +1104,27 @@
 
  - country: Guinea
    short: gn
-   af: yes 
+   af: yes
+   country_fr: Guinée
 
  - country: Guinea-Bissau
    short: gw
    af: yes  
    country_pt_br: Guiné-Bissau
+   url_pt_br: yes
+   url_pt_br_c: guiné-bissau
    
  - country: Ivory Coast
    short: ci
-   af: yes 
+   af: yes
    country_fr: Côte d’Ivoire 
 
  - country: Kenya
    short: ke
    af: yes  
+   country_es: Kenia
+   fr: yes
+   country_fr: Kenya
 
  - country: Lesotho
    short: ls
@@ -940,12 +1136,13 @@
 
  - country: Libya
    short: ly
-   af: yes  
+   af: yes
    country_ar: ليبيا
 
  - country: Madagascar
    short: mg
    af: yes
+   fr: yes
    country_fr: Madagascar
 
  - country: Malawi
@@ -954,26 +1151,29 @@
 
  - country: Mali
    short: ml
-   af: yes 
+   af: yes
+   country_fr: Mali
 
  - country: Mauritania
    short: mr
    af: yes
-   country_ar: موريتانيا 
+   country_ar: موريتانيا
    country_fr: Mauritanie
 
  - country: Morocco
    short: ma
-   af: yes  
-   ar: yes
+   af: yes
    country_ar: المغرب
-   fr: yes
+   index_ar: yes
+   fr_index: yes
    country_fr: Maroc
 
  - country: Mozambique
    short: mz
    af: yes  
    country_pt_br: Moçambique
+   url_pt_br: yes
+   url_pt_br_c: moçambique
 
  - country: Namibia
    short: na
@@ -982,7 +1182,7 @@
 
  - country: Niger
    short: ne
-   af: yes  
+   af: yes 
    country_fr: Niger
 
  - country: Nigeria
@@ -992,15 +1192,18 @@
  - country: Rwanda
    short: rw
    af: yes
+   fr: yes
+   country_fr: Rwanda
 
  - country: Senegal
    short: sn
-   af: yes  
+   af: yes 
    country_fr: Sénégal
 
  - country: Seychelles
    short: sc
-   af: yes 
+   af: yes
+   country_fr: Seychelles
 
  - country: Sierra Leone
    short: sl
@@ -1008,11 +1211,11 @@
 
  - country: Somalia
    short: so
-   af: yes  
+   af: yes
    country_ar: الصومال
 
  - country: South Africa
-   short: za
+   short: south-africa
    af: yes  
 
  - country: South Sudan
@@ -1034,15 +1237,15 @@
 
  - country: Togo
    short: tg
-   af: yes 
+   af: yes
    country_fr: Togo
 
  - country: Tunisia
    short: tn
-   af: yes  
-   ar: yes
+   af: yes
+   ar_index: yes
    country_ar: تونس
-   fr: yes
+   fr_index: yes
    country_fr: Tunisie
 
  - country: Uganda
@@ -1060,6 +1263,7 @@
  - country: Central African Republic
    short: cf
    af: yes
+   fr: yes
    country_fr: République Centrafricaine       
    
  - country: Sao Tome and Principe

@@ -318,8 +318,8 @@ ru:
   no_sellers_found: Извините, совпадений не найдено.
   sellers_found: 'Найдено <strong><%= exchangeCount %></strong> обменников Bitcoin в <strong><%= countryName %></strong> которые принимают <span class=\"payment-method-fe\"><%= paymentMethodName %></span>:'
   country: Страна
-  bbi: "Купить в Bitcoin:"
-  with: "c:"
+  bbi: "Купить Bitcoin:"
+  with: "при помощи:"
   pmethod: Способ оплаты
   wallets: Bitcoin-кошелек
   wallets_url: /ru/bitcoin-koshelki/
@@ -336,7 +336,7 @@ ru:
   fast: Быстро
   hard: Сложно
   easy: Просто
-  eouse: Простота в использовании
+  eouse: Простота
   privacy: Приватность
   speed: Скорость
   fees: Комиссии
