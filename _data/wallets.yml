@@ -206,7 +206,7 @@ GreenAddress er kompatibel med hardware-tegnebøger som TREZOR, Ledger Nano og H
    pl: "<p>GreenAddress jest multipodpisowym portfelem Bitcoin dostępnym przez stronę internetową, desktop, Android i iOS. GreenAddress jest kompatybilny z portfelami sprzętowymi takimi jak TREZOR, Ledger Nano oraz HW.1.</p> <p>'Multi-podpis' w tym przypadku oznacza, że strona wymaga przez Ciebie ręcznego potwierdzenia transferu bitcoinów; to znacznie zwiększa poziom bezpieczeństwa.</p>"
    el: "<p>Το GreenAddress είναι ένα πορτοφόλι Bitcoin πολλαπλής υπογραφής που προσφέρεται διαδικτυακά για υπολογιστή, για συσκευές Android και  iOS. Το GreenAddress  είναι συμβατό με πορτοφόλια υλισμικού  όπως το TREZOR, το Ledger Nano και το HW.1. 
 </p><p>«Πολλαπλής υπογραφής» εδώ σημαίνει ότι η ιστοσελίδα απαιτεί επιβεβαίωση από εσάς τον ίδιο προκειμένου να μετακινηθούν τα νομίσματά σας∙ αυτό προσφέρει ιδιαίτερα ενισχυμένη ασφάλεια. </p>"
-   zh_CN: "GreenAddress是一个具备多重签名的比特币钱包，其可在网络、桌面、Android和 iOS上使用。GreenAddress能和硬件钱包（例如TREZOR, Ledger Nano, and the HW.1）等兼容协作。“多重签名”是指网站需要您的手动确认比特币的转移，这大大提高了安全性。"
+   zh_CN: "GreenAddress是一个具备多重签名的比特币钱包，其可在网络、桌面、Android和 iOS上使用。GreenAddress能和硬件钱包（例如TREZOR, Ledger Nano, and the HW.1）等兼容协作。“多重签名”是指网站需要您手动确认比特币的转移，这大大提高了安全性。"
    tags: [web, online, nonhw]
    thumb: greenaddress.png
    website_url: https://greenaddress.it/       

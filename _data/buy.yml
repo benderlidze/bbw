@@ -1479,7 +1479,7 @@
    desc_uk: Біткоін-біржа, що працює в багатьох Південноамериканських країнах.
    desc_sell: Sell bitcoins in many South American countries. Get paid in cash in person or via bank deposit.
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
-   pros: <li>Many payment methods available</li><li>Low fees for South American countries</li><li>Bitex brokers the sale of large amounts of bitcoin<li>
+   pros: <li>Many payment methods available</li><li>Low fees for South American countries</li><li>Bitex brokers the sale of large amounts of bitcoin</li>
    cons: <li>Not private since identity verification is required</li>
    pros_ru: "<li>Доступно множество платежных методов</li><li>Низкие комиссии для стран Южной Америки</li><li>Возможность приобретать большие объемы биткойнов</li>" 
    cons_ru: "<li>Необходима верификация</li>" 
