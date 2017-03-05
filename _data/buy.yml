@@ -4236,6 +4236,7 @@
    desc: Hong Kong-based Bitfinex has long been one of the largest USD Bitcoin exchanges in the world. Bitfinex accounts may be funded by bank wire only, their fee on accepting such transfers is low at only 0.1%.<br><br>In August 2016, however, it was hacked and lost around 30% of its users funds. While Bitfinex can be helpful for buying large amounts of bitcoins, it is probably best to not use the exchange until it fully compensates affected users.
    ## afaik they figured out how the hack was done, it was some exploit of BitGo, so I removed that bit. they still haven't repaid everyone afaik
    url: http://buybitcoinww.co/bitfinex_exchange
+   internal_url: "/exchanges/#bitfinex-review"
    icon: /img/buy/finex.png
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn
    po: lowfees, swift, babt
@@ -4252,7 +4253,7 @@
    desc_bg: Депозирайте средства чрез международен банков превод и купете биткойн на борсата.
    desc_ru: "<p>Расположенный в Гонконге, обменник Bitfinex долго время считался крупнейшим долларовым Bitcoin-обменником в мире. Баланс системы можно пополнять только посредством банковского перевода, а комиссия на все переводы составляет всего 0,1%.</p><p>Однако в августе 2016 обменник подвергся взлому, и потерял примерно 30% от всех средств, находящихся в обороте. И хотя Bitfinex позволяет удобно приобретать большие объемы биткойнов, вероятно лучше не пользоваться его услугами до тех пор, пока всем пользователям не будут возмещены потери.</p>"
    desc_uk: Поповнити рахунок міжнародним банківським переказом і купити біткоіни на біржі.
-   tags: [quickinfo, lowprivacy, speedvaries, avgfees, lowtrust, eouhard, highlimits]
+   tags: [quickinfo, lowprivacy, speedvaries, avgfees, lowtrust, eouhard, highlimits, int]
    pros: <li>Very low fees even for low volume buyers; 0.1% for market makers and 0.2% for market takers</li><li>One of the best ways to buy large amounts of bitcoins</li> <li>Allows lending of fiat or bitcoin to margin traders at interest (but this is risky in light of the hack)</li><li>Very deep liquidity promotes a price close to fair market rate</li><li>Supports several altcoins</li>
    cons: <li>Was recently hacked and has yet to fully compensate all users for their loss</li><li>Geared towards traders; possibly quite confusing for first time buyers</li><li>Single payment option</li>
    desc_babt: Bitfinex allows customers to deposit large amounts of funds using SWIFT.
