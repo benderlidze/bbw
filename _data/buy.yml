@@ -820,7 +820,7 @@
    url: https://www.cointed.com/
    icon: /img/buy/cointed.png
    countries: at, be, hr, dk, fi, fr, de, gr, hu, ie, it, lv, li, lu, mc, nl, nor, pl, pt, sk, si, es, se, ch, tr, ua, gb, va
-   po: sepa, cash, pp, sofort, westernunion, moneygram
+   ## po: sepa, sofort, westernunion, moneygram
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eouavg, highlimits]
    pros: <li>Many payment methods available</li>
    cons: <li>ID verification required, so not a private way to buy</li>

@@ -2631,6 +2631,15 @@ blockquote {
     
 }
 
+.exchange-comparison {
+	img {
+    	border-radius: 0 !important;
+    	margin: 0 auto;
+    	min-width: 35px;
+    	padding-left: 20px;
+	}
+}
+
 .hw-comparison {
     margin-top: 10px;
     text-align: center;
