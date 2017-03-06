@@ -450,6 +450,10 @@ it:
   about: Info
   about_url: /en/about/
   change_lang: Lingua 
+  learnmore: Per saperne di più
+  buy_wallet: Acquista
+  wallets: Portafogli Bitcoin
+  wallets_url: /it/portafogli-bitcoin/
   
 ##################### German #####################
 de:
@@ -589,6 +593,9 @@ zh_CN:
   sellers_found: '找到 <strong><%= exchangeCount %></strong> 个匹配项 :'
   learnmore: 了解更多
   buy_wallet: 购买
+  wallets: 比特币钱包
+  wallets_url: /zh-cn/bitcoin-wallets/
+  
   
 bg:
   buy: Купете биткойн
