@@ -453,7 +453,7 @@
    countries: us
    po: fast, cdus, nobank, cash
    internal_url: /exchanges/bitquick/
-   tags: [quickinfo, review, rec, highprivacy, fast, avgfees, trusted, eouavg, avglimits]
+   tags: [quickinfo, review, rec, highprivacy, fast, avgfees, trusted, eouavg, avglimits, int]
    desc_nobank: BitQuick provides escrow between buyers and sellers. Payments are made via cash deposit at bank locations across the U.S., and via SEPA transfer in the EU. Your coins will usually be delivered in under two hours if payment was made via cash deposit.
    desc_fast: "BitQuick's goal is to make buying bitcoin fast and easy. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. BitQuick can be used in the United States and Europe."
    desc_cdus: <p>BitQuick connects you with sellers who want cash for their bitcoins. </p> <p>BitQuick is only available in the United States and works like this&#58;</p><ul><li><b>Find a seller</b>. Once you find a seller you agree on a price for the bitcoins.</li><li><b>Make cash deposit</b>. Go to the seller's bank and make a cash deposit into the seller's account.</li><li><b>Upload receipt</b>. Upload your receipt to the seller to prove you made the deposit.</li> <li><b>Receive bitcoins!</b> The seller will release bitcoins to you.</li></ul> <p>This process can be completed at a massive number of banks across the United States.</p> <p>Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour!</p>
