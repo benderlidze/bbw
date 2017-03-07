@@ -14,6 +14,31 @@
     </div>
     {% endif %}
     
+    {% if page.pmethod and page.lang == 'en' %}
+		<div class="container">
+			<div itemscope itemtype="http://schema.org/BreadcrumbList" class="footer-crumbs breadcrumbs">
+				<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+					<meta itemprop="position" content="1" />
+				</span>
+				
+				 &#155; 
+				 
+				 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" href="/buying-guides/"><span itemprop="name">Bitcoin Buying Guides</span></a>
+					<meta itemprop="position" content="2" />
+				</span>
+				
+				 &#155; 
+				 
+				 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" href="{{ page.url | prepend: site.baseurl }}"><span itemprop="name"><b>{{ page.title }}</b></span></a>
+					<meta itemprop="position" content="3" />
+				</span>
+			</div>
+		</div>	
+	{% endif %}
+    
     <div class="row footer">
           {% include footer.html %}
     </div>

@@ -1,0 +1,20 @@
+---
+layout: page
+seotitle: Bitcoin Buying Guides and Tutorials
+title: Bitcoin Buying Guides and Tutorials
+desc: How to buy bitcoin with specific payment methods. Select a payment method to see all exchanges and brokers accepting a given payment type. 
+lang: en
+permalink: /buying-guides/
+pagetype: pmethodsindex 
+sitemap:
+  exclude: 'yes'
+---
+<div class="help-article-index pmethods-index">
+{% for pmethod in site.data.paymentmethods %}
+	<a class="col-md-6" href="{{ pmethod.url }}">
+	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
+	<div class="payment-method">{{ pmethod.pmethod }}</div>
+	<div class="payment-method-desc">{{ pmethod.desc }}</div>
+	</a>	
+{% endfor %}	
+</div>
