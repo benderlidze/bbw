@@ -5,7 +5,7 @@ author: jordantuwiner
 permalink: "/wallets/ledger-hw1/"
 seotitle: "Ledger HW.1 Review: 5 Things to Know Before Buying"
 title: "Ledger HW.1"
-desc: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment. 
+desc: Secure, or not? What you NEED to know about the Ledger HW.1 before you buy it. 
 wallet: ledger_hw1
 thumb: ledger.png
 tags: [bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, hardware]

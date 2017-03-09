@@ -5,7 +5,7 @@ author: jordantuwiner
 permalink: "/wallets/keepkey/"
 seotitle: "KeepKey Review: 5 Things to Know Before Buying"
 title: "KeepKey"
-desc: KeepKey was released in September 2015 and is the second hardware Bitcoin wallet to offer a screen. 
+desc: Secure, or not? What you NEED to know about the Ledger Nano S before you buy it. 
 wallet: keepkey
 cat: hardware
 thumb: keepkey.png
