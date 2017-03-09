@@ -191,11 +191,11 @@
    cons_ar: 
 
  - name: BitPanda
-   desc: BitPanda is a Bitcoin broker based in Austria. They have high payment limits and low fees across their wide range of payment methods. BitPanda offers customers the option to buy bitcoins with credit card, debit card, SOFORT, Skrill, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
+   desc: <p>BitPanda is a Bitcoin broker based in Austria.</p> <p>They have high payment limits and low fees across their wide range of payment methods.</p> <p>BitPanda offers customers the option to buy bitcoins with credit card, debit card, SOFORT, Skrill, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.</p> <p>Our guide will show you <a href="/en/buy-bitcoin-credit-debit-card/#bitpanda-guide">how to buy bitcoins with a credit card on BitPanda</a>.</p>
    url: http://buybitcoinww.co/bitpanda
    icon: /img/buy/bitpanda.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   tags: [quickinfo, review, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits, home]
+   tags: [quickinfo, reccc, review, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits, home]
    fees_cc: 5%
    avail: Europe
    internal_url: /exchanges/bitpanda/
@@ -204,9 +204,8 @@
    po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt, sell, neteller, skrill
    desc_neteller: BitPanda is a bitcoin exchange based in Vienna, Austria. European users can buy bitcoins with Neteller in under 10 seconds using BitPanda. Note that the exact fees for purchasing with NETELLER are not displayed publically. You will be shown a buy price at check out and the fees for using NETELLER are included in that price.
    desc_skrill: BitPanda is a bitcoin exchange based in Austria. Among many payment methods accepted, customers can buy bitcoins with Skrill in under 10 seconds. Note that the exact fees for purchasing with Skrill are not displayed publically. You will be shown a buy price at check out and the fees for using Skrill are included in that price
-   desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller.
    desc_babt: BitPanda accepts bank account payments via SEPA, SOFORT, and Online Bank Transfer.
-   desc_ccww: <p>BitPanda is a Bitcoin broker located in Austria. You can purchase coins with a credit/debit card for 3-4% fees.</p><p> Note that the fees are not displayed publically but displayed in your buy price when completing your purchase.</p>
+   desc_ccww: <p>BitPanda is a Bitcoin broker located in Austria. You can purchase coins with a credit/debit card for 3-4% fees.</p><p> Note that the fees are not displayed publically but displayed in your buy price when completing your purchase.</p> <p>Our guide will show you <a href="/en/buy-bitcoin-credit-debit-card/#bitpanda-guide">how to buy bitcoins with a credit card on BitPanda</a>.</p>
    desc_ccww_fr: BitPanda est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 4%. BitPanda est disponible pour les résidents de l'UE.
    desc_ccww_ptbr: BitPanda é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 4%. BitPanda está disponível para residentes da UE.
    desc_ccww_it: BitPanda è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 4%. BitPanda è disponibile per coloro che risiedono nell’UE.
