@@ -10,7 +10,7 @@ seotitle: "BitQuick Review: 3 Reasons It's Legit (And Not A Scam)"
 website: bitquick.co
 website_url: http://buybitcoinww.co/buybitquick
 location: USA
-cat: p2p, popular
+cat: p2p, us
 weight: 8
 pro1: Fast way to purchase bitcoins with cash
 pro2: 

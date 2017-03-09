@@ -23,7 +23,7 @@ con1: Limited payment methods
 con2: May track how its users spend bitcoin
 con3:
 summary: Coinbase, available to users in over 30 countries as of 2017, is the world's largest Bitcoin broker. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, and many more payment methods. 
-summarylong: Coinbase is the world's largest Bitcoin broker, available in the United States, Canada, Singapore, and most of Europe. Customers can buy bitcoin with a connected bank account, credit/debit card, SEPA transfer, Interac Online, iDEAL, and many more payment methods depending on location. 
+summarylong: <p>Coinbase is the world's largest Bitcoin broker, available in the United States, UK, Canada, Singapore, and most of Europe.</p> <p>Customers can buy bitcoin with a connected bank account, credit/debit card, SEPA transfer, Interac Online, iDEAL, and many more payment methods depending on location. </p>
 privacy_score: 1
 privacy_width: 10
 limits_score: 8

@@ -10,7 +10,7 @@ seotitle: "itBit Bitcoin Exchange Review"
 website: itBit.com
 website_url: https://www.itbit.com
 location: New York
-cat: exchange, global
+cat: exchange, popular
 weight: 5
 pro1: OTC trading desk is ideal for buying or selling large blocks of BTC
 pro2: Licensed Bitcoin exchange in New York, operates legally in all 50 states

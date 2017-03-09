@@ -14,8 +14,8 @@ twitter_url: https://twitter.com/wallofcoins
 facebook: Wall of Coins
 facebook_url: https://www.facebook.com/wallofcoins/
 location: Sarasota, Florida
-cat: exchange, global
-weight: 7
+cat: exchange, popular
+weight: 4
 summarylong: "Wall of Coins is a peer-to-peer Bitcoin exchange that makes it easy to buy and sell bitcoins."
 summary: "Wall of Coins is a peer-to-peer Bitcoin exchange that makes it easy to buy and sell bitcoins."
 privacy_score: 8

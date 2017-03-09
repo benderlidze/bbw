@@ -11,7 +11,7 @@ website: bitit.gift
 website_url: https://www.bitit.gift?referral=JTWWAIRY
 contribute: bitit
 location: Paris, France
-cat: broker, france
+cat: broker, eu
 weight: 4
 pro1: Buy bitcoin with cash using Neosurf, Flexepin and Cashlib vouchers 
 pro2: High limits and liquidity available

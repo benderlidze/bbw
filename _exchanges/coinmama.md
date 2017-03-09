@@ -19,7 +19,7 @@ con1: High fees for buying with a credit/debit card
 con2: 
 con3:
 summary: CoinMama is a bitcoin broker based in Israel. They specialize in selling bitcoins for credit card to nearly anyone in the world. 
-summarylong: CoinMama is a bitcoin broker based in Israel. They specialize in selling bitcoins for credit card to nearly anyone in the world. 
+summarylong: CoinMama is a bitcoin broker that specializes in selling bitcoins for credit card to nearly anyone in the world. 
 privacy_score: 3
 privacy_width: 30
 limits_score: 10

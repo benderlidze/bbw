@@ -10,7 +10,7 @@ seotitle: "BitPanda Review: 3 Reasons It's Legit (and Not a Scam)"
 website: bitpanda.com
 website_url: http://buybitcoinww.co/bitpanda
 location: Austria
-cat: popular
+cat: test, eu
 weight: 7
 pro1: Low fees for buying bitcoins with a credit/debit card in Europe
 pro2: Tons of payment options

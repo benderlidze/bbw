@@ -11,10 +11,10 @@ website: localbitcoins.com
 website_url: http://buybitcoinww.co/local_bitcoins
 contribute: localbitcoins
 location: Finland
-cat: p2p, global
+cat: p2p, popular
 weight: 8
 summary: LocalBitcoins is a P2P Bitcoin exchange. Buyers and sellers agree on trade terms, and LocalBitcoins is used as escrow.
-summarylong: LocalBitcoins is a P2P Bitcoin exchange and escrow service. Buyers and sellers agree on trade terms, and LocalBitcoins makes sure the trade goes through with no problems for both parties. LocalBitcoins is considered a good way to buy bitcoins privately or with cash.  
+summarylong: LocalBitcoins is a peer-to-peer Bitcoin exchange. Buyers and sellers agree on trade terms, and LocalBitcoins makes sure the trade goes through with no problems for both parties. LocalBitcoins is considered a good way to buy bitcoins privately or with cash.  
 privacy_score: 9
 limits_score: 7
 speed_score: 9

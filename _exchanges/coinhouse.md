@@ -11,7 +11,7 @@ website: coinhouse.io
 website_url: http://buybitcoinww.co/coinhouse
 contribute: coinhouse
 location: Paris, France
-cat: broker, france
+cat: broker, eu
 weight: 8
 pro1: Buy bitcoin with a credit card
 pro2: Buy bitcoin with Neosurf prepaid cards

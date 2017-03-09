@@ -11,7 +11,7 @@ website: CEX.IO
 website_url: http://buybitcoinww.co/CEX__IO
 contribute: cexio
 location: London, UK
-cat: exchange, global
+cat: exchange, popular
 weight: 5
 pro1: Enables buying bitcoins with credit card for low fees
 pro2: 
@@ -19,7 +19,7 @@ pro3:
 con1: Extensive verification process to increase buying limits
 con2: 
 con3:
-summarylong: "CEX.IO allows for the buying of bitcoins for low fees via credit card. Customers can also purchase for free with bank transfers."
+summarylong: "CEX.IO allows for the buying of bitcoins for low fees via credit card. Customers can also purchase for free with bank transfers. CEX.io is available for use in most countries."
 summary: "CEX.IO allows for the buying of bitcoins for low fees via credit card. Customers can also purchase for free with bank transfers."
 privacy_score: 1
 privacy_width: 10

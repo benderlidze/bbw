@@ -25,41 +25,28 @@ color: yes
 <p>Our Bitcoin exchange reviews detail each exchange's supported countries, payment methods accepted, fees, privacy, limits, liquidity, reputation, speed (delivery of bitcoin), customer support, and any past issues.</p>
 
 <p>This list is not yet complete. If you simply want to find a Bitcoin exchange in your country, and don't need reviews, use our <a href="/">find exchange tool</a>.</p>
-			
-<h2>Global Bitcoin Exchanges</h2>			
-<p>These Bitcoins exchanges work anywhere in the world where there are available buyers or sellers. </p>
-	{% assign pages = site.exchanges | sort:"weight"  %}
-    {% for exchange in pages reversed %}
-	{% if exchange.cat contains 'global' %}
-	{% include exchange-list.html %}
-	{% endif %}
-	{% endfor %}
-
+	
 <h2>Popular Bitcoin Exchanges</h2>			
 	{% assign pages = site.exchanges | sort:"weight"  %}
     {% for exchange in pages reversed %}
 	{% if exchange.cat contains 'popular' %}
 	{% include exchange-list.html %}
 	{% endif %} 
-	{% endfor %}                   
-
-<!--
-
-<h2>U.S. Bitcoin Exchanges</h2>
-<p>The exchanges mentioned above are available in the United States. This section covers exchanges that are available only to U.S. residents.</p>			
+	{% endfor %} 	                 
+                   
+<h2>USA</h2>			
+<p>The above exchanges all work in the USA, but the exchanges  listed below only work in the USA.</p>
 	{% assign pages = site.exchanges | sort:"weight"  %}
     {% for exchange in pages reversed %}
 	{% if exchange.cat contains 'us' %}
 	{% include exchange-list.html %}
 	{% endif %}
 	{% endfor %}
-	
-	-->
-                   
-<h2>Bitcoin Exchanges in France</h2>			
+
+<h2>Bitcoin Exchanges in Europe</h2>			
 	{% assign pages = site.exchanges | sort:"weight"  %}
     {% for exchange in pages reversed %}
-	{% if exchange.cat contains 'france' %}
+	{% if exchange.cat contains 'eu' %}
 	{% include exchange-list.html %}
 	{% endif %}
 	{% endfor %}
