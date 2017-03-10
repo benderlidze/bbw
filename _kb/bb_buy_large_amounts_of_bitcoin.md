@@ -12,18 +12,23 @@ categories:
 - buying
 weight: 8
 ---
-* Table of Contents
-{:toc}
+<img class="color-guide-img halfimg-right" alt="investing in bitcoin" src="/img/goodicons/coins2.png">
 
-Bitcoin is [becoming attractive as a speculative investment](/kb/investing-in-bitcoin/) as more people begin to [doubt the existing financial system](/kb/category/bitcoin-vs-traditional-finance/) and fiat currencies. Because of this the question “how do I buy large amounts of bitcoin?” is popping up frequently. This post will show you how.
+Bitcoin is [becoming attractive as a speculative investment](/kb/investing-in-bitcoin/) as more people begin to doubt the existing financial system and fiat currencies. 
+
+Because of this the question “how do I buy large amounts of bitcoin?” is popping up frequently. This post will show you how.
 
 ## OTC Exchanges
 
-[Over-the-counter](http://www.investopedia.com/terms/o/otc.asp) exchanges have helped increase liquidity. Large players now have more options to deal with large blocks of bitcoin, thanks to the companies discussed in depth below. For more information on Bitcoin OTC markets, check out [this explainer from Brave New Coin](http://bravenewcoin.com/news/how-to-buy-large-amounts-of-bitcoin-through-the-otc-market/).  
+[Over-the-counter](http://www.investopedia.com/terms/o/otc.asp) exchanges have helped increase liquidity. Large players now have more options to deal with large blocks of bitcoin, thanks to the companies discussed in depth below. 
+
+For more information on Bitcoin OTC markets, check out [this explainer from Brave New Coin](http://bravenewcoin.com/news/how-to-buy-large-amounts-of-bitcoin-through-the-otc-market/).  
 
 ## Cumberland Mining
 
-[Cumberland Mining](https://cumberlandmining.com/) is one of the leading OTC liquidity providers in the digital currency space. It is a subsidiary of DRW Trading, a prominent financial trading firm.  As one of the few institutional trading firms in the digital currency space, it helps provide global liquidity to the overall ecosystem through competitive markets/prices.
+[Cumberland Mining](https://cumberlandmining.com/) is one of the leading OTC liquidity providers in the digital currency space. It is a subsidiary of DRW Trading, a prominent financial trading firm.  
+
+As one of the few institutional trading firms in the digital currency space, it helps provide global liquidity to the overall ecosystem through competitive markets/prices.
 
 ## Genesis
 
@@ -50,6 +55,9 @@ itBit is another New York based exchange, offering both a global exchange and OT
 Like Genesis, itBit isn’t open to everyone. Most of its clients include miners, Bitcoin payment processors, and institutions. Apply [here](https://www.itbit.com/h/exchange#institutions).
 
 ## Coinbase
+
+* Table of Contents
+{:toc}
 
 [Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} is a good option for individuals who want to buy large quantities of bitcoin. It’s also one of the easiest [ways to buy bitcoin](/kb/how-to-buy-bitcoin/) in the [U.S.](/en/us/), [Canada](/en/ca/), or Europe.
 

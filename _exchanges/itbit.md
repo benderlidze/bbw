@@ -11,7 +11,7 @@ website: itBit.com
 website_url: https://www.itbit.com
 location: New York
 cat: exchange, popular
-weight: 5
+weight: 2
 pro1: OTC trading desk is ideal for buying or selling large blocks of BTC
 pro2: Licensed Bitcoin exchange in New York, operates legally in all 50 states
 pro3: 
