@@ -83,7 +83,7 @@ Coinbase Exchange is only available in select U.S. states (plus Washington D.C. 
 
 ![gemini][6]{: .img-responsive .kb-helper}
 
-The Winklevoss twins launched Gemini in November 2015. Gemini works with both individuals and [institutional clients](https://exchange.gemini.com/register/institution).
+The Winklevoss twins launched [Gemini](/exchanges/#gemini) in November 2015. Gemini works with both individuals and [institutional clients](https://exchange.gemini.com/register/institution).
 
 Fully verified users have high deposits limits. While the exchange has [received a lot of hype](http://www.ibtimes.co.uk/tyler-winklevoss-gemini-will-have-positive-effect-price-bitcoin-1523331), it’s now yet shown in its volume. Due to this users may have a tough time making use of their large deposits. In the future, this may be a better option.  
 
@@ -91,7 +91,7 @@ Fully verified users have high deposits limits. While the exchange has [received
 
 ![kraken][3]{: .img-responsive .kb-helper}
 
-[Kraken](https://www.kraken.com/) is a Bitcoin exchange that trades in Euro. An average day of volume is around 3,000-4,000 bitcoins.  
+[Kraken](/exchanges/#kraken) is a Bitcoin exchange that trades in Euro. An average day of volume is around 3,000-4,000 bitcoins.  
 
 Kraken is a good option for Europeans, who can deposit via SEPA transfer. Deposit limits vary and depend on your [level of verification](https://support.kraken.com/hc/en-us/articles/201352206-What-are-the-Verification-Tiers-).  
 
@@ -101,7 +101,7 @@ Kraken is a good option for Europeans, who can deposit via SEPA transfer. Deposi
 
 ![bitsamp][4]{: .img-responsive .kb-helper}
 
-[Bitstamp](https://www.bitstamp.net/) was one of the first Bitcoin exchanges. It’s based in Slovenia, but backed by a number of U.S. companies, including [Pantera Capital](https://panteracapital.com/about/). Bitstamp’s exchange trades in U.S. dollars, with an average daily volume of 10,000 bitcoins.  
+[Bitstamp](/exchanges/#bitsamp) was one of the first Bitcoin exchanges. It’s based in Slovenia, but backed by a number of U.S. companies, including [Pantera Capital](https://panteracapital.com/about/). Bitstamp’s exchange trades in U.S. dollars, with an average daily volume of 10,000 bitcoins.  
 
 Bitstamp is a good option for European users, who can deposit via SEPA transfer. Bitstamp also accepts SWIFT transfers.
 
