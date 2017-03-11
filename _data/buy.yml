@@ -320,7 +320,7 @@
    desc_bg: Купете биткойн чрез кредитна карта, SEPA/ACH банков превод, в брой, или чрез AstroPay.
    desc_ru: CEX.io позволяет вам приобретать биткойны при помощи кредитной карты, банковских переводов ACH, SEPA-переводов, наличных или AstroPay. Покупка BTC при помощи кредитной карты происходит мгновенно. CEX.io работает в США, ЕС, а также некоторых странах Южной Америки.
    desc_uk: Купити біткоіни кредитною карткою, ACH/SEPA, готівкою або AstroPay.
-   tags: [quickinfo, review, lowprivacy, avgspeed, avgfees, trusted, eouavg, avglimits, home, int]
+   tags: [quickinfo, review, lowprivacy, avgspeed, avgfees, trusted, eouavg, avglimits, home]
    fees_cc: 3.5%
    avail: Global
    pros: <li>Support for many countries and regions</li> <li>Low 0.2% trading fee</li> <li>Established and trusted exchange</li>
