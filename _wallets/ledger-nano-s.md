@@ -66,7 +66,9 @@ Before we get into the main review, here are a few things I like and don't like 
 
 ## Background
 
-The Ledger Nano S is Ledger’s newest Bitcoin hardware wallet. Ledger's first hardware wallet was the [Ledger HW.1](/wallets/ledger-hw1/), and after that the Ledger Nano S. 
+The Ledger Nano S is Ledger's newest Bitcoin hardware wallet. The Ledger Nano S is different than Ledger's other two hardware wallets—the Ledger Nano and [Ledger HW.1](/wallets/ledger-hw1/)—because it has a screen. 
+
+The Nano S's screen means, like a KeepKey or TREZOR, it can be used even on a computer that is infected with malware.
 
 Here's a picture of the Nano S just so you can see how it looks:
 

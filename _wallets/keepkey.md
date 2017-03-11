@@ -50,6 +50,8 @@ rating: 4.6
 ---
 ![keepkey review][kkh]{: .img-responsive .kb-helper}
 
+KeepKey is a secure Bitcoin hardware wallet that was launched in 2015. It is easy to setup but also has some more advanced features, making it a great choice for new and experienced Bitcoin users alike! 
+
 ## Price 
 
 Costs $99 and can be [purchased on Amazon](http://buybitcoinww.co/KeepKey){:rel="nofollow"}. High price tag is due to its digital screen, metal body, and high level of security.  
