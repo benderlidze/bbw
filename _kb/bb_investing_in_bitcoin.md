@@ -17,7 +17,8 @@ We're going to explain:
 
 * The basics of investing in bitcoin 
 * Why it needs to be taken seriously
-* How to protect and properly secure your bitcoins if you do decide to invest
+* How to buy bitcoins (with [credit card](/en/buy-bitcoin-credit-debit-card/) or [bank account](/buy-bitcoin-bank-transfer-account/))
+* How to protect and properly [secure your bitcoins](/wallets/) if you do decide to invest
 
 ## Why Bitcoin is Gaining Traction
 
@@ -118,7 +119,7 @@ The [Bitcoin mining industry](https://bitcoinworldwide.com/mining/) has grown at
 
 Mining, which could once be done on the average home computer is now only done profitably in specialized data centers. 
 
-These datacenters are warehouses, filled with computers built for the sole purpose of mining Bitcoin. Today, it costs millions of dollars to even start a profitable mining operation. 
+These [datacenters are warehouses](https://motherboard.vice.com/en_us/article/chinas-biggest-secret-bitcoin-mine), filled with computers built for the sole purpose of mining Bitcoin. Today, it costs millions of dollars to even start a profitable mining operation. 
 
 **Bitcoin miners are no longer a profitable investment for new Bitcoin users.**
 
