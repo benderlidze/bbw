@@ -46,11 +46,6 @@ con1: Lack of support for passphrases
 rating: 4.8
 ---
 
-<div class="quote-box" style="margin-top: 10px;">
-<p>I'm Jordan Tuwiner, founder of Buy Bitcoin Worldwide.</p><p>I understand it can be REALLY hard to understand Bitcoin wallets. </p> <p>Today, I'll share my Ledger Nano S review to help make the buying decision easier for you.</p>
-<div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://www.jordantuwiner.com/">Jordan Tuwiner</a> <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
-</div>
-
 Before we get into the main review, here are a few things I like and don't like about the Nano S: 
 
 <ul class="quick-info-pros"> 
