@@ -51,7 +51,7 @@ rating: 4.8
 <div class="quote-ref"><img src="/img/icons/jtsmall.jpg"><a href="https://www.jordantuwiner.com/">Jordan Tuwiner</a> <span class="position">Founder, Buy Bitcoin Worldwide</span></div>
 </div>
 
-Before we get into the main review, here are a few things I like and don't like about the Nano s: 
+Before we get into the main review, here are a few things I like and don't like about the Nano S: 
 
 <ul class="quick-info-pros"> 
 	<li>The Nano S is currently the cheapest hardware wallet with a screen*</li> 

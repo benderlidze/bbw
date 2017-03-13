@@ -50,7 +50,7 @@ rating: 4.6
 ---
 ![keepkey review][kkh]{: .img-responsive .kb-helper}
 
-KeepKey is a secure Bitcoin hardware wallet that was launched in 2015. It is easy to setup but also has some more advanced features, making it a great choice for new and experienced Bitcoin users alike! 
+KeepKey is a secure Bitcoin hardware wallet that was launched in 2015. Like the [TREZOR](/wallets/trezor/) and [Ledger Nano S](/wallets/ledger-nano-s/), it is easy to setup but also has some more advanced features, making it a great choice for new and experienced Bitcoin users alike! 
 
 ## Price 
 
