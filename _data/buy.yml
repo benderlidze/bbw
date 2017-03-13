@@ -3136,11 +3136,12 @@
    desc: Unocoin is India's leading Bitcoin platform. Their customers can buy bitcoin with any Indian bank account via online banking or NEFT and RTGS.
    url: https://www.unocoin.com/
    icon: /img/buy/unocoin.png
+   internal_url: /exchanges/#unocoin-review
    countries: in
    po: bt
    desc_pt_br: Plataforma Indiana de Bitcoins. Compre Bitcoins usando qualquer tipo de conta bancária indiana.
    desc_ru: Unocoin — лидирующая обменная bitcoin-платформа в Индии. Клиенты сервиса могут приобретать биткойны посредством счета в любом индийском банке, либо онлайн при помощи платежных сервисов NEFT и RTGS. 
-   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits]
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits, int]
    pros: <li>Regulated company in India</li> <li>Backed by investors in the United States</li><li>Low 1% fee, reduced to 0.7% with sufficient trading volume</li>
    cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification, so not private</li>
    pros_ru: "<li>Компания находится под надзором регулирующих органов Индии</li><li>Есть поддержка инвесторов из США</li><li>Низкая 1%-ная комиссия, которую можно снизить до 0,7% при больших торговых объемах</li>" 
@@ -3166,9 +3167,10 @@
    desc: Zebpay is a Bitcoin platform and broker based in India. It has Android and iPhone apps that make it easy to buy bitcoins with a connected Indian bank account.
    url: https://www.zebpay.com/
    icon: /img/buy/zebpay.png
+   internal_url: /exchanges/#zebpay-review
    countries: in
    po: bt
-   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits]
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits, int]
    pros: <li>Regulated company in India</li><li>Offers additional services, such as purchase of mobile airtime and gift vouchers for bitcoin</li><li>Multi-sig security features</li>
    cons: <li>Fees included in buy/sell prices, not displayed publically</li><li>Requires ID verification; not private</li><li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
    desc_ru: Zebpay — еще одна брокерская Bitcoin-платформа в Индии. Клиентам предлагается мобильное приложение для Android и iPhone, которое в значительной степени упрощает процесс покупки биткойнов.
@@ -3197,9 +3199,10 @@
    icon: /img/buy/coinsecure.png
    countries: in
    po: bt
+   internal_url: /exchanges/#coinsecure-review
    desc_pt_br: Plataforma indiana de conversão de Bitcoins. Taxa de 0,3% e várias opções de depósito.
    desc_ru: Coinsecure представляет собой индийский биткойн-обменник и торговую площадку. На некоторые депозиты комиссия на покупку составляет всего 0,3%, включая NEFT, RTGS, IMPS, а также пополнение за наличные.
-   tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eoueasy, avglimits]
+   tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eoueasy, avglimits, int]
    pros: <li>Regulated Bitcoin exchange based in India</li><li>Very low fees</li><li>Video service guides available</li>
    cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification; not private</li><li>Interface is geared for traders and may be confusing for first time buyers</li>
    pros_ru: "<li>Компания находится под надзором регулирующих органов Индии</li><li>Очень низкая комиссия</li><li>Доступны видеоруководства</li>" 
