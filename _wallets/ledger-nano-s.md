@@ -114,7 +114,7 @@ Does the Ledger Nano S’s lower price tag come with any security tradeoffs?
 
 The next few sections will outline some of the S's security features. 
 
-## Physical Buttons
+### Physical Buttons
 
 Like the [TREZOR](/wallets/trezor/), the S also has two physical buttons which add to its security. 
 
@@ -124,7 +124,7 @@ In order to confirm a payment you need to physically press both buttons at the s
 
 <div class="caption-kb">A close up view of the Nano S's buttons.</div>
 
-## PIN Code
+### PIN Code
 
 The Ledger Nano S also requires the user to create a PIN code on setup. 
 
@@ -132,7 +132,7 @@ The PIN code helps prevent the loss of bitcoins in case your lose your device.
 
 A stranger would not be able to send bitcoins from your Nano S because he/she would not know your 4 digit pin code. After three incorrect guesses of the pin code the device wipes itself.  
 
-## Offline Storage
+### Offline Storage
 
 Let’s get back to the main purpose of a [hardware wallet](/wallets/#hardware-wallets). 
 
@@ -142,7 +142,7 @@ Bitcoins and private keys stored on an online computer are easy target for hacke
 
 When you use a hardware wallet, which stores your bitcoins offline, then your coins are stored offline and out of reach from hackers.
 
-## Anti-Tampering Seal
+### Anti-Tampering Seal
 
 The box ships with tamper-proof tape around the packaging. If this tape appears to be altered in any way, it is likely someone tampered with your device before it arrived to you. 
 
@@ -152,7 +152,7 @@ Be sure to email level to return it and request a new device!
 
 <div class="caption-kb">The Nano S packacking seal.</div>  
 
-## Passphrase Support
+### Passphrase Support
 
 This is the feature I'm DYING for Ledger to add! 
 
