@@ -107,9 +107,6 @@ The real question is:
 
 Does the Ledger Nano S’s lower price tag come with any security tradeoffs?
 
-* Table of Contents
-{:toc}
-
 ## Security
 
 The next few sections will outline some of the S's security features. 
@@ -127,6 +124,9 @@ In order to confirm a payment you need to physically press both buttons at the s
 ### PIN Code
 
 The Ledger Nano S also requires the user to create a PIN code on setup. 
+
+* Table of Contents
+{:toc}
 
 The PIN code helps prevent the loss of bitcoins in case your lose your device. 
 
