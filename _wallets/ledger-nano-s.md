@@ -77,30 +77,6 @@ Here's a picture of the Nano S just so you can see how it looks:
 * Table of Contents
 {:toc}
 
-## Why is the Nano S's screen Important?
-
-The S's screen helps with a few things: 
-
-When you setup your Nano S, the wallet generates a recovery phrase. The recovery phrase is a complete backup of your wallet. 
-
-On a normal Bitcoin wallet, like an iPhone wallet, the recovery phrase is displayed on your phone's screen. 
-
-In most cases your phone is _probably_ secure enough. 
-
-However: 
-
-Since your phone is connected to the internet, it's very possible that someone could hack into your phone to 1) steal your bitcoins or 2) snatch your recovery phrase.
-
-When you use a [hardware wallet](/wallets/#hardware-wallets) like the Nano S, the recovery phrase is generated offline and displayed on the Nano S's screen, which ensures that the recovery phrase is never on an internet-connected device. 
-
-How else does the screen help protect you? 
-
-**The screen provides an extra layer of verificaiton when sending payments.**
-
-The screen makes it easy to confirm that the payment you’d like to send is for the correct amount and to the right address.
-
-The Nano S’s screen means, like a [KeepKey](/wallets/keepkey/) or [TREZOR](/wallets/trezor/), it can be used even on a computer that is infected with malware.
-
 ## What’s in the Box
 
 ![ledger nano s box](/img/nanos/sbox.JPG){: .img-responsive .kb-helper}
@@ -192,6 +168,30 @@ A passphrase prevents this because in addition to the 24 word recovery phrase, a
 The good news is, [Ledger plans to add this](https://www.reddit.com/r/Bitcoin/comments/54wbii/ledger_nano_s_the_multipurpose_crypto_stick/d85kxid) feature to the Nano S soon.
 
 The Nano S also does not run on a battery, meaning when it is not plugged in it is completely offline and turned off.
+
+## Why is the Nano S's screen Important?
+
+The S's screen helps with a few things: 
+
+When you setup your Nano S, the wallet generates a recovery phrase. The recovery phrase is a complete backup of your wallet. 
+
+On a normal Bitcoin wallet, like an iPhone wallet, the recovery phrase is displayed on your phone's screen. 
+
+In most cases your phone is _probably_ secure enough. 
+
+However: 
+
+Since your phone is connected to the internet, it's very possible that someone could hack into your phone to 1) steal your bitcoins or 2) snatch your recovery phrase.
+
+When you use a [hardware wallet](/wallets/#hardware-wallets) like the Nano S, the recovery phrase is generated offline and displayed on the Nano S's screen, which ensures that the recovery phrase is never on an internet-connected device. 
+
+How else does the screen help protect you? 
+
+**The screen provides an extra layer of verificaiton when sending payments.**
+
+The screen makes it easy to confirm that the payment you’d like to send is for the correct amount and to the right address.
+
+The Nano S’s screen means, like a [KeepKey](/wallets/keepkey/) or [TREZOR](/wallets/trezor/), it can be used even on a computer that is infected with malware.
 
 ## Setup Guide
 
