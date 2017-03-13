@@ -146,7 +146,7 @@ The box ships with tamper-proof tape around the packaging. If this tape appears 
 
 Be sure to email level to return it and request a new device! 
 
-![ledger nano s review](/img/nanos/seal.jpg){: .img-responsive .kb-helper}
+![ledger nano s review](/img/nanos/seal1.jpg){: .img-responsive .kb-helper}
 
 <div class="caption-kb">The Nano S packacking seal.</div>  
 
