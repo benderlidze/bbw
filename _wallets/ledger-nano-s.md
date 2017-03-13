@@ -74,8 +74,6 @@ Here's a picture of the Nano S just so you can see how it looks:
 
 ![ledger nano s review](/img/nanos/1.png){: .img-responsive .kb-helper}
 
-* Table of Contents
-{:toc}
 
 ## What’s in the Box
 
@@ -108,6 +106,9 @@ If you're on a budget, checkout [Ledger's Nano hardware wallet](http://buybitcoi
 The real question is: 
 
 Does the Ledger Nano S’s lower price tag come with any security tradeoffs?
+
+* Table of Contents
+{:toc}
 
 ## Security
 
