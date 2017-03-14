@@ -67,6 +67,12 @@ The following countries are restricted for credit card purchases: Iceland, Vietn
 
 The following countries are restricted from buying with bank transfer: Afghanistan, Democratic Republic of the Congo, Côte d'Ivoire, Eritrea, Ethiopia, Guinea-Bissau, Haiti, Iran, Iraq, Kenya, Liberia, Libya, Guinea, São Tomé and Príncipe, Somalia, Sudan, Syria, Tanzania, Tunisia, Turkey, Vietnam, Yemen, Zimbabwe. 
 
+### US States NOT Supported
+
+CEX.io does NOT support the following US states:
+
+Alabama, Alaska, Arizona, Arkansas, Colorado, Florida, Georgia, Guam, Idaho, Iowa, Kansas, Louisiana, Maryland, Michigan, Mississippi, Nebraska, New Hampshire, New Jersey, North Carolina, North Dakota, Ohio, Oregon, Tennessee, Texas, U.S. Virgin Islands, Vermont, Virginia, Washington.
+
 * Table of Contents
 {:toc}
 
