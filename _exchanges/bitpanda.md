@@ -54,6 +54,27 @@ BitPanda has a large selection of payment methods:
 
 BitPanda supports all European countries. 
 
+<div class="post-content" itemscope itemtype="http://schema.org/Table">
+ <h2 itemprop="about">Bitpanda Compared</h2>
+ <p><a href="/en/buy-bitcoin-credit-debit-card/">Credit card</a> is the most popular payment method on Bitpanda. This table compares Bitpanda to other popular credit card exchanges.</p>
+	<table class="hw-comparison">
+	  <tr>
+	  	<th></th>
+	    <th>Exchange</th>
+	    <th class="released">Fees<br></th>
+	    <th>Countries</th>
+	    <th class="wallet-buy">Buy</th>
+	  </tr>
+	  {% for name in site.data.buy %}
+	  {% if name.po contains 'ccwwtop' %}
+	  {% include ex-comparison.html %}
+	  {% endif %}
+	  {% endfor %}
+	</table>
+</div>
+
+<p><i>Please note that fees are approximate and may vary based on your country or purchase size.</i></p>
+
 ## Privacy
 
 BitPanda has very low privacy since you must submit your ID before you can buy. 

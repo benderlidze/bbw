@@ -41,6 +41,16 @@ Sellers are free to accept any payment method through Wall of Coins. Buyers will
 
 A cash deposit is when the buyer of bitcoins goes to a physical bank branch and deposits cash into the account of the Bitcoin seller
 
+## Wall of Coins vs Other Cash Exchanges
+
+Cash is the most popular payment method on Wall of Coins. This table compares it so some other cash exchanges.
+
+<div class="post-content">
+
+{% include cash-compare.html %}
+
+</div>
+
 ## Supported Countries
 Wall of Coins is currently available in:
 

@@ -56,6 +56,16 @@ BitQuick operates in 49 US states.
 
 New York is the only state not supported because BitQuick stopped service in New York [due to the BitLicense](https://bitcoinmagazine.com/articles/bitquick-local-bitcoins-terminate-service-ny-due-bitlicense-compliance-costs-1439414074). 
 
+## BitQuick vs Other Cash Exchanges
+
+Cash is the most popular payment method on BitQuick. This table compares it so some other cash exchanges.
+
+<div class="post-content">
+
+{% include cash-compare.html %}
+
+</div>
+
 ## Privacy
 
 BitQuick is not as private as other cash methods like [Wall of Coins](/exchanges/wall-of-coins/) or [LocalBitcoins](/exchanges/localbitcoins/). 

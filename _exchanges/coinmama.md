@@ -42,11 +42,26 @@ related: cc
 
 CoinMama accepts Visa and Mastercard [credit and debit cards](/en/buy-bitcoin-credit-debit-card/) and [cash](/en/buy-bitcoins-with-cash/). It also allows customers to buy with Western Union. 
 
-## Buy
+<div class="post-content" itemscope itemtype="http://schema.org/Table">
+ <h2 itemprop="about">CoinMama Compared</h2>
+ <p><a href="/en/buy-bitcoin-credit-debit-card/">Credit card</a> is the most popular payment method on CoinMama. This table helps compare CoinMama to other popular credit card exchanges.</p>
+	<table class="hw-comparison">
+	  <tr>
+	  	<th></th>
+	    <th>Exchange</th>
+	    <th class="released">Fees<br></th>
+	    <th>Countries</th>
+	    <th class="wallet-buy">Buy</th>
+	  </tr>
+	  {% for name in site.data.buy %}
+	  {% if name.po contains 'ccwwtop' %}
+	  {% include ex-comparison.html %}
+	  {% endif %}
+	  {% endfor %}
+	</table>
+</div>
 
-You can buy bitcoins directly from CoinMama using the widget below. 
-
-<script id='mamacoin-script' data-affiliate-id='jordant' src='https://widget.coinmama.com/index.js'></script>
+<p><i>Please note that fees are approximate and may vary based on your country or purchase size.</i></p>
 
 ## Supported Countries
 

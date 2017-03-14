@@ -76,6 +76,16 @@ The difference between Local Bitcoins and most exchanges is that [LocalBitcoins]
 
 Unlike other exchanges, which require ID verification and personal information, Local Bitcoins allows you to buy bitcoin without connecting your name to the bitcoin you’re buying.  
 
+## LocalBitcoins vs Other Cash Exchanges
+
+Although LocalBitcoins allows for ANY payment method, cash deposit is the most popular method. This table compares it so some other cash exchanges.
+
+<div class="post-content">
+
+{% include cash-compare.html %}
+
+</div>
+
 ## Payment Methods Accepted
 LocalBitcoins users are free to buy and sell using any payment method. The payment methods available to buyers will depend on what's available in your location. 
 

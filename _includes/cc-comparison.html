@@ -1,0 +1,14 @@
+<table class="hw-comparison">
+	  <tr>
+	  	<th></th>
+	    <th>Exchange</th>
+	    <th class="released">Fees<br></th>
+	    <th>Countries</th>
+	    <th class="wallet-buy">Buy</th>
+	  </tr>
+	  {% for name in site.data.buy %}
+	  {% if name.po contains 'ccwwtop' %}
+	  {% include ex-comparison.html %}
+	  {% endif %}
+	  {% endfor %}
+	</table>
