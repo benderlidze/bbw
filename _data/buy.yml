@@ -3816,44 +3816,26 @@
    cons_ar: 
 
 
- - name: Snapcard
-   desc: Snapcard is a California based Bitcoin broker. They service US customers via wire or ACH transfers.
-   url: https://www.snapcard.io/buy-bitcoin
-   icon: /img/buy/snapcard.png
-   countries: us
-   po: usbt, lowfees, bt, babt, ach
-   desc_usbankshort: Buy bitcoin with a connected U.S. bank account. 0.5% fee.
-   desc_ach: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases.
-   desc_babt: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases.
-   desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
-   desc_fr: Achetez des bitcoins avec votre compte en banque. Rapide et facile.
-   desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα και γρήγορα.
-   desc_nl: Koop bitcoin met je bankrekening. Simpel. Snel. Gemakkelijk.
-   desc_it: Acquista Bitcoin con il tuo conto bancario. Facile e veloce.
-   desc_pt_br: Compre Bitcons usando sua conta bancária. Simples, rápido e conveniente.
-   desc_ru: Snapcard — Bitcoin-брокер из Калифорнии. Сервис обслуживает клиентов из США при помощи банковских переводов или денежных переводов ACH.
-   desc_de: Kaufen Sie Bitcoin mit Ihren Bankkonto. Einfach, schnell, bequem.
-   tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eoueasy, avglimits]
-   pros: <li>One of the simplest ways to purchase bitcoins in the United States</li> <li>0.5% fee is one of the lowest among US Bitcoin brokers</li>
-   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
-   pros_ru: "<li>Один из самых простых способов купить биткойны в США</li><li>Одна из самых низких комиссий в США (0,5%)</li>" 
-   cons_ru: "<li>Доступен bitcoin-кошелек, но не совсем надежный для хранения биткойнов</li>" 
-   pros_es: ""
-   cons_es: "" 
-   pros_pt: "" 
-   cons_pt: ""
-   pros_de: ""
-   cons_de: "" 
-   pros_nl: ""
-   cons_nl: "" 
-   pros_fr:
-   cons_fr: 
-   pros_zh_CN:
-   cons_zh_CN:
-   pros_it:
-   cons_it: 
-   pros_ar: 
-   cons_ar: 
+## - name: Snapcard
+##   desc: Snapcard is a California based Bitcoin broker. They service US customers via wire or ACH transfers.
+##   url: https://www.snapcard.io/buy-bitcoin
+##   icon: /img/buy/snapcard.png
+##   countries: us
+##   po: usbt, lowfees, bt, babt, ach
+##   desc_usbankshort: Buy bitcoin with a connected U.S. bank account. 0.5% fee.
+##   desc_ach: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases.
+##   desc_babt: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases.
+##   desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
+##   desc_fr: Achetez des bitcoins avec votre compte en banque. Rapide et facile.
+##   desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα και γρήγορα.
+##   desc_nl: Koop bitcoin met je bankrekening. Simpel. Snel. Gemakkelijk.
+##   desc_it: Acquista Bitcoin con il tuo conto bancario. Facile e veloce.
+##   desc_pt_br: Compre Bitcons usando sua conta bancária. Simples, rápido e conveniente.
+##   desc_ru: Snapcard — Bitcoin-брокер из Калифорнии. Сервис обслуживает клиентов из США при помощи банковских переводов или денежных переводов ACH.
+##   desc_de: Kaufen Sie Bitcoin mit Ihren Bankkonto. Einfach, schnell, bequem.
+##   tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eoueasy, avglimits]
+##   pros: <li>One of the simplest ways to purchase bitcoins in the United States</li> <li>0.5% fee is one of the lowest among US Bitcoin brokers</li>
+##   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
 
  - name: Purse.io
    desc: With Purse.io, you purchase bitcoin with a credit or debit card but indirectly; Purse.io connects you with a buyer who wants to make a purchase on Amazon. You use your credit/debit card to order items from the buyer's Amazon wish list. When the items have been delivered to the buyer, you're given some bitcoin equivalent to the value of the items you ordered for the buyer. <br><br>Purse.io is available in the United States, Canada, Japan, Brazil, France, Italy, Spain, China, and India.
