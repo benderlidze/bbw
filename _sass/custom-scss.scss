@@ -975,11 +975,12 @@ h3 {
 }
 
 .home-mapimg {
-	background-image: url(/img/icons/map.png);
-	background-position: center center;
-	background-color: #2579c6;
-	background-repeat: no-repeat;
-	height: 350px;
+    background-color: #0099D7;
+    background-image: url("/img/o.png");
+    background-position: 50% 67%;
+    background-repeat: no-repeat;
+    background-size: 2000px 980px;
+    height: 335px;
 }
 
 .map-desc, .map-title {
