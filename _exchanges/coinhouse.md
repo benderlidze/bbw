@@ -51,7 +51,34 @@ Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Co
 
 </div>
 
+{::options parse_block_html="false" /}
+<div class="post-content" itemscope itemtype="http://schema.org/Table">
+ 
+ <h2 itemprop="about">Coinhouse Compared</h2>
+ 
+ <p><a href="/en/buy-bitcoin-credit-debit-card/">Credit card</a> is the main payment method on Coinhouse. This table compares Coinhouse to other popular credit card exchanges.</p>
+	<table class="hw-comparison">
+	  <tr>
+	  	<th></th>
+	    <th>Exchange</th>
+	    <th class="released">Fees<br></th>
+	    <th>Countries</th>
+	    <th class="wallet-buy">Buy</th>
+	  </tr>
+	  
+	  {% for name in site.data.buy %}
+	  {% if name.po contains 'ccwwtop' %}
+	  {% include ex-comparison.html %}
+	  {% endif %}
+	  {% endfor %}
+	</table>
+	
+</div>
+
+<p><i>Please note that fees are approximate and may vary based on your country or purchase size.</i></p>
+
 ## Supported Countries
+
 All European credit cards are accepted by Coinhouse.
 
 * Table of Contents

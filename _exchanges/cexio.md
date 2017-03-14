@@ -73,6 +73,20 @@ CEX.io does NOT support the following US states:
 
 Alabama, Alaska, Arizona, Arkansas, Colorado, Florida, Georgia, Guam, Idaho, Iowa, Kansas, Louisiana, Maryland, Michigan, Mississippi, Nebraska, New Hampshire, New Jersey, North Carolina, North Dakota, Ohio, Oregon, Tennessee, Texas, U.S. Virgin Islands, Vermont, Virginia, Washington.
 
+{::options parse_block_html="false" /}
+<div class="post-content" itemscope itemtype="http://schema.org/Table">
+
+ <h2 itemprop="about">CEX.io Compared</h2>
+ 
+ <p><a href="/en/buy-bitcoin-credit-debit-card/">Credit card</a> is the most popular payment method on CEX.io. This table compares CEX to other popular credit card exchanges.</p>
+
+	{% include cc-comparison.html %}
+	
+</div>
+
+<p><i>Please note that fees are approximate and may vary based on your country or purchase size.</i></p>
+
+
 * Table of Contents
 {:toc}
 
