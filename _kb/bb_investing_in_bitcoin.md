@@ -97,6 +97,9 @@ The difficulty of buying bitcoins depends on your country. Developed countries h
 
 You can use our [exchange finder](/) to find a place to buy bitcoins in your country. 
 
+<a type="button" href="/ class="btn exchange-btn-top btn-success"><i class="fa fa-bitcoin"></i> Find a Bitcoin Exchange</a>
+
+
 ## How to Secure Bitcoins
 As with anything valuable, [hackers, thieves, and scammers](/#avoid-scams) will all be after your bitcoins, so securing your bitcoins is necessary. 
 
