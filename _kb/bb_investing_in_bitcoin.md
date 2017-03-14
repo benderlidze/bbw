@@ -135,7 +135,7 @@ Bitcoin is still new and it can take months to understand the true impact Bitcoi
 
 Take some time to understand Bitcoin, how it works, how to secure bitcoins, and about how Bitcoin differs from fiat money.  
 
-<a type="button" href="/ class="btn exchange-btn-top btn-success"><i class="fa fa-bitcoin"></i> Buy Bitcoins</a>
+<a type="button" href="/" class="btn exchange-btn-top btn-success"><i class="fa fa-bitcoin"></i> Buy Bitcoins</a>
 
 _The above information should not be taken as investment advice. It is for general knowledge purposes only. You should do your own research before buying any bitcoins._
 
