@@ -394,6 +394,102 @@
    pros_ar: 
    cons_ar: 
 
+
+##### India ####################################################
+
+ - name: Unocoin
+   desc: Unocoin is India's leading Bitcoin platform. Their customers can buy bitcoin with any Indian bank account via online banking or NEFT and RTGS.
+   url: https://www.unocoin.com/
+   icon: /img/buy/unocoin.png
+   internal_url: /exchanges/#unocoin-review
+   countries: in
+   po: bt
+   desc_pt_br: Plataforma Indiana de Bitcoins. Compre Bitcoins usando qualquer tipo de conta bancária indiana.
+   desc_ru: Unocoin — лидирующая обменная bitcoin-платформа в Индии. Клиенты сервиса могут приобретать биткойны посредством счета в любом индийском банке, либо онлайн при помощи платежных сервисов NEFT и RTGS. 
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits, int]
+   pros: <li>Regulated company in India</li> <li>Backed by investors in the United States</li><li>Low 1% fee, reduced to 0.7% with sufficient trading volume</li>
+   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification, so not private</li>
+   pros_ru: "<li>Компания находится под надзором регулирующих органов Индии</li><li>Есть поддержка инвесторов из США</li><li>Низкая 1%-ная комиссия, которую можно снизить до 0,7% при больших торговых объемах</li>" 
+   cons_ru: "<li>Есть веб-кошелек, который лучше не использовать для хранения биткойнов</li><li>Необходима верификация</li>" 
+   pros_es: ""
+   cons_es: "" 
+   pros_pt: "" 
+   cons_pt: ""
+   pros_de: ""
+   cons_de: "" 
+   pros_nl: ""
+   cons_nl: "" 
+   pros_fr:
+   cons_fr: 
+   pros_zh_CN:
+   cons_zh_CN:
+   pros_it:
+   cons_it: 
+   pros_ar: 
+   cons_ar: 
+
+ - name: Zebpay
+   desc: Zebpay is a Bitcoin platform and broker based in India. It has Android and iPhone apps that make it easy to buy bitcoins with a connected Indian bank account.
+   url: https://www.zebpay.com/
+   icon: /img/buy/zebpay.png
+   internal_url: /exchanges/#zebpay-review
+   countries: in
+   po: bt
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits, int]
+   pros: <li>Regulated company in India</li><li>Offers additional services, such as purchase of mobile airtime and gift vouchers for bitcoin</li><li>Multi-sig security features</li>
+   cons: <li>Fees included in buy/sell prices, not displayed publically</li><li>Requires ID verification; not private</li><li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
+   desc_ru: Zebpay — еще одна брокерская Bitcoin-платформа в Индии. Клиентам предлагается мобильное приложение для Android и iPhone, которое в значительной степени упрощает процесс покупки биткойнов.
+   pros_ru: "<li>Компания находится под надзором регулирующих органов Индии</li><li>Предлагаются другие услуги, вроде пополнения баланса телефона или подарочных ваучеров для биткойнов</li><li>Дополнительная защита в виде мультиподписи</li>" 
+   cons_ru: "<li>Отсутствует регламент комиссий, которые включены в цену продажи/покупки</li><li>Необходима верификация</li><li>Есть веб-кошелек, который лучше не использовать для хранения биткойнов</li>" 
+   pros_es: ""
+   cons_es: "" 
+   pros_pt: "" 
+   cons_pt: ""
+   pros_de: ""
+   cons_de: "" 
+   pros_nl: ""
+   cons_nl: "" 
+   pros_fr:
+   cons_fr: 
+   pros_zh_CN:
+   cons_zh_CN:
+   pros_it:
+   cons_it: 
+   pros_ar: 
+   cons_ar: 
+
+ - name: Coinsecure
+   desc: Coinsecure is an Indian Bitcoin exchange and trading platform. It offers very low fees at just 0.3% per buy and a number of deposit options; including NEFT, RTGS, IMPS and cash deposit.
+   url: https://coinsecure.in/
+   icon: /img/buy/coinsecure.png
+   countries: in
+   po: bt
+   internal_url: /exchanges/#coinsecure-review
+   desc_pt_br: Plataforma indiana de conversão de Bitcoins. Taxa de 0,3% e várias opções de depósito.
+   desc_ru: Coinsecure представляет собой индийский биткойн-обменник и торговую площадку. На некоторые депозиты комиссия на покупку составляет всего 0,3%, включая NEFT, RTGS, IMPS, а также пополнение за наличные.
+   tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eoueasy, avglimits, int]
+   pros: <li>Regulated Bitcoin exchange based in India</li><li>Very low fees</li><li>Video service guides available</li>
+   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification; not private</li><li>Interface is geared for traders and may be confusing for first time buyers</li>
+   pros_ru: "<li>Компания находится под надзором регулирующих органов Индии</li><li>Очень низкая комиссия</li><li>Доступны видеоруководства</li>" 
+   cons_ru: "<li>Есть веб-кошелек, который лучше не использовать для хранения биткойнов</li><li>Необходима верификация</li><li>Интерфейс платформы больше ориентирован на опытных трейдеров, нежели на новичков</li>" 
+   pros_es: ""
+   cons_es: "" 
+   pros_pt: "" 
+   cons_pt: ""
+   pros_de: ""
+   cons_de: "" 
+   pros_nl: ""
+   cons_nl: "" 
+   pros_fr:
+   cons_fr: 
+   pros_zh_CN:
+   cons_zh_CN:
+   pros_it:
+   cons_it: 
+   pros_ar: 
+   cons_ar: 
+
+
  - name: LocalBitcoins
    desc: LocalBitcoins is an escrow service which also helps to match bitcoin buyers and sellers. The most common method of payment for purchase is cash deposit. However, users may advertise trades for whichever payment method they prefer. <br><br> Buying bitcoins via an in-person meeting, secured and facilitated by LocalBitcoins, may be one of the fastest and most private ways to buy bitcoins in any country.
    url: http://buybitcoinww.co/local_bitcoins
@@ -3113,100 +3209,6 @@
    desc_ru: BitoEX представляет собой Bitcoin-компанию на Тайване. Она позволяет пользователям приобретать биткойны в любом из 5 тысяч магазинов FamilyMart.
    pros_ru: "<li>Быстрый способ купить биткойны на Тайване</li><li>Очень низкая комиссия при покупке BTC за наличные: 1% взимает BitoEX, а в магазинах FamilyMart с вас возьмут 25 TWD</li><li>Достаточно приватный способ покупки, где вам потребуется только номер телефона</li>" 
    cons_ru: "<li>С первого раза процесс приобретения биткойнов может показаться слегка сложным</li><li>Лимит покупки на каждый номер телефона составляет TWD 20 тыс.</li>" 
-   pros_es: ""
-   cons_es: "" 
-   pros_pt: "" 
-   cons_pt: ""
-   pros_de: ""
-   cons_de: "" 
-   pros_nl: ""
-   cons_nl: "" 
-   pros_fr:
-   cons_fr: 
-   pros_zh_CN:
-   cons_zh_CN:
-   pros_it:
-   cons_it: 
-   pros_ar: 
-   cons_ar: 
-
-##### India ####################################################
-
- - name: Unocoin
-   desc: Unocoin is India's leading Bitcoin platform. Their customers can buy bitcoin with any Indian bank account via online banking or NEFT and RTGS.
-   url: https://www.unocoin.com/
-   icon: /img/buy/unocoin.png
-   internal_url: /exchanges/#unocoin-review
-   countries: in
-   po: bt
-   desc_pt_br: Plataforma Indiana de Bitcoins. Compre Bitcoins usando qualquer tipo de conta bancária indiana.
-   desc_ru: Unocoin — лидирующая обменная bitcoin-платформа в Индии. Клиенты сервиса могут приобретать биткойны посредством счета в любом индийском банке, либо онлайн при помощи платежных сервисов NEFT и RTGS. 
-   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits, int]
-   pros: <li>Regulated company in India</li> <li>Backed by investors in the United States</li><li>Low 1% fee, reduced to 0.7% with sufficient trading volume</li>
-   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification, so not private</li>
-   pros_ru: "<li>Компания находится под надзором регулирующих органов Индии</li><li>Есть поддержка инвесторов из США</li><li>Низкая 1%-ная комиссия, которую можно снизить до 0,7% при больших торговых объемах</li>" 
-   cons_ru: "<li>Есть веб-кошелек, который лучше не использовать для хранения биткойнов</li><li>Необходима верификация</li>" 
-   pros_es: ""
-   cons_es: "" 
-   pros_pt: "" 
-   cons_pt: ""
-   pros_de: ""
-   cons_de: "" 
-   pros_nl: ""
-   cons_nl: "" 
-   pros_fr:
-   cons_fr: 
-   pros_zh_CN:
-   cons_zh_CN:
-   pros_it:
-   cons_it: 
-   pros_ar: 
-   cons_ar: 
-
- - name: Zebpay
-   desc: Zebpay is a Bitcoin platform and broker based in India. It has Android and iPhone apps that make it easy to buy bitcoins with a connected Indian bank account.
-   url: https://www.zebpay.com/
-   icon: /img/buy/zebpay.png
-   internal_url: /exchanges/#zebpay-review
-   countries: in
-   po: bt
-   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits, int]
-   pros: <li>Regulated company in India</li><li>Offers additional services, such as purchase of mobile airtime and gift vouchers for bitcoin</li><li>Multi-sig security features</li>
-   cons: <li>Fees included in buy/sell prices, not displayed publically</li><li>Requires ID verification; not private</li><li>Offers a Bitcoin wallet that should not be used to store bitcoins</li>
-   desc_ru: Zebpay — еще одна брокерская Bitcoin-платформа в Индии. Клиентам предлагается мобильное приложение для Android и iPhone, которое в значительной степени упрощает процесс покупки биткойнов.
-   pros_ru: "<li>Компания находится под надзором регулирующих органов Индии</li><li>Предлагаются другие услуги, вроде пополнения баланса телефона или подарочных ваучеров для биткойнов</li><li>Дополнительная защита в виде мультиподписи</li>" 
-   cons_ru: "<li>Отсутствует регламент комиссий, которые включены в цену продажи/покупки</li><li>Необходима верификация</li><li>Есть веб-кошелек, который лучше не использовать для хранения биткойнов</li>" 
-   pros_es: ""
-   cons_es: "" 
-   pros_pt: "" 
-   cons_pt: ""
-   pros_de: ""
-   cons_de: "" 
-   pros_nl: ""
-   cons_nl: "" 
-   pros_fr:
-   cons_fr: 
-   pros_zh_CN:
-   cons_zh_CN:
-   pros_it:
-   cons_it: 
-   pros_ar: 
-   cons_ar: 
-
- - name: Coinsecure
-   desc: Coinsecure is an Indian Bitcoin exchange and trading platform. It offers very low fees at just 0.3% per buy and a number of deposit options; including NEFT, RTGS, IMPS and cash deposit.
-   url: https://coinsecure.in/
-   icon: /img/buy/coinsecure.png
-   countries: in
-   po: bt
-   internal_url: /exchanges/#coinsecure-review
-   desc_pt_br: Plataforma indiana de conversão de Bitcoins. Taxa de 0,3% e várias opções de depósito.
-   desc_ru: Coinsecure представляет собой индийский биткойн-обменник и торговую площадку. На некоторые депозиты комиссия на покупку составляет всего 0,3%, включая NEFT, RTGS, IMPS, а также пополнение за наличные.
-   tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eoueasy, avglimits, int]
-   pros: <li>Regulated Bitcoin exchange based in India</li><li>Very low fees</li><li>Video service guides available</li>
-   cons: <li>Offers a Bitcoin wallet that should not be used to store bitcoins</li><li>Requires ID verification; not private</li><li>Interface is geared for traders and may be confusing for first time buyers</li>
-   pros_ru: "<li>Компания находится под надзором регулирующих органов Индии</li><li>Очень низкая комиссия</li><li>Доступны видеоруководства</li>" 
-   cons_ru: "<li>Есть веб-кошелек, который лучше не использовать для хранения биткойнов</li><li>Необходима верификация</li><li>Интерфейс платформы больше ориентирован на опытных трейдеров, нежели на новичков</li>" 
    pros_es: ""
    cons_es: "" 
    pros_pt: "" 
