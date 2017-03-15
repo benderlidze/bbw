@@ -51,9 +51,6 @@ rating: 4.7
 
 TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
 
-* Table of Contents
-{:toc}
-
 ## Price
 Costs $99 for one, or $276 for three. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"}. To buy with a credit card or bank account you'll have to buy from [Amazon](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
 
@@ -79,6 +76,9 @@ Here is the TREZOR compared to the other three popular hardware wallets:
 </div>
 
 ## Security
+
+* Table of Contents
+{:toc}
 
 TREZOR provides top-notch security for bitcoin, protecting against both physical and virtual theft. 
 
