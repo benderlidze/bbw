@@ -1162,11 +1162,6 @@ input.gsc-input {
 
 }
 
-.home-page-cont .color-wrap {
-    margin: 0 auto !important;
-    max-width: 900px;
-}
-
 .color-wrap {
     margin: -50px auto 0;
     max-width: 900px;
@@ -1199,6 +1194,11 @@ input.gsc-input {
     .row {
     	padding: 0 40px 30px;
 	}
+}
+
+.home-page-cont .color-wrap {
+    margin: 0 auto !important;
+    max-width: 900px;
 }
 
 
