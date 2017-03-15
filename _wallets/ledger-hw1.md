@@ -50,6 +50,27 @@ rating: 4.0
 ## Price
 The <a rel="nofollow" href="http://buybitcoinww.co/Ledger_HW1">Ledger HW.1</a> costs 15€ and comes with free shipping. 
 
+Here is the HW.1 compared to the other three popular hardware wallets: 
+
+<div class="post-content">
+<table class="hw-comparison">
+  <tr>
+  	<th></th>
+    <th>Wallet</th>
+    <th>Screen<br></th>
+    <th class="released">Released</th>
+    <th>Price</th>
+    <th class="wallet-buy">Buy</th>
+  </tr>
+  {% assign pages = site.wallets | sort:"weight" %}
+  {% for wallet in pages reversed %}
+  {% if wallet.tags contains 'hardware' %}
+  {% include hw-comparison.html %}
+  {% endif %}
+  {% endfor %}
+</table>
+</div>
+
 * Table of Contents
 {:toc}
 

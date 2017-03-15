@@ -57,6 +57,27 @@ TREZOR is a small, key-sized device which connects to your computer with a USB c
 ## Price
 Costs $99 for one, or $276 for three. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"}. To buy with a credit card or bank account you'll have to buy from [Amazon](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
 
+Here is the TREZOR compared to the other three popular hardware wallets: 
+
+<div class="post-content">
+<table class="hw-comparison">
+  <tr>
+  	<th></th>
+    <th>Wallet</th>
+    <th>Screen<br></th>
+    <th class="released">Released</th>
+    <th>Price</th>
+    <th class="wallet-buy">Buy</th>
+  </tr>
+  {% assign pages = site.wallets | sort:"weight" %}
+  {% for wallet in pages reversed %}
+  {% if wallet.tags contains 'hardware' %}
+  {% include hw-comparison.html %}
+  {% endif %}
+  {% endfor %}
+</table>
+</div>
+
 ## Security
 
 TREZOR provides top-notch security for bitcoin, protecting against both physical and virtual theft. 

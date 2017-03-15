@@ -96,6 +96,27 @@ While the S is $65, a [TREZOR](/wallets/trezor/) or [KeepKey](/wallets/keepkey/)
 
 If you're on a budget, checkout [Ledger's Nano hardware wallet](http://buybitcoinww.co/Ledger_Nano)--but it does not have a screen.
 
+Here is the Nano S compared to the other three popular hardware wallets: 
+
+<div class="post-content">
+<table class="hw-comparison">
+  <tr>
+  	<th></th>
+    <th>Wallet</th>
+    <th>Screen<br></th>
+    <th class="released">Released</th>
+    <th>Price</th>
+    <th class="wallet-buy">Buy</th>
+  </tr>
+  {% assign pages = site.wallets | sort:"weight" %}
+  {% for wallet in pages reversed %}
+  {% if wallet.tags contains 'hardware' %}
+  {% include hw-comparison.html %}
+  {% endif %}
+  {% endfor %}
+</table>
+</div>
+
 The real question is: 
 
 Does the Ledger Nano S’s lower price tag come with any security tradeoffs?
