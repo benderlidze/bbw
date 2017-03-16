@@ -35,6 +35,7 @@ pl: "Ledger HW.Może być uznawany za tani portfel sprzętowy. Nie posiada wyśw
 el: "Tο Ledger HW.1 μπορεί να χαρακτηριστεί σαν ένα πορτοφόλι υλισμικού με συγκεκριμένο προϋπολογισμό. Δεν διαθέτει οθόνη, επομένως δεν είναι τόσο ασφαλές όσο οι τρεις επιλογές που αναφέραμε παραπάνω. Προσφέρει, ωστόσο, μεγαλύτερη ασφάλεια από ένα ηλεκτρονικό πορτοφόλι (hot wallet)."
 zh_CN: "Ledger HW.1被认为是可在预算范围之内的硬件钱包。它没有屏幕，因此相比上面提到的三个硬件钱包，它缺乏安全性。不管怎么样，想比热钱包，它还是提供了更多的安全性。"
 it: "Ledger HW.1 può essere considerato un portafoglio hardware economico. Non ha una schermata quindi non è sicuro tanto quanto le tre opzioni sopra elencate. Ad ogni modo fornisce maggior sicurezza rispetto a un hot wallet."
+nl: "De Ledger HW.1 wordt gezien als een budget hardware wallet. Omdat hij geen scherm heeft is die net wat minder veilig dan de drie bovengenoemde opties. Toch is hij een stuk veiliger dan een hot wallet."
 screen: no
 released: 2013
 price: $17

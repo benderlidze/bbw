@@ -517,7 +517,11 @@ nl:
   paymentmethods_url: /nl/betalingsmethodes/
   about: Over
   about_url: /en/about/
-  change_lang: Taal  
+  change_lang: Taal 
+  learnmore: Kom Meer te Weten
+  wallets: Bitcoin Wallets
+  wallets_url: /nl/bitcoin-wallets/ 
+  buy_wallet: Koop
   
 ##################### Greek #####################
 el:
