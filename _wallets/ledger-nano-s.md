@@ -151,7 +151,7 @@ A stranger would not be able to send bitcoins from your Nano S because he/she wo
 
 Let’s get back to the main purpose of a [hardware wallet](/wallets/#hardware-wallets). 
 
-It stores your keys in its offline, [secure environment](http://bitzuma.com/posts/six-things-bitcoin-users-should-know-about-private-keys/). 
+It stores your keys in its offline, [secure environment](https://en.bitcoin.it/wiki/Private_key). 
 
 Bitcoins and private keys stored on an online computer are easy target for hackers. 
 

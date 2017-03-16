@@ -121,9 +121,11 @@ Data can be leaked upon setup if using TREZOR's myWallet. For a more private ini
 
 Trezor is compatible with a number of wallets, including Electrum, MultiBit HD, and GreenAddress on desktop, GreenBits and Mycelium on Android, and myTREZOR.com on the web. Use the TREZOR Chrome extension to manage your device. 
 
-## TREZOR vs. Ledger Wallet Nano
+## TREZOR vs. Ledger Nano S
 
-TREZOR and the [Ledger Nano](/wallets/ledger-nano/) are often compared. The main difference is TREZOR offers a screen, the ability to add a passphrase to the HD seed, and the ability to setup offline. The Ledger Nano wins in terms of price. 
+TREZOR and the [Ledger Nano S](/wallets/ledger-nano-s/) are often compared. 
+
+The main difference is that TREZOR is more like a mini computer, while the Ledger Nano S uses a secure chip.
 
 ## TREZOR vs. KeepKey
 
@@ -131,7 +133,7 @@ KeepKey is actually a port of the TREZOR's code and firmware. The main differenc
 
 ## TREZOR vs. Paper Wallet
 
-TREZOR may be better than a [paper wallet](http://bitzuma.com/posts/how-to-spend-a-bitcoin-paper-wallet-in-three-easy-steps/) for less technical users. Paper wallets can be hard to setup and it's easy to make mistakes. TREZOR makes creating secure offline storage easy. Although paper wallets are just as secure if created correctly. 
+TREZOR may be better than a [paper wallet](http://www.coindesk.com/information/paper-wallet-tutorial/) for less technical users. Paper wallets can be hard to setup and it's easy to make mistakes. TREZOR makes creating secure offline storage easy. Although paper wallets are just as secure if created correctly. 
 
 ## Promo Code
 
@@ -141,5 +143,168 @@ There are currently no TREZOR promo codes available. If a coupon or discount cod
 
 TREZOR can be used to store Litecoin, DASH, and other altcoins. It's up to software wallet developers to integrate support--the device itself is compatible with any altcoin.
 
+_This marks the end of our TREZOR review. The next few sections show you how to use and restore TREZOr with Electrum and Mycelium._
+
+<a type="button" href="http://buybitcoinww.co/TREZOR_Wallet" rel="nofollow" target="_blank" class="btn exchange-btn-bottom btn-success"><i class="fa fa-bitcoin"></i> Buy a TREZOR</a>
+
+## How to Use TREZOR with Mycelium
+
+{:refdef: .note}
+This article details how to use a previously initialized TREZOR with Mycelium. Your TREZOR must be setup before use with Mycelium. To learn how to RESTORE your TREZOR using Mycelium, click [here](/wallets/trezor/#restore-trezor-seed-with-mycelium-android).
+{: refdef}
+
+First, make sure you have the latest version of [Mycelium](/wallets/mycelium/) installed on your Android device. Open Mycelium and select "new account". If you already have Mycelium installed then skip this step.
+
+![New Mycelium account][1]{: .img-responsive .kb-helper .android-img-kb}
+
+Swipe right to move over to the "Accounts" tab. Click the key on the top right to add a new account. 
+
+![mycelium accounts][2]{: .img-responsive .kb-helper .android-img-kb}
+
+Click "Advanced". 
+
+![mycelium advanced][3]{: .img-responsive .kb-helper .android-img-kb}
+
+Under "Import a Trezor-HD account" tap "Trezor". 
+
+![trezor mycelium][4]{: .img-responsive .kb-helper .android-img-kb}
+
+Plug in an OTG cable to your Android device and plug in your TREZOR to the OTG cable. 
+
+![plugin trezor mycelium][5]{: .img-responsive .kb-helper .android-img-kb}
+
+Enter your TREZOR pin code. The numbers will be displayed on your TREZOR's screen.
+
+![trezor pin mycelium][6]{: .img-responsive .kb-helper .android-img-kb}
+
+Enter your TREZOR passphrase if you have one. **Any passphrase will create a valid wallet.** If your wallet shows a zero balance, restart the process and double check that the passphrase was entered correctly.
+
+![trezor passphrase mycelium][7]{: .img-responsive .kb-helper .android-img-kb}
+
+Mycelium will scan for accounts on your TREZOR.
+
+![mycelium scan][8]{: .img-responsive .kb-helper .android-img-kb}
+
+In this case we have one account based on the passphease entered. Click on an account to load that account, or tap "Import next unused account" to add a new account. 
+
+![accounts trezor mycelium][9]{: .img-responsive .kb-helper .android-img-kb}
+
+Name your TREZOR account. This is how it will be displayed in the Mycelium app. 
+
+![name trezor mycelium][10]{: .img-responsive .kb-helper .android-img-kb}
+
+You can now send payments from your TREZOR with Mycelium.
+
+{:refdef: .note}
+Even if the TREZOR is removed after use, the wallet and its addresses will still be viewable in watch-only mode. This way you can still view your balance, generate new addresses, and receive payments. 
+{: refdef}
+
+### Restore with Mycelium
+
+If your TREZOR has been lost or stolen, your funds can still be accessed by importing the recovery seed and passphrase (if used) into Mycelium for Android.
+
+A fresh install of Mycelium is required. If you already use Mycelium, write down the 12-word backup seed and reinstall the application.
+
+When opening Mycelium, you’ll be given two options: *Restore Backup* and *Create New*. Select *Restore Backup*.
+
+![Welcome to Mycelium][welcome]{: .img-responsive .kb-helper .android-img-kb}
+
+Select the number of words contained in your seed, and check *I have a password* if you used a passphrase:
+
+![Mycelium words][numwords]{: .img-responsive .kb-helper .android-img-kb}
+
+Mycelium will have you enter the words one at a time.
+
+![Mycelium words][wordlist]{: .img-responsive .kb-helper .android-img-kb}
+
+Input your passphrase if you used one. **Any passphrase will create a valid wallet**. If your wallet shows a zero balance, restart the process and double check that the passphrase was entered correctly.
+
+![Mycelium passphrase][pphrase]{: .img-responsive .kb-helper .android-img-kb}
+
+You can now send any funds that were stored on your TREZOR.
+
+{:refdef: .note}
+Note that the private keys from your TREZOR seed are now stored in Mycelium. Your funds should immediately be moved to cold storage. The old TREZOR seed is now insecure and should not be reused.
+{: refdef}
+
+## How to Use TREZOR with Electrum
+
+{:refdef: .note}
+This article details how to use a previously initialized TREZOR with Electrum. Your TREZOR must be setup before use with Electrum. To RESTORE your TREZOR with Electrum click [here](/wallets/trezor/#restore-with-electrum).
+{: refdef}
+
+TREZOR can only be used with Electrum 2.0+. Make sure you have the latest version installed.
+
+Plugin your TREZOR and open Electrum. Select Create new wallet and Hardware wallet. The Restore or import a wallet option is for restoring a TREZOR seed if the device was lost, stolen or damaged.
+
+![add TREZOR Electrum][create]{: .img-responsive .kb-helper}
+
+TREZOR is the only hardware wallet supported by Electrum and will be automatically selected in the next step.
+
+![hardware Electrum][hardware]{: .img-responsive .kb-helper}
+
+Enter your TREZOR pin.
+
+![Electrum PIN code][pin]{: .img-responsive .kb-helper}
+
+Input your passphrase if you used one. **Any passphrase will create a valid wallet**. If your wallet shows a zero balance, restart the process and double check that the passphrase was entered correctly.
+
+![Electrum PIN code][password]{: .img-responsive .kb-helper}
+
+You can now spend from your TREZOR with Electrum.
+
+{:refdef: .note}
+Even if the TREZOR is removed after use, the wallet will still be viewable in watch-only mode.
+{: refdef}
+
+### Restore with Electrum
+
+If your TREZOR has been lost or stolen, your funds can still be accessed by importing the recovery seed and passphrase (if used) into Electrum.
+
+When opening Electrum you’ll be greeted with a list of options. (Existing users must navigate to *File > New/Restore*).
+
+Select *Restore or import a wallet* and *Hardware wallet*.
+
+![restore TREZOR seed electrum][restore]{: .img-responsive .kb-helper}
+
+TREZOR is currently the only hardware wallet supported by Electrum and is automatically selected in the next window.
+
+![hardware Electrum][hardware]{: .img-responsive .kb-helper}
+
+Enter your TREZOR recovery seed.
+
+![TREZOR recovery seed][seed]{: .img-responsive .kb-helper}
+
+Input your passphrase if you used one. **Any passphrase will create a valid wallet.** If your wallet shows a zero balance, restart the process and double check that the passphrase was entered correctly.
+
+![TREZOR passphrase][passphrase]{: .img-responsive .kb-helper}
+
+You can now send any funds that were stored on your TREZOR.
+
+{:refdef: .note}
+Note that the private keys from your TREZOR seed are now stored in Electrum. Your funds should immediately be moved to cold storage. The old TREZOR seed is now insecure and should not be reused.
+{: refdef}
+
 [tc]: /img/wallets/trezorchrome.png
 [tco]: /img/wallets/trezorconfirm.jpg
+[1]: /img/kb/1new.png
+[2]: /img/kb/2add.png
+[3]: /img/kb/3advanced.png
+[4]: /img/kb/4unrelated.png
+[5]: /img/kb/importtrezor.png
+[6]: /img/kb/trezpin.png
+[7]: /img/kb/phrasetrez.png
+[8]: /img/kb/scanningt.png
+[9]: /img/kb/trezaccount.png
+[10]: /img/kb/nametrez.png
+[welcome]: /img/kb/welcomemycelium.png
+[numwords]: /img/kb/numberwords.png
+[wordlist]: /img/kb/wordlist.png
+[pphrase]: /img/kb/passphrase-mycelium.png
+[pin]: /img/kb/pin.png
+[password]: /img/kb/password.png
+[hardware]: /img/kb/hardware.png
+[create]: /img/kb/create.png
+[restore]: /img/kb/restore.png
+[passphrase]: /img/kb/passphrase.png
+[seed]: /img/kb/enterseed.png
