@@ -59,7 +59,7 @@ Like Genesis, itBit isn’t open to everyone. Most of its clients include miners
 * Table of Contents
 {:toc}
 
-[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} is a good option for individuals who want to buy large quantities of bitcoin. It’s also one of the easiest [ways to buy bitcoin](/kb/how-to-buy-bitcoin/) in the [U.S.](/en/us/), [Canada](/en/ca/), or Europe.
+[Coinbase](http://buybitcoinww.co/Coinbase_Buy){:rel="nofollow"} is a good option for individuals who want to buy large quantities of bitcoin. It’s also one of the easiest [ways to buy bitcoin](/kb/how-to-buy-bitcoin/) in the [U.S.](/en/us/), [Canada](/en/ca/), or Europe.
 
 Fully verified users can buy up to $50,000 worth of bitcoin per day on Coinbase, [through a connected bank account via ACH bank transfer](/en/buy-bitcoin-ach-bank-transfer-united-states/), or with a wire transfer.  
 
@@ -71,7 +71,7 @@ Users in [select states](https://support.coinbase.com/customer/portal/articles/1
 
 ![coinbase exchange][5]{: .img-responsive .kb-helper}
 
-[Coinbase Exchange](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} is separate from Coinbase’s brokerage services. Coinbase Exchange is currently the largest U.S. based [Bitcoin exchange](/exchanges/), with around 7,000-10,000 BTC traded daily.  
+[Coinbase Exchange](http://buybitcoinww.co/Coinbase_Buy){:rel="nofollow"} is separate from Coinbase’s brokerage services. Coinbase Exchange is currently the largest U.S. based [Bitcoin exchange](/exchanges/), with around 7,000-10,000 BTC traded daily.  
 
 At Coinbase Exchange [market makers pay no fees](https://support.coinbase.com/customer/portal/articles/1826608-what-are-the-fees-for-using-coinbase-exchange-). If you put in a buy order and someone sells into it, you won’t have to pay a fee. Even as a market taker the fee is only 0.25%.
 

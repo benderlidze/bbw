@@ -8,7 +8,7 @@ lang: en
 cat: broker, popular
 seotitle: "Coinbase Review: 5 Things to Know Before Buying (or Using)"
 website: coinbase.com
-website_url: http://buybitcoinww.co/Buy_Coinbase
+website_url: http://buybitcoinww.co/Coinbase_Buy
 twitter: coinbase
 twitter_url: https://twitter.com/coinbase
 facebook: Coinbase
@@ -46,7 +46,7 @@ Coinbase is the world's largest Bitcoin exchange, so this is a common question.
 
 Yes, Coinbase is a Bitcoin company based in San Francisco, and [backed by trusted investors](https://www.wsj.com/articles/coinbase-raises-75-million-in-funding-round-1421762403). 
 
-[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. 
+[Coinbase](http://buybitcoinww.co/Coinbase_Buy){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. 
 
 On this page we'll review Coinbase and its brokerage, exchange, and [wallet](/exchanges/coinbase/#coinbase-wallet-review). 
 
@@ -136,7 +136,7 @@ Users must provide full identity verification and many personal details.
 You will be required to take a picture of your driver's license or passport if you are purchasing with a credit card. 
 
 ## Limits & Liquidity
-[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
+[Coinbase](http://buybitcoinww.co/Coinbase_Buy){:rel="nofollow"} offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
 
 European customers may have a maximum of €30,000 euro in their account at any time. 
 
@@ -294,7 +294,7 @@ A Coinbase USD wallet will let you store dollars in your Coinbase account. There
 Coinbase lets you buy bitcoins instantly with a credit card or debit card. Here are step-by-step instructions to help make the buying process easier for you. 
 
 
-### 1. [Create an Account](http://buybitcoinww.co/Buy_Coinbase) on Coinbase
+### 1. [Create an Account](http://buybitcoinww.co/Coinbase_Buy) on Coinbase
 
 Once you create an account, confirm your personal details and login. You may be asked to upload a scan of ID. Once you’ve logged in, continue to the next step.
 

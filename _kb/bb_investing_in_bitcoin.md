@@ -93,7 +93,7 @@ When thinking about how economics and politics will affect Bitcoin’s price, it
 ## How to Invest in Bitcoins and Where to Buy
 The difficulty of buying bitcoins depends on your country. Developed countries have more options and more liquidity. 
 
-[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} is the world’s largest bitcoin broker and available in the United States, UK, Canada, Singapore, and most of Europe. 
+[Coinbase](http://buybitcoinww.co/Coinbase_Buy){:rel="nofollow"} is the world’s largest bitcoin broker and available in the United States, UK, Canada, Singapore, and most of Europe. 
 
 You can use our [exchange finder](/) to find a place to buy bitcoins in your country. 
 
