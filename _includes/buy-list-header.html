@@ -15,4 +15,8 @@
 
 {% include country-disclosure.html %}
 
+{% if page.country != 'us' and page.country != 'ca' and page.country != 'sg' %}
+{% include wallet-warning.html %}
+{% endif %}
+
 {% endif %}

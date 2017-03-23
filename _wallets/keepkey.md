@@ -5,7 +5,7 @@ author: jordantuwiner
 permalink: "/wallets/keepkey/"
 seotitle: "KeepKey Review: 5 Things to Know Before Buying"
 title: "KeepKey"
-desc: Secure, or not? What you NEED to know about the Ledger Nano S before you buy it. 
+desc: Secure, or not? What you NEED to know about the KeepKey hardware wallet before you buy it. 
 wallet: keepkey
 cat: hardware
 thumb: keepkey.png

@@ -111,8 +111,6 @@ Bitstamp is a good option for European users, who can deposit via SEPA transfer.
 
 It’s easy to buy upwards of $50,000 worth of bitcoin with Xapo.
 
-## Richfund
-[Richfund](http://www.richfund.pe/) was established in the end of 2013. Its core business involves Bitcoin mining chips, hardware, farm, hedge arbitrage, quantification and high-frequency trading, OTC, and Bitcoin related investment and incubation projects. It provides between 1000-5000 of BTC OTC services in China, Korea, Indonesia, Vietnam, Cambodia, Hongkong, Taiwan, Netherland, Mexico, France, Spain, Italy, and others.
 
 [1]: /img/large/genesis.png
 [2]: /img/large/itbit.png
