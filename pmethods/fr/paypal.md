@@ -137,5 +137,4 @@ multilang: yes
 	
 	<p>Il n’y aura probablement jamais de moyen facile et pratique d’acheter des bitcoins avec PayPal. Cela est dû à la nature irréversible des transactions en bitcoins. Il semblerait cependant que PayPal s’intéresse à Bitcoin. Dans la mesure du possible, transférez les fonds disponibles dans votre compte PayPal sur votre compte en banque en effectuant un virement bancaire. Ou vous pouvez toujours chercher votre pays dans cette liste pour une liste des bourses d’échange.</p>
 	
-	{% include share.html %}
 </div>

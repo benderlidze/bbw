@@ -150,7 +150,6 @@ multilang: yes
 	
 	<p>Probablemente nunca haya una forma fácil y directa de comprar bitcoin con PayPal debido a la condición irreversible de las transacciones de Bitcoin. Si tienes problemas, busca otras formas de <a href="/es/">comprar bitcoins en tu país</a>. </p>
 	
-	{% include share.html %}
 </div>
 <div class="sidebar-add col-md-3">
 	{% include sidebar.html %}

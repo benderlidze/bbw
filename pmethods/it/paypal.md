@@ -150,5 +150,4 @@ multilang: yes
 	
 	<p>Non potrebbe esserci un metodo più semplice e diretto per acquistare Bitcoin con PayPal grazie alla natura irreversibile delle transazioni di Bitcoin. Se hai problemi, cerca altri metodi per acquistare Bitcoin nel tuo paese. </p>
 	
-	{% include share.html %}
 </div>

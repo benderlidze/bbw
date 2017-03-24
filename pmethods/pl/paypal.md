@@ -150,5 +150,4 @@ multilang: yes
 	
 	<p>Prawdopodobnie nigdy nie będzie łatwego i bezpośredniego sposobu na zakup bitcoinów przez PayPal w związku z nieodwracalną naturą transakcji bitcoinowych. Jeśli masz jakieś problemy, poszukaj innych sposobów na dokonanie zakupu bitcoinów w Twoim kraju.</p>
 	
-	{% include share.html %}
 </div>
