@@ -45,6 +45,7 @@ hide_sidebar: false
 	<div class="row">
 	<div class="exchange-pros col-md-6">
 	<div class="exchange-pros-title">Pros</div>
+	<ul>
 	{% endif %}
 	
 	{% if page.pro1 != null %}
@@ -58,12 +59,14 @@ hide_sidebar: false
 	{% endif %}
 	
 	{% if page.pro1 != null %}
+	</ul>
 	</div>
 	{% endif %}
 	
 	{% if page.con1 != null %}
 	<div class="exchange-pros col-md-6">
 	<div class="exchange-pros-title">Cons</div>
+	<ul>
 	{% endif %}
 	
 	{% if page.con1 != null %}
@@ -77,6 +80,7 @@ hide_sidebar: false
 	{% endif %}
 	
 	{% if page.con1 != null %}
+	</ul>
 	</div>
 	</div>
 	{% endif %}

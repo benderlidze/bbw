@@ -2398,6 +2398,11 @@ blockquote {
     text-transform: uppercase;
 }
 
+.wallet-content .exchange-pros ul, .exchange-content .exchange-pros ul {
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+
 .exchange-pros {
 	margin-bottom: 25px;
 }
