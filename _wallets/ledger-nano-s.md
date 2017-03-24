@@ -89,7 +89,7 @@ The S’s $65 USD price tag makes it the cheapest among the three hardware walle
 
 <div class="warning-row"> 
 <p>Make sure you NEVER buy a Ledger Nano S or any other hardware wallet from eBay.</p>
-<p>Only buy from the Ledger store or from Amazon.</p> 
+Only buy from the Ledger store or from Amazon.
 </div>
 <br>
 

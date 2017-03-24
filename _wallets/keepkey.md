@@ -55,7 +55,13 @@ KeepKey is a secure Bitcoin hardware wallet that was launched in 2015. Like the 
 
 ## Price 
 
-Costs $99 and can be [purchased on Amazon](http://buybitcoinww.co/KeepKey){:rel="nofollow"}. High price tag is due to its digital screen, metal body, and high level of security.  
+Costs $99 and can be [purchased on Amazon](http://buybitcoinww.co/KeepKey){:rel="nofollow"}. High price tag is due to its digital screen, metal body, and high level of security.
+
+<div class="warning-row"> 
+<p>Make sure you NEVER buy a KeepKey or any other hardware wallet from eBay.</p>
+Only buy from KeepKey's website store or from Amazon.
+</div>
+<br>  
 
 Here is the KeepKey compared to the other three popular hardware wallets: 
 
