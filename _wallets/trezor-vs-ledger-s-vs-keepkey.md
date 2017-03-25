@@ -3,8 +3,8 @@ layout: guide
 lang: en
 author: jordantuwiner
 permalink: "/trezor-keepkey-ledger/"
-seotitle: "Trezor vs. Ledger Nano S vs. KeepKey"
-title: "Trezor vs. Ledger Nano S vs. KeepKey"
+seotitle: "TREZOR vs. Ledger Nano S vs. KeepKey"
+title: "TREZOR vs. Ledger Nano S vs. KeepKey"
 desc: Read this! You'll learn what's best between Trezor, Ledger Nano S, and KeepKey. 
 ---
 

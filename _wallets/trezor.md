@@ -135,7 +135,13 @@ The main difference is that TREZOR is more like a mini computer, while the Ledge
 
 ## TREZOR vs. KeepKey
 
-KeepKey is actually a port of the TREZOR's code and firmware. The main difference is that KeepKey offers a digital screen and the ability to recover the seed without worrying about keyloggers. 
+KeepKey is actually a port of the TREZOR's code and firmware. 
+
+Until recently, the main difference was that KeepKey offers a digital screen and the ability to recover the seed without worrying about keyloggers. But, recently [TREZOR added](https://blog.trezor.io/using-advanced-recovery-on-trezor-4af0eb53c3bb) the ability to do a secure recovery. 
+
+So now the main difference in the [KeepKey vs TREZOR](/trezor-keepkey-ledger/) showdown is that the TREZOR is made from plastic, while the KeepKey is aluminum. 
+
+The KeepKey feels more like a premium device, although the TREZOR is probably more secure against drops since it's much lighter. 
 
 ## TREZOR vs. Paper Wallet
 

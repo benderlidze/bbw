@@ -267,8 +267,10 @@ A KeepKey costs $99 while the S costs just $65.
 
 The [KeepKey](/wallets/keepkey/) has a more "premium" feel to it although that is just a matter of personal taste! 
 
-## Ledger Nano S vs TREZOR
+## [Ledger Nano S vs TREZOR](/trezor-keepkey-ledger/)
 
 The main difference is that the Ledger Nano S uses two secure elements/chips, while [TREZOR](/wallets/trezor/) is essentially a mini computer. 
 
 A TREZOR costs $99 while the S costs just $65. 
+
+The TREZOR has an advanced recovery feature that the Nano S does not have. This recovery feature makes sure that your TREZOR recovery phrase will not be exposed to the computer when recovered. 
