@@ -229,8 +229,9 @@ html, body {
     text-align: center;
 }
 
-.buy-info .hebrew, .arabic, .arabic h2 {
-    direction: rtl;
+.buy-info .hebrew, .arabic, .arabic h2, .arabic .row h3 {
+    direction: rtl !important;
+    text-align: right !important;
 }
 
 .kb-article .sidebar-add li {
