@@ -2075,6 +2075,33 @@
    cons_ar: 
 
 ##### China ####################################################
+ - name: BTCC
+   desc: BTCC Exchange is a Bitcoin exchange based in Hong Kong and traded in USD. 
+   url: http://buybitcoinww.co/BTCC_Exchange
+   icon: /img/buy/btcchina.png
+   countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, nl, nor, pl, pt, ro, sm, rs, sk, si, es, se, ch, tr, gb, va, ar, bo, br, cl, co, ec, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, il, jo, kw, om, qa, sa, ae, bd, bt, bn, kh, hk, in, id, jp, kg, mv, mn, mm, np, pk, ph, sg, kr, lk, tw, tj, th, tm, uz, vn, au, fj, ki, ws, nz, sb, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cm, td, km, ci, dj, gq, et, ga, gm, gh, gn, gw, ls, lr, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, sz, tz, tg, tn, zm, zw, cg, st, pr, ps
+   po: cc
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
+   pros: <li>Trusted Bitcoin exchange with high liquidity</li>
+   cons: <li>Not available in the USA, Russia, China, and some other large markets</li>
+   pros_ru: 
+   cons_ru: 
+   pros_es: ""
+   cons_es: "" 
+   pros_pt: "" 
+   cons_pt: ""
+   pros_de: ""
+   cons_de: "" 
+   pros_nl: ""
+   cons_nl: "" 
+   pros_fr:
+   cons_fr: 
+   pros_zh_CN:
+   cons_zh_CN:
+   pros_it:
+   cons_it: 
+   pros_ar: 
+   cons_ar: 
 
  - name: BTCC
    desc: BTCC is China's second largest Bitcoin exchange and the longest-running Bitcoin exchange in the world. You can fund your exchange account online via bank transfer.
