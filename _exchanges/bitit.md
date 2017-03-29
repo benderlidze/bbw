@@ -8,7 +8,7 @@ thumb: bitit.png
 lang: en
 seotitle: "Bitit Review: Buy Bitcoin with Flexepin or Cashlib"
 website: bitit.gift
-website_url: https://www.bitit.gift?referral=JTWWAIRY
+website_url: http://buybitcoinww.co/bitit_gift
 contribute: bitit
 location: Paris, France
 cat: broker, eu
