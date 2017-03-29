@@ -3994,7 +3994,8 @@
    url: http://buybitcoinww.co/bitit_gift
    icon: /img/buy/bitit.png
    countries: fr, ca, gb, pl, de, it, es, nl, ch, be, lu, mt, il, dk, au, gr, is, ie, no, fi, za, mx, hr, at, pt, se, cy, cz, br, ar
-   po: cc, neosurf, cash
+   po: cc, neosurf, cdus, cash
+   desc_cdus: <p>Bitit is slightly different than the other options on this page. Instead of buying directly with cash, you instead need to use a voucher like Flexepin or Neosurf. The fees are about 8% for buying with Neosurf or Flexepin. 
    desc_fr: Acheter des Bitcoins en ligne par carte bancaire ou en espèces dans 100k+ magasins
    desc_ru: Bitit позволяет вам покупать биткойны онлайн используя кредитные и дебетовые карты с защитой 3DS, либо посредством Neosurf, Flexepin, а также Cashlib-ваучеров, которые можно приобрести в 150 тыс. физических магазинах по всей Европе.
    tags: [quickinfo, avgprivacy, fast, avgfees, trusted, eouavg, lowlimits]
