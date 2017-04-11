@@ -2,7 +2,6 @@
 window.sellers = []
 {% for name in site.data.buy %}
 {% if name.countries %}
-window.sellers.push
   countries: "{{name.countries}}"
   methods:   "{{name.po}}"
   hide:      "{{name.hide}}"
