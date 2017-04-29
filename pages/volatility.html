@@ -1,0 +1,54 @@
+---
+layout: page
+permalink: "/volatility-index/"
+title: The Bitcoin Volatility Index
+seotitle: The Bitcoin Volatility Index
+desc: Contact us with problems, suggestions, and feedback. Use the form or our email address.
+hide_sidebar: true
+lang: en
+---
+
+<script src="https://btcvol.info/js/adapters/standalone-framework.js"></script>
+  	<script src="https://btcvol.info/js/highstock.js"></script>
+  	<script src="https://btcvol.info/js/modules/exporting.js"></script>
+	<script src="https://btcvol.info/js/modules/offline-exporting.js"></script>
+
+<div class="post-content volatility">
+
+	  <div id="latest">
+	  <div class="thirty-day">
+      <p>Latest 30-Day Estimate<br />
+      <span class="stat">1.72%</span>
+      </p>
+	  </div>
+	  
+	  <div class="sixty-day">
+      <p>Latest 60-Day Estimate<br />
+      <span class="stat">3.66%</span>
+      </p>
+	  </div>
+	  
+	<h2>Bitcoin Volatility Time Series</h2>
+	
+	<!-- chart goes here -->
+	<div id="highchart_div"><p class="loading">Loading chart... (uses javascript)</p></div>
+
+<h2>Frequently Asked Questions</h2>
+		<h2>What is <em>The Bitcoin Volatility Index</em>?</h2>
+		<p class="a">This site tracks the volatility of Bitcoin prices in US dollars.</p>
+		<h2>What is volatility?</h2>
+		<p class="a">Volatility is a measure of how much the price of a financial asset varies over time.</p>
+		<h2>Why is volatility important?</h2>
+		<p class="a">Volatility means that an asset is risky to hold—on any given day, its value may go up or down substantially. The more volatile an asset, the more people will want to limit their exposure to it, either by simply not holding it or by hedging. Volatility also increases the <em>cost</em> of hedging, which is a major contributor to the price of merchant services. If Bitcoin volatility decreases, the cost of converting into and out of Bitcoin will decrease as well.</p>
+		<h2>What definition of volatility does <em>btcvol.info</em> use?</h2>
+		<p class="a">The standard deviation of daily returns for the preceding 30- and 60-day windows. These are measures of <a href="https://en.wikipedia.org/wiki/Volatility_(finance)#Volatility_terminology"><em>historical</em> volatility</a> based on past Bitcoin prices. When the Bitcoin options market matures, it will be possible to calculate Bitcoin's <a href="https://en.wikipedia.org/wiki/Implied_volatility"><em>implied</em> volatility</a>, which is in many ways a better measure.</p>
+		<h2>How volatile is Bitcoin relative to gold and other currencies?</h2>
+		<p class="a">For comparison, the volatility of gold averages around 1.2%, while other major currencies average between 0.5% and 1.0%.</p>
+		<p class="a">The chart above shows the volatility of gold and several other currencies against the US Dollar. Series marked with an asterisk are not directly comparable to series not so marked because fiat currency markets are closed on weekends and holidays, and therefore some price changes reflect multiple-day changes. Such multi-day changes in price are excluded from analysis, and therefore, the 30- and 60-day metrics for these series use fewer than 30 and 60 data points. They are presented for entertainment purposes only.</p>
+		<h2>What is the pricing source?</h2>
+		<p class="a"><em>btcvol.info</em> is powered by <a href="http://www.coindesk.com/price/">CoinDesk</a> for Bitcoin prices, and by <a href="https://research.stlouisfed.org/fred2/">FRED®</a> for other series pricing data.</p>
+		<h2>Is there an API?</h2>
+		<p class="a">Yes, there is a rudimentary one. The latest volatility estimate is available as JSON at <code><a href="/latest">/latest</a></code>. The full historical volatility series is at <code><a href="/all">/all</a></code>. A CSV file with all data including volatility, prices, and daily returns can be downloaded at <code><a href="/csv">/csv</a></code>. The JSON files display volatility as percentages (as does this page), while the CSV file contains raw values.</p>
+
+
+	  </div>
