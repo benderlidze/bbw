@@ -12,19 +12,18 @@ lang: en
   	<script src="https://btcvol.info/js/highstock.js"></script>
   	<script src="https://btcvol.info/js/modules/exporting.js"></script>
 	<script src="https://btcvol.info/js/modules/offline-exporting.js"></script>
-
 <div class="post-content volatility">
 
 	  <div id="latest">
 	  <div class="thirty-day">
       <p>Latest 30-Day Estimate<br />
-      <span class="stat">1.72%</span>
+      <span class="stat">Loading...</span>
       </p>
 	  </div>
 	  
 	  <div class="sixty-day">
       <p>Latest 60-Day Estimate<br />
-      <span class="stat">3.66%</span>
+      <span class="stat">Loading...</span>
       </p>
 	  </div>
 	  
@@ -52,3 +51,82 @@ lang: en
 
 
 	  </div>
+	  
+
+
+<script>
+
+var vData30 = [];
+var vData60 = [];
+
+$.getJSON( "http://satochi.co/latest", function( data ) {
+	 console.log(data)
+	 $("div.thirty-day span.stat").html(data.Volatility.toFixed(2)+"%");
+	 $("div.sixty-day span.stat").html(data.Volatility60.toFixed(2)+"%");
+});
+$.getJSON( "http://satochi.co/all", function( data ) {
+	 data.map(function(d){
+	 	//console.log(d);
+	 	vData30.push(+d.Volatility);
+	 	vData60.push(+d.Volatility60);
+	 })
+	 buildChart(vData30,vData60);
+});
+
+
+function buildChart(){
+	var chart = new Highcharts.StockChart({
+		chart: {
+			renderTo: 'highchart_div',
+			height: 600,
+			exporting: {
+				fallbackToExportServer: false,
+				filename: 'btcvol'
+		  }
+		},
+		legend: {
+			enabled: true,
+			
+		},
+		
+		series: [{
+			name: "30-Day BTC/USD Volatility",
+			data: vData30,
+			pointStart: Date.UTC(2010, 7, 16), 
+			pointInterval: 24*3600*1000,
+			tooltip: {
+				valueDecimals: 2,
+				valueSuffix: '%'
+		  }
+		},
+		{
+			name: "60-Day BTC/USD Volatility",
+			visible: false,
+			data: replacezeroswithnulls(vData60),
+			pointStart: Date.UTC(2010, 7, 16), 
+			pointInterval: 24*3600*1000,
+			tooltip: {
+				valueDecimals: 2,
+				valueSuffix: '%'
+			}
+		}
+		],
+		yAxis: {
+			title: {
+				text: "Standard deviation of daily returns"
+			},
+			min: 0,
+			opposite: false
+		}
+	});
+}
+
+function replacezeroswithnulls(array) {
+	for (var i = 0; i < array.length; i++) {
+		if (array[i] == 0) {
+			array[i] = null;
+		}
+	}
+	return array;
+}
+</script>
