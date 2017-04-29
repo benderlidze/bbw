@@ -6,13 +6,13 @@ seotitle: The Bitcoin Volatility Index
 desc: The Bitcoin Volatility Index tracks Bitcoin. 
 hide_sidebar: true
 lang: en
-vol: yes
 ---
 
 <script src="https://btcvol.info/js/adapters/standalone-framework.js"></script>
   	<script src="https://btcvol.info/js/highstock.js"></script>
   	<script src="https://btcvol.info/js/modules/exporting.js"></script>
 	<script src="https://btcvol.info/js/modules/offline-exporting.js"></script>
+
 <div class="post-content volatility">
 
 	  <div id="latest">
@@ -60,19 +60,22 @@ vol: yes
 var vData30 = [];
 var vData60 = [];
 
-$.getJSON( "http://satochi.co/latest", function( data ) {
-	 console.log(data)
-	 $("div.thirty-day span.stat").html(data.Volatility.toFixed(2)+"%");
-	 $("div.sixty-day span.stat").html(data.Volatility60.toFixed(2)+"%");
+jQuery(document).ready(function($){
+    $.getJSON( "http://satochi.co/latest", function( data ) {
+		 console.log(data);
+		 $("div.thirty-day span.stat").html(data.Volatility.toFixed(2)+"%");
+		 $("div.sixty-day span.stat").html(data.Volatility60.toFixed(2)+"%");
+	});
+	$.getJSON( "http://satochi.co/all", function( data ) {
+		 data.map(function(d){
+		 	//console.log(d);
+		 	vData30.push(+d.Volatility);
+		 	vData60.push(+d.Volatility60);
+		 });
+		 buildChart(vData30,vData60);
+	});
 });
-$.getJSON( "http://satochi.co/all", function( data ) {
-	 data.map(function(d){
-	 	//console.log(d);
-	 	vData30.push(+d.Volatility);
-	 	vData60.push(+d.Volatility60);
-	 })
-	 buildChart(vData30,vData60);
-});
+
 
 
 function buildChart(){
@@ -112,7 +115,7 @@ function buildChart(){
 			}
 		}
 		],
-		yAxis: {
+		yAxis: { 
 			title: {
 				text: "Standard deviation of daily returns"
 			},
@@ -131,3 +134,4 @@ function replacezeroswithnulls(array) {
 	return array;
 }
 </script>
+<script src="https://www.buybitcoinworldwide.com/javascripts/libs/jquery.min.js"></script>
